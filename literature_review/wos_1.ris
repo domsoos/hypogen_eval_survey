@@ -1,0 +1,7173 @@
+﻿TY  - JOUR
+AU  - Nguyen, DN
+AU  - Tong, RKY
+AU  - Dinh, ND
+TI  - DropMicroFluidAgents (DMFAs): autonomous droplet microfluidic research framework through large language model agents
+T2  - DIGITAL DISCOVERY
+SN  - 2635-098X
+DA  - OCT 8
+PY  - 2025
+VL  - 4
+IS  - 10
+SP  - 2827
+EP  - 2851
+DO  - 10.1039/d5dd00306g
+C6  - AUG 2025
+AN  - WOS:001557611000001
+ER  -
+
+TY  - JOUR
+AU  - Dennstädt, F
+AU  - Bobnar, T
+AU  - Handra, A
+AU  - Putora, PM
+AU  - Filchenko, I
+AU  - Brüningk, S
+AU  - Aebersold, DM
+AU  - Cihoric, N
+AU  - Shelan, M
+TI  - Large Language Model-Based Classification of Case Report Abstracts: A Pilot Study on Interactions Between Radiotherapy and Systemic Therapies
+T2  - JCO CLINICAL CANCER INFORMATICS
+SN  - 2473-4276
+DA  - JUN
+PY  - 2026
+VL  - 10
+IS  - 2
+C7  - e2500386
+DO  - 10.1200/CCI-25-00386
+AN  - WOS:001791889400001
+ER  -
+
+TY  - CPAPER
+AU  - Yue, X
+AU  - Wang, BS
+AU  - Chen, ZR
+AU  - Zhang, K
+AU  - Su, Y
+AU  - Sun, H
+ED  - Bouamor, H
+ED  - Pino, J
+ED  - Bali K
+TI  - Automatic Evaluation of Attribution by Large Language Models
+T2  - FINDINGS OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS - EMNLP 2023
+CP  - Conference on Empirical Methods in Natural Language Processing (EMNLP)
+SN  - 979-8-89176-061-5
+PY  - 2023
+SP  - 4615
+EP  - 4635
+AN  - WOS:001279591704054
+ER  -
+
+TY  - JOUR
+AU  - Liu, QL
+AU  - Polak, MP
+AU  - Kim, SY
+AU  - Shuvo, A
+AU  - Deodhar, HS
+AU  - Han, J
+AU  - Morgan, D
+AU  - Oh, H
+TI  - Beyond designer's knowledge: Generating materials design hypotheses via a large language model
+T2  - ACTA MATERIALIA
+SN  - 1359-6454
+SN  - 1873-2453
+DA  - SEP 15
+PY  - 2025
+VL  - 297
+C7  - 121307
+DO  - 10.1016/j.actamat.2025.121307
+C6  - JUL 2025
+AN  - WOS:001537591200001
+ER  -
+
+TY  - JOUR
+AU  - Shen, Y
+AU  - Zhao, SC
+AU  - Lv, YF
+AU  - Chen, F
+AU  - Fu, L
+AU  - Karimi-Maleh, H
+TI  - Large Language Model-Driven Knowledge Discovery for Designing Advanced Micro/Nano Electrocatalyst Materials
+T2  - CMC-COMPUTERS MATERIALS & CONTINUA
+SN  - 1546-2218
+SN  - 1546-2226
+PY  - 2025
+VL  - 84
+IS  - 2
+SP  - 1921
+EP  - 1950
+DO  - 10.32604/cmc.2025.067427
+AN  - WOS:001529601200001
+ER  -
+
+TY  - JOUR
+AU  - Buehler, MJ
+TI  - Generative Retrieval-Augmented Ontologic Graph and Multiagent Strategies for Interpretive Large Language Model-Based Materials Design
+T2  - ACS ENGINEERING AU
+SN  - 2694-2488
+DA  - JAN 12
+PY  - 2024
+VL  - 4
+IS  - 2
+SP  - 241
+EP  - 277
+DO  - 10.1021/acsengineeringau.3c00058
+C6  - JAN 2024
+AN  - WOS:001162334400001
+ER  -
+
+TY  - JOUR
+AU  - Tong, S
+AU  - Mao, K
+AU  - Huang, Z
+AU  - Zhao, YK
+AU  - Peng, KP
+TI  - Automating psychological hypothesis generation with AI: when large language models meet causal graph
+T2  - HUMANITIES & SOCIAL SCIENCES COMMUNICATIONS
+SN  - 2662-9992
+DA  - JUL 9
+PY  - 2024
+VL  - 11
+IS  - 1
+C7  - 896
+DO  - 10.1057/s41599-024-03407-5
+AN  - WOS:001268872200001
+ER  -
+
+TY  - JOUR
+AU  - Sun, ZC
+AU  - Ting, YS
+AU  - Liang, YB
+AU  - Duan, N
+AU  - Huang, S
+AU  - Cai, Z
+TI  - Mephisto: Self-improving Large Language Model-based Agents for Automated Interpretation of Multiband Galaxy Observations
+T2  - ASTROPHYSICAL JOURNAL SUPPLEMENT SERIES
+SN  - 0067-0049
+SN  - 1538-4365
+DA  - JUL 1
+PY  - 2026
+VL  - 285
+IS  - 1
+C7  - 28
+DO  - 10.3847/1538-4365/ae5d3a
+AN  - WOS:001813967000001
+ER  -
+
+TY  - CPAPER
+AU  - Guo, SK
+AU  - Shariatmadari, AH
+AU  - Xiong, GZ
+AU  - Zhang, AD
+ED  - Ding, W
+ED  - Lu, CT
+ED  - Wang, F
+ED  - Di, L
+ED  - Wu, K
+ED  - Huan, J
+ED  - Nambiar, R
+ED  - Li, J
+ED  - Ilievski, F
+ED  - Baeza-Yates, R
+ED  - Hu, X
+TI  - Embracing Foundation Models for Advancing Scientific Discovery
+T2  - 2024 IEEE INTERNATIONAL CONFERENCE ON BIG DATA, BIGDATA
+CP  - 2024 IEEE International Conference on Big Data
+SN  - 2639-1589
+SN  - 979-8-3503-6249-7
+SN  - 979-8-3503-6248-0
+PY  - 2024
+SP  - 1746
+EP  - 1755
+DO  - 10.1109/BigData62323.2024.10825618
+AN  - WOS:001451321801110
+ER  -
+
+TY  - JOUR
+AU  - Yu, XY
+AU  - Yao, QQ
+TI  - Evaluating the Role of AI Assistants in Accelerating Neurodegenerative Disease Research: Opportunities and Translational Limitations
+T2  - NEUROPSYCHIATRIC DISEASE AND TREATMENT
+SN  - 1178-2021
+PY  - 2026
+VL  - 22
+C7  - 614952
+DO  - 10.2147/NDT.S614952
+AN  - WOS:001784478900001
+ER  -
+
+TY  - JOUR
+AU  - Perlis, RH
+TI  - Research Domain Criteria in NIMH Grants Characterized Using Large Language Models
+T2  - JAMA NETWORK OPEN
+SN  - 2574-3805
+DA  - FEB 12
+PY  - 2025
+VL  - 8
+IS  - 2
+C7  - e2459371
+DO  - 10.1001/jamanetworkopen.2024.59371
+AN  - WOS:001421861300003
+ER  -
+
+TY  - JOUR
+AU  - Abdel-Rehim, A
+AU  - Zenil, H
+AU  - Orhobor, O
+AU  - Fisher, M
+AU  - Collins, RJ
+AU  - Bourne, E
+AU  - Fearnley, GW
+AU  - Tate, E
+AU  - Smith, HX
+AU  - Soldatova, LN
+AU  - King, R
+TI  - Scientific hypothesis generation by large language models: laboratory validation in breast cancer treatment
+T2  - JOURNAL OF THE ROYAL SOCIETY INTERFACE
+SN  - 1742-5689
+SN  - 1742-5662
+DA  - JUN 4
+PY  - 2025
+VL  - 22
+IS  - 227
+C7  - 20240674
+DO  - 10.1098/rsif.2024.0674
+AN  - WOS:001501540900001
+ER  -
+
+TY  - CPAPER
+AU  - Baek, J
+AU  - Jauhar, SK
+AU  - Cucerzan, S
+AU  - Hwang, SJ
+A1  - Ritter, A
+ED  - Chiruzzo, L
+ED  - Wang, L
+TI  - ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models
+T2  - PROCEEDINGS OF THE 2025 CONFERENCE OF THE NATIONS OF THE AMERICAS CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS: HUMAN LANGUAGE TECHNOLOGIES, VOL 1: LONG PAPERS
+CP  - 2025 Conference of the North American Chapter of the Association for Computational Linguistics-NAACL
+SN  - 979-8-89176-189-6
+PY  - 2025
+SP  - 6709
+EP  - 6738
+AN  - WOS:001611654000023
+ER  -
+
+TY  - CPAPER
+AU  - Shojaee, P
+AU  - Nguyen, NH
+AU  - Meidani, K
+AU  - Farimani, AB
+AU  - Doan, KD
+AU  - Reddy, CK
+ED  - Singh, A
+ED  - Fazel, M
+ED  - Hsu, D
+ED  - Lacoste-Julien, S
+ED  - Berkenkamp, F
+ED  - Maharaj, T
+ED  - Wagstaff, K
+ED  - Zhu, J
+TI  - LLM-SRBench: A New Benchmark for Scientific Equation Discovery with Large Language Models
+T2  - INTERNATIONAL CONFERENCE ON MACHINE LEARNING
+CP  - 42nd International Conference on Machine Learning-ICML-Annual
+SN  - 2640-3498
+PY  - 2025
+VL  - 267
+SP  - 55325
+EP  - 55359
+AN  - WOS:001693164800098
+ER  -
+
+TY  - JOUR
+AU  - Cohrs, KH
+AU  - Diaz, E
+AU  - Sitokonstantinou, V
+AU  - Varando, G
+AU  - Camps-Valls, G
+TI  - Large language models for causal hypothesis generation in science
+T2  - MACHINE LEARNING-SCIENCE AND TECHNOLOGY
+SN  - 2632-2153
+DA  - MAR 31
+PY  - 2025
+VL  - 6
+IS  - 1
+C7  - 013001
+DO  - 10.1088/2632-2153/ada47f
+AN  - WOS:001412482500001
+ER  -
+
+TY  - JOUR
+AU  - Xu, QD
+AU  - Soto, C
+AU  - Shahnawaz, M
+AU  - Liu, XZ
+AU  - Jiang, XQ
+AU  - Kim, Y
+TI  - Multi agent large language models for biomedical hypothesis generation in drug combination discovery
+T2  - ISCIENCE
+SN  - 2589-0042
+DA  - DEC 19
+PY  - 2025
+VL  - 28
+IS  - 12
+C7  - 113984
+DO  - 10.1016/j.isci.2025.113984
+C6  - NOV 2025
+AN  - WOS:001628273800008
+ER  -
+
+TY  - CPAPER
+AU  - Guo, SK
+AU  - Shariatmadari, AH
+AU  - Xiong, GZ
+AU  - Huang, A
+AU  - Kim, M
+AU  - Williams, CM
+AU  - Bekiranov, S
+AU  - Zhang, AD
+A1  - ACM
+TI  - IdeaBench: Benchmarking Large Language Models for Research Idea Generation
+T2  - PROCEEDINGS OF THE 31ST ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING V.2, KDD 2025
+CP  - 31st International Conference on Knowledge Discovery and Data Mining-KDD
+SN  - 979-8-4007-1454-2
+PY  - 2025
+SP  - 5888
+EP  - 5899
+DO  - 10.1145/3711896.3737419
+AN  - WOS:001592428900516
+ER  -
+
+TY  - CPAPER
+AU  - Nafar, A
+AU  - Venable, KB
+AU  - Kordjamshidi, P
+A1  - Ritter, A
+ED  - Chiruzzo, L
+ED  - Wang, L
+TI  - Learning vs Retrieval: The Role of In-Context Examples in Regression with Large Language Models
+T2  - PROCEEDINGS OF THE 2025 CONFERENCE OF THE NATIONS OF THE AMERICAS CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS: HUMAN LANGUAGE TECHNOLOGIES, VOL 1: LONG PAPERS
+CP  - 2025 Conference of the North American Chapter of the Association for Computational Linguistics-NAACL
+SN  - 979-8-89176-189-6
+PY  - 2025
+SP  - 8206
+EP  - 8229
+AN  - WOS:001611654000098
+ER  -
+
+TY  - JOUR
+AU  - Groza, T
+AU  - Marcello, AJ
+AU  - Carlisle, T
+AU  - Lim, WK
+AU  - Haendel, M
+AU  - Karnani, N
+AU  - Robinson, PN
+AU  - Graessner, H
+AU  - Chong, JX
+AU  - Baynam, G
+AU  - Jamuar, SS
+TI  - A systematic assessment of large language models' knowledge of rare diseases: How much do large language models know about rare disease?
+T2  - HUMAN GENETICS AND GENOMICS ADVANCES
+SN  - 2666-2477
+DA  - JAN 15
+PY  - 2026
+VL  - 7
+IS  - 1
+C7  - 100558
+DO  - 10.1016/j.xhgg.2025.100558
+C6  - DEC 2025
+AN  - WOS:001649222600001
+ER  -
+
+TY  - JOUR
+AU  - Tomita, H
+AU  - Nakamura, N
+AU  - Ishida, S
+AU  - Kamiya, T
+AU  - Terayama, K
+TI  - Extracting effective solutions hidden in large language models via generated comprehensive specialists: case studies in developing electronic devices
+T2  - COMMUNICATIONS MATERIALS
+SN  - 2662-4443
+DA  - OCT 6
+PY  - 2025
+VL  - 6
+IS  - 1
+C7  - 207
+DO  - 10.1038/s43246-025-00946-5
+AN  - WOS:001587454300001
+ER  -
+
+TY  - CPAPER
+AU  - Dalal, D
+AU  - Valentino, M
+AU  - Freitas, A
+AU  - Buitelaar, P
+ED  - Ku, LW
+ED  - Martins, A
+ED  - Srikumar, V
+TI  - Inference to the Best Explanation in Large Language Models
+T2  - PROCEEDINGS OF THE 62ND ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, VOL 1: LONG PAPERS
+CP  - 62nd Annual Meeting of the Association-for-Computational-Linguistics (ACL) / Student Research Workshop (SRW)
+SN  - 979-8-89176-094-3
+PY  - 2024
+SP  - 217
+EP  - 235
+AN  - WOS:001356729800014
+ER  -
+
+TY  - JOUR
+AU  - Taleb, I
+AU  - Navaz, AN
+AU  - Serhani, MA
+TI  - Leveraging Large Language Models for Enhancing Literature-Based Discovery
+T2  - BIG DATA AND COGNITIVE COMPUTING
+SN  - 2504-2289
+DA  - NOV
+PY  - 2024
+VL  - 8
+IS  - 11
+C7  - 146
+DO  - 10.3390/bdcc8110146
+AN  - WOS:001363899300001
+ER  -
+
+TY  - JOUR
+AU  - Zhao, FY
+AU  - Li, YY
+AU  - Wang, CS
+AU  - Liu, ZY
+AU  - Chen, PF
+AU  - Liu, JF
+AU  - Li, H
+AU  - Wang, YH
+TI  - Can large language models generate novel scientific ideas? A comprehensive study on data-driven astronomy
+T2  - EPJ DATA SCIENCE
+SN  - 2193-1127
+DA  - JUN 18
+PY  - 2026
+VL  - 15
+IS  - 1
+C7  - 60
+DO  - 10.1140/epjds/s13688-026-00672-z
+C6  - JUN 2026
+AN  - WOS:001796393800001
+ER  -
+
+TY  - JOUR
+AU  - Hauptman, M
+AU  - Copley, D
+AU  - Young, K
+AU  - Do, T
+AU  - Durgin, JS
+AU  - Yang, A
+AU  - Chang, J
+AU  - Billi, A
+AU  - Nakamura, M
+AU  - Tejasvi, T
+TI  - Leveraging AI Large Language Models for Writing Clinical Trial Proposals in Dermatology: Instrument Validation Study
+T2  - JMIR DERMATOLOGY
+SN  - 2562-0959
+PY  - 2026
+VL  - 9
+C7  - e76674
+DO  - 10.2196/76674
+AN  - WOS:001669695000001
+ER  -
+
+TY  - JOUR
+AU  - Itani, S
+AU  - Zhang, YB
+AU  - Itani, R
+AU  - Zang, JD
+TI  - Large language models for superconductor discovery
+T2  - JOURNAL OF MAGNETISM AND MAGNETIC MATERIALS
+SN  - 0304-8853
+SN  - 1873-4766
+DA  - AUG 15
+PY  - 2026
+VL  - 652
+C7  - 174189
+DO  - 10.1016/j.jmmm.2026.174189
+AN  - WOS:001765738500001
+ER  -
+
+TY  - JOUR
+AU  - Hornback, A
+AU  - Sathu, H
+AU  - Kim, K
+AU  - Wang, YF
+AU  - Zhu, YD
+AU  - Isgut, M
+AU  - Avula, P
+AU  - Khimani, A
+AU  - Wang, MD
+TI  - Large language models in healthcare and biomedical informatics: A comprehensive review
+T2  - INNOVATION AND EMERGING TECHNOLOGIES
+SN  - 2737-5994
+SN  - 2810-9007
+PY  - 2026
+VL  - 13
+C7  - 2630001
+DO  - 10.1142/S2737599426300011
+AN  - WOS:001702511800001
+ER  -
+
+TY  - JOUR
+AU  - Xu, FZ
+AU  - Lin, QK
+AU  - Han, JW
+AU  - Zhao, TZ
+AU  - Liu, J
+AU  - Cambria, E
+TI  - Are Large Language Models Really Good Logical Reasoners? A Comprehensive Evaluation and Beyond
+T2  - IEEE TRANSACTIONS ON KNOWLEDGE AND DATA ENGINEERING
+SN  - 1041-4347
+SN  - 1558-2191
+DA  - APR
+PY  - 2025
+VL  - 37
+IS  - 4
+SP  - 1620
+EP  - 1634
+DO  - 10.1109/TKDE.2025.3536008
+AN  - WOS:001439548100014
+ER  -
+
+TY  - JOUR
+AU  - Miret, S
+AU  - Krishnan, NMA
+TI  - Enabling large language models for real-world materials discovery
+T2  - NATURE MACHINE INTELLIGENCE
+SN  - 2522-5839
+DA  - JUL
+PY  - 2025
+VL  - 7
+IS  - 7
+SP  - 991
+EP  - 998
+DO  - 10.1038/s42256-025-01058-y
+C6  - JUL 2025
+AN  - WOS:001527769700001
+ER  -
+
+TY  - JOUR
+AU  - Järvilehto, L
+AU  - Sun, YJ
+AU  - Korkman, J
+AU  - Pakkanen, T
+AU  - Shen, CE
+AU  - Bader, FM
+AU  - Santtila, P
+TI  - Pre-interview hypothesis generation: large language models (LLMs) show promise for child abuse investigations
+T2  - PSYCHOLOGY CRIME & LAW
+SN  - 1068-316X
+SN  - 1477-2744
+DA  - 2025 JUL 15
+PY  - 2025
+DO  - 10.1080/1068316X.2025.2531391
+C6  - JUL 2025
+AN  - WOS:001528413200001
+ER  -
+
+TY  - JOUR
+AU  - Ranasinghe, N
+AU  - Mohammed, WM
+AU  - Stefanidis, K
+AU  - Lastra, JLM
+TI  - Large Language Models in Human-Robot Collaboration With Cognitive Validation Against Context-Induced Hallucinations
+T2  - IEEE ACCESS
+SN  - 2169-3536
+PY  - 2025
+VL  - 13
+SP  - 77418
+EP  - 77430
+DO  - 10.1109/ACCESS.2025.3565918
+AN  - WOS:001483809800032
+ER  -
+
+TY  - JOUR
+AU  - Alkam, T
+AU  - Tarshizi, E
+AU  - Van Benschoten, AH
+TI  - Large language models for Alzheimer's disease drug discovery
+T2  - JOURNAL OF ALZHEIMERS DISEASE
+SN  - 1387-2877
+SN  - 1875-8908
+DA  - AUG
+PY  - 2025
+VL  - 106
+IS  - 3
+SP  - 799
+EP  - 822
+DO  - 10.1177/13872877251346890
+C6  - JUN 2025
+AN  - WOS:001500532500001
+ER  -
+
+TY  - CPAPER
+AU  - Cheng, FX
+ED  - Kwok, J
+TI  - Enhancing the Logical Reasoning Abilities of Large Language Models
+T2  - PROCEEDINGS OF THE THIRTY-FOURTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI 2025)
+CP  - 34th International Joint Conference on Artificial Intelligence-IJCAI
+SN  - 978-1-956792-06-5
+PY  - 2025
+SP  - 10969
+EP  - 10970
+AN  - WOS:001634925300595
+ER  -
+
+TY  - CPAPER
+AU  - Xiong, GZ
+AU  - Xie, E
+AU  - Williams, C
+AU  - Kim, M
+AU  - Shariatmadari, AH
+AU  - Guo, SK
+AU  - Bekiranov, S
+AU  - Zhang, AD
+ED  - Kwok, J
+TI  - Toward Reliable Scientific Hypothesis Generation: Evaluating Truthfulness and Hallucination in Large Language Models
+T2  - PROCEEDINGS OF THE THIRTY-FOURTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI 2025)
+CP  - 34th International Joint Conference on Artificial Intelligence-IJCAI
+SN  - 978-1-956792-06-5
+PY  - 2025
+SP  - 7849
+EP  - 7857
+AN  - WOS:001634925300231
+ER  -
+
+TY  - JOUR
+AU  - Yang, JJ
+AU  - Hwang, SH
+TI  - Transforming hematological research documentation with large language models: an approach to scientific writing and data analysis
+T2  - BLOOD RESEARCH
+SN  - 2287-979X
+SN  - 2288-0011
+DA  - MAR 6
+PY  - 2025
+VL  - 60
+IS  - 1
+C7  - 15
+DO  - 10.1007/s44313-025-00062-w
+AN  - WOS:001439194100001
+ER  -
+
+TY  - JOUR
+AU  - Huang, ML
+AU  - Wang, YK
+AU  - Cui, SY
+AU  - Ke, P
+AU  - Tang, J
+TI  - The superalignment of superhuman intelligence with large language models
+T2  - SCIENCE CHINA-INFORMATION SCIENCES
+SN  - 1674-733X
+SN  - 1869-1919
+DA  - JUN
+PY  - 2025
+VL  - 68
+IS  - 6
+C7  - 160107
+DO  - 10.1007/s11432-024-4348-6
+AN  - WOS:001501160500003
+ER  -
+
+TY  - JOUR
+AU  - Goli, A
+AU  - Singh, A
+TI  - Frontiers: Can Large Language Models Capture Human Preferences?
+T2  - MARKETING SCIENCE
+SN  - 0732-2399
+SN  - 1526-548X
+DA  - JUL-AUG
+PY  - 2024
+VL  - 43
+IS  - 4
+DO  - 10.1287/mksc.2023.0306
+C6  - APR 2024
+AN  - WOS:001215125900001
+ER  -
+
+TY  - JOUR
+AU  - Kothandan, SV
+AU  - Watson, SL
+AU  - Basu, S
+AU  - Singh, S
+TI  - Large Language Models Use in Dry Eye Disease: Perplexity AI versus ChatGPT4
+T2  - SEMINARS IN OPHTHALMOLOGY
+SN  - 0882-0538
+SN  - 1744-5205
+DA  - APR 3
+PY  - 2026
+VL  - 41
+IS  - 3
+SP  - 479
+EP  - 484
+DO  - 10.1080/08820538.2025.2547077
+C6  - AUG 2025
+AN  - WOS:001553470900001
+ER  -
+
+TY  - JOUR
+AU  - Tilwani, D
+AU  - Venkataramanan, R
+AU  - Sheth, AP
+TI  - Neurosymbolic AI Approach to Attribution in Large Language Models
+T2  - IEEE INTELLIGENT SYSTEMS
+SN  - 1541-1672
+SN  - 1941-1294
+DA  - NOV
+PY  - 2024
+VL  - 39
+IS  - 6
+SP  - 10
+EP  - 17
+DO  - 10.1109/MIS.2024.3477108
+AN  - WOS:001371929900004
+ER  -
+
+TY  - CPAPER
+AU  - Tahaei, M
+AU  - Jafari, A
+AU  - Rashid, A
+AU  - Alfonso-Hermelo, D
+AU  - Bibi, K
+AU  - Wu, YM
+AU  - Ghodsi, A
+AU  - Chen, BX
+AU  - Rezagholizadeh, M
+ED  - Duh, K
+ED  - Gomez, H
+ED  - Bethard, S
+TI  - Efficient Citer: Tuning Large Language Models for Enhanced Answer Quality and Verification
+T2  - FINDINGS OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS: NAACL 2024
+CP  - 2024 Conference of the North American Chapter of the Association for Computational Linguistics-NAACL
+SN  - 979-8-89176-119-3
+PY  - 2024
+SP  - 4443
+EP  - 4450
+AN  - WOS:001511618600277
+ER  -
+
+TY  - CPAPER
+AU  - Konerui, S
+AU  - Wu, J
+AU  - Rajtmajeri, S
+ED  - Calzolari, N
+ED  - Kan, MY
+ED  - Hoste, V
+ED  - Lenci, A
+ED  - Sakti, S
+ED  - Xue, N
+TI  - Can Large Language Models Discern Evidence for Scientific Hypotheses? Case Studies in the Social Sciences
+T2  - PROCEEDINGS OF THE 2024 JOINT INTERNATIONAL CONFERENCE ON COMPUTATIONAL LINGUISTICS, LANGUAGE RESOURCES AND EVALUATION, LREC-COLING 2024
+CP  - 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation-LREC-COLING
+SN  - 2951-2093
+SN  - 978-2-493814-10-4
+PY  - 2024
+SP  - 2787
+EP  - 2797
+AN  - WOS:001592980400248
+ER  -
+
+TY  - CPAPER
+AU  - Chen, A
+AU  - Du, J
+AU  - Rodriguez, A
+AU  - Rodriguez, R
+AU  - Higgins, J
+AU  - Podmore, R
+AU  - Liu, R
+AU  - Ilao, E
+AU  - Degilla, S
+AU  - Bibiano, J
+AU  - Chan, C
+AU  - Pickering, A
+AU  - Showstark, M
+AU  - Lee, J
+AU  - Chen, M
+A1  - IEEE
+TI  - Viability of Applying Large Language Models to Indoor Climate Sensor and Health Data for Scientific Discovery
+T2  - 2024 IEEE GLOBAL HUMANITARIAN TECHNOLOGY CONFERENCE, GHTC
+CP  - 14th Global Humanitarian Technology Conference
+SN  - 2377-6919
+SN  - 979-8-3503-7735-4
+SN  - 979-8-3503-7734-7
+PY  - 2024
+SP  - 340
+EP  - 347
+DO  - 10.1109/GHTC62424.2024.10771517
+AN  - WOS:001447625600049
+ER  -
+
+TY  - CPAPER
+AU  - Samarajeewa, C
+AU  - De Silva, D
+AU  - Osipov, E
+AU  - Alahakoon, D
+AU  - Manic, M
+A1  - IEEE
+TI  - Causal Reasoning in Large Language Models using Causal Graph Retrieval Augmented Generation
+T2  - 2024 16TH INTERNATIONAL CONFERENCE ON HUMAN SYSTEM INTERACTION, HSI 2024
+CP  - 16th International Conference on Human System Interaction (HSI)
+SN  - 2158-2246
+SN  - 979-8-3503-6292-3
+SN  - 979-8-3503-6291-6
+PY  - 2024
+DO  - 10.1109/HSI61632.2024.10613566
+AN  - WOS:001294372700043
+ER  -
+
+TY  - JOUR
+AU  - Ba, ZC
+AU  - Zhang, YJ
+AU  - Bai, RJ
+TI  - Scientific hypothesis prediction based on large language models and causal graphs
+T2  - INFORMATION PROCESSING & MANAGEMENT
+SN  - 0306-4573
+SN  - 1873-5371
+DA  - DEC
+PY  - 2026
+VL  - 63
+IS  - 8
+C7  - 104894
+DO  - 10.1016/j.ipm.2026.104894
+C6  - MAY 2026
+AN  - WOS:001784043100001
+ER  -
+
+TY  - JOUR
+AU  - Patel, A
+AU  - Contractor, H
+AU  - Heninger, H
+AU  - Vallamchetla, SK
+AU  - Li, PZ
+AU  - Tao, C
+AU  - Cheung, J
+TI  - Assessment of frontier Large Language Models in sleep medicine
+T2  - FRONTIERS IN DIGITAL HEALTH
+SN  - 2673-253X
+DA  - APR 29
+PY  - 2026
+VL  - 8
+C7  - 1769386
+DO  - 10.3389/fdgth.2026.1769386
+C6  - APR 2026
+AN  - WOS:001764505000001
+ER  -
+
+TY  - JOUR
+AU  - Pan, ZC
+AU  - Zhao, YH
+AU  - Huang, HZ
+AU  - Wang, ZY
+AU  - Geng, BJ
+AU  - Wang, ZR
+AU  - Zhao, QY
+AU  - Yao, JQ
+AU  - Yang, Y
+TI  - Transforming Molecular Science With Large Language Models: From Molecule Understanding to Autonomous Scientific Discovery
+T2  - CHEMISTRY-AN ASIAN JOURNAL
+SN  - 1861-4728
+SN  - 1861-471X
+DA  - JUN 14
+PY  - 2026
+VL  - 21
+IS  - 11
+C7  - e70837
+DO  - 10.1002/asia.70837
+AN  - WOS:001792314100001
+ER  -
+
+TY  - JOUR
+AU  - Sancataldo, G
+TI  - ChatMicroscopy: A Perspective Review of Large Language Models for Next-Generation Optical Microscopy
+T2  - APPLIED SCIENCES-BASEL
+SN  - 2076-3417
+DA  - MAR 5
+PY  - 2026
+VL  - 16
+IS  - 5
+C7  - 2502
+DO  - 10.3390/app16052502
+AN  - WOS:001713320400001
+ER  -
+
+TY  - CPAPER
+AU  - Srinivasan, R
+AU  - Inakoshi, H
+AU  - Uchino, K
+A1  - IEEE
+TI  - Leveraging Cognitive Science for Testing Large Language Models
+T2  - 2023 IEEE INTERNATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE TESTING, AITEST
+CP  - 5th IEEE International Conference on Artificial Intelligence Testing (AITest)
+SN  - 2835-3552
+SN  - 979-8-3503-3629-0
+PY  - 2023
+SP  - 169
+EP  - 171
+DO  - 10.1109/AITest58265.2023.00035
+AN  - WOS:001062490100024
+ER  -
+
+TY  - JOUR
+AU  - Zimmermann, Y
+AU  - Bazgir, A
+AU  - Al-Feghali, A
+AU  - Ansari, M
+AU  - Bocarsly, J
+AU  - Brinson, LC
+AU  - Chiang, Y
+AU  - Circi, D
+AU  - Chiu, MH
+AU  - Daelman, N
+AU  - Evans, ML
+AU  - Gangan, AS
+AU  - George, J
+AU  - Harb, H
+AU  - Khalighinejad, G
+AU  - Khan, ST
+AU  - Klawohn, S
+AU  - Lederbauer, M
+AU  - Mahjoubi, S
+AU  - Mohr, B
+AU  - Moosavi, SM
+AU  - Naik, A
+AU  - Ozhan, AB
+AU  - Plessers, D
+AU  - Roy, A
+AU  - Schöppach, F
+AU  - Schwaller, P
+AU  - Terboven, C
+AU  - Ueltzen, K
+AU  - Wu, Y
+AU  - Zhu, S
+AU  - Janssen, J
+AU  - Li, C
+AU  - Foster, I
+AU  - Blaiszik, B
+TI  - 32 examples of LLM applications in materials science and chemistry: towards automation, assistants, agents, and accelerated scientific discovery
+T2  - MACHINE LEARNING-SCIENCE AND TECHNOLOGY
+SN  - 2632-2153
+DA  - SEP 30
+PY  - 2025
+VL  - 6
+IS  - 3
+C7  - 030701
+DO  - 10.1088/2632-2153/ae011a
+AN  - WOS:001583399900001
+ER  -
+
+TY  - CPAPER
+AU  - Su, HY
+AU  - Chen, RQ
+AU  - Tang, SX
+AU  - Yin, ZF
+AU  - Zheng, XZ
+AU  - Li, JZ
+AU  - Qi, BQ
+AU  - Wu, Q
+AU  - Li, H
+AU  - Ouyang, WL
+AU  - Torr, P
+AU  - Zhou, BW
+AU  - Dong, NQ
+ED  - Che, W
+ED  - Nabende, J
+ED  - Shutova, E
+ED  - Pilehvar, MT
+TI  - Many Heads Are Better Than One: Improved Scientific Idea Generation by A LLM-Based Multi-Agent System
+T2  - PROCEEDINGS OF THE 63RD ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, VOL 1: LONG PAPERS
+CP  - 63rd Association for Computational Linguistics Meeting-ACL-Annual
+SN  - 979-8-89176-251-0
+PY  - 2025
+SP  - 28201
+EP  - 28240
+AN  - WOS:001611629600087
+ER  -
+
+TY  - CPAPER
+AU  - McGinness, L
+AU  - Baumgartner, P
+AU  - Onyango, E
+AU  - Lema, Z
+ED  - Gong, M
+ED  - Song, Y
+ED  - Koh, YS
+ED  - Xiang, W
+ED  - Wang, D
+TI  - Highlighting Case Studies in LLM Literature Review of Interdisciplinary System Science
+T2  - AI 2024: ADVANCES IN ARTIFICIAL INTELLIGENCE, PT I
+CP  - 37th Australasian Joint Conference on Artificial Intelligence-AJCAI
+SN  - 2945-9133
+SN  - 1611-3349
+SN  - 978-981-96-0347-3
+SN  - 978-981-96-0348-0
+PY  - 2025
+VL  - 15442
+SP  - 29
+EP  - 43
+DO  - 10.1007/978-981-96-0348-0_3
+AN  - WOS:001546399900003
+ER  -
+
+TY  - CPAPER
+AU  - Ueda, K
+AU  - Hirota, W
+AU  - Asakura, T
+AU  - Omi, T
+AU  - Takahashi, K
+AU  - Arima, K
+AU  - Ishigaki, T
+ED  - Bechet, F
+ED  - Lefevre, F
+ED  - Asher, N
+ED  - Kim, S
+ED  - Merlin, T
+TI  - Exploring Design of Multi-Agent LLM Dialogues for Research Ideation
+T2  - PROCEEDINGS OF THE 26TH ANNUAL MEETING OF THE SPECIAL INTEREST GROUP ON DISCOURSE AND DIALOGUE
+CP  - 26th Special Interest Group on Discourse and Dialogue Meeting-SIGDIAL-Annual
+SN  - 979-8-89176-329-6
+PY  - 2025
+SP  - 322
+EP  - 337
+AN  - WOS:001734552600026
+ER  -
+
+TY  - CPAPER
+AU  - Wang, FC
+AU  - Zhou, X
+AU  - Hu, WP
+AU  - Luo, ZC
+AU  - Luo, W
+AU  - Bai, XY
+ED  - Wong, DF
+ED  - Wei, Z
+ED  - Yang, M
+TI  - LLM Assists Hypothesis Generation and Testing for Deliberative Questions
+T2  - NATURAL LANGUAGE PROCESSING AND CHINESE COMPUTING, PT II, NLPCC 2024
+CP  - 13th International Conference on Natural Language Processing and Chinese Computing
+SN  - 2945-9133
+SN  - 1611-3349
+SN  - 978-981-97-9433-1
+SN  - 978-981-97-9434-8
+PY  - 2025
+VL  - 15360
+SP  - 424
+EP  - 436
+DO  - 10.1007/978-981-97-9434-8_33
+AN  - WOS:001416158700033
+ER  -
+
+TY  - JOUR
+AU  - Battineni, G
+AU  - Chintalapudi, N
+AU  - Dhulipalla, VR
+AU  - Amenta, F
+TI  - From diagnostics to education: Multi-domain evaluation of LLM chatbots in neurology
+T2  - JOURNAL OF TAIBAH UNIVERSITY MEDICAL SCIENCES
+SN  - 1658-3612
+DA  - FEB
+PY  - 2026
+VL  - 21
+IS  - 1
+SP  - 15
+EP  - 24
+DO  - 10.1016/j.jtumed.2025.11.004
+C6  - JAN 2025
+AN  - WOS:001655547500001
+ER  -
+
+TY  - CPAPER
+AU  - Bonga, GAK
+AU  - Buchem, I
+AU  - Pinkwart, N
+ED  - Balogh, R
+ED  - Obdrzalek, D
+ED  - Fachantidis, N
+TI  - Empowering Academic Exploration with LLM-Powered Robots: Supporting Students in Topic and Research Question Development
+T2  - ROBOTICS IN EDUCATION, RIE 2025
+CP  - 16th International Conference on Robotics in Education-RIE-Annual
+SN  - 2367-3370
+SN  - 2367-3389
+SN  - 978-3-031-98761-8
+SN  - 978-3-031-98762-5
+PY  - 2025
+VL  - 1544
+SP  - 126
+EP  - 137
+DO  - 10.1007/978-3-031-98762-5_12
+AN  - WOS:001594340200012
+ER  -
+
+TY  - JOUR
+AU  - Park, JH
+AU  - Yang, JS
+TI  - LLMs as complementary tools for innovation surveys research: pattern replication and contextual relevance
+T2  - SCIENTOMETRICS
+SN  - 0138-9130
+SN  - 1588-2861
+DA  - 2026 MAR 9
+PY  - 2026
+DO  - 10.1007/s11192-026-05571-8
+C6  - MAR 2026
+AN  - WOS:001711343200001
+ER  -
+
+TY  - JOUR
+AU  - Ba, ZC
+AU  - Zhang, YJ
+AU  - Zhang, B
+AU  - Li, G
+TI  - Mapping the Panorama of Enterprise Digital Transformation: An LLM-Driven Variable Relational Network Perspective
+T2  - JOURNAL OF DATA AND INFORMATION SCIENCE
+SN  - 2096-157X
+SN  - 2543-683X
+DA  - JUN 26
+PY  - 2026
+VL  - 11
+IS  - 2
+SP  - 250
+EP  - 275
+DO  - 10.1515/jdis-2025-0296
+C6  - APR 2026
+AN  - WOS:001751870900001
+ER  -
+
+TY  - CPAPER
+AU  - Pilarski, L
+AU  - Pinto, T
+AU  - Filipe, V
+AU  - Barroso, J
+AU  - Soares, S
+AU  - Rijo, G
+ED  - Marreiros, G
+ED  - Hernandez, G
+ED  - Caron, AC
+ED  - Rocha, T
+ED  - Roman, JA
+ED  - Gonzalez-Vidal, A
+ED  - Martinho, D
+ED  - Gil-Merino, R
+ED  - Parra, J
+TI  - LLM-Driven Semantic Integration of Industrial Data Through Asset Administration Shell for Digital Twins
+T2  - DISTRIBUTED COMPUTING AND ARTIFICIAL INTELLIGENCE, SPECIAL SESSIONS II, 22ND INTERNATIONAL CONFERENCE
+CP  - 22nd International Symposium on Distributed Computing and Artificial Intelligence-DCAI
+SN  - 2367-3370
+SN  - 2367-3389
+SN  - 978-3-032-05747-1
+SN  - 978-3-032-05748-8
+PY  - 2026
+VL  - 1630
+SP  - 581
+EP  - 587
+DO  - 10.1007/978-3-032-05748-8_50
+AN  - WOS:001791144900050
+ER  -
+
+TY  - JOUR
+AU  - Tsaneva, S
+AU  - Dessi, D
+AU  - Osborne, F
+AU  - Sabou, M
+TI  - Knowledge graph validation by integrating LLMs and human-in-the-loop
+T2  - INFORMATION PROCESSING & MANAGEMENT
+SN  - 0306-4573
+SN  - 1873-5371
+DA  - SEP
+PY  - 2025
+VL  - 62
+IS  - 5
+C7  - 104145
+DO  - 10.1016/j.ipm.2025.104145
+C6  - JAN 2025
+AN  - WOS:001468994800001
+ER  -
+
+TY  - JOUR
+AU  - Feng, YC
+AU  - Wang, JW
+AU  - He, RK
+AU  - Zhou, L
+AU  - Li, YX
+TI  - A retrieval-augmented knowledge mining method with deep thinking LLMs for biomedical research and clinical support
+T2  - GIGASCIENCE
+SN  - 2047-217X
+PY  - 2025
+VL  - 14
+C7  - giaf109
+DO  - 10.1093/gigascience/giaf109
+AN  - WOS:001574593800001
+ER  -
+
+TY  - CPAPER
+AU  - Cerit, M
+AU  - Zelikman, E
+AU  - Cho, MJ
+AU  - Robinson, TN
+AU  - Reeves, B
+AU  - Ram, N
+AU  - Haber, N
+A1  - ACM
+TI  - Media Content Atlas: A Pipeline to Explore and Investigate Multidimensional Media Space using Multimodal LLMs
+T2  - EXTENDED ABSTRACTS OF THE 2025 CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, CHI 2025
+CP  - 2025 Conference on Human Factors in Computing Systems-CHI
+SN  - 979-8-4007-1395-8
+PY  - 2025
+DO  - 10.1145/3706599.3720055
+AN  - WOS:001496972000561
+ER  -
+
+TY  - CPAPER
+AU  - Bektas, B
+AU  - Gültekin, AÖ
+AU  - Özdemiroglu, E
+AU  - Yilmaz, Z
+AU  - Dikici, B
+AU  - Demir, S
+A1  - IEEE
+TI  - Academic Abstract Generation with LLMs
+T2  - 2025 33RD SIGNAL PROCESSING AND COMMUNICATIONS APPLICATIONS CONFERENCE, SIU
+CP  - 33rd Conference on Signal Processing and Communications Applications-SIU-Annual
+SN  - 2165-0608
+SN  - 979-8-3315-6656-2
+SN  - 979-8-3315-6655-5
+PY  - 2025
+C7  - 663
+DO  - 10.1109/SIU66497.2025.11112421
+AN  - WOS:001575462500357
+ER  -
+
+TY  - JOUR
+AU  - Pai, RR
+AU  - N, S
+TI  - Ontology-Guided Hypothesis Generation Using LLMs and Topic Modeling in mHealth Research
+T2  - IEEE ACCESS
+SN  - 2169-3536
+PY  - 2025
+VL  - 13
+SP  - 200725
+EP  - 200736
+DO  - 10.1109/ACCESS.2025.3636466
+AN  - WOS:001630297900048
+ER  -
+
+TY  - JOUR
+AU  - Ruan, K
+AU  - Wang, X
+AU  - Hong, JX
+AU  - Wang, P
+AU  - Liu, Y
+AU  - Sun, H
+TI  - Evaluating LLMs' divergent thinking capabilities for scientific idea generation with minimal context
+T2  - NATURE COMMUNICATIONS
+SN  - 2041-1723
+DA  - MAR 7
+PY  - 2026
+VL  - 17
+IS  - 1
+C7  - 3625
+DO  - 10.1038/s41467-026-70245-1
+C6  - MAR 2026
+AN  - WOS:001745150000023
+ER  -
+
+TY  - JOUR
+AU  - Alarcon-Serrano, J
+AU  - Cano-Marin, E
+AU  - Sicilia, MA
+TI  - Assessing open LLMs' ability to identify biomedical taxonomic relationships: A SNOMED CT-based experimental evaluation
+T2  - KNOWLEDGE-BASED SYSTEMS
+SN  - 0950-7051
+SN  - 1872-7409
+DA  - JUN 7
+PY  - 2026
+VL  - 342
+C7  - 115882
+DO  - 10.1016/j.knosys.2026.115882
+C6  - APR 2026
+AN  - WOS:001740737200001
+ER  -
+
+TY  - JOUR
+AU  - Torres, C
+AU  - Gonzalez, CI
+AU  - Garcia, M
+TI  - Comparing Domain-Adapted Small LLMs and Large Zero-Shot Models for Efficient Hypothesis Graph Construction in Neurodegenerative Disease Research
+T2  - COMPUTACION Y SISTEMAS
+SN  - 1405-5546
+SN  - 2007-9737
+PY  - 2026
+VL  - 30
+IS  - 1
+SP  - 259
+EP  - 269
+DO  - 10.13053/CyS-30-1-6315
+AN  - WOS:001733635600016
+ER  -
+
+TY  - JOUR
+AU  - Penades, JR
+AU  - Gottweis, J
+AU  - He, LC
+AU  - Patkowski, JB
+AU  - Daryin, A
+AU  - Weng, WH
+AU  - Tu, T
+AU  - Palepu, JA
+AU  - Myaskovsky, A
+AU  - Natarajan, V
+AU  - Karthikesalingam, A
+AU  - Costa, TRD
+TI  - AI mirrors experimental science to uncover a mechanism of gene transfer crucial to bacterial evolution
+T2  - CELL
+SN  - 0092-8674
+SN  - 1097-4172
+DA  - NOV 13
+PY  - 2025
+VL  - 188
+IS  - 23
+SP  - 6654
+EP  - 6665
+DO  - 10.1016/j.cell.2025.08.018
+C6  - NOV 2025
+AN  - WOS:001619463200019
+ER  -
+
+TY  - JOUR
+AU  - MohanaSundaram, A
+AU  - Sathanantham, ST
+AU  - Ivanov, A
+AU  - Mofatteh, M
+TI  - DeepSeek's Readiness for Medical Research and Practice: Prospects, Bottlenecks, and Global Regulatory Constraints
+T2  - ANNALS OF BIOMEDICAL ENGINEERING
+SN  - 0090-6964
+SN  - 1573-9686
+DA  - JUL
+PY  - 2025
+VL  - 53
+IS  - 7
+SP  - 1754
+EP  - 1756
+DO  - 10.1007/s10439-025-03738-7
+C6  - APR 2025
+AN  - WOS:001473982800001
+ER  -
+
+TY  - JOUR
+AU  - Kowal, JM
+AU  - Bryant, KH
+AU  - Segall, D
+AU  - Kantrowitz, T
+TI  - Harnessing Generative AI for Assessment Item Development: Comparing AI-Generated and Human-Authored Items
+T2  - INTERNATIONAL JOURNAL OF SELECTION AND ASSESSMENT
+SN  - 0965-075X
+SN  - 1468-2389
+DA  - AUG
+PY  - 2025
+VL  - 33
+IS  - 3
+C7  - e70021
+DO  - 10.1111/ijsa.70021
+AN  - WOS:001561979200003
+ER  -
+
+TY  - CPAPER
+AU  - Zhang, YC
+AU  - Chen, Z
+AU  - Guo, LB
+AU  - Xu, YJ
+AU  - Chen, SK
+AU  - Sun, MS
+AU  - Hu, BB
+AU  - Zhang, ZQ
+AU  - Liang, L
+AU  - Zhang, W
+AU  - Chen, HJ
+ED  - Che, W
+ED  - Nabende, J
+ED  - Shutova, E
+ED  - Pilehvar, MT
+TI  - HaveWe Designed Generalizable Structural Knowledge Promptings? Systematic Evaluation and Rethinking
+T2  - PROCEEDINGS OF THE 63RD ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, VOL 1: LONG PAPERS
+CP  - 63rd Association for Computational Linguistics Meeting-ACL-Annual
+SN  - 979-8-89176-251-0
+PY  - 2025
+SP  - 2210
+EP  - 2226
+AN  - WOS:001596029800110
+ER  -
+
+TY  - JOUR
+AU  - Deep, P
+AU  - Bharadhidasan, M
+AU  - Kocaballi, AB
+TI  - "She was useful, but a bit too optimistic": Augmenting Design with Interactive Virtual Personas
+T2  - INTERNATIONAL JOURNAL OF HUMAN-COMPUTER STUDIES
+SN  - 1071-5819
+SN  - 1095-9300
+DA  - NOV
+PY  - 2025
+VL  - 205
+C7  - 103646
+DO  - 10.1016/j.ijhcs.2025.103646
+C6  - JAN 2025
+AN  - WOS:001579075700001
+ER  -
+
+TY  - CPAPER
+AU  - Garikaparthi, A
+AU  - Patwardhan, M
+AU  - Vig, L
+AU  - Cohan, A
+ED  - Mishra, P
+ED  - Muresan, S
+ED  - Yu, T
+TI  - IRIS: Interactive Research Ideation System for Accelerating Scientific Discovery
+T2  - PROCEEDINGS OF THE 63RD ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, VOL 3: SYSTEM DEMONSTRATIONS
+CP  - 63rd Association for Computational Linguistics Meeting-ACL-Annual
+SN  - 979-8-89176-253-4
+PY  - 2025
+SP  - 592
+EP  - 603
+AN  - WOS:001596032100057
+ER  -
+
+TY  - CPAPER
+AU  - Lou, RZ
+AU  - Xu, HZ
+AU  - Wang, SJ
+AU  - Du, JS
+AU  - Kamoi, R
+AU  - Lu, XX
+AU  - Xie, J
+AU  - Sun, YX
+AU  - Zhang, YS
+AU  - Ahn, JJ
+AU  - Fang, HC
+AU  - Zou, ZY
+AU  - Ma, WC
+AU  - Li, X
+AU  - Zhang, K
+AU  - Xia, CY
+AU  - Huang, LF
+AU  - Yin, WP
+ED  - Singh, A
+ED  - Fazel, M
+ED  - Hsu, D
+ED  - Lacoste-Julien, S
+ED  - Berkenkamp, F
+ED  - Maharaj, T
+ED  - Wagstaff, K
+ED  - Zhu, J
+TI  - AAAR-1.0: Assessing AI's Potential to Assist Research
+T2  - INTERNATIONAL CONFERENCE ON MACHINE LEARNING
+CP  - 42nd International Conference on Machine Learning-ICML-Annual
+SN  - 2640-3498
+PY  - 2025
+VL  - 267
+SP  - 40361
+EP  - 40383
+AN  - WOS:001693156000123
+ER  -
+
+TY  - CPAPER
+AU  - Tyagin, I
+AU  - Valipour, S
+AU  - Sikirzhytskaya, A
+AU  - Shtutman, M
+AU  - Safro, I
+ED  - Agrawal, M
+ED  - Deshpande, K
+ED  - Engelhard, M
+ED  - Joshi, S
+ED  - Tang, S
+ED  - Urteaga, I
+TI  - Biomedical Hypothesis Explainability with Graph-Based Context Retrieval
+T2  - MACHINE LEARNING FOR HEALTHCARE CONFERENCE
+CP  - 2025 Machine Learning for Healthcare Conference-MLHC
+SN  - 2640-3498
+PY  - 2025
+VL  - 298
+AN  - WOS:001671663700008
+ER  -
+
+TY  - CPAPER
+AU  - Huang, KX
+AU  - Jin, Y
+AU  - Li, R
+AU  - Li, MY
+AU  - Candès, E
+AU  - Leskovec, J
+ED  - Singh, A
+ED  - Fazel, M
+ED  - Hsu, D
+ED  - Lacoste-Julien, S
+ED  - Berkenkamp, F
+ED  - Maharaj, T
+ED  - Wagstaff, K
+ED  - Zhu, J
+TI  - Automated Hypothesis Validation with Agentic Sequential Falsifications
+T2  - INTERNATIONAL CONFERENCE ON MACHINE LEARNING
+CP  - 42nd International Conference on Machine Learning-ICML-Annual
+SN  - 2640-3498
+PY  - 2025
+VL  - 267
+SP  - 25372
+EP  - 25437
+AN  - WOS:001693126000093
+ER  -
+
+TY  - JOUR
+AU  - Elbadawi, M
+AU  - Li, HX
+AU  - Basit, AW
+AU  - Gaisford, S
+TI  - The role of artificial intelligence in generating original scientific research
+T2  - INTERNATIONAL JOURNAL OF PHARMACEUTICS
+SN  - 0378-5173
+SN  - 1873-3476
+DA  - MAR 5
+PY  - 2024
+VL  - 652
+C7  - 123741
+DO  - 10.1016/j.ijpharm.2023.123741
+C6  - JAN 2024
+AN  - WOS:001170915000001
+ER  -
+
+TY  - JOUR
+AU  - Keya, F
+AU  - Rabby, G
+AU  - Auer, S
+AU  - Vahdati, S
+AU  - Mitra, P
+AU  - Jaradeh, MY
+TI  - SCI-IDEA: Context-Aware Scientific Ideation Using Token and Sentence Embeddings
+T2  - MACHINE LEARNING
+SN  - 0885-6125
+SN  - 1573-0565
+DA  - APR 22
+PY  - 2026
+VL  - 115
+IS  - 5
+C7  - 103
+DO  - 10.1007/s10994-026-07036-8
+C6  - APR 2026
+AN  - WOS:001746411700001
+ER  -
+
+TY  - CPAPER
+AU  - Berti, A
+AU  - Kourani, H
+AU  - Park, G
+AU  - van der Aalst, WMP
+ED  - VanDeWeerd, I
+ED  - Torres, BE
+ED  - VanDerAa, H
+TI  - Configuring Large Reasoning Models Using Process Mining: A Benchmark and a Case Study
+T2  - BUSINESS PROCESS MANAGEMENT WORKSHOPS, BPM 2025
+CP  - 23rd International Conference on Business Process Management-BPM-Annual
+SN  - 1865-1348
+SN  - 1865-1356
+SN  - 978-3-032-13425-7
+SN  - 978-3-032-13426-4
+PY  - 2026
+VL  - 569
+SP  - 412
+EP  - 424
+DO  - 10.1007/978-3-032-13426-4_30
+AN  - WOS:001782507300030
+ER  -
+
+TY  - JOUR
+AU  - Sanda, N
+AU  - Gyori, BM
+AU  - Quaranta, V
+AU  - Ganguly, A
+AU  - Paul, A
+TI  - eGoT: enhanced graph-of-thoughts for multi-hop knowledge retrieval and hypothesis generation in biomedicine
+T2  - BIOINFORMATICS
+SN  - 1367-4803
+SN  - 1367-4811
+DA  - JUL
+PY  - 2026
+VL  - 42
+C7  - btag216
+DO  - 10.1093/bioinformatics/btag216
+AN  - WOS:001812867100001
+ER  -
+
+TY  - JOUR
+AU  - Borg, A
+AU  - Jobs, B
+AU  - Huss, V
+AU  - Gentline, C
+AU  - Espinosa, F
+AU  - Ruiz, M
+AU  - Edelbring, S
+AU  - Georg, C
+AU  - Skantze, G
+AU  - Parodis, I
+TI  - Enhancing clinical reasoning skills for medical students: a qualitative comparison of LLM-powered social robotic versus computer-based virtual patients within rheumatology
+T2  - RHEUMATOLOGY INTERNATIONAL
+SN  - 0172-8172
+SN  - 1437-160X
+DA  - DEC
+PY  - 2024
+VL  - 44
+IS  - 12
+SP  - 3041
+EP  - 3051
+DO  - 10.1007/s00296-024-05731-0
+C6  - OCT 2024
+AN  - WOS:001333438500001
+ER  -
+
+TY  - CPAPER
+AU  - Tur, AD
+AU  - Moumen, A
+AU  - Ravanelli, M
+A1  - IEEE
+TI  - PROGRES: PROMPTED GENERATIVE RESCORING ON ASR N-BEST
+T2  - 2024 IEEE SPOKEN LANGUAGE TECHNOLOGY WORKSHOP, SLT
+CP  - 2024 Spoken Language Technology Workshop
+SN  - 2639-5479
+SN  - 979-8-3503-9226-5
+SN  - 979-8-3503-9225-8
+PY  - 2024
+SP  - 600
+EP  - 607
+DO  - 10.1109/SLT61566.2024.10832194
+AN  - WOS:001440556800081
+ER  -
+
+TY  - CPAPER
+AU  - Yeh, HH
+AU  - Huang, YL
+AU  - Park, Z
+AU  - Chen, CC
+A1  - ACM
+TI  - Automation of Text-Based Economic Indicator Construction: A Pilot Exploration on Economic Policy Uncertainty Index
+T2  - PROCEEDINGS OF THE 33RD ACM INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT, CIKM 2024
+CP  - 33rd ACM International Conference on Information and Knowledge Management (CIKM)
+SN  - 979-8-4007-0436-9
+PY  - 2024
+SP  - 4213
+EP  - 4217
+DO  - 10.1145/3627673.3679877
+AN  - WOS:001349579604067
+ER  -
+
+TY  - JOUR
+AU  - Dey, M
+AU  - Remiszewski, P
+AU  - Piatkowski, J
+AU  - Golik, P
+AU  - Teterycz, P
+AU  - Czarnecka, AM
+TI  - MicroRNA bioinformatics in precision oncology: an integrated pipeline from NGS to AI-based target discovery
+T2  - JOURNAL OF APPLIED GENETICS
+SN  - 1234-1983
+SN  - 2190-3883
+DA  - 2025 OCT 31
+PY  - 2025
+DO  - 10.1007/s13353-025-01024-9
+C6  - OCT 2025
+AN  - WOS:001604808900001
+ER  -
+
+TY  - JOUR
+AU  - Goswami, P
+AU  - Raman, RKS
+AU  - Alankar, A
+TI  - Machine Learning Strategies to Circumvent Variabilities in Chemical Vapour-Deposited Graphene Coatings for Remarkable Corrosion Resistance of Metals
+T2  - SMALL STRUCTURES
+SN  - 2688-4062
+DA  - FEB
+PY  - 2026
+VL  - 7
+IS  - 2
+C7  - e202500720
+DO  - 10.1002/sstr.202500720
+AN  - WOS:001709833800045
+ER  -
+
+TY  - JOUR
+AU  - Rodriguez-Coffinet, L
+AU  - Kazmin, D
+AU  - Pulendran, B
+TI  - Assessing AI's cognitive abilities for scientific discovery in the field of systems vaccinology
+T2  - SCIENCE IMMUNOLOGY
+SN  - 2470-9468
+DA  - DEC 5
+PY  - 2025
+VL  - 10
+IS  - 114
+C7  - eadx1794
+DO  - 10.1126/sciimmunol.adx1794
+AN  - WOS:001631184500002
+ER  -
+
+TY  - JOUR
+AU  - Soetikno, BT
+AU  - Nielsen, CS
+AU  - Pollreisz, A
+AU  - Ting, DSW
+TI  - Toward autonomous discovery: agentic AI and the future of ophthalmic research
+T2  - CURRENT OPINION IN OPHTHALMOLOGY
+SN  - 1040-8738
+SN  - 1531-7021
+DA  - JAN
+PY  - 2026
+VL  - 37
+IS  - 1
+SP  - 60
+EP  - 65
+DO  - 10.1097/ICU.0000000000001179
+AN  - WOS:001633562800001
+ER  -
+
+TY  - JOUR
+AU  - Sheng, JT
+AU  - Ahn, JY
+AU  - Yang, L
+AU  - Wan, ZH
+AU  - Qi, SH
+AU  - Yu, XH
+AU  - Xu, Z
+AU  - Cao, YL
+AU  - Vasquez, M
+AU  - Irfan, A
+AU  - Zhu, YY
+AU  - Zhao, H
+AU  - Yin, Z
+AU  - Zhu, Y
+AU  - Ding, YF
+AU  - Faridar, A
+AU  - Wang, L
+AU  - Liu, FS
+AU  - Wang, HX
+AU  - Ji, ZG
+AU  - Mao, DX
+AU  - Chan, MC
+AU  - Kermany, D
+AU  - Dong, WJ
+AU  - Kim, DY
+AU  - Zhang, XHF
+AU  - Wong, STC
+TI  - iS2C2: a cointelligent platform for mechanistic discovery of disease cellular crosstalk
+T2  - SIGNAL TRANSDUCTION AND TARGETED THERAPY
+SN  - 2095-9907
+SN  - 2059-3635
+DA  - MAY 11
+PY  - 2026
+VL  - 11
+IS  - 1
+C7  - 172
+DO  - 10.1038/s41392-026-02691-8
+C6  - MAY 2026
+AN  - WOS:001761653400001
+ER  -
+
+TY  - JOUR
+AU  - Li, X
+AU  - Amirmoshiri, R
+AU  - Davis, CR
+AU  - Muthancheri, I
+AU  - de Gombert, A
+AU  - Moayedpour, S
+AU  - Jager, S
+AU  - Rötheli, AR
+AU  - Jangjou, Y
+TI  - Mechanistic Exploration and Kinetic Modeling Through In Silico Data Generation and Probabilistic Machine Learning Analysis
+T2  - INDUSTRIAL & ENGINEERING CHEMISTRY RESEARCH
+SN  - 0888-5885
+SN  - 1520-5045
+DA  - MAR 7
+PY  - 2025
+VL  - 64
+IS  - 13
+SP  - 6825
+EP  - 6837
+DO  - 10.1021/acs.iecr.4c04301
+C6  - MAR 2025
+AN  - WOS:001440364500001
+ER  -
+
+TY  - CPAPER
+AU  - Ren, YP
+AU  - Zhou, XY
+AU  - Zhang, N
+AU  - Zhao, SQ
+AU  - Lan, M
+AU  - Bai, XP
+ED  - Che, W
+ED  - Nabende, J
+ED  - Shutova, E
+ED  - Pilehvar, MT
+TI  - Towards Comprehensive Argument Analysis in Education: Dataset, Tasks, and Method
+T2  - PROCEEDINGS OF THE 63RD ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, VOL 1: LONG PAPERS
+CP  - 63rd Association for Computational Linguistics Meeting-ACL-Annual
+SN  - 979-8-89176-251-0
+PY  - 2025
+SP  - 14215
+EP  - 14231
+AN  - WOS:001611618300055
+ER  -
+
+TY  - CPAPER
+AU  - Vasu, R
+AU  - Sarasua, C
+AU  - Bernstein, A
+ED  - Demartini, G
+ED  - Hose, K
+ED  - Acosta, M
+ED  - Palmonari, M
+ED  - Cheng, G
+ED  - Skaf-Molli, H
+ED  - Ferranti, N
+ED  - Hernandez, D
+ED  - Hogan, A
+TI  - SciHyp: A Fine-Grained Dataset Describing Hypotheses and Their Components from Scientific Articles
+T2  - SEMANTIC WEB-ISWC 2024, PT III
+CP  - 23rd International Semantic Web Conference-ISWC-Annual
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 978-3-031-77846-9
+SN  - 978-3-031-77847-6
+PY  - 2025
+VL  - 15233
+SP  - 134
+EP  - 152
+DO  - 10.1007/978-3-031-77847-6_8
+AN  - WOS:001542412700008
+ER  -
+
+TY  - CPAPER
+AU  - Gautam, A
+AU  - Patton, R
+AU  - Potok, T
+AU  - Kannan, R
+AU  - Aimone, J
+AU  - Severa, W
+A1  - ACM
+TI  - AI-Powered Knowledge Graphs for Neuromorphic and Energy-Efficient Computing
+T2  - PROCEEDINGS OF THE GREAT LAKES SYMPOSIUM ON VLSI 2025, GLSVLSI 2025
+CP  - 35th Great Lakes Symposium on VLSI-GLSVLSI
+SN  - 979-8-4007-1496-2
+PY  - 2025
+SP  - 996
+EP  - 1001
+DO  - 10.1145/3716368.3735295
+AN  - WOS:001596652300153
+ER  -
+
+TY  - JOUR
+AU  - Tejedor-Estupiñán, JM
+AU  - Danna-Buitrago, JP
+TI  - AI and the New Era of Economic Research
+T2  - APUNTES DEL CENES
+SN  - 0120-3053
+SN  - 2256-5779
+DA  - JUL-DEC
+PY  - 2025
+VL  - 44
+IS  - 80
+SP  - 73
+EP  - 108
+DO  - 10.19053/uptc.01203053.v44.n80.2025.18993
+AN  - WOS:001606070100004
+ER  -
+
+TY  - JOUR
+AU  - Lei, G
+AU  - Cooper, SJ
+TI  - Do Llamas understand the periodic table?
+T2  - DIGITAL DISCOVERY
+SN  - 2635-098X
+DA  - DEC 3
+PY  - 2025
+VL  - 4
+IS  - 12
+DO  - 10.1039/d5dd00374a
+C6  - OCT 2025
+AN  - WOS:001599302100001
+ER  -
+
+TY  - CPAPER
+AU  - Liu, YC
+AU  - Hadfi, R
+AU  - Ito, T
+ED  - Hao, D
+ED  - Li, B
+ED  - Nath, S
+ED  - Todo, T
+ED  - Zhao, D
+TI  - Proposal of a Double Feedback Digital Product Ranking System
+T2  - MECHANISM DESIGN IN SOCIAL NETWORKS, MNET 2024
+CP  - 1st International Workshop on Mechanism Design in Social Networks
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 978-981-96-0213-1
+SN  - 978-981-96-0214-8
+PY  - 2025
+VL  - 2210
+SP  - 52
+EP  - 64
+DO  - 10.1007/978-981-96-0214-8_4
+AN  - WOS:001445765600004
+ER  -
+
+TY  - CPAPER
+AU  - Yu, HF
+AU  - Hong, ZC
+AU  - Cheng, ZR
+AU  - Zhu, KL
+AU  - Xuan, KY
+AU  - Yao, JW
+AU  - Feng, T
+AU  - You, JX
+ED  - Singh, A
+ED  - Fazel, M
+ED  - Hsu, D
+ED  - Lacoste-Julien, S
+ED  - Berkenkamp, F
+ED  - Maharaj, T
+ED  - Wagstaff, K
+ED  - Zhu, J
+TI  - RESEARCHTOWN: Simulator of Human Research Community
+T2  - INTERNATIONAL CONFERENCE ON MACHINE LEARNING
+CP  - 42nd International Conference on Machine Learning-ICML-Annual
+SN  - 2640-3498
+PY  - 2025
+VL  - 267
+SP  - 73051
+EP  - 73096
+AN  - WOS:001693170600224
+ER  -
+
+TY  - CPAPER
+AU  - Moussa, S
+A1  - IEEE
+TI  - Testing Autonomous Driving Systems Through Blind-Spot Guided Fuzzing
+T2  - 2025 40TH IEEE/ACM INTERNATIONAL CONFERENCE ON AUTOMATED SOFTWARE ENGINEERING, ASE
+CP  - 40th International Conference on Automated Software Engineering-ASE
+SN  - 1527-1366
+SN  - 979-8-3503-5734-9
+SN  - 979-8-3503-5733-2
+PY  - 2025
+SP  - 4141
+EP  - 4144
+DO  - 10.1109/ASE63991.2025.00396
+AN  - WOS:001706323100386
+ER  -
+
+TY  - CPAPER
+AU  - Mohammad, AF
+AU  - Ahmed, W
+AU  - Almekhlafi, AG
+AU  - Alzahmi, S
+AU  - Al-Marzouqi, AH
+AU  - Alrabaee, S
+AU  - Zaneldin, E
+A1  - IEEE
+TI  - The Role of AI in Advancing Scientific Research from Hypothesis to Publication
+T2  - 2025 IEEE 19TH INTERNATIONAL CONFERENCE ON APPLICATION OF INFORMATION AND COMMUNICATION TECHNOLOGIES, AICT
+CP  - 19th IEEE International Conference on Application of Information and Communication Technologies-AICT
+SN  - 2378-8232
+SN  - 2472-8586
+SN  - 979-8-3315-9343-8
+SN  - 979-8-3315-9342-1
+PY  - 2025
+DO  - 10.1109/AICT67988.2025.11268778
+AN  - WOS:001719954700064
+ER  -
+
+TY  - JOUR
+AU  - Oppenlaender, J
+AU  - Hämäläinen, J
+TI  - Mapping the Challenges of HCI: An Application and Evaluation of ChatGPT for Mining Insights at Scale
+T2  - INTERNATIONAL JOURNAL OF HUMAN-COMPUTER INTERACTION
+SN  - 1044-7318
+SN  - 1532-7590
+DA  - 2026 APR 2
+PY  - 2026
+DO  - 10.1080/10447318.2026.2647543
+C6  - APR 2026
+AN  - WOS:001733421200001
+ER  -
+
+TY  - JOUR
+AU  - Jadhav, AV
+AU  - Masrouri, M
+AU  - Qin, Z
+TI  - ResearchConnect: An AI-Powered Platform for Interdisciplinary Research Team Formation and Ideation Development
+T2  - ADVANCED INTELLIGENT SYSTEMS
+SN  - 2640-4567
+DA  - MAY
+PY  - 2026
+VL  - 8
+IS  - 5
+DO  - 10.1002/aisy.202501399
+C6  - MAR 2026
+AN  - WOS:001711026100001
+ER  -
+
+TY  - JOUR
+AU  - Kanungo, SS
+AU  - Samarpita, S
+AU  - Biswal, R
+TI  - MULTI-AGENT AI IN GENETICS AND MOLECULAR BIOLOGY: A REVIEW OF EMERGING ARCHITECTURES , APPLICATIONS AND FUTURE DIRECTIONS
+T2  - GENETICS AND MOLECULAR RESEARCH
+SN  - 1676-5680
+DA  - JUN 2
+PY  - 2026
+VL  - 25
+IS  - 6
+C7  - y19
+DO  - 10.4238/k54x7y19
+AN  - WOS:001795621600001
+ER  -
+
+TY  - JOUR
+AU  - Helmy, M
+AU  - Shafei, F
+AU  - Pellegrina, D
+AU  - Jin, LL
+AU  - Alhossary, A
+AU  - Wilson, HL
+AU  - Mansour, T
+AU  - Selvarajoo, K
+TI  - AI-driven discovery in protein science for immunology and infectious disease research
+T2  - FRONTIERS IN BIOINFORMATICS
+SN  - 2673-7647
+DA  - APR 13
+PY  - 2026
+VL  - 6
+C7  - 1760257
+DO  - 10.3389/fbinf.2026.1760257
+C6  - APR 2026
+AN  - WOS:001748871400001
+ER  -
+
+TY  - JOUR
+AU  - Guo, RF
+AU  - Chang, ZJ
+AU  - Fu, LJ
+TI  - MetricDraft: A Metric-Driven Framework for Academic Paper Draft Generation and Iterative Optimization
+T2  - APPLIED SCIENCES-BASEL
+SN  - 2076-3417
+DA  - JUN 8
+PY  - 2026
+VL  - 16
+IS  - 12
+C7  - 5780
+DO  - 10.3390/app16125780
+C6  - JUN 2026
+AN  - WOS:001801900800001
+ER  -
+
+TY  - JOUR
+AU  - Li, DY
+AU  - Liang, YY
+AU  - Qian, SY
+AU  - Sun, YF
+AU  - Wu, HG
+AU  - Jia, W
+AU  - Han, WJ
+AU  - Fu, YL
+TI  - Advanced technology-driven few-shot relation extraction: Challenges, opportunities, and future outlook
+T2  - ENGINEERING APPLICATIONS OF ARTIFICIAL INTELLIGENCE
+SN  - 0952-1976
+SN  - 1873-6769
+DA  - JUL 15
+PY  - 2026
+VL  - 176
+C7  - 114705
+DO  - 10.1016/j.engappai.2026.114705
+AN  - WOS:001738087300001
+ER  -
+
+TY  - CPAPER
+AU  - Signé, Q
+ED  - Campos, R
+ED  - Jatowt, A
+ED  - Lan, Y
+ED  - Aliannejadi, M
+ED  - Bauer, C
+ED  - MacAvaney, S
+ED  - Anand, A
+ED  - Ren, Z
+ED  - Verberne, S
+ED  - Bai, N
+ED  - Mansoury, M
+TI  - Speculative Retrieval-Augmented Generation for Faithful Question Answering in Aircraft Maintenance
+T2  - ADVANCES IN INFORMATION RETRIEVAL, ECIR 2026, PT III
+CP  - 48th European Conference on Information Retrieval-ECIR-Annual
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 978-3-032-21323-5
+SN  - 978-3-032-21324-2
+PY  - 2026
+VL  - 16485
+SP  - 593
+EP  - 598
+DO  - 10.1007/978-3-032-21324-2_50
+AN  - WOS:001762013700050
+ER  -
+
+TY  - JOUR
+AU  - Aygün, E
+AU  - Belyaeva, A
+AU  - Comanici, G
+AU  - Coram, M
+AU  - Cui, H
+AU  - Garrison, J
+AU  - Johnston, R
+AU  - Kast, A
+AU  - McLean, CY
+AU  - Norgaard, P
+AU  - Shamsi, Z
+AU  - Smalling, D
+AU  - Thompson, J
+AU  - Venugopalan, S
+AU  - Williams, BP
+AU  - He, CJ
+AU  - Martinson, S
+AU  - Plomecka, M
+AU  - Wei, L
+AU  - Zhou, YC
+AU  - Zhu, QZ
+AU  - Abraham, M
+AU  - Brand, E
+AU  - Bulanova, A
+AU  - Cardille, JA
+AU  - Co, C
+AU  - Ellsworth, S
+AU  - Joseph, G
+AU  - Kane, M
+AU  - Krueger, R
+AU  - Kartiwa, J
+AU  - Liebling, D
+AU  - Lueckmann, JM
+AU  - Raccuglia, P
+AU  - Wang, XJ
+AU  - Chou, K
+AU  - Manyika, J
+AU  - Matias, Y
+AU  - Platt, JC
+AU  - Dorfman, L
+AU  - Mourad, S
+AU  - Brenner, MP
+TI  - An AI system to help scientists write expert-level empirical software
+T2  - NATURE
+SN  - 0028-0836
+SN  - 1476-4687
+DA  - JUN 25
+PY  - 2026
+VL  - 654
+IS  - 8120
+DO  - 10.1038/s41586-026-10658-6
+C6  - MAY 2026
+AN  - WOS:001795345600001
+ER  -
+
+TY  - JOUR
+AU  - Sror, G
+AU  - Etzyoni, G
+AU  - Fire, M
+AU  - Berkovich, R
+AU  - Rokach, L
+AU  - Herskowitz, M
+TI  - AI-driven methodology for mining scientific literature and extracting databases: A case study on a chemical process
+T2  - ENERGY AND AI
+SN  - 2666-5468
+DA  - MAY
+PY  - 2026
+VL  - 24
+C7  - 100741
+DO  - 10.1016/j.egyai.2026.100741
+AN  - WOS:001741851300001
+ER  -
+
+TY  - CPAPER
+AU  - Burgess, J
+AU  - Nirschl, JJ
+AU  - Bravo-Sánchez, L
+AU  - Lozano, A
+AU  - Gupte, SR
+AU  - Galaz-Montoya, JG
+AU  - Zhang, YH
+AU  - Su, YC
+AU  - Bhowmik, D
+AU  - Coman, Z
+AU  - Hasan, SM
+AU  - Johannesson, A
+AU  - Leineweber, WD
+AU  - Nair, MG
+AU  - Yarlagadda, R
+AU  - Zuraski, C
+AU  - Chiu, W
+AU  - Cohen, S
+AU  - Hansen, JN
+AU  - Leonetti, MD
+AU  - Liu, C
+AU  - Lundberg, E
+AU  - Yeung-Levy, S
+A1  - IEEE COMPUTER SOC
+TI  - MicroVQA: A Multimodal Reasoning Benchmark for Microscopy-Based Scientific Research
+T2  - 2025 IEEE/CVF CONFERENCE ON COMPUTER VISION AND PATTERN RECOGNITION (CVPR)
+CP  - 2025 Conference on Computer Vision and Pattern Recognition-CVPR-Annual
+SN  - 1063-6919
+SN  - 979-8-3315-4365-5
+SN  - 979-8-3315-4364-8
+PY  - 2025
+SP  - 19552
+EP  - 19564
+DO  - 10.1109/CVPR52734.2025.01821
+AN  - WOS:001601158200144
+ER  -
+
+TY  - JOUR
+AU  - Kaufman, M
+AU  - Pham, N
+AU  - Levin, J
+TI  - Evaluating the utility of using ChatGPT 3.5 to generate research ideas for non-operative spine medicine
+T2  - JOURNAL OF MEDICAL ARTIFICIAL INTELLIGENCE
+SN  - 2617-2496
+DA  - DEC 30
+PY  - 2025
+VL  - 8
+C7  - 30
+DO  - 10.21037/jmai-24-480
+AN  - WOS:001532550700017
+ER  -
+
+TY  - CPAPER
+AU  - Xu, PP
+AU  - Wang, YD
+AU  - Park, Y
+AU  - Zhang, YY
+AU  - Marcus, S
+AU  - Cheong, LL
+AU  - Karypis, G
+A1  - ACM
+TI  - KDD 2025Workshop on Inference Optimization for Generative AI
+T2  - PROCEEDINGS OF THE 31ST ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING V.2, KDD 2025
+CP  - 31st International Conference on Knowledge Discovery and Data Mining-KDD
+SN  - 979-8-4007-1454-2
+PY  - 2025
+SP  - 6302
+EP  - 6303
+DO  - 10.1145/3711896.3737865
+AN  - WOS:001592428900585
+ER  -
+
+TY  - JOUR
+AU  - Chen, S
+AU  - Zhang, CZ
+TI  - Enhancing research idea generation through combinatorial innovation and multi-agent iterative search strategies
+T2  - SCIENTOMETRICS
+SN  - 0138-9130
+SN  - 1588-2861
+DA  - 2026 MAY 16
+PY  - 2026
+DO  - 10.1007/s11192-026-05654-6
+C6  - MAY 2026
+AN  - WOS:001768000700001
+ER  -
+
+TY  - JOUR
+AU  - Ali, S
+AU  - Oprea, SV
+AU  - Bâra, A
+TI  - Agentic AI for Price-Only 15 min SDAC Market Diagnostics in Central and Eastern Europe
+T2  - APPLIED SYSTEM INNOVATION
+SN  - 2571-5577
+DA  - APR 29
+PY  - 2026
+VL  - 9
+IS  - 5
+C7  - 93
+DO  - 10.3390/asi9050093
+C6  - APR 2026
+AN  - WOS:001774039000001
+ER  -
+
+TY  - JOUR
+AU  - da Silveira, CAB
+AU  - Rasador, ACD
+AU  - Nogueira, R
+AU  - Takeuchi, M
+AU  - Kitagawa, Y
+AU  - Malcher, F
+AU  - Heniford, BT
+AU  - Lima, DL
+TI  - The Evolving Role of ChatGPT (Chat-Generative Pre-Trained Transformer) in General Surgery: A Systematic Review
+T2  - JOURNAL OF LAPAROENDOSCOPIC & ADVANCED SURGICAL TECHNIQUES
+SN  - 1092-6429
+SN  - 1557-9034
+DA  - FEB 1
+PY  - 2026
+VL  - 36
+IS  - 2
+SP  - 141
+EP  - 149
+DO  - 10.1177/10926429251408802
+C6  - JAN 2026
+AN  - WOS:001657442500001
+ER  -
+
+TY  - JOUR
+AU  - Kim, H
+AU  - Kwon, T
+AU  - Kim, SU
+AU  - Kim, SK
+TI  - Virtual lab of artificial intelligence agents accelerating nanobody design against SARS-CoV-2 variants
+T2  - INTERNATIONAL JOURNAL OF BIOLOGICAL SCIENCES
+SN  - 1449-2288
+PY  - 2026
+VL  - 22
+IS  - 2
+SP  - 618
+EP  - 621
+DO  - 10.7150/ijbs.126093
+AN  - WOS:001656677700007
+ER  -
+
+TY  - JOUR
+AU  - Fort, G
+AU  - Stone, D
+AU  - Lin, CN
+AU  - Young, A
+AU  - Tan, AC
+TI  - irAE.AI: AI-powered exploration of real-world immune-related adverse events
+T2  - JAMIA OPEN
+SN  - 2574-2531
+DA  - JUN
+PY  - 2026
+VL  - 9
+IS  - 3
+C7  - ooag094
+DO  - 10.1093/jamiaopen/ooag094
+AN  - WOS:001791874200001
+ER  -
+
+TY  - JOUR
+AU  - Li, QR
+AU  - Amat, KR
+AU  - Johnson, EL
+AU  - Li, J
+TI  - Modeling Diabetes Risk and Progression With Public Health Data: Ontology-Guided, Simulation-Capable Digital Twin Study
+T2  - JMIR MEDICAL INFORMATICS
+SN  - 2291-9694
+PY  - 2026
+VL  - 14
+C7  - e87374
+DO  - 10.2196/87374
+AN  - WOS:001755074500001
+ER  -
+
+TY  - JOUR
+AU  - Yang, ZZ
+AU  - Veith, GM
+AU  - Son, SB
+AU  - Ingram, B
+TI  - Accelerating battery materials discovery with an agentic AI for automated XPS analysis integrating physical constraints and chemometrics
+T2  - ENERGY AND AI
+SN  - 2666-5468
+DA  - SEP
+PY  - 2026
+VL  - 25
+C7  - 100796
+DO  - 10.1016/j.egyai.2026.100796
+AN  - WOS:001804105800001
+ER  -
+
+TY  - JOUR
+AU  - Sridharan, K
+AU  - Sivaramakrishnan, G
+TI  - Leveraging artificial intelligence to detect ethical concerns in medical research: a case study
+T2  - JOURNAL OF MEDICAL ETHICS
+SN  - 0306-6800
+SN  - 1473-4257
+DA  - FEB
+PY  - 2025
+VL  - 51
+IS  - 2
+SP  - 126
+EP  - 134
+DO  - 10.1136/jme-2023-109767
+C6  - FEB 2024
+AN  - WOS:001177972600001
+ER  -
+
+TY  - JOUR
+AU  - Chartier-Edwards, N
+AU  - Grenier, E
+AU  - Goujon, V
+TI  - Galactica's dis-assemblage: Meta's beta and the omega of post-human science
+T2  - AI & SOCIETY
+SN  - 0951-5666
+SN  - 1435-5655
+DA  - APR
+PY  - 2025
+VL  - 40
+IS  - 4
+SP  - 2069
+EP  - 2081
+DO  - 10.1007/s00146-024-02088-7
+C6  - OCT 2024
+AN  - WOS:001324154200001
+ER  -
+
+TY  - CPAPER
+AU  - Ruiz, FV
+A1  - Assoc Computing Machinery
+TI  - Agent-Driven Automatic Software Improvement
+T2  - PROCEEDINGS OF 2024 28TH INTERNATION CONFERENCE ON EVALUATION AND ASSESSMENT IN SOFTWARE ENGINEERING, EASE 2024
+CP  - 28th International Conference on Evaluation and Assessment in Software Engineering (EASE)
+SN  - 979-8-4007-1701-7
+PY  - 2024
+SP  - 470
+EP  - 475
+DO  - 10.1145/3661167.3661171
+AN  - WOS:001253340600065
+ER  -
+
+TY  - CPAPER
+AU  - Jin, ZJ
+AU  - Chen, Y
+AU  - Leeb, F
+AU  - Gresele, L
+AU  - Kamal, O
+AU  - Lyu, ZH
+AU  - Blin, K
+AU  - Gonzalez, F
+AU  - Kleiman-Weiner, M
+AU  - Sachan, M
+AU  - Schölkopf, B
+ED  - Oh, A
+ED  - Neumann, T
+ED  - Globerson, A
+ED  - Saenko, K
+ED  - Hardt, M
+ED  - Levine, S
+TI  - CLADDER: Assessing Causal Reasoning in Language Models
+T2  - ADVANCES IN NEURAL INFORMATION PROCESSING SYSTEMS 36 (NEURIPS 2023)
+CP  - 37th Conference on Neural Information Processing Systems (NeurIPS)
+SN  - 1049-5258
+PY  - 2023
+AN  - WOS:001220600002039
+ER  -
+
+TY  - CPAPER
+AU  - Aly, R
+AU  - Tang, ZQ
+AU  - Tan, S
+AU  - Karypis, G
+ED  - Ku, LW
+ED  - Martins, A
+ED  - Srikumar, V
+TI  - Learning to Generate Answers with Citations via Factual Consistency Models
+T2  - PROCEEDINGS OF THE 62ND ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, VOL 1: LONG PAPERS
+CP  - 62nd Annual Meeting of the Association-for-Computational-Linguistics (ACL) / Student Research Workshop (SRW)
+SN  - 979-8-89176-094-3
+PY  - 2024
+SP  - 11876
+EP  - 11896
+AN  - WOS:001391776303003
+ER  -
+
+TY  - CPAPER
+AU  - Nigam, H
+AU  - Patwardhan, M
+AU  - Vig, L
+AU  - Shroff, G
+ED  - Blodgett, SL
+ED  - Curry, AC
+ED  - Dev, S
+ED  - Madaio, M
+ED  - Nenkova, A
+ED  - Yang, D
+ED  - Xiao, Z
+TI  - An Interactive Co-Pilot for Accelerated Research Ideation
+T2  - PROCEEDINGS OF THE THIRD WORKSHOP ON BRIDGING HUMAN--COMPUTER INTERACTION AND NATURAL LANGUAGE PROCESSING
+CP  - 3rd Workshop on Bridging Human Computer Interaction and Natural Language Processing-HCI+NLP
+SN  - 979-8-89176-111-7
+PY  - 2024
+SP  - 60
+EP  - 73
+AN  - WOS:001596065400006
+ER  -
+
+TY  - CPAPER
+AU  - Lehmann, J
+AU  - Gattogi, P
+AU  - Bhandiwad, D
+AU  - Ferré, S
+AU  - Vahdati, S
+ED  - Gal, K
+ED  - Nowe, A
+ED  - Nalepa, GJ
+ED  - Fairstein, R
+ED  - Radulescu, R
+TI  - Language Models as Controlled Natural Language Semantic Parsers for Knowledge Graph Question Answering
+T2  - 26TH EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE, ECAI 2023
+CP  - 26th European Conference on Artificial Intelligence-ECAI-Biennial
+SN  - 0922-6389
+SN  - 1879-8314
+SN  - 978-1-64368-436-9
+SN  - 978-1-64368-437-6
+PY  - 2023
+VL  - 372
+SP  - 1348
+EP  - 1356
+DO  - 10.3233/FAIA230411
+AN  - WOS:001599323300165
+ER  -
+
+TY  - JOUR
+AU  - Lotz, JC
+AU  - Ropella, G
+AU  - Anderson, P
+AU  - Yang, Q
+AU  - Hedderich, MA
+AU  - Bailey, J
+AU  - Hunt, CA
+TI  - An exploration of knowledge-organizing technologies to advance transdisciplinary back pain research
+T2  - JOR SPINE
+SN  - 2572-1143
+DA  - DEC
+PY  - 2023
+VL  - 6
+IS  - 4
+DO  - 10.1002/jsp2.1300
+C6  - NOV 2023
+AN  - WOS:001118387100001
+ER  -
+
+TY  - JOUR
+AU  - Qu, SJ
+AU  - Liu, L
+AU  - Zhou, M
+AU  - Zhou, CT
+AU  - Campy, KS
+TI  - Factors influencing Chinese doctors to use medical large language models
+T2  - DIGITAL HEALTH
+SN  - 2055-2076
+PY  - 2024
+VL  - 10
+C7  - 20552076241297237
+DO  - 10.1177/20552076241297237
+AN  - WOS:001393036900001
+ER  -
+
+TY  - JOUR
+AU  - Yang, JX
+AU  - Li, YX
+AU  - Zhao, GP
+AU  - Wang, Y
+AU  - Zhang, FS
+AU  - Cao, RF
+AU  - Chen, YY
+AU  - Chen, YP
+AU  - Chen, YX
+TI  - Leveraging knowledge graphs and large language models for integrating molecular variants and clinical insights in COVID-19 research
+T2  - BIOSAFETY AND HEALTH
+SN  - 2096-6962
+SN  - 2590-0536
+DA  - FEB
+PY  - 2026
+VL  - 8
+IS  - 1
+SP  - 71
+EP  - 79
+DO  - 10.1016/j.bsheal.2025.12.003
+AN  - WOS:001698586800001
+ER  -
+
+TY  - JOUR
+AU  - Chiu, H
+AU  - Varghese, A
+AU  - Shao, KM
+AU  - Lu, Y-C
+AU  - Nahar, R
+AU  - Chen, H
+AU  - Deng, Q
+AU  - Bao, XP
+AU  - Li, C
+TI  - scChat: A large language model-powered co-pilot for contextualized single-cell RNA sequencing analysis
+T2  - AICHE JOURNAL
+SN  - 0001-1541
+SN  - 1547-5905
+DA  - JUN
+PY  - 2026
+VL  - 72
+IS  - 6
+DO  - 10.1002/aic.70285
+C6  - FEB 2026
+AN  - WOS:001686430000001
+ER  -
+
+TY  - CPAPER
+AU  - Yang, ZL
+AU  - Du, XY
+AU  - Li, JX
+AU  - Zheng, J
+AU  - Poria, S
+AU  - Cambria, E
+ED  - Martins, A
+ED  - Srikumar, V
+ED  - Ku, LW
+TI  - Large Language Models for Automated Open-domain Scientific Hypotheses Discovery
+T2  - FINDINGS OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS: ACL 2024
+CP  - 62nd Annual Meeting of the Association-for-Computational-Linguistics (ACL) / Student Research Workshop (SRW)
+SN  - 979-8-89176-099-8
+PY  - 2024
+SP  - 13545
+EP  - 13565
+AN  - WOS:001391786805018
+ER  -
+
+TY  - JOUR
+AU  - Bin Faheem, A
+AU  - Han, ZY
+AU  - Wu, DS
+AU  - Li, HB
+TI  - AI-Driven Big Data Frameworks for Electrode-Electrolyte Interphases in Batteries
+T2  - ADVANCED MATERIALS
+SN  - 0935-9648
+SN  - 1521-4095
+DA  - FEB
+PY  - 2026
+VL  - 38
+IS  - 11
+DO  - 10.1002/adma.202521975
+C6  - JAN 2026
+AN  - WOS:001658053300001
+ER  -
+
+TY  - JOUR
+AU  - Kim, J
+AU  - Chen, ML
+AU  - Rezaei, SJ
+AU  - Ramirez-Posada, M
+AU  - Caswell-Jin, JL
+AU  - Kurian, AW
+AU  - Riaz, F
+AU  - Sarin, KY
+AU  - Tang, JY
+AU  - Asch, SM
+AU  - Linos, E
+TI  - Patient-Centered Research Through Artificial Intelligence to Identify Priorities in Cancer Care
+T2  - JAMA ONCOLOGY
+SN  - 2374-2437
+SN  - 2374-2445
+DA  - JUN
+PY  - 2025
+VL  - 11
+IS  - 6
+SP  - 630
+EP  - 635
+DO  - 10.1001/jamaoncol.2025.0694
+C6  - APR 2025
+AN  - WOS:001475897300001
+ER  -
+
+TY  - JOUR
+AU  - Yang, S
+AU  - Ge, SL
+AU  - Liu, ZY
+AU  - Chen, JY
+AU  - Chang, FF
+AU  - Shen, JM
+AU  - Wu, FF
+AU  - Sun, XY
+AU  - Wang, ZQ
+AU  - Li, Y
+AU  - Zhang, MM
+AU  - Chen, RJ
+AU  - Feng, TJ
+AU  - Yin, T
+AU  - Fu, PC
+AU  - Chen, M
+AU  - Yin, PB
+AU  - Hao, LB
+TI  - Exosome-enabled bone defect repair: mechanistic foundations, bioengineered delivery, and artificial intelligence-driven translation
+T2  - JOURNAL OF NANOBIOTECHNOLOGY
+SN  - 1477-3155
+DA  - MAR 1
+PY  - 2026
+VL  - 24
+IS  - 1
+C7  - 320
+DO  - 10.1186/s12951-026-04176-w
+C6  - MAR 2026
+AN  - WOS:001734857300001
+ER  -
+
+TY  - JOUR
+AU  - Lai, Y
+AU  - Zhao, HX
+TI  - Comparative analysis of smart city scientific research trends in the USA and China
+T2  - NATURE CITIES
+SN  - 2731-9997
+DA  - SEP
+PY  - 2025
+VL  - 2
+IS  - 9
+SP  - 875
+EP  - 883
+DO  - 10.1038/s44284-025-00305-y
+AN  - WOS:001630929300017
+ER  -
+
+TY  - JOUR
+AU  - Zhao, XX
+AU  - Liu, WK
+AU  - Yue, SS
+AU  - Chen, J
+AU  - Xia, D
+AU  - Bing, KJ
+AU  - Xia, XT
+AU  - Wang, KS
+TI  - Factors influencing medical students' adoption of AI educational agents: an extended UTAUT model
+T2  - BMC MEDICAL EDUCATION
+SN  - 1472-6920
+DA  - DEC
+PY  - 2025
+VL  - 25
+IS  - 1
+C7  - 1678
+DO  - 10.1186/s12909-025-08234-z
+AN  - WOS:001632132900001
+ER  -
+
+TY  - JOUR
+AU  - Kawakita, T
+AU  - Wong, MS
+AU  - Gibson, KS
+AU  - Gupta, M
+AU  - Gimovsky, AC
+AU  - Moussa, HN
+AU  - Hye, HJ
+A1  - Soc Maternal Fetal Med Clinical Informatics Comm
+TI  - Application of Generative AI to Enhance Obstetrics and Gynecology Research
+T2  - AMERICAN JOURNAL OF PERINATOLOGY
+SN  - 0735-1631
+SN  - 1098-8785
+DA  - DEC
+PY  - 2025
+VL  - 42
+IS  - 16
+SP  - 2094
+EP  - 2103
+DO  - 10.1055/a-2616-4182
+C6  - JUN 2025
+AN  - WOS:001506593800001
+ER  -
+
+TY  - JOUR
+AU  - Holm, S
+AU  - Zambrana, M
+AU  - Berner, JE
+AU  - Tabrisi, R
+AU  - Landström, F
+AU  - Hanoon, D
+AU  - Zdolsek, J
+TI  - Evaluating Artificial Intelligence's Role in Developing Research Questions in Head and Neck Reconstruction
+T2  - PLASTIC AND RECONSTRUCTIVE SURGERY-GLOBAL OPEN
+SN  - 2169-7574
+DA  - AUG
+PY  - 2025
+VL  - 13
+IS  - 8
+C7  - e7057
+DO  - 10.1097/GOX.0000000000007057
+AN  - WOS:001546773600001
+ER  -
+
+TY  - JOUR
+AU  - Uchmanowicz, I
+AU  - Jedrzejczyk, M
+AU  - Vellone, E
+AU  - Janczak, S
+AU  - Mirkowski, K
+AU  - Uchmanowicz, BM
+AU  - Czapla, M
+TI  - ChatGPT in cardiovascular medicine: revolution, hype, or helper?
+T2  - FRONTIERS IN PUBLIC HEALTH
+SN  - 2296-2565
+DA  - SEP 10
+PY  - 2025
+VL  - 13
+C7  - 1622561
+DO  - 10.3389/fpubh.2025.1622561
+AN  - WOS:001576864200001
+ER  -
+
+TY  - JOUR
+AU  - Ran, ZX
+AU  - Guo, XD
+AU  - Pan, T
+AU  - Bi, Y
+AU  - Hao, Y
+AU  - Sun, HY
+AU  - Song, JN
+AU  - Li, FY
+TI  - A scalable equivariant graph network framework for precise protein function prediction
+T2  - GENOME BIOLOGY
+SN  - 1474-760X
+DA  - NOV 29
+PY  - 2025
+VL  - 26
+IS  - 1
+C7  - 407
+DO  - 10.1186/s13059-025-03886-y
+AN  - WOS:001626741700001
+ER  -
+
+TY  - JOUR
+AU  - Zhou, TY
+AU  - Liu, Y
+AU  - Kumar, M
+AU  - Wang, SB
+TI  - Generative AI-enabled chatbots for user-centred design: a state-of-the-art review
+T2  - JOURNAL OF ENGINEERING DESIGN
+SN  - 0954-4828
+SN  - 1466-1837
+DA  - 2026 FEB 24
+PY  - 2026
+DO  - 10.1080/09544828.2026.2633488
+C6  - FEB 2026
+AN  - WOS:001702590600001
+ER  -
+
+TY  - JOUR
+AU  - Käser, J
+AU  - Nagy, T
+AU  - Stirnemann, P
+AU  - Hanne, T
+TI  - Multilingual Text Summarization in Healthcare Using Pre-Trained Transformer-Based Language Models
+T2  - CMC-COMPUTERS MATERIALS & CONTINUA
+SN  - 1546-2218
+SN  - 1546-2226
+PY  - 2025
+VL  - 83
+IS  - 1
+SP  - 201
+EP  - 217
+DO  - 10.32604/cmc.2025.061527
+AN  - WOS:001459656800001
+ER  -
+
+TY  - JOUR
+AU  - Felin, T
+AU  - Holweg, M
+TI  - Theory Is All You Need: AI, Human Cognition, and Causal Reasoning
+T2  - STRATEGY SCIENCE
+SN  - 2333-2050
+SN  - 2333-2077
+DA  - DEC
+PY  - 2024
+VL  - 9
+IS  - 4
+DO  - 10.1287/stsc.2024.0189
+C6  - DEC 2024
+AN  - WOS:001370619700001
+ER  -
+
+TY  - CPAPER
+AU  - Blin, I
+AU  - Tiddi, I
+AU  - Spadaro, G
+AU  - Ten Teije, A
+ED  - Pedreschi, D
+ED  - Milano, M
+ED  - Tiddi, I
+ED  - Russell, S
+ED  - Boldrini, C
+ED  - Pappalardo, L
+ED  - Passerini, A
+ED  - Wang, S
+TI  - Automated Hypothesis Generation for Human Cooperation Studies
+T2  - HHAI 2025
+CP  - 4th International Conference on Hybrid Human Artificial Intelligence-HHAI
+SN  - 0922-6389
+SN  - 1879-8314
+SN  - 978-1-64368-611-0
+PY  - 2025
+VL  - 408
+SP  - 353
+EP  - 368
+DO  - 10.3233/FAIA250652
+AN  - WOS:001753088500029
+ER  -
+
+TY  - CPAPER
+AU  - Xu, Y
+AU  - Fu, LY
+AU  - Sheng, SQ
+AU  - Xue, B
+AU  - Ding, JX
+AU  - Zhou, L
+AU  - Wang, XB
+AU  - Zhou, CH
+A1  - ACM
+TI  - DeepReport: An AI-assisted Idea Generation System for Scientific Research
+T2  - PROCEEDINGS OF THE 48TH INTERNATIONAL ACM SIGIR CONFERENCE ON RESEARCH AND DEVELOPMENT IN INFORMATION RETRIEVAL, SIGIR 2025
+CP  - 48th Conference on Research and Development in Information Retrieval-RDIR
+SN  - 979-8-4007-1592-1
+PY  - 2025
+SP  - 3969
+EP  - 3973
+DO  - 10.1145/3726302.3730151
+AN  - WOS:001587983900442
+ER  -
+
+TY  - JOUR
+AU  - Adam, F
+TI  - My travels with Max - in search of the human-AI collaboration in decision making
+T2  - JOURNAL OF DECISION SYSTEMS
+SN  - 1246-0125
+SN  - 2116-7052
+DA  - JAN 2
+PY  - 2026
+VL  - 35
+IS  - 1
+C7  - 2687559
+DO  - 10.1080/12460125.2026.2687559
+AN  - WOS:001809475100001
+ER  -
+
+TY  - JOUR
+AU  - Chanda, S
+AU  - Rizzoli, SO
+AU  - Shaib, AH
+TI  - ArtificialIntelligence for Discovery in Life Sciences
+T2  - BIOCONJUGATE CHEMISTRY
+SN  - 1043-1802
+SN  - 1520-4812
+DA  - JUL 15
+PY  - 2026
+VL  - 37
+IS  - 7
+SP  - 1311
+EP  - 1322
+DO  - 10.1021/acs.bioconjchem.6c00230
+C6  - JUL 2026
+AN  - WOS:001808906100001
+ER  -
+
+TY  - JOUR
+AU  - Zhang, QX
+AU  - Ren, YM
+AU  - Qin, SH
+AU  - Zhang, X
+AU  - Zhang, L
+AU  - Huang, JY
+AU  - Liu, ZL
+AU  - Liu, CB
+AU  - Feng, HY
+AU  - Chen, JY
+AU  - Ding, YZ
+AU  - You, WH
+AU  - Jiang, HQ
+AU  - Pan, Y
+AU  - Zhou, YF
+AU  - Chen, JH
+AU  - Chen, LF
+AU  - Liu, W
+AU  - Liu, TM
+AU  - Zhao, ZR
+AU  - Zhang, L
+TI  - Toward vibe medicine: A self-evolving multi-agent framework for clinical decision support
+T2  - META-RADIOLOGY
+SN  - 2950-1628
+DA  - JUN
+PY  - 2026
+VL  - 4
+IS  - 2
+C7  - 100223
+DO  - 10.1016/j.metrad.2026.100223
+AN  - WOS:001803553100001
+ER  -
+
+TY  - CPAPER
+AU  - Piller, C
+ED  - Elstermann, M
+ED  - Lederer, M
+TI  - Describing and Analyzing AI Agents with the Tools We Already Trust: A Comparative Study of PASS and BPMN
+T2  - SUBJECT-ORIENTED BUSINESS PROCESS MANAGEMENT. PROCESS CUSTOMER SATISFACTION AND PROCESS EXCELLENCE, S-BPM ONE 2025
+CP  - 16th International Conference on Subject Oriented Business Process Management-SBPM ONE
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 978-3-032-04943-8
+SN  - 978-3-032-04944-5
+PY  - 2026
+VL  - 2630
+SP  - 115
+EP  - 136
+DO  - 10.1007/978-3-032-04944-5_8
+AN  - WOS:001665825600008
+ER  -
+
+TY  - JOUR
+AU  - Dergaa, I
+AU  - Ben Saad, H
+AU  - Glenn, JM
+AU  - Ben Aissa, M
+AU  - Taheri, M
+AU  - Swed, S
+AU  - Guelmami, N
+AU  - Chamari, K
+TI  - A thorough examination of ChatGPT-3.5 potential applications in medical writing: A preliminary study
+T2  - MEDICINE
+SN  - 0025-7974
+SN  - 1536-5964
+DA  - OCT 4
+PY  - 2024
+VL  - 103
+IS  - 40
+C7  - e39757
+DO  - 10.1097/MD.0000000000039757
+AN  - WOS:001330301900043
+ER  -
+
+TY  - JOUR
+AU  - de Winter, JCF
+AU  - Driessen, T
+AU  - Dodou, D
+TI  - The use of ChatGPT for personality research: Administering questionnaires using generated personas
+T2  - PERSONALITY AND INDIVIDUAL DIFFERENCES
+SN  - 0191-8869
+SN  - 1873-3549
+DA  - OCT
+PY  - 2024
+VL  - 228
+C7  - 112729
+DO  - 10.1016/j.paid.2024.112729
+C6  - JUN 2024
+AN  - WOS:001250595100001
+ER  -
+
+TY  - JOUR
+AU  - Tessler, I
+AU  - Wolfovitz, A
+AU  - Livneh, N
+AU  - Gecel, NA
+AU  - Sorin, V
+AU  - Barash, Y
+AU  - Konen, E
+AU  - Klang, E
+TI  - Advancing Medical Practice with Artificial Intelligence: ChatGPT in Healthcare
+T2  - ISRAEL MEDICAL ASSOCIATION JOURNAL
+SN  - 1565-1088
+DA  - FEB
+PY  - 2024
+VL  - 26
+IS  - 2
+SP  - 80
+EP  - 85
+AN  - WOS:001178768800007
+ER  -
+
+TY  - JOUR
+AU  - Cronjé, J
+TI  - Exploring the Role of ChatGPT as a Peer Coach for Developing Research Proposals: Feedback Quality, Prompts, and Student Reflection
+T2  - ELECTRONIC JOURNAL OF E-LEARNING
+SN  - 1479-4403
+DA  - APR
+PY  - 2024
+VL  - 22
+IS  - 2
+SP  - 1
+EP  - 15
+DO  - 10.34190/ejel.21.5.3042
+AN  - WOS:001221829400003
+ER  -
+
+TY  - JOUR
+AU  - O'Brien, T
+AU  - Stremmel, J
+AU  - Pio-Lopez, L
+AU  - McMillen, P
+AU  - Rasmussen-Ivey, C
+AU  - Levin, M
+TI  - Machine learning for hypothesis generation in biology and medicine: exploring the latent space of neuroscience and developmental bioelectricity
+T2  - DIGITAL DISCOVERY
+SN  - 2635-098X
+DA  - FEB 14
+PY  - 2024
+VL  - 3
+IS  - 2
+DO  - 10.1039/d3dd00185g
+C6  - JAN 2024
+AN  - WOS:001142699600001
+ER  -
+
+TY  - JOUR
+AU  - Jho, H
+AU  - Ha, M
+TI  - TOWARDS EFFECTIVE ARGUMENTATION: DESIGN AND IMPLEMENTATION OF A GENERATIVE AI-BASED EVALUATION AND FEEDBACK SYSTEM
+T2  - JOURNAL OF BALTIC SCIENCE EDUCATION
+SN  - 1648-3898
+PY  - 2024
+VL  - 23
+IS  - 2
+SP  - 280
+EP  - 291
+DO  - 10.33225/jbse/24.23.280
+AN  - WOS:001223567100001
+ER  -
+
+TY  - CPAPER
+AU  - Li, G
+AU  - Vachtsevanou, D
+AU  - Lemée, J
+AU  - Mayer, S
+AU  - Strecker, J
+A1  - ACM
+TI  - Reader-aware Writing Assistance through Reader Profiles
+T2  - PROCEEDINGS OF THE 35TH ACM CONFERENCE ON HYPERTEXT AND SOCIAL MEDIA, HT 2024
+CP  - 35th ACM Conference on Hypertext and Social Media (HT)
+SN  - 979-8-4007-0595-3
+PY  - 2024
+SP  - 344
+EP  - 350
+DO  - 10.1145/3648188.3675152
+AN  - WOS:001324611900048
+ER  -
+
+TY  - CPAPER
+AU  - Stork, L
+AU  - Zijdeman, RL
+AU  - Tiddi, I
+AU  - ten Teije, A
+ED  - Penuela, AM
+ED  - Dimou, A
+ED  - Troncy, R
+ED  - Hartig, O
+ED  - Acosta, M
+ED  - Paulheim, H
+ED  - Alam, M
+ED  - Lisena, P
+TI  - Enabling Social Demography Research Using Semantic Technologies
+T2  - SEMANTIC WEB, PT II, ESWC 2024
+CP  - 21st International Conference on The Semantic Web (ESWC)
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 978-3-031-60634-2
+SN  - 978-3-031-60635-9
+PY  - 2024
+VL  - 14665
+SP  - 199
+EP  - 216
+DO  - 10.1007/978-3-031-60635-9_12
+AN  - WOS:001279218400012
+ER  -
+
+TY  - JOUR
+AU  - Rancourt, F
+AU  - Vondrlik, P
+AU  - Maupomé, D
+AU  - Meurs, MJ
+TI  - Investigating Self-Rationalizing Models for Commonsense Reasoning
+T2  - STATS
+SN  - 2571-905X
+DA  - SEP
+PY  - 2023
+VL  - 6
+IS  - 3
+SP  - 907
+EP  - 919
+DO  - 10.3390/stats6030056
+AN  - WOS:001074155000001
+ER  -
+
+TY  - CPAPER
+AU  - Qi, JY
+AU  - Jia, Z
+AU  - Liu, MQ
+AU  - Zhan, WZ
+AU  - Zhang, JK
+AU  - Wen, XF
+AU  - Gan, JR
+AU  - Chen, JP
+AU  - Liu, Q
+AU  - Ma, MD
+AU  - Li, BZ
+AU  - Wang, HH
+AU  - Kulkarni, A
+AU  - Chen, MH
+AU  - Zhou, DW
+AU  - Li, L
+AU  - Wang, W
+AU  - Huang, LF
+ED  - Dziri, N
+ED  - Ren, S
+ED  - Diao, S
+TI  - METASCIENTIST: A Human-AI Synergistic Framework for Automated Mechanical Metamaterial Design
+T2  - PROCEEDINGS OF THE 2025 CONFERENCE OF THE NATIONS OF THE AMERICAS CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS: HUMAN LANGUAGE TECHNOLOGIES, SYSTEM DEMONSTRATIONS
+CP  - 2025 Conference of the North American Chapter of the Association for Computational Linguistics-NAACL
+SN  - 979-8-89176-191-9
+PY  - 2025
+SP  - 404
+EP  - 436
+AN  - WOS:001598875800034
+ER  -
+
+TY  - CPAPER
+AU  - Liu, YR
+AU  - Sharma, P
+AU  - Oswal, M
+AU  - Xia, HJ
+AU  - Huang, Y
+A1  - ACM
+TI  - PersonaFlow: Designing LLM-Simulated Expert Perspectives for Enhanced Research Ideation
+T2  - PROCEEDINGS OF THE 2025 ACM DESIGNING INTERACTIVE SYSTEMS CONFERENCE, DIS 2025
+CP  - 2025 Designing Interactive Systems Conference-DIS
+SN  - 979-8-4007-1485-6
+PY  - 2025
+SP  - 506
+EP  - 534
+DO  - 10.1145/3715336.3735789
+AN  - WOS:001555741000033
+ER  -
+
+TY  - JOUR
+AU  - Ahn, S
+AU  - Zhou, JL
+AU  - Jiang, DN
+AU  - Kerr, S
+AU  - Zhu, YJ
+AU  - Song, PG
+AU  - Rudan, I
+A1  - WHO TCI Med CHNRI Grp
+TI  - WHO global research priorities for traditional, complementary, and integrative (TCI) medicine: an international consensus and comparisons with LLMs
+T2  - JOURNAL OF GLOBAL HEALTH
+SN  - 2047-2978
+SN  - 2047-2986
+PY  - 2025
+VL  - 15
+C7  - 04336
+DO  - 10.7189/jogh.15.04336
+AN  - WOS:001620751100001
+ER  -
+
+TY  - CPAPER
+AU  - Pu, K
+AU  - Feng, KJK
+AU  - Grossman, T
+AU  - Hope, T
+AU  - Mishra, BD
+AU  - Latzke, M
+AU  - Bragg, J
+AU  - Chang, JC
+AU  - Siangliulue, P
+A1  - ACM
+TI  - IdeaSynth: Iterative Research Idea Development Through Evolving and Composing Idea Facets with Literature-Grounded Feedback
+T2  - PROCEEDINGS OF THE 2025 CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYTEMS, CHI 2025
+CP  - 2025 Conference on Human Factors in Computing Systems-CHI
+SN  - 979-8-4007-1394-1
+PY  - 2025
+C7  - 145
+DO  - 10.1145/3706598.3714057
+AN  - WOS:001501412600134
+ER  -
+
+TY  - JOUR
+AU  - Zenil, H
+AU  - Tegnér, J
+AU  - Abrahao, FS
+AU  - Lavin, A
+AU  - Kumar, V
+AU  - Frey, JG
+AU  - Weller, A
+AU  - Soldatova, L
+AU  - Bundy, AR
+AU  - Jennings, NR
+AU  - Takahashi, K
+AU  - Hunter, L
+AU  - Dzeroski, S
+AU  - Briggs, A
+AU  - Gregory, FD
+AU  - Gomes, CP
+AU  - Rowe, J
+AU  - Evans, J
+AU  - Kitano, H
+AU  - King, R
+TI  - The future of fundamental science led by generative closed-loop artificial intelligence
+T2  - FRONTIERS IN ARTIFICIAL INTELLIGENCE
+SN  - 2624-8212
+DA  - FEB 11
+PY  - 2026
+VL  - 9
+C7  - 1678539
+DO  - 10.3389/frai.2026.1678539
+AN  - WOS:001698587300001
+ER  -
+
+TY  - CPAPER
+AU  - Tran, H
+AU  - Yao, ZH
+AU  - Tran, NL
+AU  - Yang, ZC
+AU  - Ouyang, FY
+AU  - Han, S
+AU  - Rahimi, R
+AU  - Yu, H
+ED  - Koenig, S
+ED  - Jenkins, C
+ED  - Taylor, ME
+TI  - PRIME: Planning and Retrieval-Integrated Memory for Enhanced Reasoning
+T2  - FORTIETH AAAI CONFERENCE ON ARTIFICIAL INTELLIGENCE, AAAI-26, VOL 40 NO 39
+CP  - 40th AAAI Conference on Artificial Intelligence
+SN  - 2159-5399
+SN  - 2374-3468
+PY  - 2026
+SP  - 33268
+EP  - 33276
+AN  - WOS:001769447300068
+ER  -
+
+TY  - JOUR
+AU  - Jacobsson, TJ
+TI  - AI-Generated Hypotheses and the Emergence of Autonomous Scientific Discovery
+T2  - ACS MATERIALS LETTERS
+SN  - 2639-4979
+DA  - JUN 1
+PY  - 2026
+VL  - 8
+IS  - 6
+SP  - 1457
+EP  - 1464
+DO  - 10.1021/acsmaterialslett.6c00224
+C6  - MAY 2026
+AN  - WOS:001758544900001
+ER  -
+
+TY  - JOUR
+AU  - Qi, ZJ
+AU  - Hong, J
+AU  - Cheng, JL
+AU  - Long, GL
+AU  - Wang, HY
+AU  - Li, SY
+AU  - Cao, SL
+TI  - MSLI-Net: retinal disease detection network based on multi-segment localization and multi-scale interaction
+T2  - FRONTIERS IN CELL AND DEVELOPMENTAL BIOLOGY
+SN  - 2296-634X
+DA  - JUN 6
+PY  - 2025
+VL  - 13
+C7  - 1608325
+DO  - 10.3389/fcell.2025.1608325
+AN  - WOS:001511916800001
+ER  -
+
+TY  - CPAPER
+AU  - Liu, YR
+AU  - Shah, VN
+AU  - Suh, SH
+AU  - Siangliulue, P
+AU  - August, T
+AU  - Huang, Y
+A1  - ACM
+TI  - Perspectra: Choosing Your Experts Enhances Critical Thinking in Multi-Agent Research Ideation
+T2  - PROCEEDINGS OF THE 2026 CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, CHI 2026
+CP  - 2026 Conference on Human Factors in Computing Systems-CHI
+SN  - 979-8-4007-2278-3
+PY  - 2026
+DO  - 10.1145/3772318.3791560
+AN  - WOS:001795712700416
+ER  -
+
+TY  - JOUR
+AU  - Shiukashvili, N
+AU  - Rochikashvili, M
+AU  - Kupradze, V
+AU  - Gonjilashvili, N
+AU  - Gvajaia, N
+AU  - Kutchava, L
+AU  - Janikashvili, N
+AU  - Tevzadze, N
+AU  - Undilashvili, A
+AU  - Ekaladze, E
+TI  - A Performance-Based Rubric for Generative AI use in Medical Students' Research Tasks: Development and Initial Psychometric Evaluation
+T2  - JOURNAL OF MEDICAL EDUCATION AND CURRICULAR DEVELOPMENT
+SN  - 2382-1205
+PY  - 2026
+VL  - 13
+C7  - 23821205261442106
+DO  - 10.1177/23821205261442106
+AN  - WOS:001758228700001
+ER  -
+
+TY  - JOUR
+AU  - Hossain, E
+AU  - Shoeibi, M
+AU  - Garibay, I
+AU  - Yousefi, N
+TI  - BIOGEN: evidence-grounded multi-agent reasoning framework for transcriptomic interpretation in antimicrobial resistance
+T2  - FRONTIERS IN BIOINFORMATICS
+SN  - 2673-7647
+DA  - MAY 29
+PY  - 2026
+VL  - 6
+C7  - 1846404
+DO  - 10.3389/fbinf.2026.1846404
+AN  - WOS:001791166600001
+ER  -
+
+TY  - CPAPER
+AU  - Liu, HK
+AU  - Zhou, YQY
+AU  - Li, MX
+AU  - Yuan, CF
+AU  - Tan, CH
+ED  - Che, W
+ED  - Nabende, J
+ED  - Shutova, E
+ED  - Pilehvar, MT
+TI  - Literature Meets Data: A Synergistic Approach to Hypothesis Generation
+T2  - PROCEEDINGS OF THE 63RD ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, VOL 1: LONG PAPERS
+CP  - 63rd Association for Computational Linguistics Meeting-ACL-Annual
+SN  - 979-8-89176-251-0
+PY  - 2025
+SP  - 245
+EP  - 281
+AN  - WOS:001596029800012
+ER  -
+
+TY  - CPAPER
+AU  - Movva, R
+AU  - Peng, K
+AU  - Garg, N
+AU  - Kleinberg, J
+AU  - Pierson, E
+ED  - Singh, A
+ED  - Fazel, M
+ED  - Hsu, D
+ED  - Lacoste-Julien, S
+ED  - Berkenkamp, F
+ED  - Maharaj, T
+ED  - Wagstaff, K
+ED  - Zhu, J
+TI  - Sparse Autoencoders for Hypothesis Generation
+T2  - INTERNATIONAL CONFERENCE ON MACHINE LEARNING
+CP  - 42nd International Conference on Machine Learning-ICML-Annual
+SN  - 2640-3498
+PY  - 2025
+VL  - 267
+SP  - 44997
+EP  - 45023
+AN  - WOS:001693162000006
+ER  -
+
+TY  - JOUR
+AU  - Tangsrivimol, JA
+AU  - Darzidehkalani, E
+AU  - Virk, HU
+AU  - Wang, Z
+AU  - Egger, J
+AU  - Wang, MCL
+AU  - Hacking, S
+AU  - Glicksberg, BS
+AU  - Strauss, M
+AU  - Krittanawong, C
+TI  - Benefits, limits, and risks of ChatGPT in medicine
+T2  - FRONTIERS IN ARTIFICIAL INTELLIGENCE
+SN  - 2624-8212
+DA  - JAN 30
+PY  - 2025
+VL  - 8
+C7  - 1518049
+DO  - 10.3389/frai.2025.1518049
+AN  - WOS:001419204200001
+ER  -
+
+TY  - JOUR
+AU  - Song, Y
+AU  - Huang, LC
+AU  - Zheng, LQ
+AU  - Fan, MY
+AU  - Liu, ZH
+TI  - Interactions with generative AI chatbots: unveiling dialogic dynamics, students' perceptions, and practical competencies in creative problem-solving
+T2  - INTERNATIONAL JOURNAL OF EDUCATIONAL TECHNOLOGY IN HIGHER EDUCATION
+SN  - 2365-9440
+DA  - MAR 5
+PY  - 2025
+VL  - 22
+IS  - 1
+C7  - 12
+DO  - 10.1186/s41239-025-00508-2
+AN  - WOS:001439225600001
+ER  -
+
+TY  - JOUR
+AU  - Hwang, GJ
+AU  - Cheng, PY
+AU  - Chang, CY
+TI  - Facilitating students' critical thinking, metacognition and problem-solving tendencies in geriatric nursing class: A mixed-method study
+T2  - NURSE EDUCATION IN PRACTICE
+SN  - 1471-5953
+SN  - 1873-5223
+DA  - FEB
+PY  - 2025
+VL  - 83
+C7  - 104266
+DO  - 10.1016/j.nepr.2025.104266
+C6  - JAN 2025
+AN  - WOS:001403637000001
+ER  -
+
+TY  - JOUR
+AU  - Raman, K
+AU  - Kumar, R
+AU  - Musante, CJ
+AU  - Madhavan, S
+TI  - Integrating Model-Informed Drug Development With AI: A Synergistic Approach to Accelerating Pharmaceutical Innovation
+T2  - CTS-CLINICAL AND TRANSLATIONAL SCIENCE
+SN  - 1752-8054
+SN  - 1752-8062
+DA  - JAN 10
+PY  - 2025
+VL  - 18
+IS  - 1
+C7  - e70124
+DO  - 10.1111/cts.70124
+AN  - WOS:001394226900001
+ER  -
+
+TY  - JOUR
+AU  - Gottweis, J
+AU  - Weng, WH
+AU  - Daryin, A
+AU  - Tu, T
+AU  - Sirkovic, P
+AU  - Myaskovsky, A
+AU  - Glowaty, G
+AU  - Weissenberger, F
+AU  - Orlandi, A
+AU  - Popovici, D
+AU  - Palepu, A
+AU  - Rong, KR
+AU  - Tanno, R
+AU  - Saab, K
+AU  - Zhang, F
+AU  - Blum, J
+AU  - Carroll, A
+AU  - Kulkarni, K
+AU  - Tomasev, N
+AU  - Zverinski, D
+AU  - Rendulic, I
+AU  - Vedadi, E
+AU  - Hasler, F
+AU  - Rimanic, L
+AU  - Boia, M
+AU  - Budiselic, I
+AU  - Feinstein, B
+AU  - Bellaiche, M
+AU  - Sheffer, T
+AU  - Freyberg, J
+AU  - Ratcliff, J
+AU  - Bertolli, O
+AU  - Chou, KTRE
+AU  - Hassidim, A
+AU  - Gokturk, B
+AU  - Vahdat, A
+AU  - Guan, Y
+AU  - Dhillon, V
+AU  - Vaishnav, ED
+AU  - Lee, BY
+AU  - Costa, TRD
+AU  - Penadés, JR
+AU  - Peltz, G
+AU  - Matias, Y
+AU  - Manyika, J
+AU  - Hassabis, D
+AU  - Xu, YH
+AU  - Kohli, P
+AU  - Pawlosky, A
+AU  - Karthikesalingam, A
+AU  - Natarajan, V
+TI  - Accelerating scientific discovery with Co-Scientist
+T2  - NATURE
+SN  - 0028-0836
+SN  - 1476-4687
+DA  - JUL 9
+PY  - 2026
+VL  - 655
+IS  - 8122
+DO  - 10.1038/s41586-026-10644-y
+C6  - MAY 2026
+AN  - WOS:001809031900001
+ER  -
+
+TY  - JOUR
+AU  - Sordo, Z
+AU  - Chagnon, E
+AU  - Hu, ZX
+AU  - Donatelli, JJ
+AU  - Andeer, P
+AU  - Nico, PS
+AU  - Northen, T
+AU  - Ushizima, D
+TI  - Synthetic Scientific Image Generation with VAE, GAN, and Diffusion Model Architectures
+T2  - JOURNAL OF IMAGING
+SN  - 2313-433X
+DA  - JUL 26
+PY  - 2025
+VL  - 11
+IS  - 8
+C7  - 252
+DO  - 10.3390/jimaging11080252
+AN  - WOS:001557772100001
+ER  -
+
+TY  - JOUR
+AU  - Garcia, RLF
+AU  - Kwok, L
+TI  - Generative artificial intelligence in human resource management: a critical reflection on impacts, resilience and roles
+T2  - INTERNATIONAL JOURNAL OF CONTEMPORARY HOSPITALITY MANAGEMENT
+SN  - 0959-6119
+SN  - 1757-1049
+DA  - SEP 29
+PY  - 2025
+VL  - 37
+IS  - 9
+SP  - 3136
+EP  - 3158
+DO  - 10.1108/IJCHM-01-2025-0159
+C6  - AUG 2025
+AN  - WOS:001556468400001
+ER  -
+
+TY  - JOUR
+AU  - Motoki, K
+AU  - Low, J
+AU  - Velasco, C
+TI  - Generative AI framework for sensory and consumer research
+T2  - FOOD QUALITY AND PREFERENCE
+SN  - 0950-3293
+SN  - 1873-6343
+DA  - DEC
+PY  - 2025
+VL  - 133
+C7  - 105600
+DO  - 10.1016/j.foodqual.2025.105600
+C6  - JUN 2025
+AN  - WOS:001508196900001
+ER  -
+
+TY  - JOUR
+AU  - Ghasemi, SF
+AU  - Amiri, P
+AU  - Galavi, Z
+TI  - Advantages and Limitations of ChatGPT in Healthcare: A Scoping Review
+T2  - HEALTH SCIENCE REPORTS
+SN  - 2398-8835
+DA  - SEP 11
+PY  - 2025
+VL  - 8
+IS  - 9
+C7  - e71219
+DO  - 10.1002/hsr2.71219
+AN  - WOS:001568589400001
+ER  -
+
+TY  - JOUR
+AU  - Bajorath, J
+TI  - From scientific theory to duality of predictive artificial intelligence models
+T2  - CELL REPORTS PHYSICAL SCIENCE
+SN  - 2666-3864
+DA  - APR 16
+PY  - 2025
+VL  - 6
+IS  - 4
+C7  - 102516
+DO  - 10.1016/j.xcrp.2025.102516
+C6  - APR 2025
+AN  - WOS:001474080700001
+ER  -
+
+TY  - JOUR
+AU  - Kyro, GW
+AU  - Martin, MT
+AU  - Watt, ED
+AU  - Batista, VS
+TI  - CardioGenAI: a machine learning-based framework for re-engineering drugs for reduced hERG liability
+T2  - JOURNAL OF CHEMINFORMATICS
+SN  - 1758-2946
+DA  - MAR 5
+PY  - 2025
+VL  - 17
+IS  - 1
+C7  - 30
+DO  - 10.1186/s13321-025-00976-8
+AN  - WOS:001439187700001
+ER  -
+
+TY  - JOUR
+AU  - McLaughlin, JE
+AU  - Ponte, CD
+AU  - Lyons, K
+TI  - Student perceptions of GenAI as a virtual tutor to support collaborative research training for health professionals
+T2  - BMC MEDICAL EDUCATION
+SN  - 1472-6920
+DA  - JUL 1
+PY  - 2025
+VL  - 25
+IS  - 1
+C7  - 895
+DO  - 10.1186/s12909-025-07390-6
+AN  - WOS:001522900800005
+ER  -
+
+TY  - JOUR
+AU  - Branda, F
+AU  - Ciccozzi, M
+AU  - Scarpa, F
+TI  - Artificial intelligence in scientific research: Challenges, opportunities and the imperative of a human-centric synergy
+T2  - JOURNAL OF INFORMETRICS
+SN  - 1751-1577
+SN  - 1875-5879
+DA  - NOV
+PY  - 2025
+VL  - 19
+IS  - 4
+C7  - 101727
+DO  - 10.1016/j.joi.2025.101727
+C6  - AUG 2025
+AN  - WOS:001565023900001
+ER  -
+
+TY  - JOUR
+AU  - Wu, WQ
+AU  - Zhang, CZ
+AU  - Bao, T
+AU  - Zhao, Y
+TI  - SC4ANM: Identifying optimal section combinations for automated novelty prediction in academic papers
+T2  - EXPERT SYSTEMS WITH APPLICATIONS
+SN  - 0957-4174
+SN  - 1873-6793
+DA  - MAY 10
+PY  - 2025
+VL  - 273
+C7  - 126778
+DO  - 10.1016/j.eswa.2025.126778
+C6  - FEB 2025
+AN  - WOS:001428280600001
+ER  -
+
+TY  - JOUR
+AU  - Lusetti, F
+AU  - Maimaris, S
+AU  - La Rosa, GP
+AU  - Scalvini, D
+AU  - Schiepatti, A
+AU  - Biagi, F
+AU  - De Bernardi, A
+AU  - Manes, G
+AU  - Saibeni, S
+TI  - Applications of generative artificial intelligence in inflammatory bowel disease: A systematic review
+T2  - DIGESTIVE AND LIVER DISEASE
+SN  - 1590-8658
+SN  - 1878-3562
+DA  - OCT
+PY  - 2025
+VL  - 57
+IS  - 10
+SP  - 1883
+EP  - 1889
+DO  - 10.1016/j.dld.2025.04.026
+C6  - JAN 2025
+AN  - WOS:001587120600012
+ER  -
+
+TY  - JOUR
+AU  - Wong, CUI
+AU  - Ren, LP
+AU  - Chen, PJ
+AU  - Chen, XL
+AU  - Zhang, HF
+TI  - Assessing Tourism and Hospitality Students' Intention to Use ChatGPT
+T2  - JOURNAL OF HOSPITALITY & TOURISM EDUCATION
+SN  - 1096-3758
+SN  - 2325-6540
+DA  - JUL 3
+PY  - 2025
+VL  - 37
+IS  - 3
+SP  - 352
+EP  - 365
+DO  - 10.1080/10963758.2025.2499942
+C6  - JUN 2025
+AN  - WOS:001503022500001
+ER  -
+
+TY  - JOUR
+AU  - Panwale, SB
+AU  - Abdurrahman, SVBS
+TI  - Evaluating AI-Personalized Learning Interventions in Distance Education
+T2  - INTERNATIONAL REVIEW OF RESEARCH IN OPEN AND DISTRIBUTED LEARNING
+SN  - 1492-3831
+DA  - MAR
+PY  - 2025
+VL  - 26
+IS  - 1
+SP  - 157
+EP  - 174
+AN  - WOS:001435527100010
+ER  -
+
+TY  - JOUR
+AU  - Li, YL
+AU  - Gu, TS
+AU  - Yang, CY
+AU  - Li, MH
+AU  - Wang, CY
+AU  - Yao, L
+AU  - Gu, WK
+AU  - Sun, DJ
+TI  - AI-Assisted Hypothesis Generation to Address Challenges in Cardiotoxicity Research: Simulation Study Using ChatGPT With GPT-4o
+T2  - JOURNAL OF MEDICAL INTERNET RESEARCH
+SN  - 1438-8871
+DA  - MAY 15
+PY  - 2025
+VL  - 27
+C7  - e66161
+DO  - 10.2196/66161
+AN  - WOS:001495291700009
+ER  -
+
+TY  - JOUR
+AU  - Yao, L
+AU  - Yin, HL
+AU  - Yang, CY
+AU  - Han, SY
+AU  - Ma, JM
+AU  - Graff, JC
+AU  - Wang, CY
+AU  - Jiao, Y
+AU  - Ji, JF
+AU  - Gu, WK
+AU  - Wang, G
+TI  - Generating research hypotheses to overcome key challenges in the early diagnosis of colorectal cancer-Future application of AI
+T2  - CANCER LETTERS
+SN  - 0304-3835
+SN  - 1872-7980
+DA  - JUN 28
+PY  - 2025
+VL  - 620
+C7  - 217632
+DO  - 10.1016/j.canlet.2025.217632
+C6  - APR 2025
+AN  - WOS:001466147700001
+ER  -
+
+TY  - JOUR
+AU  - Hwang, Y
+AU  - Jeong, S
+AU  - Wu, Y
+TI  - Artificial Intelligence in Design Process: An Analysis Using Text Mining
+T2  - APPLIED ARTIFICIAL INTELLIGENCE
+SN  - 0883-9514
+SN  - 1087-6545
+DA  - DEC 31
+PY  - 2025
+VL  - 39
+IS  - 1
+C7  - 2453782
+DO  - 10.1080/08839514.2025.2453782
+AN  - WOS:001400670300001
+ER  -
+
+TY  - JOUR
+AU  - Koltovskaia, S
+AU  - Rahmati, P
+AU  - Saeli, H
+TI  - Graduate students' use of ChatGPT for academic text revision: Behavioral, cognitive, and affective engagement
+T2  - JOURNAL OF SECOND LANGUAGE WRITING
+SN  - 1060-3743
+SN  - 1873-1422
+DA  - SEP
+PY  - 2024
+VL  - 65
+C7  - 101130
+DO  - 10.1016/j.jslw.2024.101130
+C6  - JUL 2024
+AN  - WOS:001282588100001
+ER  -
+
+TY  - JOUR
+AU  - Naganuma, S
+AU  - Minematsu, T
+AU  - Matsueda, K
+AU  - Oshima, J
+TI  - Doctoral students' interdisciplinary research proposal development supported by generative AI
+T2  - EDUCATION AND INFORMATION TECHNOLOGIES
+SN  - 1360-2357
+SN  - 1573-7608
+DA  - 2026 MAR 17
+PY  - 2026
+DO  - 10.1007/s10639-026-13952-y
+C6  - MAR 2026
+AN  - WOS:001716820200001
+ER  -
+
+TY  - JOUR
+AU  - Cascella, M
+AU  - Montedoro, M
+AU  - Vittori, A
+TI  - The medial prefrontal cortex as an integrative hub in chronic pain: network mechanisms and the enabling role of artificial intelligence
+T2  - BIOPSYCHOSOCIAL MEDICINE
+SN  - 1751-0759
+DA  - APR 10
+PY  - 2026
+VL  - 20
+IS  - 1
+C7  - 6
+DO  - 10.1186/s13030-026-00357-z
+C6  - APR 2026
+AN  - WOS:001737761500001
+ER  -
+
+TY  - JOUR
+AU  - Chang, TS
+AU  - Huang, LG
+TI  - The impact of generative artificial intelligence on software development performance: a study based on the theory of technology dominance
+T2  - INFORMATION & MANAGEMENT
+SN  - 0378-7206
+SN  - 1872-7530
+DA  - APR
+PY  - 2026
+VL  - 63
+IS  - 3
+C7  - 104306
+DO  - 10.1016/j.im.2026.104306
+C6  - JAN 2026
+AN  - WOS:001675454900001
+ER  -
+
+TY  - JOUR
+AU  - Yu, SY
+AU  - Lin, HP
+AU  - Kung, YM
+AU  - Chen, SC
+TI  - Artificial intelligence-enhanced clinical reasoning in nurse practitioners: A systematic review
+T2  - NURSE EDUCATION IN PRACTICE
+SN  - 1471-5953
+SN  - 1873-5223
+DA  - FEB
+PY  - 2026
+VL  - 91
+C7  - 104724
+DO  - 10.1016/j.nepr.2026.104724
+C6  - JAN 2026
+AN  - WOS:001673565800001
+ER  -
+
+TY  - JOUR
+AU  - Yip, R
+AU  - Sun, YJ
+AU  - Bassuk, AG
+AU  - Mahajan, VB
+TI  - Artificial intelligence's contribution to biomedical literature search: revolutionizing or complicating?
+T2  - PLOS DIGITAL HEALTH
+SN  - 2767-3170
+DA  - MAY
+PY  - 2025
+VL  - 4
+IS  - 5
+C7  - e0000849
+DO  - 10.1371/journal.pdig.0000849
+AN  - WOS:001486565700003
+ER  -
+
+TY  - JOUR
+AU  - Rudan, I
+TI  - Two decades of the CHNRI method (2006-2025): Tracking its evolution and contribution to the emerging field of ideometrics
+T2  - JOURNAL OF GLOBAL HEALTH
+SN  - 2047-2978
+SN  - 2047-2986
+PY  - 2025
+VL  - 15
+C7  - 01006
+DO  - 10.7189/jogh.15.01006
+AN  - WOS:001589098600001
+ER  -
+
+TY  - JOUR
+AU  - Varelas, P
+AU  - Larosa, F
+AU  - Hoyas, S
+AU  - Conejero, JA
+AU  - Contino, F
+AU  - Nerini, FF
+AU  - Garcia-Martínez, J
+AU  - Garibo-i-Orts, O
+AU  - Parente, A
+AU  - Vinuesa, R
+TI  - Artificial intelligence reveals unbalanced sustainability domains in funded research
+T2  - RESULTS IN ENGINEERING
+SN  - 2590-1230
+DA  - MAR
+PY  - 2025
+VL  - 25
+C7  - 104367
+DO  - 10.1016/j.rineng.2025.104367
+C6  - FEB 2025
+AN  - WOS:001440089000001
+ER  -
+
+TY  - JOUR
+AU  - Eymann, V
+AU  - Lachmann, T
+AU  - Czernochowski, D
+TI  - When ChatGPT Writes Your Research Proposal: Scientific Creativity in the Age of Generative AI
+T2  - JOURNAL OF INTELLIGENCE
+SN  - 2079-3200
+DA  - MAY 16
+PY  - 2025
+VL  - 13
+IS  - 5
+C7  - 55
+DO  - 10.3390/jintelligence13050055
+AN  - WOS:001496781000001
+ER  -
+
+TY  - JOUR
+AU  - Cong-Lem, N
+TI  - "Is this Really your Work?": A Qualitative Study of Teacher-Led Interviews and Student Accountability in the Age of Generative AI
+T2  - JOURNAL OF ACADEMIC ETHICS
+SN  - 1570-1727
+SN  - 1572-8544
+DA  - NOV 25
+PY  - 2025
+VL  - 24
+IS  - 1
+C7  - 29
+DO  - 10.1007/s10805-025-09704-1
+AN  - WOS:001622567000002
+ER  -
+
+TY  - JOUR
+AU  - Okulich-Kazarin, V
+TI  - Sustainable Development Goal 4 and Education Research: A Review of Polish Specifics Against the Background of Global Trends
+T2  - SUSTAINABILITY
+SN  - 2071-1050
+DA  - MAR 19
+PY  - 2025
+VL  - 17
+IS  - 6
+C7  - 2747
+DO  - 10.3390/su17062747
+AN  - WOS:001453875300001
+ER  -
+
+TY  - CPAPER
+AU  - Kruzenshtern, A
+AU  - Dodonov, V
+AU  - Chechurin, L
+ED  - Cavallucci, D
+ED  - Livotov, P
+ED  - Houssin, R
+TI  - AI-Based Metric for the Scientific Text Novelty
+T2  - WORLD CONFERENCE OF AI-POWERED INNOVATION AND TRIZ METHODOLOGY, TRAI 2025, PT II
+CP  - 25th International TRIZ Future Conference on AI-Powered Innovation and Inventive Design-TFC
+SN  - 1868-4238
+SN  - 1868-422X
+SN  - 978-3-032-08853-6
+SN  - 978-3-032-08851-2
+SN  - 978-3-032-08850-5
+PY  - 2026
+VL  - 775
+SP  - 367
+EP  - 378
+DO  - 10.1007/978-3-032-08851-2_24
+AN  - WOS:001673405100024
+ER  -
+
+TY  - JOUR
+AU  - Lim, JS
+TI  - Introduction to generative artificial intelligence tools for academic article writing
+T2  - SCIENCE EDITING
+SN  - 2288-7474
+SN  - 2288-8063
+DA  - FEB
+PY  - 2026
+VL  - 13
+IS  - 1
+SP  - 58
+EP  - 62
+DO  - 10.6087/kcse.393
+AN  - WOS:001691617400010
+ER  -
+
+TY  - JOUR
+AU  - Ju, YB
+AU  - Li, JW
+AU  - Zhang, XP
+AU  - Wu, MJ
+AU  - Pang, XY
+AU  - Li, ZY
+AU  - Wang, JY
+AU  - Li, JX
+AU  - Zhang, YY
+AU  - Dai, X
+TI  - The impact of DeepSeek's perceived interactivity on medical students' self-directed learning ability
+T2  - SCIENTIFIC REPORTS
+SN  - 2045-2322
+DA  - JAN 6
+PY  - 2026
+VL  - 16
+IS  - 1
+C7  - 3695
+DO  - 10.1038/s41598-025-33780-3
+AN  - WOS:001674046700001
+ER  -
+
+TY  - JOUR
+AU  - Guo, HH
+AU  - Di, SM
+AU  - Chen, ZZ
+AU  - Pan, CF
+AU  - Meng, CJ
+AU  - Zhu, J
+TI  - FGRCAT: A fine-grained reasoning framework through causality and adversarial training
+T2  - EXPERT SYSTEMS WITH APPLICATIONS
+SN  - 0957-4174
+SN  - 1873-6793
+DA  - MAY 5
+PY  - 2025
+VL  - 272
+C7  - 126688
+DO  - 10.1016/j.eswa.2025.126688
+C6  - FEB 2025
+AN  - WOS:001427633400001
+ER  -
+
+TY  - CPAPER
+AU  - Yu, LX
+AU  - Chen, DL
+AU  - Xiong, SH
+AU  - Wu, QY
+AU  - Li, DW
+AU  - Chen, ZK
+AU  - Liu, XZ
+AU  - Pan, LM
+A1  - Ritter, A
+ED  - Chiruzzo, L
+ED  - Wang, L
+TI  - CausalEval: Towards Better Causal Reasoning in Language Models
+T2  - PROCEEDINGS OF THE 2025 CONFERENCE OF THE NATIONS OF THE AMERICAS CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS: HUMAN LANGUAGE TECHNOLOGIES, VOL 1: LONG PAPERS
+CP  - 2025 Conference of the North American Chapter of the Association for Computational Linguistics-NAACL
+SN  - 979-8-89176-189-6
+PY  - 2025
+SP  - 12512
+EP  - 12540
+AN  - WOS:001611654000303
+ER  -
+
+TY  - JOUR
+AU  - Kailin, Z
+AU  - Saeed, MA
+TI  - Chinese EFL learners' engagement with ChatGPT feedback on academic writing: A case study in Malaysia
+T2  - COMPUTERS AND COMPOSITION
+SN  - 8755-4615
+SN  - 1873-2011
+DA  - MAR
+PY  - 2026
+VL  - 79
+C7  - 102976
+DO  - 10.1016/j.compcom.2025.102976
+C6  - DEC 2025
+AN  - WOS:001655415700001
+ER  -
+
+TY  - JOUR
+AU  - Hsieh, SC
+AU  - Lee, KH
+AU  - Karmakar, R
+AU  - Kandalkar, A
+AU  - Mukundan, A
+AU  - Wang, HC
+TI  - Generative AI and Scientific Authorship: A New Paradigm for Biomedical Imaging Research
+T2  - INTERNATIONAL JOURNAL OF SOFTWARE SCIENCE AND COMPUTATIONAL INTELLIGENCE-IJSSCI
+SN  - 1942-9045
+SN  - 1942-9037
+DA  - JAN-DEC
+PY  - 2025
+VL  - 17
+IS  - 1
+C7  - 394323
+DO  - 10.4018/IJSSCI.394323
+AN  - WOS:001644473900001
+ER  -
+
+TY  - JOUR
+AU  - Din, S
+AU  - Ali, H
+AU  - Panagopoulos, T
+AU  - Alam, J
+AU  - Malik, S
+AU  - Sher, H
+TI  - AI-Driven Conservation of the Endangered Twisted Yew (Taxus contorta Griff.) in the Western Himalaya
+T2  - SUSTAINABILITY
+SN  - 2071-1050
+DA  - SEP 23
+PY  - 2025
+VL  - 17
+IS  - 19
+C7  - 8541
+DO  - 10.3390/su17198541
+AN  - WOS:001593900400001
+ER  -
+
+TY  - JOUR
+AU  - Champion, H
+TI  - Strong novelty regained: high-impact outcomes of machine learning for science
+T2  - SYNTHESE
+SN  - 0039-7857
+SN  - 1573-0964
+DA  - AUG 29
+PY  - 2025
+VL  - 206
+IS  - 3
+C7  - 134
+DO  - 10.1007/s11229-025-05228-8
+AN  - WOS:001561131500001
+ER  -
+
+TY  - JOUR
+AU  - Muhetaer, M
+AU  - Hao, F
+TI  - Exploring the application of ChatGPT in scientific topic analysis: a novel paradigm for enhanced analysis and efficiency
+T2  - APPLIED INTELLIGENCE
+SN  - 0924-669X
+SN  - 1573-7497
+DA  - APR 4
+PY  - 2025
+VL  - 55
+IS  - 7
+C7  - 625
+DO  - 10.1007/s10489-025-06498-y
+AN  - WOS:001459831000003
+ER  -
+
+TY  - JOUR
+AU  - Zepeda, RB
+AU  - Mora, LM
+TI  - Generative Artificial Intelligence agent in scientific research. An explanatory analysis of classroom learning
+T2  - RIED-REVISTA IBEROAMERICANA DE EDUCACION A DISTANCIA
+SN  - 1138-2783
+SN  - 1390-3306
+DA  - JUL
+PY  - 2025
+VL  - 28
+IS  - 2
+DO  - 10.5944/ried.28.2.43545
+AN  - WOS:001523468700002
+ER  -
+
+TY  - CPAPER
+AU  - Buehler, MJ
+A1  - ACM
+TI  - Towards Agentic AI for Science Hypothesis Generation, Comprehension, Quantification, and Validation
+T2  - COMPANION PROCEEDINGS OF THE ACM WEB CONFERENCE 2025, WWW COMPANION 2025
+CP  - 2025 Web Conference-WWW
+SN  - 979-8-4007-1331-6
+PY  - 2025
+SP  - 1643
+EP  - 1643
+DO  - 10.1145/3701716.3718485
+AN  - WOS:001527543600293
+ER  -
+
+TY  - JOUR
+AU  - Trifan, VA
+AU  - Krivins, A
+AU  - Sinaci, M
+TI  - Organizational Change in the Age of AI: Assessing Eastern European Professionals' Attitudes and Readiness
+T2  - JOURNAL OF EAST EUROPEAN MANAGEMENT STUDIES
+SN  - 0949-6181
+SN  - 1862-0019
+DA  - NOV 14
+PY  - 2025
+VL  - 30
+IS  - 4
+C7  - 42794
+DO  - 10.31083/JEEMS42794
+AN  - WOS:001656328400001
+ER  -
+
+TY  - JOUR
+AU  - Wei, W
+AU  - Gu, TS
+AU  - Cao, YH
+AU  - Sun, SQ
+AU  - Wei, D
+AU  - Li, MH
+AU  - Fly, AD
+AU  - Gu, WK
+AU  - Yao, L
+AU  - Sun, DJ
+TI  - Evaluation of the potential value of artificial intelligence (AI) in public health using fluoride intake as the example
+T2  - ECOTOXICOLOGY AND ENVIRONMENTAL SAFETY
+SN  - 0147-6513
+SN  - 1090-2414
+DA  - FEB
+PY  - 2025
+VL  - 291
+C7  - 117805
+DO  - 10.1016/j.ecoenv.2025.117805
+C6  - FEB 2025
+AN  - WOS:001422974600001
+ER  -
+
+TY  - JOUR
+AU  - Yang, RQ
+AU  - Li, HH
+AU  - Wang, JY
+AU  - Li, B
+AU  - Kandegama, WMWW
+AU  - Wang, F
+AU  - Yang, GF
+TI  - Leveraging artificial intelligence and antibiotic data to facilitate the design of novel fungicides
+T2  - PEST MANAGEMENT SCIENCE
+SN  - 1526-498X
+SN  - 1526-4998
+DA  - JAN
+PY  - 2026
+VL  - 82
+IS  - 1
+SP  - 206
+EP  - 216
+DO  - 10.1002/ps.70186
+C6  - SEP 2025
+AN  - WOS:001565914200001
+ER  -
+
+TY  - JOUR
+AU  - Nantale, R
+AU  - Kayemba, F
+AU  - Paungholi, K
+AU  - Epuitai, J
+AU  - Jemba, B
+AU  - Ajalo, E
+AU  - Afodun, A
+AU  - Musaba, MW
+AU  - Munabi, IG
+AU  - Kiguli, S
+AU  - Mubuuke, AG
+AU  - Mukunya, D
+TI  - Experiences of nursing and medical students with the use of Artificial Intelligence tools such as ChatGPT in Uganda
+T2  - PLOS GLOBAL PUBLIC HEALTH
+SN  - 2767-3375
+DA  - DEC 30
+PY  - 2025
+VL  - 5
+IS  - 12
+C7  - e0005715
+DO  - 10.1371/journal.pgph.0005715
+AN  - WOS:001660532200003
+ER  -
+
+TY  - CPAPER
+AU  - Xu, K
+ED  - Walsh, T
+ED  - Shah, J
+ED  - Kolter, Z
+TI  - AI-Driven Personalized Fall Prevention for Older Adults
+T2  - THIRTY-NINTH AAAI CONFERENCE ON ARTIFICIAL INTELLIGENCE, AAAI-25, VOL 39 NO 28
+CP  - 39th AAAI Conference on Artificial Intelligence
+SN  - 2159-5399
+SN  - 2374-3468
+PY  - 2025
+SP  - 29610
+EP  - 29612
+AN  - WOS:001477477000205
+ER  -
+
+TY  - JOUR
+AU  - Rathore, FA
+AU  - Farooq, F
+TI  - AI Tools in Medical Research and Writing: Balancing Innovation with Critical Thinking among Young Researchers and Students
+T2  - JCPSP-JOURNAL OF THE COLLEGE OF PHYSICIANS AND SURGEONS PAKISTAN
+SN  - 1022-386X
+SN  - 1681-7168
+DA  - DEC
+PY  - 2025
+VL  - 35
+IS  - 12
+SP  - 1626
+EP  - 1628
+DO  - 10.29271/jcpsp.2025.12.1626
+AN  - WOS:001664466300022
+ER  -
+
+TY  - JOUR
+AU  - Rabbya, G
+AU  - Muhammedb, D
+AU  - Mitrac, P
+AU  - Auerb, S
+TI  - Iterative hypothesis generation for scientific discovery with Monte Carlo self-refining trees
+T2  - INFORMATION SCIENCES
+SN  - 0020-0255
+SN  - 1872-6291
+DA  - SEP 25
+PY  - 2026
+VL  - 751
+C7  - 123576
+DO  - 10.1016/j.ins.2026.123576
+C6  - MAY 2026
+AN  - WOS:001765036300001
+ER  -
+
+TY  - JOUR
+AU  - Alhowaish, TS
+AU  - Alshafi, NI
+AU  - Aldekhyyel, RN
+AU  - Mesallam, TA
+AU  - Farahat, M
+AU  - Temsah, MH
+AU  - Malki, KH
+TI  - Generative artificial intelligence use in medical research: A medical student vs. physician survey from Saudi Arabia
+T2  - INTERNATIONAL JOURNAL OF MEDICAL INFORMATICS
+SN  - 1386-5056
+SN  - 1872-8243
+DA  - JUL 15
+PY  - 2026
+VL  - 215
+C7  - 106458
+DO  - 10.1016/j.ijmedinf.2026.106458
+C6  - APR 2026
+AN  - WOS:001757026800001
+ER  -
+
+TY  - CPAPER
+AU  - Rahman, MM
+AU  - El Masry, M
+AU  - Gordillo, G
+AU  - Wachs, JP
+ED  - Ali, S
+ED  - Hogg, DC
+ED  - Peckham, M
+TI  - Knowledge-Driven Hypothesis Generation for Burn Diagnosis from Ultrasound with Vision-Language Model
+T2  - MEDICAL IMAGE UNDERSTANDING AND ANALYSIS, MIUA 2025, PT I
+CP  - 29th Conference on Medical Image Understanding and Analysis-MIUA-Annual
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 978-3-031-98687-1
+SN  - 978-3-031-98688-8
+PY  - 2026
+VL  - 15916
+SP  - 275
+EP  - 288
+DO  - 10.1007/978-3-031-98688-8_19
+AN  - WOS:001562497200019
+ER  -
+
+TY  - JOUR
+AU  - Sukiman, MA
+AU  - Lee, CE
+TI  - A Tool for Change in Higher Education: Empowering Student Learning and Wellbeing through Generative Artificial Intelligence (GenAI)
+T2  - JURNAL KOMUNIKASI-MALAYSIAN JOURNAL OF COMMUNICATION
+SN  - 2289-151X
+SN  - 2289-1528
+PY  - 2026
+VL  - 42
+IS  - 2
+SP  - 615
+EP  - 627
+DO  - 10.17576/JKMJC-2026-4202-33
+AN  - WOS:001815808900033
+ER  -
+
+TY  - JOUR
+AU  - Lathabai, HH
+AU  - Raman, R
+AU  - Nedungadi, P
+TI  - Novelty First Policy-Based Intelligent Review Framework (IRF) for the Evaluation of Research Proposals
+T2  - PUBLICATIONS
+SN  - 2304-6775
+DA  - MAY 15
+PY  - 2026
+VL  - 14
+IS  - 2
+C7  - 32
+DO  - 10.3390/publications14020032
+C6  - MAY 2026
+AN  - WOS:001802246300001
+ER  -
+
+TY  - JOUR
+AU  - Corral-Gudino, L
+AU  - Herrero-Montano, I
+AU  - de la Torre-Díez, I
+AU  - Miramontes-González, JP
+TI  - Integrating Generative Artificial Intelligence (AI) in Medical Education: A Framework for Preserving Clinical Reasoning
+T2  - APPLIED SCIENCES-BASEL
+SN  - 2076-3417
+DA  - JUN 12
+PY  - 2026
+VL  - 16
+IS  - 12
+C7  - 5946
+DO  - 10.3390/app16125946
+C6  - JUN 2026
+AN  - WOS:001801898500001
+ER  -
+
+TY  - JOUR
+AU  - Schöning, V
+AU  - Hammann, F
+TI  - Improving Population Pharmacokinetic Modelling with Artificial Patients using Generative Artificial Intelligence
+T2  - PHARMACOLOGY RESEARCH & PERSPECTIVES
+SN  - 2052-1707
+DA  - APR 3
+PY  - 2026
+VL  - 14
+IS  - 2
+C7  - e70241
+DO  - 10.1002/prp2.70241
+AN  - WOS:001732262600001
+ER  -
+
+TY  - JOUR
+AU  - Levy, HV
+TI  - Augmented inventorship: rethinking patent law in the age of generative AI
+T2  - JOURNAL OF LAW AND THE BIOSCIENCES
+SN  - 2053-9711
+DA  - JAN-JUN
+PY  - 2026
+VL  - 13
+IS  - 1
+C7  - lsag014
+DO  - 10.1093/jlb/lsag014
+AN  - WOS:001729899800001
+ER  -
+
+TY  - JOUR
+AU  - Lin, JB
+AU  - Tong, LY
+AU  - Wang, H
+AU  - Shao, MF
+AU  - Yang, C
+TI  - Scientific-Intention Driven Embodied Intelligent Solar Telescope: Conceptual Design (Invited)
+T2  - LASER & OPTOELECTRONICS PROGRESS
+SN  - 1006-4125
+DA  - APR
+PY  - 2026
+VL  - 63
+IS  - 8
+C7  - 0839014
+DO  - 10.3788/LOP252270
+AN  - WOS:001758357500013
+ER  -
+
+TY  - JOUR
+AU  - Miller-Young, J
+AU  - Hays, L
+AU  - McCollum, B
+TI  - Exploring GenAI's Potential Contributions as a Partner in SoTL Research: The Practice Model
+T2  - TEACHING & LEARNING INQUIRY-THE ISSOTL JOURNAL
+SN  - 2167-4779
+SN  - 2167-4787
+PY  - 2026
+VL  - 14
+C7  - 7
+DO  - 10.20343/teachlearninqu.14.7
+AN  - WOS:001708556600002
+ER  -
+
+TY  - JOUR
+AU  - Cao, DY
+AU  - Yan, YT
+AU  - Xiong, AY
+AU  - Wicks, D
+TI  - Effects of an AI-supported inquiry model on AI literacy and authentic performance: A quasi-experimental study with preservice teachers
+T2  - COMPUTERS AND EDUCATION: ARTIFICIAL INTELLIGENCE
+SN  - 2666-920X
+DA  - DEC
+PY  - 2026
+VL  - 11
+C7  - 100630
+DO  - 10.1016/j.caeai.2026.100630
+C6  - JUN 2026
+AN  - WOS:001806187400001
+ER  -
+
+TY  - JOUR
+AU  - Huo, HC
+AU  - Zhang, LJ
+AU  - Zhang, DL
+TI  - University student agency in genre-sensitive writing: a longitudinal mixed-methods multi-case study of teacher and GenAI feedback
+T2  - STUDIES IN HIGHER EDUCATION
+SN  - 0307-5079
+SN  - 1470-174X
+DA  - 2026 JUN 23
+PY  - 2026
+DO  - 10.1080/03075079.2026.2691927
+C6  - JUN 2026
+AN  - WOS:001816454600001
+ER  -
+
+TY  - JOUR
+AU  - Korzynski, P
+AU  - Protsiuk, O
+AU  - Tursunbayeva, A
+AU  - Papa, A
+AU  - De Cremer, D
+TI  - Enhancing productivity and work engagement: the mediating role of intrinsic motivation toward generative AI knowledge management
+T2  - JOURNAL OF KNOWLEDGE MANAGEMENT
+SN  - 1367-3270
+SN  - 1758-7484
+DA  - MAR 17
+PY  - 2026
+VL  - 30
+IS  - 3
+SP  - 947
+EP  - 968
+DO  - 10.1108/JKM-01-2025-0055
+C6  - FEB 2026
+AN  - WOS:001674478200001
+ER  -
+
+TY  - JOUR
+AU  - Ramachandran, R
+AU  - Bugbee, K
+AU  - Bernabe-Moreno, J
+TI  - Accelerated Knowledge Discovery: A Vision for NASA Science
+T2  - EARTH AND SPACE SCIENCE
+SN  - 2333-5084
+DA  - MAR 15
+PY  - 2026
+VL  - 13
+IS  - 3
+C7  - e2025EA004662
+DO  - 10.1029/2025EA004662
+AN  - WOS:001715531900001
+ER  -
+
+TY  - JOUR
+AU  - Steele, A
+AU  - Strachan, F
+AU  - Milligan, C
+AU  - Ibbotson, T
+TI  - Amplifying missing voices in healthcare research: an AI framework for co-production of PPIE
+T2  - FRONTIERS IN DIGITAL HEALTH
+SN  - 2673-253X
+DA  - APR 7
+PY  - 2026
+VL  - 8
+C7  - 1771729
+DO  - 10.3389/fdgth.2026.1771729
+C6  - APR 2026
+AN  - WOS:001744654900001
+ER  -
+
+TY  - JOUR
+AU  - Dospinescu, O
+AU  - Buraga, SC
+AU  - Dospinescu, N
+TI  - Students' Perceptions of the Use of Artificial Intelligence Tools in Educational Activities
+T2  - SYSTEMS
+SN  - 2079-8954
+DA  - JUN 2
+PY  - 2026
+VL  - 14
+IS  - 6
+C7  - 633
+DO  - 10.3390/systems14060633
+C6  - JUN 2026
+AN  - WOS:001803471100001
+ER  -
+
+TY  - JOUR
+AU  - Turchetta, A
+AU  - Infascelli, L
+AU  - Mahoud, M
+TI  - Startups enabling circular service systems in smart cities: a conceptual framework with AI-simulated illustration
+T2  - INTERNATIONAL JOURNAL OF QUALITY AND SERVICE SCIENCES
+SN  - 1756-669X
+SN  - 1756-6703
+DA  - 2026 JUL 17
+PY  - 2026
+DO  - 10.1108/IJQSS-11-2025-0304
+C6  - JUL 2026
+AN  - WOS:001823965800001
+ER  -
+
+TY  - JOUR
+AU  - Fan, WQ
+AU  - Cheng, L
+AU  - Wang, YX
+AU  - Zhao, Q
+AU  - Li, YD
+TI  - In-Class AI Use and Attitudes Among University Students: The Different Mediating Roles of Cognitive Relief and Cognitive Offloading
+T2  - BEHAVIORAL SCIENCES
+SN  - 2076-328X
+DA  - JUN 17
+PY  - 2026
+VL  - 16
+IS  - 6
+C7  - 1014
+DO  - 10.3390/bs16061014
+C6  - JUN 2026
+AN  - WOS:001802622100001
+ER  -
+
+TY  - JOUR
+AU  - Yeh, HC
+AU  - Yang, SH
+AU  - Lan, YJ
+AU  - Chiang, KM
+TI  - Supporting graduate EFL proposal writing through a staged NotebookLM-supported workflow
+T2  - JOURNAL OF ENGLISH FOR ACADEMIC PURPOSES
+SN  - 1475-1585
+SN  - 1878-1497
+DA  - JUL
+PY  - 2026
+VL  - 82
+C7  - 101734
+DO  - 10.1016/j.jeap.2026.101734
+AN  - WOS:001825940300001
+ER  -
+
+TY  - JOUR
+AU  - Patriti, A
+AU  - Greco, PA
+AU  - Pigazzi, A
+TI  - Enhancing Surgeons' Cognitive Performance in Colorectal Surgery: A Narrative Review
+T2  - JOURNAL OF LAPAROENDOSCOPIC & ADVANCED SURGICAL TECHNIQUES
+SN  - 1092-6429
+SN  - 1557-9034
+DA  - APR 1
+PY  - 2026
+VL  - 36
+IS  - 4
+SP  - 306
+EP  - 316
+DO  - 10.1177/10926429261421999
+C6  - APR 2026
+AN  - WOS:001684261300001
+ER  -
+
+TY  - CPAPER
+AU  - Braga, DJF
+AU  - Lima, RA
+AU  - dos Santos, JDL
+AU  - de Oliveira, GM
+AU  - da Silva, MC
+AU  - Barbosa, SDJ
+ED  - Ardito, C
+ED  - Barbosa, SDJ
+ED  - Conte, T
+ED  - Freire, A
+ED  - Gasparini, I
+ED  - Palanque, P
+ED  - Prates, R
+TI  - Arcano: Generating Data Questions to Support Non-Expert Analysts in Hypothesis Formulation
+T2  - HUMAN-COMPUTER INTERACTION - INTERACT 2025, PT IV
+CP  - 20th International Conference on Human-Computer Interaction-INTERACT-Annual
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 978-3-032-05007-6
+SN  - 978-3-032-05008-3
+PY  - 2026
+VL  - 16111
+SP  - 100
+EP  - 105
+DO  - 10.1007/978-3-032-05008-3_20
+AN  - WOS:001606773100020
+ER  -
+
+TY  - JOUR
+AU  - Sanou, G
+AU  - Manso, T
+AU  - Todorov, K
+AU  - Giudicelli, V
+AU  - Duroux, P
+AU  - Kossida, S
+TI  - Therapeutic monoclonal antibodies repurposing in oncology via IMGT/mAb-KG embeddings
+T2  - BMC MEDICAL INFORMATICS AND DECISION MAKING
+SN  - 1472-6947
+DA  - FEB 20
+PY  - 2026
+VL  - 26
+IS  - 1
+C7  - 89
+DO  - 10.1186/s12911-026-03394-4
+AN  - WOS:001727666800001
+ER  -
+
+TY  - JOUR
+AU  - Chaturvedi, N
+AU  - Mishra, V
+AU  - Haque, S
+AU  - Khatoon, S
+AU  - Rawal, K
+AU  - Kumar, V
+TI  - LeveragingAdvanced AI Frameworks for Dual PPAR α/γAgonist Discovery in Alzheimer's Disease
+T2  - ACS CHEMICAL NEUROSCIENCE
+SN  - 1948-7193
+DA  - 2026 JUL 16
+PY  - 2026
+DO  - 10.1021/acschemneuro.6c00148
+C6  - JUL 2026
+AN  - WOS:001822297100001
+ER  -
+
+TY  - JOUR
+AU  - Yang, HY
+AU  - Ye, XC
+AU  - Han, H
+AU  - Sakurai, T
+TI  - ColdstartMHDTI: integrating biomolecular pretraining and attention-based heterogeneous graph learning for drug-target interaction prediction
+T2  - FRONTIERS IN CHEMISTRY
+SN  - 2296-2646
+DA  - JUL 6
+PY  - 2026
+VL  - 14
+C7  - 1846850
+DO  - 10.3389/fchem.2026.1846850
+C6  - JUL 2026
+AN  - WOS:001824343600001
+ER  -
+
+TY  - JOUR
+AU  - Schulz, S
+AU  - Foersch, S
+TI  - Artificial intelligence and carcinogenesis
+T2  - ONKOLOGIE
+SN  - 2731-7226
+SN  - 2731-7234
+DA  - FEB
+PY  - 2026
+VL  - 32
+IS  - 2
+SP  - 187
+EP  - 193
+DO  - 10.1007/s00761-025-01888-w
+C6  - JAN 2026
+AN  - WOS:001662987500001
+ER  -
+
+TY  - JOUR
+AU  - Erkantarci, B
+AU  - Sen, TÜ
+AU  - Bakal, G
+TI  - AI-driven drug repositioning: A diffusion model approach on knowledge graphs
+T2  - JOURNAL OF COMPUTATIONAL SCIENCE
+SN  - 1877-7503
+SN  - 1877-7511
+DA  - JUN
+PY  - 2026
+VL  - 97
+C7  - 102862
+DO  - 10.1016/j.jocs.2026.102862
+C6  - APR 2026
+AN  - WOS:001757649100001
+ER  -
+
+TY  - JOUR
+AU  - Judge, E
+AU  - Gramatikoff, K
+AU  - Milovic, L
+AU  - Minchev, A
+AU  - Karabaliev, M
+TI  - Precision Medicine and Multi-Omics Integration: Transforming Drug Discovery Through FAIR-Enabled Systems
+T2  - EUROBIOTECH JOURNAL
+SN  - 2564-615X
+DA  - JAN 1
+PY  - 2026
+VL  - 10
+IS  - 1
+SP  - 1
+EP  - 6
+DO  - 10.2478/ebtj-2026-0001
+AN  - WOS:001666738200002
+ER  -
+
+TY  - JOUR
+AU  - Jiang, YH
+AU  - Li, ZX
+AU  - Xu, YC
+AU  - Sun, HT
+AU  - Xu, BC
+AU  - Liu, XR
+TI  - KLaR: fusing knowledge graphs and language models for biomedical target discovery
+T2  - BIOINFORMATICS
+SN  - 1367-4803
+SN  - 1367-4811
+DA  - JUL
+PY  - 2026
+VL  - 42
+C7  - btag320
+DO  - 10.1093/bioinformatics/btag320
+AN  - WOS:001812864900001
+ER  -
+
+TY  - JOUR
+AU  - Zhang, T
+AU  - Cao, ZK
+AU  - Li, W
+AU  - Lv, ZH
+TI  - Six artificial intelligence innovation strategies applied to autism spectrum disorder research: A narrative review
+T2  - PEDIATRIC INVESTIGATION
+SN  - 2096-3726
+SN  - 2574-2272
+DA  - APR
+PY  - 2026
+VL  - 10
+IS  - 2
+SP  - 182
+EP  - 198
+DO  - 10.1002/ped4.70038
+C6  - JAN 2026
+AN  - WOS:001670017900001
+ER  -
+
+TY  - JOUR
+AU  - Suanpang, P
+AU  - Pothipassa, P
+TI  - Integrating Generative AI and IoT for Sustainable Smart Tourism Destinations
+T2  - SUSTAINABILITY
+SN  - 2071-1050
+DA  - SEP
+PY  - 2024
+VL  - 16
+IS  - 17
+C7  - 7435
+DO  - 10.3390/su16177435
+AN  - WOS:001311744300001
+ER  -
+
+TY  - CPAPER
+AU  - Ding, ZJ
+AU  - Li, F
+AU  - Yu, HF
+AU  - Chan, J
+A1  - ACM
+TI  - Towards Direct Intent Manipulation: Drag-Based Research Ideation, Evaluation and Evolution
+T2  - ADJUNCT PROCEEDINGS OF THE 38TH ANNUAL ACM SYMPOSIUM ON USER INTERFACE SOFTWARE AND TECHNOLOGY, UIST 2025
+CP  - 38th Symposium on User Interface Software and Technology-UIST-Annual
+SN  - 979-8-4007-2036-9
+PY  - 2025
+C7  - 171
+DO  - 10.1145/3746058.3758453
+AN  - WOS:001612646100171
+ER  -
+
+TY  - JOUR
+AU  - Arcolin, C
+AU  - Schaefer, W
+AU  - Matos, F
+AU  - Packham, C
+TI  - Use of Generative Artificial Intelligence in an Introductory Science Course
+T2  - TECHNOLOGY KNOWLEDGE AND LEARNING
+SN  - 2211-1662
+SN  - 2211-1670
+DA  - 2025 AUG 12
+PY  - 2025
+DO  - 10.1007/s10758-025-09893-z
+C6  - AUG 2025
+AN  - WOS:001547773400001
+ER  -
+
+TY  - JOUR
+AU  - Gil, KL
+AU  - Mosquera, EM
+TI  - Formative Feedback in Graduate Thesis Writing: A Comparison between ChatGPT and Peer Reviewers in a Writing Group
+T2  - REVISTA VIRTUAL UNIVERSIDAD CATOLICA DEL NORTE
+SN  - 0124-5821
+SN  - 2389-7333
+DA  - JAN-APR
+PY  - 2025
+VL  - 74
+SP  - 123
+EP  - 160
+DO  - 10.35575/rvucn.n74a6
+AN  - WOS:001424476300006
+ER  -
+
+TY  - CPAPER
+AU  - Yuan, J
+AU  - Miao, K
+AU  - Oh, H
+AU  - Walker, I
+AU  - Xue, ZY
+AU  - Katolikyan, T
+AU  - Cavallo, M
+A1  - ACM
+TI  - VibE: A Visual Analytics Workflow for Semantic Error Analysis of CVML Models at Subgroup Level
+T2  - PROCEEDINGS OF THE 2025 CONFERENCE ON INTELLIGENT USER INTERFACES, IUI 2025
+CP  - 30th International Conference on Intelligent User Interfaces-IUI
+SN  - 979-8-4007-1306-4
+PY  - 2025
+SP  - 1529
+EP  - 1547
+DO  - 10.1145/3708359.3712147
+AN  - WOS:001477132000092
+ER  -
+
+TY  - CPAPER
+AU  - Chen, Q
+AU  - Wei, JX
+AU  - Yao, ZY
+AU  - Wang, HG
+AU  - Wu, GW
+AU  - Yu, BH
+AU  - Li, SY
+AU  - Tan, C
+A1  - ACM
+TI  - ResearchPulse: Building Method-Experiment Chains through Multi-Document Scientific Inference
+T2  - PROCEEDINGS OF THE 33RD ACM INTERNATIONAL CONFERENCE ON MULTIMEDIA (MM 2025)
+CP  - 2025 Conference on Multimedia-MM
+SN  - 979-8-4007-2035-2
+PY  - 2025
+SP  - 9110
+EP  - 9119
+DO  - 10.1145/3746027.3754813
+AN  - WOS:001671135600168
+ER  -
+
+TY  - CPAPER
+AU  - Joshi, O
+ED  - Li, J
+TI  - Co-Intelligence in Software Engineering: Understanding and Optimizing GenAI Integration in Software Engineering for Skill Development in Time-Constrained Programming
+T2  - COMPANION PROCEEDINGS OF THE 33RD ACM INTERNATIONAL CONFERENCE ON THE FOUNDATIONS OF SOFTWARE ENGINEERING, FSE COMPANION 2025
+CP  - 33rd International Symposium on Foundations of Software Engineering-FSE
+SN  - 979-8-4007-1276-0
+PY  - 2025
+SP  - 1285
+EP  - 1288
+DO  - 10.1145/3696630.3731469
+AN  - WOS:001593214400182
+ER  -
+
+TY  - JOUR
+AU  - Tan, TRY
+AU  - Li, XQ
+TI  - Reflection and Experimental Rigor Are Our AiMS: A New Metacognitive Framework for Experimental Design
+T2  - ENEURO
+SN  - 2373-2822
+DA  - OCT
+PY  - 2025
+VL  - 12
+IS  - 10
+C7  - 0333252025
+DO  - 10.1523/ENEURO.0333-25.2025
+AN  - WOS:001606978700002
+ER  -
+
+TY  - CPAPER
+AU  - Anota, MMM
+AU  - Luna, FMM
+AU  - Escobar, ADO
+A1  - IEEE
+TI  - Chatbot as Informative Support: Case Study in the Faculty of Accounting and Administration, Universidad Veracruzana
+T2  - 2025 MEXICAN INTERNATIONAL CONFERENCE ON COMPUTER SCIENCE, ENC
+CP  - 2025 Mexican International Conference on Computer Science-ENC-Annual
+SN  - 1550-4069
+SN  - 979-8-3315-9027-7
+SN  - 979-8-3315-9026-0
+PY  - 2025
+DO  - 10.1109/ENC68268.2025.11311959
+AN  - WOS:001706379900088
+ER  -
+
+TY  - JOUR
+AU  - Kim, D
+AU  - Ding, WZ
+AU  - Shaw, AN
+AU  - Torkel, M
+AU  - Turtle, CJ
+AU  - Yang, PY
+AU  - Yang, J
+TI  - Multi-view gene panel characterization for spatially resolved omics
+T2  - BRIEFINGS IN BIOINFORMATICS
+SN  - 1467-5463
+SN  - 1477-4054
+DA  - SEP
+PY  - 2025
+VL  - 26
+IS  - 5
+C7  - bbaf478
+DO  - 10.1093/bib/bbaf478
+AN  - WOS:001586429500001
+ER  -
+
+TY  - JOUR
+AU  - Lehr, SA
+AU  - Caliskan, A
+AU  - Liyanage, S
+AU  - Banaji, MR
+TI  - ChatGPT as Research Scientist: Probing GPT's capabilities as a Research Librarian, Research Ethicist, Data Generator, and Data Predictor
+T2  - PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA
+SN  - 0027-8424
+SN  - 1091-6490
+DA  - AUG 27
+PY  - 2024
+VL  - 121
+IS  - 35
+C7  - e2404328121
+DO  - 10.1073/pnas.2404328121
+AN  - WOS:001352860500005
+ER  -
+
+TY  - JOUR
+AU  - Pasupuleti, RS
+AU  - Thiyyagura, D
+TI  - An empirical evidence on the continuance and recommendation intention of ChatGPT among higher education students in India: An extended technology continuance theory
+T2  - EDUCATION AND INFORMATION TECHNOLOGIES
+SN  - 1360-2357
+SN  - 1573-7608
+DA  - OCT
+PY  - 2024
+VL  - 29
+IS  - 14
+SP  - 17965
+EP  - 17985
+DO  - 10.1007/s10639-024-12573-7
+C6  - MAR 2024
+AN  - WOS:001174922900006
+ER  -
+
+TY  - JOUR
+AU  - Athaluri, SA
+AU  - Manthena, SV
+AU  - Kesapragada, VSRKM
+AU  - Yarlagadda, V
+AU  - Dave, T
+AU  - Duddumpudi, RTS
+TI  - Exploring the Boundaries of Reality: Investigating the Phenomenon of Artificial Intelligence Hallucination in Scientific Writing Through ChatGPT References
+T2  - CUREUS JOURNAL OF MEDICAL SCIENCE
+SN  - 2168-8184
+DA  - APR 11
+PY  - 2023
+VL  - 15
+IS  - 4
+DO  - 10.7759/cureus.37432
+AN  - WOS:000980749900035
+ER  -
+
+TY  - JOUR
+AU  - Banker, S
+AU  - Chatterjee, P
+AU  - Mishra, H
+AU  - Mishra, A
+TI  - Machine-Assisted Social Psychology Hypothesis Generation
+T2  - AMERICAN PSYCHOLOGIST
+SN  - 0003-066X
+SN  - 1935-990X
+DA  - SEP
+PY  - 2024
+VL  - 79
+IS  - 6
+SP  - 789
+EP  - 797
+DO  - 10.1037/amp0001222
+AN  - WOS:001327851700009
+ER  -
+
+TY  - CPAPER
+AU  - Wang, QY
+AU  - Downey, D
+AU  - Ji, H
+AU  - Hope, T
+ED  - Ku, LW
+ED  - Martins, A
+ED  - Srikumar, V
+TI  - SCIMON : Scientific Inspiration Machines Optimized for Novelty
+T2  - PROCEEDINGS OF THE 62ND ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, VOL 1: LONG PAPERS
+CP  - 62nd Annual Meeting of the Association-for-Computational-Linguistics (ACL) / Student Research Workshop (SRW)
+SN  - 979-8-89176-094-3
+PY  - 2024
+SP  - 279
+EP  - 299
+AN  - WOS:001356729800018
+ER  -
+
+TY  - JOUR
+AU  - Smerdon, D
+TI  - AI in essay-based assessment: Student adoption, usage, and performance
+T2  - COMPUTERS AND EDUCATION: ARTIFICIAL INTELLIGENCE
+SN  - 2666-920X
+DA  - DEC
+PY  - 2024
+VL  - 7
+C7  - 100288
+DO  - 10.1016/j.caeai.2024.100288
+AN  - WOS:001651596800017
+ER  -
+
+TY  - JOUR
+AU  - Kapsali, MZ
+AU  - Livanis, E
+AU  - Tsalikidis, C
+AU  - Oikonomou, P
+AU  - Voultsos, P
+AU  - Tsaroucha, A
+TI  - Ethical Concerns About ChatGPT in Healthcare: A Useful Tool or the Tombstone of Original and Reflective Thinking?
+T2  - CUREUS JOURNAL OF MEDICAL SCIENCE
+SN  - 2168-8184
+DA  - FEB 23
+PY  - 2024
+VL  - 16
+IS  - 2
+C7  - e54759
+DO  - 10.7759/cureus.54759
+AN  - WOS:001221132700028
+ER  -
+
+TY  - JOUR
+AU  - Zhang, Y
+AU  - Wang, YF
+AU  - Sheng, QZ
+AU  - Yao, LN
+AU  - Chen, HH
+AU  - Wang, K
+AU  - Mahmood, A
+AU  - Zhang, WE
+AU  - Zaib, M
+AU  - Sagar, S
+AU  - Zhao, RY
+TI  - Deep learning meets bibliometrics: A survey of citation function classification
+T2  - JOURNAL OF INFORMETRICS
+SN  - 1751-1577
+SN  - 1875-5879
+DA  - FEB
+PY  - 2025
+VL  - 19
+IS  - 1
+C7  - 101608
+DO  - 10.1016/j.joi.2024.101608
+C6  - NOV 2024
+AN  - WOS:001358678600001
+ER  -
+
+TY  - JOUR
+AU  - Song, PG
+AU  - Adeloye, D
+AU  - Acharya, Y
+AU  - Bojude, DA
+AU  - Ali, S
+AU  - Alibudbud, R
+AU  - Bastien, S
+AU  - Becerra-Posada, F
+AU  - Berecki, M
+AU  - Bodomo, A
+AU  - Borrescio-Higa, F
+AU  - Buchtova, M
+AU  - Campbell, H
+AU  - Chan, KY
+AU  - Cheema, S
+AU  - Chopra, M
+AU  - Cipta, DA
+AU  - Castro, LD
+AU  - Ganasegeran, K
+AU  - Gebre, T
+AU  - Glasnovic, A
+AU  - Graham, CJ
+AU  - Igwesi-Chidobe, C
+AU  - Iversen, PO
+AU  - Jadoon, B
+AU  - Lanza, GSP
+AU  - Macdonald, C
+AU  - Park, C
+AU  - Islam, MM
+AU  - Mshelia, S
+AU  - Nair, H
+AU  - Ng, ZX
+AU  - Htay, MNN
+AU  - Akinyemi, KO
+AU  - Parisi, M
+AU  - Patel, S
+AU  - Peprah, P
+AU  - Polasek, O
+AU  - Riha, R
+AU  - Rotarou, ES
+AU  - Sacks, E
+AU  - Sharov, K
+AU  - Stankov, S
+AU  - Supriyatiningsih, W
+AU  - Sutan, R
+AU  - Tomlinson, M
+AU  - Tsai, AC
+AU  - Tsimpida, D
+AU  - Vento, S
+AU  - Glasnovic, JV
+AU  - Wang, L
+AU  - Wazny, K
+AU  - Xu, JY
+AU  - Yoshida, S
+AU  - Zhang, YF
+AU  - Cao, J
+AU  - Zhu, YJ
+AU  - Sheikh, SA
+AU  - Rudan, I
+A1  - Int Soc Global Hlth ISoGH
+TI  - Setting research priorities for global pandemic preparedness: An international consensus and comparison with ChatGPT's output
+T2  - JOURNAL OF GLOBAL HEALTH
+SN  - 2047-2978
+SN  - 2047-2986
+PY  - 2024
+VL  - 14
+C7  - 04054
+DO  - 10.7189/jogh.14.04054
+AN  - WOS:001167864800001
+ER  -
+
+TY  - JOUR
+AU  - Knopp, MI
+AU  - Warm, EJ
+AU  - Weber, D
+AU  - Kelleher, M
+AU  - Kinnear, B
+AU  - Schumacher, DJ
+AU  - Santen, SA
+AU  - Mendonça, E
+AU  - Turner, L
+TI  - AI-Enabled Medical Education: Threads of Change, Promising Futures, and Risky Realities Across Four Potential Future Worlds
+T2  - JMIR MEDICAL EDUCATION
+SN  - 2369-3762
+PY  - 2023
+VL  - 9
+C7  - e50373
+DO  - 10.2196/50373
+AN  - WOS:001146163200001
+ER  -
+
+TY  - JOUR
+AU  - Adwan, MNA
+AU  - El Hajji, M
+AU  - Fayez, H
+TI  - Future anxiety among media professionals and its relationship to utilizing artificial intelligence techniques: The case of Egypt, France, and UAE
+T2  - ONLINE JOURNAL OF COMMUNICATION AND MEDIA TECHNOLOGIES
+SN  - 1986-3497
+DA  - APR
+PY  - 2024
+VL  - 14
+IS  - 2
+C7  - e202425
+DO  - 10.30935/ojcmt/14426
+AN  - WOS:001196265500001
+ER  -
+
+TY  - JOUR
+AU  - Zhao, QY
+AU  - Hastie, T
+TI  - Causal Interpretations of Black-Box Models
+T2  - JOURNAL OF BUSINESS & ECONOMIC STATISTICS
+SN  - 0735-0015
+SN  - 1537-2707
+DA  - JAN 2
+PY  - 2021
+VL  - 39
+IS  - 1
+SP  - 272
+EP  - 281
+DO  - 10.1080/07350015.2019.1624293
+C6  - JUL 2019
+AN  - WOS:000474238800001
+ER  -
+
+TY  - JOUR
+AU  - Cornelio, C
+AU  - Dash, S
+AU  - Austel, V
+AU  - Josephson, TR
+AU  - Goncalves, J
+AU  - Clarkson, KL
+AU  - Megiddo, N
+AU  - El Khadir, B
+AU  - Horesh, L
+TI  - Combining data and theory for derivable scientific discovery with AI-Descartes
+T2  - NATURE COMMUNICATIONS
+SN  - 2041-1723
+DA  - APR 12
+PY  - 2023
+VL  - 14
+IS  - 1
+C7  - 1777
+DO  - 10.1038/s41467-023-37236-y
+AN  - WOS:001003644100016
+ER  -
+
+TY  - JOUR
+AU  - Mondal, H
+AU  - Mondal, S
+TI  - ChatGPT in academic writing: Maximizing its benefits and minimizing the risks
+T2  - INDIAN JOURNAL OF OPHTHALMOLOGY
+SN  - 0301-4738
+SN  - 1998-3689
+DA  - DEC
+PY  - 2023
+VL  - 71
+IS  - 12
+SP  - 3600
+EP  - 3606
+DO  - 10.4103/IJO.IJO_718_23
+AN  - WOS:001109242800016
+ER  -
+
+TY  - JOUR
+AU  - Sridharan, K
+AU  - Sivaramakrishnan, G
+TI  - Assessing the Decision-Making Capabilities of Artificial Intelligence Platforms as Institutional Review Board Members
+T2  - JOURNAL OF EMPIRICAL RESEARCH ON HUMAN RESEARCH ETHICS
+SN  - 1556-2646
+SN  - 1556-2654
+DA  - JUL
+PY  - 2024
+VL  - 19
+IS  - 3
+SP  - 83
+EP  - 91
+DO  - 10.1177/15562646241263200
+C6  - JUN 2024
+AN  - WOS:001250397300001
+ER  -
+
+TY  - JOUR
+AU  - Cao, JQ
+AU  - Song, ZL
+TI  - An incoming threat: the influence of automation potential on job insecurity
+T2  - ASIA-PACIFIC JOURNAL OF BUSINESS ADMINISTRATION
+SN  - 1757-4323
+SN  - 1757-4331
+DA  - JAN 2
+PY  - 2025
+VL  - 17
+IS  - 1
+SP  - 116
+EP  - 135
+DO  - 10.1108/APJBA-07-2022-0328
+C6  - MAY 2024
+AN  - WOS:001224626600001
+ER  -
+
+TY  - JOUR
+AU  - Choueka, D
+AU  - Tabakin, AL
+AU  - Shalom, DF
+TI  - ChatGPT in Urogynecology Research: Novel or Not?
+T2  - UROGYNECOLOGY
+SN  - 2771-1897
+DA  - DEC
+PY  - 2024
+VL  - 30
+IS  - 12
+SP  - 962
+EP  - 967
+DO  - 10.1097/SPV.0000000000001505
+AN  - WOS:001360388000005
+ER  -
+
+TY  - JOUR
+AU  - Guo, QZ
+TI  - PROMPTING CHANGE: CHATGPT'S IMPACT ON DIGITAL HUMANITIES PEDAGOGY - A CASE STUDY IN ART HISTORY
+T2  - INTERNATIONAL JOURNAL OF HUMANITIES AND ARTS COMPUTING-A JOURNAL OF DIGITAL HUMANITIES
+SN  - 1753-8548
+SN  - 1755-1706
+DA  - MAR
+PY  - 2024
+VL  - 18
+IS  - 1
+SP  - 58
+EP  - 78
+DO  - 10.3366/ijhac.2024.0321
+AN  - WOS:001208742800006
+ER  -
+
+TY  - JOUR
+AU  - Portelance, E
+AU  - Jasbi, M
+TI  - The Roles of Neural Networks in Language Acquisition
+T2  - LANGUAGE AND LINGUISTICS COMPASS
+SN  - 1749-818X
+DA  - OCT 24
+PY  - 2024
+VL  - 18
+IS  - 6
+C7  - e70001
+DO  - 10.1111/lnc3.70001
+AN  - WOS:001368184700001
+ER  -
+
+TY  - JOUR
+AU  - Yang, M
+AU  - Wang, YH
+AU  - Gu, Y
+TI  - Language-based reasoning graph neural network for commonsense question answering
+T2  - NEURAL NETWORKS
+SN  - 0893-6080
+SN  - 1879-2782
+DA  - JAN
+PY  - 2025
+VL  - 181
+C7  - 106816
+DO  - 10.1016/j.neunet.2024.106816
+C6  - NOV 2024
+AN  - WOS:001350414800001
+ER  -
+
+TY  - JOUR
+AU  - Wang, YZ
+AU  - Xiang, Y
+AU  - Zhang, CZ
+TI  - Exploring motivations for algorithm mention in the domain of natural language processing: A deep learning approach
+T2  - JOURNAL OF INFORMETRICS
+SN  - 1751-1577
+SN  - 1875-5879
+DA  - NOV
+PY  - 2024
+VL  - 18
+IS  - 4
+C7  - 101550
+DO  - 10.1016/j.joi.2024.101550
+C6  - JUN 2024
+AN  - WOS:001252008800001
+ER  -
+
+TY  - CPAPER
+AU  - Artioli, E
+A1  - Assoc Computing Machinery
+TI  - Generative AI for HTTP Adaptive Streaming
+T2  - PROCEEDINGS OF THE 2024 15TH ACM MULTIMEDIA SYSTEMS CONFERENCE 2024, MMSYS 2024
+CP  - 15th ACM Multimedia Systems Conference (ACM MMSys)
+SN  - 979-8-4007-0412-3
+PY  - 2024
+SP  - 516
+EP  - 519
+DO  - 10.1145/3625468.3652912
+AN  - WOS:001211636900064
+ER  -
+
+TY  - JOUR
+AU  - Markowitz, DM
+AU  - Boyd, RL
+AU  - Blackburn, K
+TI  - From silicon to solutions: AI's impending impact on research and discovery
+T2  - FRONTIERS IN SOCIAL PSYCHOLOGY
+SN  - 2813-7876
+DA  - MAY 15
+PY  - 2024
+VL  - 2
+C7  - 1392128
+DO  - 10.3389/frsps.2024.1392128
+C6  - MAY 2024
+AN  - WOS:001797285400001
+ER  -
+
+TY  - JOUR
+AU  - Li, M
+AU  - Yin, WJ
+AU  - Tang, J
+AU  - Qiu, LL
+AU  - Fei, XD
+AU  - Yang, HZ
+AU  - Tang, ZH
+AU  - Chen, FS
+AU  - Qin, XB
+AU  - Li, G
+TI  - Experimental study on ratio optimization and application of improved bonded dust suppressant based on wetting effect
+T2  - JOURNAL OF THE AIR & WASTE MANAGEMENT ASSOCIATION
+SN  - 1096-2247
+SN  - 2162-2906
+DA  - MAY 4
+PY  - 2023
+VL  - 73
+IS  - 5
+SP  - 394
+EP  - 402
+DO  - 10.1080/10962247.2023.2189173
+AN  - WOS:000988087000006
+ER  -
+
+TY  - CPAPER
+AU  - Sepiolo, D
+AU  - Ligeza, A
+ED  - Biecek, P
+ED  - Nowaczyk, S
+ED  - Chung, NC
+ED  - Vallati, M
+ED  - Skruch, P
+ED  - Jaworek-Korjakowska, J
+ED  - Parkinson, S
+ED  - Nikitas, A
+ED  - Atzmuller, M
+ED  - Kliegr, T
+ED  - Schmid, U
+ED  - Bobek, S
+ED  - Lavrac, N
+ED  - Peeters, M
+ED  - VanDierendonck, R
+ED  - Robben, S
+ED  - Mercier-Laurent, E
+ED  - Kayakutlu, G
+ED  - Owoc, ML
+ED  - Mason, K
+ED  - Wahid, A
+ED  - Bruno, P
+ED  - Calimeri, F
+ED  - Cauteruccio, F
+ED  - Terracina, G
+ED  - Wolter, D
+ED  - Leidner, JL
+ED  - Kohlhase, M
+ED  - Dimitrova, V
+TI  - Towards Model-Driven Explainable Artificial Intelligence. An Experiment with Shallow Methods Versus Grammatical Evolution
+T2  - ARTIFICIAL INTELLIGENCE-ECAI 2023 INTERNATIONAL WORKSHOPS, PT 2, XAI3, TACTIFUL, XI-ML, SEDAMI, RAAIT, AI4S, HYDRA, AI4AI, 2023
+CP  - 26th European Conference on Artificial Intelligence (ECAI)
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 978-3-031-50484-6
+SN  - 978-3-031-50485-3
+PY  - 2024
+VL  - 1948
+SP  - 360
+EP  - 365
+DO  - 10.1007/978-3-031-50485-3_36
+AN  - WOS:001259355800036
+ER  -
+
+TY  - JOUR
+AU  - Popescu, IM
+AU  - Zavatin, I
+AU  - Manea, DI
+AU  - Pamfilie, R
+AU  - Jurconi, A
+TI  - ADAPTING THE COMPETENCES OF THE EMPLOYED PERSONNEL IN THE CONTEXT OF THE INTEGRATION OF ARTIFICIAL INTELLIGENCE IN ORGANISATIONS
+T2  - AMFITEATRU ECONOMIC
+SN  - 1582-9146
+SN  - 2247-9104
+DA  - AUG
+PY  - 2024
+VL  - 26
+IS  - 67
+SP  - 817
+EP  - 831
+DO  - 10.24818/EA/2024/67/817
+AN  - WOS:001289160200008
+ER  -
+
+TY  - JOUR
+AU  - Jarvis, MF
+TI  - Decatastrophizing research irreproducibility
+T2  - BIOCHEMICAL PHARMACOLOGY
+SN  - 0006-2952
+SN  - 1873-2968
+DA  - OCT
+PY  - 2024
+VL  - 228
+C7  - 116090
+DO  - 10.1016/j.bcp.2024.116090
+C6  - SEP 2024
+AN  - WOS:001317737400001
+ER  -
+
+TY  - CPAPER
+AU  - Chen, HT
+AU  - Zhang, MJQ
+AU  - Choi, E
+ED  - Goldberg, Y
+ED  - Kozareva, Z
+ED  - Zhang, Y
+TI  - Rich Knowledge Sources Bring Complex Knowledge Conflicts: Recalibrating Models to Reflect Conflicting Evidence
+T2  - 2022 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING, EMNLP 2022
+CP  - 2022 Conference on Empirical Methods in Natural Language Processing
+SN  - 978-1-959429-40-1
+PY  - 2022
+SP  - 2292
+EP  - 2307
+AN  - WOS:001456575700146
+ER  -
+
+TY  - JOUR
+AU  - Doron, G
+AU  - Genway, S
+AU  - Roberts, M
+AU  - Jasti, S
+TI  - Generative AI: driving productivity and scientific breakthroughs in pharmaceutical R&D
+T2  - DRUG DISCOVERY TODAY
+SN  - 1359-6446
+SN  - 1878-5832
+DA  - JAN
+PY  - 2025
+VL  - 30
+IS  - 1
+C7  - 104272
+DO  - 10.1016/j.drudis.2024.104272
+C6  - DEC 2024
+AN  - WOS:001400247300001
+ER  -
+
+TY  - CPAPER
+AU  - Burbano, DC
+AU  - Ibarra, JF
+ED  - Mata-Rivera,MF
+ED  - Zagal-Flores, R
+ED  - Barria-Huidobro, C
+TI  - The Role of Generative Artificial Intelligence in Educational Innovation
+T2  - TELEMATICS AND COMPUTING, WITCOM 2024, PT II
+CP  - 13th International Conference on Telematics and Computing-WITCOM
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 978-3-031-77292-4
+SN  - 978-3-031-77293-1
+PY  - 2024
+VL  - 2250
+SP  - 283
+EP  - 297
+DO  - 10.1007/978-3-031-77293-1_20
+AN  - WOS:001584470600019
+ER  -
+
+TY  - JOUR
+AU  - Shaari, AL
+AU  - Herzog, I
+AU  - Kokush, E
+AU  - Zabielski, S
+AU  - Langer, S
+AU  - Filimonov, A
+TI  - Exploring the Ability of ChatGPT to Act as a Research Aid in Otolaryngology
+T2  - INDIAN JOURNAL OF OTOLARYNGOLOGY AND HEAD & NECK SURGERY
+SN  - 2231-3796
+SN  - 0973-7707
+DA  - DEC
+PY  - 2024
+VL  - 76
+IS  - 6
+SP  - 6100
+EP  - 6105
+DO  - 10.1007/s12070-024-05101-z
+C6  - OCT 2024
+AN  - WOS:001324158800003
+ER  -
+
+TY  - JOUR
+AU  - Gerlach, M
+AU  - Peixoto, TP
+AU  - Altmann, EG
+TI  - A network approach to topic models
+T2  - SCIENCE ADVANCES
+SN  - 2375-2548
+DA  - JUL
+PY  - 2018
+VL  - 4
+IS  - 7
+C7  - eaaq1360
+DO  - 10.1126/sciadv.aaq1360
+AN  - WOS:000443176100009
+ER  -
+
+TY  - JOUR
+AU  - Calude, CS
+AU  - Longo, G
+TI  - The Deluge of Spurious Correlations in Big Data
+T2  - FOUNDATIONS OF SCIENCE
+SN  - 1233-1821
+SN  - 1572-8471
+DA  - SEP
+PY  - 2017
+VL  - 22
+IS  - 3
+SP  - 595
+EP  - 612
+DO  - 10.1007/s10699-016-9489-4
+AN  - WOS:000410705800008
+ER  -
+
+TY  - JOUR
+AU  - Kliegr, T
+AU  - Bahník, S
+AU  - Fürnkranz, J
+TI  - A review of possible effects of cognitive biases on interpretation of rule-based machine learning models
+T2  - ARTIFICIAL INTELLIGENCE
+SN  - 0004-3702
+SN  - 1872-7921
+DA  - JUN
+PY  - 2021
+VL  - 295
+C7  - 103458
+DO  - 10.1016/j.artint.2021.103458
+C6  - FEB 2021
+AN  - WOS:000643700200002
+ER  -
+
+TY  - JOUR
+AU  - Deforest, JL
+TI  - Mitigating generative AI inaccuracies in soil biology
+T2  - SOIL BIOLOGY & BIOCHEMISTRY
+SN  - 0038-0717
+SN  - 1879-3428
+DA  - OCT
+PY  - 2024
+VL  - 197
+C7  - 109510
+DO  - 10.1016/j.soilbio.2024.109510
+C6  - JUL 2024
+AN  - WOS:001363940700001
+ER  -
+
+TY  - CPAPER
+AU  - Kontoghiorghes, L
+AU  - Colubi, A
+ED  - Ansari, J
+ED  - Fuchs, S
+ED  - Trutschnig, W
+ED  - Lubiano, MA
+ED  - Gil, MA
+ED  - Grzegorzewski, P
+ED  - Hryniewicz, O
+TI  - Data Augmentation with ChatGPT for Assessing Subject Alignment
+T2  - COMBINING, MODELLING AND ANALYZING IMPRECISION, RANDOMNESS AND DEPENDENCE, SMPS 2024
+CP  - 11th International Conference on Soft Methods in Probability and Statistics (SMPS)
+SN  - 2194-5357
+SN  - 2194-5365
+SN  - 978-3-031-65992-8
+SN  - 978-3-031-65993-5
+PY  - 2024
+VL  - 1458
+SP  - 217
+EP  - 224
+DO  - 10.1007/978-3-031-65993-5_26
+AN  - WOS:001323540900026
+ER  -
+
+TY  - CPAPER
+AU  - Di Martino, V
+AU  - Falzone, Y
+AU  - Gulbay, E
+AU  - La Marca, A
+AU  - Leone, A
+AU  - Longo, L
+AU  - Di Carlo, D
+ED  - Casalino, G
+ED  - DiFuccio, R
+ED  - Fulantelli, G
+ED  - Raviolo, P
+ED  - Rivoltella, PC
+ED  - Taibi, D
+ED  - Toto, GA
+TI  - Empowering Higher Education with ChatGPT: Innovating University Instructional Design
+T2  - HIGHER EDUCATION LEARNING METHODOLOGIES AND TECHNOLOGIES ONLINE, HELMETO 2023
+CP  - 5th International Conference on Higher Education Learning Methodologies and Technologies Online-HELMeTO
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 978-3-031-67350-4
+SN  - 978-3-031-67351-1
+PY  - 2024
+VL  - 2076
+SP  - 398
+EP  - 409
+DO  - 10.1007/978-3-031-67351-1_27
+AN  - WOS:001760968800027
+ER  -
+
+TY  - CPAPER
+AU  - Lozano, A
+AU  - Nirschl, J
+AU  - Burgess, J
+AU  - Gupte, SR
+AU  - Zhang, YH
+AU  - Unell, A
+AU  - Yeung-Levy, S
+ED  - Globerson, A
+ED  - Mackey, L
+ED  - Belgrave, D
+ED  - Fan, A
+ED  - Paquet, U
+ED  - Tomczak, J
+ED  - Zhang, C
+TI  - Micro-Bench: A Vision-Language Benchmark for Microscopy Understanding
+T2  - ADVANCES IN NEURAL INFORMATION PROCESSING SYSTEMS 37 (NEURIPS 2024)
+CP  - 2024 38th Conference on Neural Information Processing Systems-NeurIPS
+SN  - 1049-5258
+SN  - 979-8-3313-1438-5
+PY  - 2024
+AN  - WOS:001633227600251
+ER  -
+
+TY  - JOUR
+AU  - Nachalon, Y
+AU  - Broer, M
+AU  - Nativ-Zeltzer, N
+TI  - Using ChatGPT to Generate Research Ideas in Dysphagia: A Pilot Study
+T2  - DYSPHAGIA
+SN  - 0179-051X
+SN  - 1432-0460
+DA  - JUN
+PY  - 2024
+VL  - 39
+IS  - 3
+SP  - 407
+EP  - 411
+DO  - 10.1007/s00455-023-10623-9
+C6  - OCT 2023
+AN  - WOS:001091164000001
+ER  -
+
+TY  - JOUR
+AU  - Svab, I
+AU  - Klemenc-Ketis, Z
+AU  - Zupanic, S
+TI  - New Challenges in Scientific Publications: Referencing, Artificial Intelligence and ChatGPT
+T2  - SLOVENIAN JOURNAL OF PUBLIC HEALTH
+SN  - 0351-0026
+SN  - 1854-2476
+DA  - SEP 1
+PY  - 2023
+VL  - 62
+IS  - 3
+SP  - 109
+EP  - 112
+DO  - 10.2478/sjph-2023-0015
+AN  - WOS:001011214200001
+ER  -
+
+TY  - CPAPER
+AU  - Meng, Y
+AU  - Zhang, YY
+AU  - Huang, JX
+AU  - Zhang, Y
+AU  - Han, JW
+A1  - ACM
+TI  - Topic Discovery via Latent Space Clustering of Pretrained Language Model Representations
+T2  - PROCEEDINGS OF THE ACM WEB CONFERENCE 2022 (WWW'22)
+CP  - 31st ACM Web Conference (WWW)
+SN  - 978-1-4503-9096-5
+PY  - 2022
+SP  - 3143
+EP  - 3152
+DO  - 10.1145/3485447.3512034
+AN  - WOS:000852713003022
+ER  -
+
+TY  - CPAPER
+AU  - Miao, YS
+AU  - Grefenstette, E
+AU  - Blunsom, P
+ED  - Precup, D
+ED  - Teh, YW
+TI  - Discovering Discrete Latent Topics with Neural Variational Inference
+T2  - INTERNATIONAL CONFERENCE ON MACHINE LEARNING, VOL 70
+CP  - 34th International Conference on Machine Learning
+SN  - 2640-3498
+PY  - 2017
+VL  - 70
+AN  - WOS:000683309502052
+ER  -
+
+TY  - JOUR
+AU  - Yao, LY
+AU  - Li, YL
+AU  - Li, S
+AU  - Liu, JD
+AU  - Huai, MD
+AU  - Zhang, AD
+AU  - Gao, J
+TI  - Concept-Level Model Interpretation From the Causal Aspect
+T2  - IEEE TRANSACTIONS ON KNOWLEDGE AND DATA ENGINEERING
+SN  - 1041-4347
+SN  - 1558-2191
+DA  - SEPT 1
+PY  - 2023
+VL  - 35
+IS  - 9
+SP  - 8799
+EP  - 8810
+DO  - 10.1109/TKDE.2022.3209997
+AN  - WOS:001045704800008
+ER  -
+
+TY  - JOUR
+AU  - Korel, L
+AU  - Yorsh, U
+AU  - Behr, AS
+AU  - Kockmann, N
+AU  - Holena, M
+TI  - Text-to-Ontology Mapping via Natural Language Processing with Application to Search for Relevant Ontologies in Catalysis
+T2  - COMPUTERS
+SN  - 2073-431X
+DA  - JAN
+PY  - 2023
+VL  - 12
+IS  - 1
+C7  - 14
+DO  - 10.3390/computers12010014
+AN  - WOS:000914556100001
+ER  -
+
+TY  - JOUR
+AU  - Jiang, XR
+AU  - Chen, JQ
+TI  - Contextualised segment-wise citation function classification
+T2  - SCIENTOMETRICS
+SN  - 0138-9130
+SN  - 1588-2861
+DA  - SEP
+PY  - 2023
+VL  - 128
+IS  - 9
+SP  - 5117
+EP  - 5158
+DO  - 10.1007/s11192-023-04778-3
+C6  - JUL 2023
+AN  - WOS:001024138900001
+ER  -
+
+TY  - CPAPER
+AU  - Guan, CY
+AU  - Wang, XT
+AU  - Zhang, QS
+AU  - Chen, RJ
+AU  - He, D
+AU  - Xie, X
+ED  - Chaudhuri, K
+ED  - Salakhutdinov, R
+TI  - Towards a Deep and Unified Understanding of Deep Neural Models in NLP
+T2  - INTERNATIONAL CONFERENCE ON MACHINE LEARNING, VOL 97
+CP  - 36th International Conference on Machine Learning (ICML)
+SN  - 2640-3498
+PY  - 2019
+VL  - 97
+AN  - WOS:000684034302061
+ER  -
+
+TY  - JOUR
+AU  - Chao, WH
+AU  - Chen, MY
+AU  - Zhou, X
+AU  - Luo, ZC
+TI  - A joint framework for identifying the type and arguments of scientific contribution
+T2  - SCIENTOMETRICS
+SN  - 0138-9130
+SN  - 1588-2861
+DA  - JUN
+PY  - 2023
+VL  - 128
+IS  - 6
+SP  - 3347
+EP  - 3376
+DO  - 10.1007/s11192-023-04694-6
+C6  - APR 2023
+AN  - WOS:000984073700005
+ER  -
+
+TY  - CPAPER
+AU  - BehnamGhader, P
+AU  - Miret, S
+AU  - Reddy, S
+ED  - Bouamor, H
+ED  - Pino, J
+ED  - Bali, K
+TI  - Can Retriever-Augmented Language Models Reason? The Blame Game Between the Retriever and the Language Model
+T2  - FINDINGS OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (EMNLP 2023)
+CP  - Conference on Empirical Methods in Natural Language Processing (EMNLP)
+SN  - 979-8-89176-061-5
+PY  - 2023
+SP  - 15492
+EP  - 15509
+AN  - WOS:001378234407045
+ER  -
+
+TY  - JOUR
+AU  - Vasilieva, EA
+AU  - Kuznetsova, DA
+AU  - Valeeva, FG
+AU  - Kuznetsov, DM
+AU  - Zakharova, LY
+TI  - Role of Polyanions and Surfactant Head Group in the Formation of Polymer-Colloid Nanocontainers
+T2  - NANOMATERIALS
+SN  - 2079-4991
+DA  - MAR
+PY  - 2023
+VL  - 13
+IS  - 6
+C7  - 1072
+DO  - 10.3390/nano13061072
+AN  - WOS:000959701400001
+ER  -
+
+TY  - CPAPER
+AU  - Zhang, XJ
+AU  - Xiong, ZY
+AU  - Liu, SX
+AU  - Xie, YT
+AU  - Ergen, T
+AU  - Shim, D
+AU  - Xu, H
+AU  - Lee, H
+AU  - Mei, QZ
+A1  - ACM
+TI  - MapExplorer: New Content Generation from Low-Dimensional Visualizations
+T2  - PROCEEDINGS OF THE 31ST ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING V.2, KDD 2025
+CP  - 31st International Conference on Knowledge Discovery and Data Mining-KDD
+SN  - 979-8-4007-1454-2
+PY  - 2025
+SP  - 3843
+EP  - 3854
+DO  - 10.1145/3711896.3737038
+AN  - WOS:001592428900333
+ER  -
+
+TY  - JOUR
+AU  - Yeomans, M
+TI  - A concrete example of construct construction in natural language
+T2  - ORGANIZATIONAL BEHAVIOR AND HUMAN DECISION PROCESSES
+SN  - 0749-5978
+SN  - 1095-9920
+DA  - JAN
+PY  - 2021
+VL  - 162
+SP  - 81
+EP  - 94
+DO  - 10.1016/j.obhdp.2020.10.008
+AN  - WOS:000616525300006
+ER  -
+
+TY  - JOUR
+AU  - Li, M
+AU  - Tang, J
+AU  - Song, XZ
+AU  - Qiu, LL
+AU  - Yang, HZ
+AU  - Li, Z
+TI  - Study on Multi-Factor Optimization and Application for Water Mist of a Wetting Dust Suppressant
+T2  - ACS OMEGA
+SN  - 2470-1343
+DA  - DEC 27
+PY  - 2022
+VL  - 7
+IS  - 51
+SP  - 47861
+EP  - 47868
+DO  - 10.1021/acsomega.2c05691
+C6  - DEC 2022
+AN  - WOS:000896367100001
+ER  -
+
+TY  - CPAPER
+AU  - Guarino, N
+AU  - Guizzardi, G
+AU  - Mylopoulos, J
+ED  - Dahanayake, A
+ED  - Huiskonen, J
+ED  - Kiyoki, Y
+ED  - Thalheim, B
+ED  - Jaakkola, H
+ED  - Yoshida, N
+TI  - On the Philosophical Foundations of Conceptual Models
+T2  - INFORMATION MODELLING AND KNOWLEDGE BASES XXXI
+CP  - 29th International Conference on Information Modeling and Knowledge Bases (EJC)
+SN  - 0922-6389
+SN  - 1879-8314
+SN  - 978-1-64368-045-3
+SN  - 978-1-64368-044-6
+PY  - 2020
+VL  - 321
+SP  - 1
+EP  - 15
+DO  - 10.3233/FAIA200002
+AN  - WOS:000628990500001
+ER  -
+
+TY  - JOUR
+AU  - Fürnkranz, J
+AU  - Kliegr, T
+AU  - Paulheim, H
+TI  - On cognitive preferences and the plausibility of rule-based models
+T2  - MACHINE LEARNING
+SN  - 0885-6125
+SN  - 1573-0565
+DA  - APR
+PY  - 2020
+VL  - 109
+IS  - 4
+SP  - 853
+EP  - 898
+DO  - 10.1007/s10994-019-05856-5
+AN  - WOS:000530546800006
+ER  -
+
+TY  - JOUR
+AU  - Xiang, SC
+AU  - Tan, YS
+AU  - Gao, YL
+AU  - Jiang, Z
+AU  - Liu, B
+AU  - Zeng, W
+TI  - Bubble Evolution under the Action of Polycarboxylate and Air-Entraining Agent and Its Effects on Concrete Properties-A Review
+T2  - MATERIALS
+SN  - 1996-1944
+DA  - OCT
+PY  - 2022
+VL  - 15
+IS  - 20
+C7  - 7053
+DO  - 10.3390/ma15207053
+AN  - WOS:000873349800001
+ER  -
+
+TY  - JOUR
+AU  - Tang, ZS
+AU  - Kejriwal, M
+TI  - Can language representation models think in bets?
+T2  - ROYAL SOCIETY OPEN SCIENCE
+SN  - 2054-5703
+DA  - MAR 29
+PY  - 2023
+VL  - 10
+IS  - 3
+C7  - 221585
+DO  - 10.1098/rsos.221585
+AN  - WOS:000968463200002
+ER  -
+
+TY  - CPAPER
+AU  - Jacovi, A
+AU  - Caciularu, A
+AU  - Herzig, J
+AU  - Aharoni, R
+AU  - Bohnet, B
+AU  - Geva, M
+ED  - Bouamor, H
+ED  - Pino, J
+ED  - Bali, K
+TI  - A Comprehensive Evaluation of Tool-Assisted Generation Strategies
+T2  - FINDINGS OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (EMNLP 2023)
+CP  - Conference on Empirical Methods in Natural Language Processing (EMNLP)
+SN  - 979-8-89176-061-5
+PY  - 2023
+SP  - 13856
+EP  - 13878
+AN  - WOS:001378234405069
+ER  -
+
+TY  - CPAPER
+AU  - Chen, L
+AU  - Zhang, RQ
+AU  - Huang, W
+AU  - Chen, W
+AU  - Guo, JF
+AU  - Cheng, XQ
+A1  - ACM
+TI  - Inducing Causal Structure for Abstractive Text Summarization
+T2  - PROCEEDINGS OF THE 32ND ACM INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT, CIKM 2023
+CP  - 32nd ACM International Conference on Information and Knowledge Management (CIKM)
+SN  - 979-8-4007-0124-5
+PY  - 2023
+SP  - 213
+EP  - 223
+DO  - 10.1145/3583780.3614934
+AN  - WOS:001161549500024
+ER  -
+
+TY  - JOUR
+AU  - Wong, GKW
+AU  - Li, SYK
+TI  - An Exploratory Study of Helping Undergraduate Students Solve Literature Review Problems Using Litstudy and NLP
+T2  - EDUCATION SCIENCES
+SN  - 2227-7102
+DA  - OCT
+PY  - 2023
+VL  - 13
+IS  - 10
+C7  - 987
+DO  - 10.3390/educsci13100987
+AN  - WOS:001094219600001
+ER  -
+
+TY  - JOUR
+AU  - Tague, C
+AU  - Brandt, WT
+TI  - Critical zone science in the Western US-Too much information?
+T2  - FRONTIERS IN WATER
+SN  - 2624-9375
+DA  - NOV 2
+PY  - 2023
+VL  - 5
+C7  - 1226612
+DO  - 10.3389/frwa.2023.1226612
+AN  - WOS:001102313900001
+ER  -
+
+TY  - JOUR
+AU  - Luo, ZR
+AU  - Lu, W
+AU  - He, JG
+AU  - Wang, YQ
+TI  - Combination of research questions and methods: A new measurement of scientific novelty
+T2  - JOURNAL OF INFORMETRICS
+SN  - 1751-1577
+SN  - 1875-5879
+DA  - MAY
+PY  - 2022
+VL  - 16
+IS  - 2
+C7  - 101282
+DO  - 10.1016/j.joi.2022.101282
+C6  - APR 2022
+AN  - WOS:000821684900002
+ER  -
+
+TY  - CPAPER
+AU  - Philbin, CA
+ED  - Sentance, S
+ED  - Grillenberger, M
+TI  - Impact of Generative AI on K-12 Students' Perceptions of Computing: A Research Proposal
+T2  - PROCEEDINGS OF THE 18TH WIPSCE CONFERENCE IN PRIMARY AND SECONDARY COMPUTING EDUCATION RESEARCH, WIPSCE 2023
+CP  - 18th WiPSCE Conference on Primary and Secondary Computing Education Research (WiPSCE)
+SN  - 979-8-4007-0851-0
+PY  - 2023
+C7  - 28
+DO  - 10.1145/3605468.3609775
+AN  - WOS:001125967700026
+ER  -
+
+TY  - CPAPER
+AU  - Wu, JX
+AU  - Chao, WH
+AU  - Zhou, X
+AU  - Luo, ZC
+ED  - Bouamor, H
+ED  - Pino, J
+ED  - Bali, K
+TI  - Characterizing and Verifying Scientific Claims: Qualitative Causal Structure is All You Need
+T2  - 2023 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP 2023)
+CP  - Conference on Empirical Methods in Natural Language Processing (EMNLP)
+SN  - 979-8-89176-060-8
+PY  - 2023
+SP  - 13428
+EP  - 13439
+AN  - WOS:001378237105005
+ER  -
+
+TY  - CPAPER
+AU  - Tang, ZS
+AU  - Kejriwal, M
+ED  - Hammer, P
+ED  - Alirezaie, M
+ED  - Strannegard, C
+TI  - Can Language Models Be Used in Multistep Commonsense Planning Domains?
+T2  - ARTIFICIAL GENERAL INTELLIGENCE, AGI 2023
+CP  - 16th International Conference on Artificial General Intelligence (AGI)
+SN  - 2945-9133
+SN  - 1611-3349
+SN  - 978-3-031-33468-9
+SN  - 978-3-031-33469-6
+PY  - 2023
+VL  - 13921
+SP  - 276
+EP  - 285
+DO  - 10.1007/978-3-031-33469-6_28
+AN  - WOS:001319411700028
+ER  -
+
+TY  - CPAPER
+AU  - Sharma, R
+AU  - Allen, JF
+AU  - Bakhshandeh, O
+AU  - Mostafazadeh, N
+ED  - Gurevych, I
+ED  - Miyao, Y
+TI  - Tackling the Story Ending Biases in The Story Cloze Test
+T2  - PROCEEDINGS OF THE 56TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, VOL 2
+CP  - 56th Annual Meeting of the Association-for-Computational-Linguistics (ACL)
+SN  - 978-1-948087-34-6
+PY  - 2018
+SP  - 752
+EP  - 757
+AN  - WOS:000493913100119
+ER  -
+
+TY  - CPAPER
+AU  - Ju, YM
+AU  - Zhang, YZ
+AU  - Yang, Z
+AU  - Jiang, ZT
+AU  - Kang, L
+AU  - Zhao, J
+A1  - Assoc Computat Linguist
+TI  - Logic Traps in Evaluating Attribution Scores
+T2  - PROCEEDINGS OF THE 60TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2022), VOL 1: (LONG PAPERS)
+CP  - 60th Annual Meeting of the Association-for-Computational-Linguistics (ACL)
+SN  - 978-1-955917-21-6
+PY  - 2022
+SP  - 5911
+EP  - 5922
+AN  - WOS:000828702306003
+ER  -
+
+TY  - CPAPER
+AU  - Grimsley, C
+AU  - Mayfield, E
+AU  - Bursten, JRS
+ED  - Calzolari, N
+ED  - Bechet, F
+ED  - Blache, P
+ED  - Choukri, K
+ED  - Cieri, C
+ED  - Declerck, T
+ED  - Goggi, S
+ED  - Isahara, H
+ED  - Maegaard, B
+ED  - Mariani, J
+ED  - Mazo, H
+ED  - Moreno, A
+ED  - Odijk, J
+ED  - Piperidis, S
+TI  - Why Attention is Not Explanation: Surgical Intervention and Causal Reasoning about Neural Models
+T2  - PROCEEDINGS OF THE 12TH INTERNATIONAL CONFERENCE ON LANGUAGE RESOURCES AND EVALUATION (LREC 2020)
+CP  - 12th International Conference on Language Resources and Evaluation (LREC)
+SN  - 979-10-95546-34-4
+PY  - 2020
+SP  - 1780
+EP  - 1790
+AN  - WOS:000724697201104
+ER  -
+
+TY  - CPAPER
+AU  - Chen, QL
+AU  - Ji, F
+AU  - Zeng, XJ
+AU  - Li, FL
+AU  - Zhang, J
+AU  - Chen, HQ
+AU  - Zhang, Y
+A1  - Assoc Computat Linguist
+TI  - KACE: Generating Knowledge-Aware Contrastive Explanations for Natural Language Inference
+T2  - 59TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS AND THE 11TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING, VOL 1 (ACL-IJCNLP 2021)
+CP  - Joint Conference of 59th Annual Meeting of the Association-for-Computational-Linguistics (ACL) / 11th International Joint Conference on Natural Language Processing (IJCNLP) / 6th Workshop on Representation Learning for NLP (RepL4NLP)
+SN  - 978-1-954085-52-7
+PY  - 2021
+SP  - 2516
+EP  - 2527
+AN  - WOS:000698663100196
+ER  -
+
+TY  - JOUR
+AU  - Zhang, R
+AU  - Huo, JH
+AU  - Peng, ZG
+AU  - Feng, Q
+AU  - Zhang, J
+AU  - Wang, JX
+TI  - Emulsification properties of comb-shaped trimeric nonionic surfactant for high temperature drilling fluids based on water in oil
+T2  - COLLOIDS AND SURFACES A-PHYSICOCHEMICAL AND ENGINEERING ASPECTS
+SN  - 0927-7757
+SN  - 1873-4359
+DA  - MAY 5
+PY  - 2017
+VL  - 520
+SP  - 855
+EP  - 863
+DO  - 10.1016/j.colsurfa.2017.01.017
+AN  - WOS:000401401100096
+ER  -
+
+TY  - JOUR
+AU  - Sreckovic, S
+AU  - Berber, A
+AU  - Filipovic, N
+TI  - The Automated Laplacean Demon: How ML Challenges Our Views on Prediction and Explanation
+T2  - MINDS AND MACHINES
+SN  - 0924-6495
+SN  - 1572-8641
+DA  - MAR
+PY  - 2022
+VL  - 32
+IS  - 1
+SP  - 159
+EP  - 183
+DO  - 10.1007/s11023-021-09575-6
+C6  - OCT 2021
+AN  - WOS:000708218800001
+ER  -
+
+TY  - CPAPER
+AU  - Xie, Y
+AU  - Sun, YQ
+AU  - Bertino, E
+A1  - ASSOC COMP MACHINERY
+TI  - Learning Domain Semantics and Cross-Domain Correlations for Paper Recommendation
+T2  - SIGIR '21 - PROCEEDINGS OF THE 44TH INTERNATIONAL ACM SIGIR CONFERENCE ON RESEARCH AND DEVELOPMENT IN INFORMATION RETRIEVAL
+CP  - 44th International ACM SIGIR Conference on Research and Development in Information Retrieval
+SN  - 978-1-4503-8037-9
+PY  - 2021
+SP  - 706
+EP  - 715
+DO  - 10.1145/3404835.3462975
+AN  - WOS:000719807900070
+ER  -
+
+TY  - JOUR
+AU  - Balog, K
+AU  - Azzopardi, L
+AU  - de Rijke, M
+TI  - A language modeling framework for expert finding
+T2  - INFORMATION PROCESSING & MANAGEMENT
+SN  - 0306-4573
+SN  - 1873-5371
+DA  - JAN
+PY  - 2009
+VL  - 45
+IS  - 1
+SP  - 1
+EP  - 19
+DO  - 10.1016/j.ipm.2008.06.003
+AN  - WOS:000264937000001
+ER  -
+
+TY  - JOUR
+AU  - Wu, HY
+AU  - Huang, J
+TI  - Network based on the synergy of knowledge and context for natural language inference
+T2  - NEUROCOMPUTING
+SN  - 0925-2312
+SN  - 1872-8286
+DA  - NOV 1
+PY  - 2022
+VL  - 512
+SP  - 408
+EP  - 419
+DO  - 10.1016/j.neucom.2022.09.086
+C6  - SEP 2022
+AN  - WOS:000870502900006
+ER  -
+
+TY  - CPAPER
+AU  - Kuhlmann, I
+AU  - Wujek, T
+AU  - Thimm, M
+ED  - Toni, F
+ED  - Polberg, S
+ED  - Booth, R
+ED  - Caminada, M
+ED  - Kido, H
+TI  - On the Impact of Data Selection when Applying Machine Learning in Abstract Argumentation
+T2  - COMPUTATIONAL MODELS OF ARGUMENT, COMMA 2022
+CP  - 9th International Conference on Computational Models of Argument (COMMA)
+SN  - 0922-6389
+SN  - 1879-8314
+SN  - 978-1-64368-306-5
+SN  - 978-1-64368-307-2
+PY  - 2022
+VL  - 353
+SP  - 224
+EP  - 235
+DO  - 10.3233/FAIA220155
+AN  - WOS:001150333700021
+ER  -
+
+TY  - CPAPER
+AU  - Brad, F
+AU  - Manolache, A
+AU  - Burceanu, E
+AU  - Barbalau, A
+AU  - Ionescu, RT
+AU  - Popescu, M
+ED  - Goldberg, Y
+ED  - Kozareva, Z
+ED  - Zhang, Y
+TI  - Rethinking the Authorship Verification Experimental Setups
+T2  - 2022 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING, EMNLP 2022
+CP  - 2022 Conference on Empirical Methods in Natural Language Processing
+SN  - 978-1-959429-40-1
+PY  - 2022
+SP  - 5634
+EP  - 5643
+AN  - WOS:001456575700380
+ER  -
+
+TY  - CPAPER
+AU  - Sendi, N
+AU  - Abchiche-Mimouni, N
+AU  - Zehraoui, F
+ED  - Rudas, IJ
+ED  - Janos, C
+ED  - Toro, C
+ED  - Botzheim, J
+ED  - Howlett, RJ
+ED  - Jain, LC
+TI  - A new Transparent Ensemble Method based on Deep learning
+T2  - KNOWLEDGE-BASED AND INTELLIGENT INFORMATION & ENGINEERING SYSTEMS (KES 2019)
+CP  - 23rd KES International Conference on Knowledge-Based and Intelligent Information and Engineering Systems (KES)
+SN  - 1877-0509
+PY  - 2019
+VL  - 159
+SP  - 271
+EP  - 280
+DO  - 10.1016/j.procs.2019.09.182
+AN  - WOS:000571151500028
+ER  -
+
+TY  - CHAP
+AU  - Longo, L
+ED  - Holzinger, A
+TI  - Argumentation for Knowledge Representation, Conflict Resolution, Defeasible Inference and Its Integration with Machine Learning
+T2  - MACHINE LEARNING FOR HEALTH INFORMATICS: STATE-OF-THE-ART AND FUTURE CHALLENGES
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 978-3-319-50478-0
+SN  - 978-3-319-50477-3
+PY  - 2016
+VL  - 9605
+SP  - 183
+EP  - 208
+DO  - 10.1007/978-3-319-50478-0_9
+DO  - 10.1007/978-3-319-50478-0
+AN  - WOS:000408904100010
+ER  -
+
+TY  - CPAPER
+AU  - Safavi, T
+AU  - Zhu, J
+AU  - Koutra, D
+AU  - Safavi, T
+A1  - Assoc Computat Linguist
+TI  - NEGATER: Unsupervised Discovery of Negatives in Commonsense Knowledge Bases
+T2  - 2021 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP 2021)
+CP  - Conference on Empirical Methods in Natural Language Processing (EMNLP)
+SN  - 978-1-955917-09-4
+PY  - 2021
+SP  - 5633
+EP  - 5646
+AN  - WOS:000855966305060
+ER  -
+
+TY  - JOUR
+AU  - Roman, M
+AU  - Shahid, A
+AU  - Uddin, MI
+AU  - Hua, QZ
+AU  - Maqsood, S
+TI  - Exploiting Contextual Word Embedding of Authorship and Title of Articles for Discovering Citation Intent Classification
+T2  - COMPLEXITY
+SN  - 1076-2787
+SN  - 1099-0526
+DA  - APR 5
+PY  - 2021
+VL  - 2021
+C7  - 5554874
+DO  - 10.1155/2021/5554874
+AN  - WOS:000641611900004
+ER  -
+
+TY  - CPAPER
+AU  - Klein, T
+AU  - Nabi, M
+A1  - Assoc Computat Linguist
+TI  - Towards Zero-shot Commonsense Reasoning with Self-supervised Refinement of Language Models
+T2  - 2021 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP 2021)
+CP  - Conference on Empirical Methods in Natural Language Processing (EMNLP)
+SN  - 978-1-955917-09-4
+PY  - 2021
+SP  - 8737
+EP  - 8743
+AN  - WOS:000860727002066
+ER  -
+
+TY  - CPAPER
+AU  - Shi, HY
+AU  - Gerlach, M
+AU  - Diersen, I
+AU  - Downey, D
+AU  - Amaral, LAN
+ED  - Chaudhuri, K
+ED  - Sugiyama, M
+TI  - A new evaluation framework for topic modeling algorithms based on synthetic corpora
+T2  - 22ND INTERNATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE AND STATISTICS, VOL 89
+CP  - 22nd International Conference on Artificial Intelligence and Statistics (AISTATS)
+SN  - 2640-3498
+PY  - 2019
+VL  - 89
+SP  - 816
+EP  - 826
+AN  - WOS:000509687900085
+ER  -
+
+TY  - JOUR
+AU  - Boyd, RL
+TI  - Mental profile mapping: A psychological single-candidate authorship attribution method
+T2  - PLOS ONE
+SN  - 1932-6203
+DA  - JUL 12
+PY  - 2018
+VL  - 13
+IS  - 7
+C7  - e0200588
+DO  - 10.1371/journal.pone.0200588
+AN  - WOS:000438457400085
+ER  -
+
+TY  - CPAPER
+AU  - Viegas, F
+AU  - Luiz, W
+AU  - Gomes, C
+AU  - Khatibi, A
+AU  - Canuto, S
+AU  - Mourao, F
+AU  - Salles, T
+AU  - Rocha, L
+AU  - Gonçalves, MA
+ED  - Cuzzocrea, A
+ED  - Allan, J
+ED  - Paton, N
+ED  - Srivastava, D
+ED  - Agrawal, R
+ED  - Broder, A
+ED  - Zaki, M
+ED  - Candan, S
+ED  - Labrinidis, A
+ED  - Schuster, A
+ED  - Wang, H
+TI  - Semantically-Enhanced Topic Modeling
+T2  - CIKM'18: PROCEEDINGS OF THE 27TH ACM INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+CP  - 27th ACM International Conference on Information and Knowledge Management (CIKM)
+SN  - 978-1-4503-6014-2
+PY  - 2018
+SP  - 893
+EP  - 902
+DO  - 10.1145/3269206.3271797
+AN  - WOS:000455712300092
+ER  -
+
+TY  - CPAPER
+AU  - Tang, J
+AU  - Zhang, M
+AU  - Mei, QZ
+A1  - ACM
+TI  - One Theme in All Views: Modeling Consensus Topics in Multiple Contexts
+T2  - 19TH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING (KDD'13)
+CP  - 19th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)
+SN  - 978-1-4503-2174-7
+PY  - 2013
+SP  - 5
+EP  - 13
+AN  - WOS:000502730600005
+ER  -
+
+TY  - CPAPER
+AU  - Jamshed, A
+AU  - Fraz, MM
+A1  - IEEE
+TI  - NLP Meets Vision for Visual Interpretation - A Retrospective Insight and Future directions
+T2  - 2021 INTERNATIONAL CONFERENCE ON DIGITAL FUTURES AND TRANSFORMATIVE TECHNOLOGIES (ICODT2)
+CP  - IEEE International Conference on Digital Futures and Transformative Technologies (ICoDT2)
+SN  - 978-1-6654-1285-8
+PY  - 2021
+DO  - 10.1109/ICoDT252288.2021.9441517
+AN  - WOS:000760235700023
+ER  -
+
+TY  - JOUR
+AU  - Nguyen, CT
+AU  - Nguyen, DT
+TI  - Building a Discourse-Argument Hybrid System for Vietnamese Why-Question Answering
+T2  - COMPUTATIONAL INTELLIGENCE AND NEUROSCIENCE
+SN  - 1687-5265
+SN  - 1687-5273
+DA  - DEC 28
+PY  - 2021
+VL  - 2021
+C7  - 6550871
+DO  - 10.1155/2021/6550871
+AN  - WOS:000741201100008
+ER  -
+
+TY  - JOUR
+AU  - Kiselev, D
+TI  - An AI Using Construction Grammar to Understand Text: Parsing Improvements
+T2  - INTERNATIONAL JOURNAL OF COGNITIVE INFORMATICS AND NATURAL INTELLIGENCE
+SN  - 1557-3958
+SN  - 1557-3966
+DA  - APR-JUN
+PY  - 2021
+VL  - 15
+IS  - 2
+SP  - 47
+EP  - 61
+DO  - 10.4018/IJCINI.20210401.oa4
+AN  - WOS:000599179200005
+ER  -
+
+TY  - CPAPER
+AU  - Li, CC
+AU  - Li, AO
+AU  - Wang, Y
+AU  - Tu, HK
+AU  - Song, YC
+A1  - IEEE
+TI  - A Survey on Approaches and Applications of Knowledge Representation Learning
+T2  - 2020 IEEE FIFTH INTERNATIONAL CONFERENCE ON DATA SCIENCE IN CYBERSPACE, DSC
+CP  - 5th International Conference on Data Science in Cyberspace-DSC
+SN  - 978-1-7281-9558-2
+PY  - 2020
+SP  - 312
+EP  - 319
+DO  - 10.1109/DSC50466.2020.00055
+AN  - WOS:001525096800047
+ER  -
+
+TY  - JOUR
+AU  - Caro, MF
+AU  - Josyula, DP
+AU  - Cox, MT
+AU  - Jiménez, JA
+TI  - Design and validation of a metamodel for metacognition support in artificial intelligent systems
+T2  - BIOLOGICALLY INSPIRED COGNITIVE ARCHITECTURES
+SN  - 2212-683X
+SN  - 2212-6848
+DA  - JUL
+PY  - 2014
+VL  - 9
+SP  - 82
+EP  - 104
+DO  - 10.1016/j.bica.2014.07.002
+AN  - WOS:000352744400008
+ER  -
+
+TY  - CPAPER
+AU  - Nogueira, AR
+AU  - Gama, J
+AU  - Ferreira, CA
+ED  - Berthold, MR
+ED  - Feelders, A
+ED  - Krempl, G
+TI  - Improving Prediction with Causal Probabilistic Variables
+T2  - ADVANCES IN INTELLIGENT DATA ANALYSIS XVIII, IDA 2020
+CP  - 18th International Symposium on Intelligent Data Analysis (IDA)
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 978-3-030-44584-3
+SN  - 978-3-030-44583-6
+PY  - 2020
+VL  - 12080
+SP  - 379
+EP  - 390
+DO  - 10.1007/978-3-030-44584-3_30
+AN  - WOS:000722624000030
+ER  -
+
+TY  - CPAPER
+AU  - Johnny, O
+AU  - Trovati, M
+AU  - Ray, J
+ED  - Barolli, L
+ED  - Nishino, H
+ED  - Miwa, H
+TI  - Towards a Computational Model of Artificial Intuition and Decision Making
+T2  - ADVANCES IN INTELLIGENT NETWORKING AND COLLABORATIVE SYSTEMS, INCOS - 2019
+CP  - 11th International Conference on Intelligent Networking and Collaborative Systems (INCoS) / 22nd International Conference on Network-Based Information Systems (NBiS)
+SN  - 2194-5357
+SN  - 2194-5365
+SN  - 978-3-030-29035-1
+SN  - 978-3-030-29034-4
+PY  - 2020
+VL  - 1035
+SP  - 463
+EP  - 472
+DO  - 10.1007/978-3-030-29035-1_45
+AN  - WOS:000620323900045
+ER  -
+
+TY  - CPAPER
+AU  - Kong, QW
+AU  - He, J
+AU  - Wang, PZ
+ED  - He, J
+ED  - Purohit, H
+ED  - Huang, G
+ED  - Gao, X
+ED  - Deng, K
+TI  - Factor space:a new idea for artificial intelligence based on causal reasoning
+T2  - 2020 IEEE/WIC/ACM INTERNATIONAL JOINT CONFERENCE ON WEB INTELLIGENCE AND INTELLIGENT AGENT TECHNOLOGY (WI-IAT 2020)
+CP  - IEEE/WIC/ACM International Joint Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT)
+SN  - 978-1-6654-1924-6
+PY  - 2020
+SP  - 592
+EP  - 599
+DO  - 10.1109/WIIAT50758.2020.00089
+AN  - WOS:000689592300084
+ER  -
+
+TY  - CPAPER
+AU  - Khan, MT
+AU  - Yar, S
+AU  - Khalid, S
+AU  - Aziz, F
+A1  - IEEE
+TI  - Evolving Long-Term Dependency Rules in Lifelong Learning Models
+T2  - 2016 IEEE INTERNATIONAL CONFERENCE ON KNOWLEDGE ENGINEERING AND APPLICATIONS (ICKEA 2016)
+CP  - IEEE International Conference on Knowledge Engineering and Applications (ICKEA)
+SN  - 978-1-5090-3471-0
+PY  - 2016
+SP  - 93
+EP  - 97
+AN  - WOS:000392431500018
+ER  -
+
+TY  - CPAPER
+AU  - Du, MZ
+AU  - Vidal, JM
+AU  - Markovsky, B
+A1  - IEEE
+TI  - SOREC: A Semantic Content-based Recommendation System for Parsimonious Sociology Theory Construction
+T2  - 2019 IEEE FIFTH INTERNATIONAL CONFERENCE ON BIG DATA COMPUTING SERVICE AND APPLICATIONS (IEEE BIGDATASERVICE 2019)
+CP  - 5th IEEE International Conference on Big Data Computing Service and Applications (IEEE BigDataService) / Workshop on Big Data in Water Resources, Environment, and Hydraulic Engineering / Workshop on Medical, Healthcare, Using Big Data Technologies
+SN  - 978-1-7281-0059-3
+PY  - 2019
+SP  - 138
+EP  - 144
+DO  - 10.1109/BigDataService.2019.00025
+AN  - WOS:000593976100018
+ER  -
+
+TY  - JOUR
+AU  - Marcial, EC
+AU  - Suaiden, EJ
+TI  - The scientific structure of competitive intelligence
+T2  - TRANSINFORMACAO
+SN  - 0103-3786
+DA  - JAN-APR
+PY  - 2016
+VL  - 28
+IS  - 1
+SP  - 97
+EP  - 106
+DO  - 10.1590/2318-08892016002800008
+AN  - WOS:000376411800009
+ER  -
+
+TY  - CPAPER
+AU  - Kang, D
+AU  - Khot, T
+AU  - Sabharwal, A
+AU  - Clark, P
+A1  - Assoc Computat Linguist
+TI  - Bridging Knowledge Gaps in Neural Entailment via Symbolic Models
+T2  - 2018 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP 2018)
+CP  - Conference on Empirical Methods in Natural Language Processing (EMNLP)
+SN  - 978-1-948087-84-1
+PY  - 2018
+SP  - 4940
+EP  - 4945
+AN  - WOS:000865723405015
+ER  -
+
+TY  - JOUR
+AU  - Atkinson, C
+AU  - Kühne, T
+TI  - In defence of deep modelling
+T2  - INFORMATION AND SOFTWARE TECHNOLOGY
+SN  - 0950-5849
+SN  - 1873-6025
+DA  - AUG
+PY  - 2015
+VL  - 64
+SP  - 36
+EP  - 51
+DO  - 10.1016/j.infsof.2015.03.010
+AN  - WOS:000355365100003
+ER  -
+
+TY  - JOUR
+AU  - Tohmé, F
+AU  - Caterina, G
+AU  - Gangle, R
+TI  - Abduction: A categorical characterization
+T2  - JOURNAL OF APPLIED LOGIC
+SN  - 1570-8683
+SN  - 1570-8691
+DA  - MAR
+PY  - 2015
+VL  - 13
+IS  - 1
+SP  - 78
+EP  - 90
+DO  - 10.1016/j.jal.2014.12.004
+AN  - WOS:000349735100005
+ER  -
+
+TY  - JOUR
+AU  - Baronchelli, A
+AU  - Loreto, V
+AU  - Tria, F
+TI  - LANGUAGE DYNAMICS
+T2  - ADVANCES IN COMPLEX SYSTEMS
+SN  - 0219-5259
+DA  - MAY
+PY  - 2012
+VL  - 15
+IS  - 3-4
+C7  - 1203002
+DO  - 10.1142/S0219525912030026
+AN  - WOS:000304607400001
+ER  -
+
+TY  - CPAPER
+AU  - Tushkanova, O
+ED  - Kravets, A
+ED  - Shcherbakov, M
+ED  - Kultsova, M
+ED  - Shabalina, O
+TI  - Comparative Analysis of the Numerical Measures for Mining Associative and Causal Relationships in Big Data
+T2  - CREATIVITY IN INTELLIGENT TECHNOLOGIES AND DATA SCIENCE, CIT&DS 2015
+CP  - 1st Conference on Creativity in Intelligent Technologies and Data Science (CIT and DS)
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 978-3-319-23766-4
+SN  - 978-3-319-23765-7
+PY  - 2015
+VL  - 535
+SP  - 571
+EP  - 582
+DO  - 10.1007/978-3-319-23766-4_45
+AN  - WOS:000368255500045
+ER  -
+
+TY  - JOUR
+AU  - El-Diraby, TE
+TI  - VALIDATING ONTOLOGIES IN INFORMATICS SYSTEMS: APPROACHES AND LESSONS LEARNED FOR AEC
+T2  - JOURNAL OF INFORMATION TECHNOLOGY IN CONSTRUCTION
+SN  - 1874-4753
+PY  - 2014
+VL  - 19
+SP  - 474
+EP  - 493
+AN  - WOS:000210032400028
+ER  -
+
+TY  - JOUR
+AU  - Séaghdha, DO
+AU  - Korhonen, A
+TI  - Probabilistic Distributional Semantics with Latent Variable Models
+T2  - COMPUTATIONAL LINGUISTICS
+SN  - 0891-2017
+SN  - 1530-9312
+DA  - SEP
+PY  - 2014
+VL  - 40
+IS  - 3
+SP  - 587
+EP  - 631
+DO  - 10.1162/COLI_a_00194
+AN  - WOS:000341843500005
+ER  -
+
+TY  - JOUR
+AU  - Liu, SK
+AU  - Xu, RL
+AU  - Geng, BY
+AU  - Sun, Q
+AU  - Duan, L
+AU  - Liu, YM
+TI  - Metaknowledge Extraction Based on Multi-Modal Documents
+T2  - IEEE ACCESS
+SN  - 2169-3536
+PY  - 2021
+VL  - 9
+SP  - 50050
+EP  - 50060
+DO  - 10.1109/ACCESS.2021.3068728
+AN  - WOS:000637524900001
+ER  -
+
+TY  - CPAPER
+AU  - Sendhilkumar, S
+AU  - Mahalakshmi, GS
+AU  - Harish, S
+AU  - Karthik, R
+AU  - Jagadish, M
+AU  - Sam, SD
+ED  - Abraham, A
+ED  - Thampi, SM
+TI  - Assessing Novelty of Research Articles Using Fuzzy Cognitive Maps
+T2  - INTELLIGENT INFORMATICS
+CP  - 1st International Symposium on Intelligent Informatics (ISI 12)
+SN  - 2194-5357
+SN  - 2194-5365
+SN  - 978-3-642-32062-0
+SN  - 978-3-642-32063-7
+PY  - 2013
+VL  - 182
+SP  - 73
+EP  - +
+AN  - WOS:000315536100009
+ER  -
+
+TY  - CPAPER
+AU  - Dai, HH
+AU  - Keble-Johnston, S
+AU  - Gan, M
+ED  - Vreeken, J
+ED  - Ling, C
+ED  - Zaki, MJ
+ED  - Siebes, A
+ED  - Yu, JX
+ED  - Goethals, B
+ED  - Webb, G
+ED  - Wu, X
+TI  - Reliable Knowledge Discovery with A Minimal Causal Model Inducer
+T2  - 12TH IEEE INTERNATIONAL CONFERENCE ON DATA MINING WORKSHOPS (ICDMW 2012)
+CP  - 12th IEEE International Conference on Data Mining (ICDM)
+SN  - 2375-9232
+SN  - 978-0-7695-4925-5
+SN  - 978-1-4673-5164-5
+PY  - 2012
+SP  - 629
+EP  - 634
+DO  - 10.1109/ICDMW.2012.145
+AN  - WOS:000320946500083
+ER  -
+
+TY  - CPAPER
+AU  - Shi, YY
+AU  - Wiggers, P
+AU  - Jonker, CM
+ED  - Habernal, I
+ED  - Matousek, V
+TI  - Combining Topic Specific Language Models
+T2  - TEXT, SPEECH AND DIALOGUE, TSD 2011
+CP  - 14th International Conferences on Text, Speech and Dialogue
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 978-3-642-23537-5
+SN  - 978-3-642-23538-2
+PY  - 2011
+VL  - 6836
+SP  - 99
+EP  - 106
+AN  - WOS:000312640500013
+ER  -
+
+TY  - CHAP
+AU  - Zhang, D
+ED  - Gavrilova, ML
+ED  - Tan, CJK
+ED  - Wang, Y
+ED  - Yao, Y
+ED  - Wang, G
+TI  - Quantifying Knowledge Base Inconsistency Via Fixpoint Semantics
+T2  - TRANSACTIONS ON COMPUTATIONAL SCIENCE II
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 978-3-540-87562-8
+PY  - 2008
+VL  - 5150
+SP  - 145
+EP  - 160
+DO  - 10.1007/978-3-540-87563-5
+AN  - WOS:000268368100009
+ER  -
+

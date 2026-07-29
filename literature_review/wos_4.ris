@@ -1,0 +1,1172 @@
+﻿TY  - JOUR
+AU  - Denecke, K
+AU  - May, R
+AU  - Romero, OR
+A1  - LLMHealthGroup
+TI  - Potential of Large Language Models in Health Care: Delphi Study
+T2  - JOURNAL OF MEDICAL INTERNET RESEARCH
+SN  - 1439-4456
+SN  - 1438-8871
+DA  - MAY 13
+PY  - 2024
+VL  - 26
+C7  - e52399
+DO  - 10.2196/52399
+AN  - WOS:001226404000002
+ER  -
+
+TY  - CPAPER
+AU  - Wang, L
+AU  - Hu, Y
+AU  - He, JB
+AU  - Xu, X
+AU  - Liu, N
+AU  - Liu, H
+AU  - Shen, HT
+ED  - Wooldridge, M
+ED  - Dy, J
+ED  - Natarajan, S
+TI  - T-SciQ: Teaching Multimodal Chain-of-Thought Reasoning via Large Language Model Signals for Science Question Answering
+T2  - THIRTY-EIGHTH AAAI CONFERENCE ON ARTIFICIAL INTELLIGENCE, VOL 38 NO 17
+CP  - 38th AAAI Conference on Artificial Intelligence (AAAI) / 36th Conference on Innovative Applications of Artificial Intelligence / 14th Symposium on Educational Advances in Artificial Intelligence
+SN  - 2159-5399
+SN  - 2374-3468
+PY  - 2024
+SP  - 19162
+EP  - 19170
+AN  - WOS:001239407300074
+ER  -
+
+TY  - CPAPER
+AU  - Schmidt, WJ
+AU  - Rincon-Yanez, D
+AU  - Kharlamov, E
+AU  - Paschke, A
+ED  - Garijo, D
+ED  - Gentile, AL
+ED  - Kurteva, A
+ED  - Mannocci, A
+ED  - Osborne, F
+ED  - Vahdati, S
+TI  - Scaling Scientific Knowledge Discovery with Neuro-Symbolic AI and Large Language Models
+T2  - POSTERS, DEMOS, WORKSHOPS, AND TUTORIALS OF THE 20TH INTERNATIONAL CONFERENCE ON SEMANTIC SYSTEMS, SEMANTICS 2024
+CP  - 20th International Conference on Semantic Systems-SEMANTiCS
+SN  - 1613-0073
+PY  - 2024
+VL  - 3759
+AN  - WOS:001727651700029
+ER  -
+
+TY  - JOUR
+AU  - Wu, CX
+AU  - Varghese, AJ
+AU  - Oommen, V
+AU  - Karniadakis, GE
+TI  - GPT VS. HUMAN FOR SCIENTIFIC REVIEWS: A DUAL SOURCE REVIEW ON APPLICATIONS OF CHATGPT IN SCIENCE
+T2  - JOURNAL OF MACHINE LEARNING FOR MODELING AND COMPUTING
+SN  - 2689-3967
+SN  - 2689-3975
+PY  - 2024
+VL  - 5
+IS  - 2
+SP  - 1
+EP  - 44
+DO  - 10.1615/JMachLearnModelComput.2024052432
+AN  - WOS:001467236900001
+ER  -
+
+TY  - JOUR
+AU  - Abdurahman, S
+AU  - Ziabari, AS
+AU  - Moore, AK
+AU  - Bartels, DM
+AU  - Dehghani, M
+TI  - A Primer for Evaluating Large Language Models in Social-Science Research
+T2  - ADVANCES IN METHODS AND PRACTICES IN PSYCHOLOGICAL SCIENCE
+SN  - 2515-2459
+SN  - 2515-2467
+DA  - APR
+PY  - 2025
+VL  - 8
+IS  - 2
+C7  - 25152459251325174
+DO  - 10.1177/25152459251325174
+AN  - WOS:001468338800001
+ER  -
+
+TY  - CPAPER
+AU  - Yuan, HW
+AU  - Tang, X
+AU  - Chen, K
+AU  - Shou, LD
+AU  - Chen, G
+AU  - Li, H
+ED  - Walsh, T
+ED  - Shah, J
+ED  - Kolter, Z
+TI  - COGSQL: A Cognitive Framework for Enhancing Large Language Models in Text-to-SQL Translation
+T2  - THIRTY-NINTH AAAI CONFERENCE ON ARTIFICIAL INTELLIGENCE, AAAI-25, VOL 39 NO 24
+CP  - 39th AAAI Conference on Artificial Intelligence
+SN  - 2159-5399
+SN  - 2374-3468
+PY  - 2025
+SP  - 25778
+EP  - 25786
+AN  - WOS:001477501700069
+ER  -
+
+TY  - CPAPER
+AU  - Yang, XH
+AU  - Zhao, H
+AU  - Xu, WJ
+AU  - Qi, YY
+AU  - Lu, JQ
+AU  - Phung, D
+AU  - Du, L
+ED  - Che, W
+ED  - Nabende, J
+ED  - Shutova, E
+ED  - Pilehvar, MT
+TI  - Neural Topic Modeling with Large Language Models in the Loop
+T2  - PROCEEDINGS OF THE 63RD ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, VOL 1: LONG PAPERS
+CP  - 63rd Association for Computational Linguistics Meeting-ACL-Annual
+SN  - 979-8-89176-251-0
+PY  - 2025
+SP  - 1377
+EP  - 1401
+AN  - WOS:001596029800070
+ER  -
+
+TY  - CPAPER
+AU  - Guo, SK
+AU  - Shariatmadari, AH
+AU  - Xiong, GZ
+AU  - Huang, A
+AU  - Kim, M
+AU  - Williams, CM
+AU  - Bekiranov, S
+AU  - Zhang, AD
+A1  - ACM
+TI  - IdeaBench: Benchmarking Large Language Models for Research Idea Generation
+T2  - PROCEEDINGS OF THE 31ST ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING V.2, KDD 2025
+CP  - 31st International Conference on Knowledge Discovery and Data Mining-KDD
+SN  - 979-8-4007-1454-2
+PY  - 2025
+SP  - 5888
+EP  - 5899
+DO  - 10.1145/3711896.3737419
+AN  - WOS:001592428900516
+ER  -
+
+TY  - JOUR
+AU  - Huang, SZ
+AU  - Huang, Y
+AU  - Liu, YP
+AU  - Luo, ZR
+AU  - Lu, W
+TI  - Are large language models qualified reviewers in originality evaluation?
+T2  - INFORMATION PROCESSING & MANAGEMENT
+SN  - 0306-4573
+SN  - 1873-5371
+DA  - MAY
+PY  - 2025
+VL  - 62
+IS  - 3
+C7  - 103973
+DO  - 10.1016/j.ipm.2024.103973
+C6  - DEC 2024
+AN  - WOS:001373337400001
+ER  -
+
+TY  - JOUR
+AU  - Remadi, A
+AU  - El Hage, K
+AU  - Hobeika, Y
+AU  - Bugiotti, F
+TI  - To prompt or not to prompt: Navigating the use of Large Language Models for integrating and modeling heterogeneous data
+T2  - DATA & KNOWLEDGE ENGINEERING
+SN  - 0169-023X
+SN  - 1872-6933
+DA  - JUL
+PY  - 2024
+VL  - 152
+C7  - 102313
+DO  - 10.1016/j.datak.2024.102313
+C6  - MAY 2024
+AN  - WOS:001242097800001
+ER  -
+
+TY  - CPAPER
+AU  - Tang, X
+AU  - Duan, X
+AU  - Cai, ZG
+ED  - Christodoulopoulos, C
+ED  - Chakraborty, T
+ED  - Rose, C
+ED  - Peng, V
+TI  - Large Language Models for Automated Literature Review: An Evaluation of Reference Generation, Abstract Writing, and Review Composition
+T2  - PROCEEDINGS OF THE 2025 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING
+CP  - 2025 Conference on Empirical Methods in Natural Language Processing-EMNLP
+SN  - 979-8-89176-332-6
+PY  - 2025
+SP  - 1602
+EP  - 1617
+AN  - WOS:001805531300083
+ER  -
+
+TY  - JOUR
+AU  - Zadrozny, WW
+TI  - Challenges and Opportunities in Causality Analysis Using Large Language Models
+T2  - ENTROPY
+SN  - 1099-4300
+DA  - DEC 24
+PY  - 2025
+VL  - 28
+IS  - 1
+C7  - 23
+DO  - 10.3390/e28010023
+AN  - WOS:001670307900001
+ER  -
+
+TY  - CPAPER
+AU  - Tan, QY
+AU  - Ng, HT
+AU  - Bing, LD
+ED  - Martins, A
+ED  - Srikumar, V
+ED  - Ku, LW
+TI  - Towards Robust Temporal Reasoning of Large Language Models via a Multi-Hop QA Dataset and Pseudo-Instruction Tuning
+T2  - FINDINGS OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS: ACL 2024
+CP  - 62nd Annual Meeting of the Association-for-Computational-Linguistics (ACL) / Student Research Workshop (SRW)
+SN  - 979-8-89176-099-8
+PY  - 2024
+SP  - 6272
+EP  - 6286
+AN  - WOS:001356731806025
+ER  -
+
+TY  - CPAPER
+AU  - Li, RC
+AU  - Zhang, HX
+AU  - Gehringer, E
+AU  - Xiao, T
+AU  - Ding, JH
+AU  - Chen, HH
+ED  - Ding, W
+ED  - Vreeken, J
+ED  - Lu, CT
+ED  - Gunopulos, D
+ED  - Wu, X
+TI  - Unveiling the Merits and Defects of LLMs in Automatic Review Generation for Scientific Papers
+T2  - 2025 IEEE INTERNATIONAL CONFERENCE ON DATA MINING, ICDM
+CP  - 25th IEEE International Conference on Data Mining-ICDM-Annual
+SN  - 1550-4786
+SN  - 979-8-3315-9600-2
+SN  - 979-8-3315-9599-9
+PY  - 2025
+SP  - 1370
+EP  - 1379
+DO  - 10.1109/ICDM65498.2025.00146
+AN  - WOS:001748982800140
+ER  -
+
+TY  - JOUR
+AU  - Yang, JF
+AU  - Jin, HY
+AU  - Tang, RX
+AU  - Han, XT
+AU  - Feng, QZ
+AU  - Jiang, HM
+AU  - Zhong, SC
+AU  - Yin, B
+AU  - Hu, X
+TI  - Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond
+T2  - ACM TRANSACTIONS ON KNOWLEDGE DISCOVERY FROM DATA
+SN  - 1556-4681
+SN  - 1556-472X
+DA  - JUL
+PY  - 2024
+VL  - 18
+IS  - 6
+C7  - 160
+DO  - 10.1145/3649506
+AN  - WOS:001209901400027
+ER  -
+
+TY  - CPAPER
+AU  - Bektas, B
+AU  - Gültekin, AÖ
+AU  - Özdemiroglu, E
+AU  - Yilmaz, Z
+AU  - Dikici, B
+AU  - Demir, S
+A1  - IEEE
+TI  - Academic Abstract Generation with LLMs
+T2  - 2025 33RD SIGNAL PROCESSING AND COMMUNICATIONS APPLICATIONS CONFERENCE, SIU
+CP  - 33rd Conference on Signal Processing and Communications Applications-SIU-Annual
+SN  - 2165-0608
+SN  - 979-8-3315-6656-2
+SN  - 979-8-3315-6655-5
+PY  - 2025
+C7  - 663
+DO  - 10.1109/SIU66497.2025.11112421
+AN  - WOS:001575462500357
+ER  -
+
+TY  - CPAPER
+AU  - Li, XX
+AU  - Liu, Y
+AU  - Wang, RY
+AU  - Yao, LN
+ED  - Barhamgi, M
+ED  - Wang, H
+ED  - Wang, X
+TI  - Regularized Multi-LLMs Collaboration for Enhanced Score-Based Causal Discovery
+T2  - WEB INFORMATION SYSTEMS ENGINEERING-WISE 2024, PT IV
+CP  - 25th International Conference on Web Information Systems Engineering-WISE-Annual
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 978-981-96-0572-9
+SN  - 978-981-96-0573-6
+PY  - 2025
+VL  - 15439
+SP  - 177
+EP  - 188
+DO  - 10.1007/978-981-96-0573-6_13
+AN  - WOS:001534830800013
+ER  -
+
+TY  - CPAPER
+AU  - Wei, KD
+AU  - Gautam, A
+AU  - Huang, RH
+ED  - Al-Onaizan, Y
+ED  - Bansal, M
+ED  - Chen, YN
+TI  - Are LLMs Good Annotators for Discourse-level Event Relation Extraction?
+T2  - FINDINGS OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS: EMNLP 2024
+CP  - 29th Conference on Empirical Methods in Natural Language Processing
+SN  - 979-8-89176-168-1
+PY  - 2024
+SP  - 1
+EP  - 19
+AN  - WOS:001511154400001
+ER  -
+
+TY  - CPAPER
+AU  - Akkasi, A
+AU  - Khan, A
+AU  - Shaaban, MA
+AU  - Komeili, M
+AU  - Yaqub, M
+ED  - Ojha, AK
+ED  - Dogruoz, AS
+ED  - Madabushi, HT
+ED  - Martino, GD
+ED  - Rosenthal, S
+ED  - Rosa, A
+TI  - iML at SemEval-2024 Task 2: Safe Biomedical Natural Language Inference for Clinical Trials with LLM Based Ensemble Inferencing
+T2  - PROCEEDINGS OF THE 18TH INTERNATIONAL WORKSHOP ON SEMANTIC EVALUATION, SEMEVAL-2024
+CP  - 18th International Workshop on Semantic Evaluation (SemEval)
+SN  - 979-8-89176-107-0
+PY  - 2024
+SP  - 170
+EP  - 174
+AN  - WOS:001356736800026
+ER  -
+
+TY  - CPAPER
+AU  - Tyagin, I
+AU  - Valipour, S
+AU  - Sikirzhytskaya, A
+AU  - Shtutman, M
+AU  - Safro, I
+ED  - Agrawal, M
+ED  - Deshpande, K
+ED  - Engelhard, M
+ED  - Joshi, S
+ED  - Tang, S
+ED  - Urteaga, I
+TI  - Biomedical Hypothesis Explainability with Graph-Based Context Retrieval
+T2  - MACHINE LEARNING FOR HEALTHCARE CONFERENCE
+CP  - 2025 Machine Learning for Healthcare Conference-MLHC
+SN  - 2640-3498
+PY  - 2025
+VL  - 298
+AN  - WOS:001671663700008
+ER  -
+
+TY  - CPAPER
+AU  - Paes, LM
+AU  - Wei, D
+AU  - Do, HJ
+AU  - Strobelt, H
+AU  - Luss, R
+AU  - Dhurandhar, A
+AU  - Nagireddy, M
+AU  - Ramamurthy, KN
+AU  - Sattigeri, P
+AU  - Geyer, W
+AU  - Ghosh, S
+ED  - Che, W
+ED  - Nabende, J
+ED  - Shutova, E
+ED  - Pilehvar, MT
+TI  - Multi-Level Explanations for Generative Language Models
+T2  - PROCEEDINGS OF THE 63RD ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, VOL 1: LONG PAPERS
+CP  - 63rd Association for Computational Linguistics Meeting-ACL-Annual
+SN  - 979-8-89176-251-0
+PY  - 2025
+SP  - 32291
+EP  - 32317
+AN  - WOS:001611629600272
+ER  -
+
+TY  - JOUR
+AU  - Wu, PY
+AU  - Chou, HW
+AU  - Chen, KY
+TI  - The Continued Value of Classic Summarization Models: Boosting Performance With High-Quality References
+T2  - IEEE TRANSACTIONS ON AUDIO SPEECH AND LANGUAGE PROCESSING
+SN  - 2998-4173
+PY  - 2026
+VL  - 34
+SP  - 965
+EP  - 977
+DO  - 10.1109/TASLPRO.2026.3659424
+AN  - WOS:001687339700001
+ER  -
+
+TY  - JOUR
+AU  - Sror, G
+AU  - Etzyoni, G
+AU  - Fire, M
+AU  - Berkovich, R
+AU  - Rokach, L
+AU  - Herskowitz, M
+TI  - AI-driven methodology for mining scientific literature and extracting databases: A case study on a chemical process
+T2  - ENERGY AND AI
+SN  - 2666-5468
+DA  - MAY
+PY  - 2026
+VL  - 24
+C7  - 100741
+DO  - 10.1016/j.egyai.2026.100741
+AN  - WOS:001741851300001
+ER  -
+
+TY  - CPAPER
+AU  - Sung, HR
+AU  - Tang, YJ
+AU  - Cheng, YC
+AU  - Chen, PL
+AU  - Li, TY
+AU  - Huang, HH
+A1  - ACM
+TI  - Sequential Text-based Knowledge Update with Self-Supervised Learning for Generative Language Models
+T2  - PROCEEDINGS OF THE 32ND ACM INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT, CIKM 2023
+CP  - 32nd ACM International Conference on Information and Knowledge Management (CIKM)
+SN  - 979-8-4007-0124-5
+PY  - 2023
+SP  - 4305
+EP  - 4309
+DO  - 10.1145/3583780.3615188
+AN  - WOS:001161549504069
+ER  -
+
+TY  - JOUR
+AU  - Kruzenshtern, A
+AU  - Dodonov, V
+AU  - Chechurin, L
+TI  - Domain agnostic features for robust novelty assessment of scientific publication
+T2  - SCIENTOMETRICS
+SN  - 0138-9130
+SN  - 1588-2861
+DA  - 2026 JUL 11
+PY  - 2026
+DO  - 10.1007/s11192-026-05687-x
+C6  - JUL 2026
+AN  - WOS:001816582500001
+ER  -
+
+TY  - JOUR
+AU  - Gu, X
+AU  - Li, Y
+AU  - Zhu, BK
+AU  - Wang, JQ
+AU  - Qin, XL
+TI  - DICE: Disentangling Causal Evidence for multimodal textbook question answering via attentive embedding fusion
+T2  - PATTERN RECOGNITION
+SN  - 0031-3203
+SN  - 1873-5142
+DA  - NOV
+PY  - 2026
+VL  - 179
+C7  - 113953
+DO  - 10.1016/j.patcog.2026.113953
+AN  - WOS:001777974700001
+ER  -
+
+TY  - CPAPER
+AU  - Bondielli, A
+AU  - Miliani, M
+AU  - Paglione, L
+AU  - Auriemma, S
+AU  - Passaro, L
+AU  - Lenci, A
+ED  - Bosco, C
+ED  - Jezek, E
+ED  - Polignano, M
+ED  - Sanguinetti, M
+TI  - LLMs Struggle on Explicit Causality in Italian
+T2  - ITALIAN CONFERENCE ON COMPUTATIONAL LINGUISTICS, CLIC-IT 2025
+CP  - 11th Italian Conference on Computational Linguistics-CLiC-it
+SN  - 1613-0073
+PY  - 2025
+VL  - 4112
+AN  - WOS:001781117000009
+ER  -
+
+TY  - CPAPER
+AU  - Ding, BW
+AU  - Min, QK
+AU  - Ma, SK
+AU  - Li, YJ
+AU  - Yang, LY
+AU  - Zhang, Y
+ED  - Duh, K
+ED  - Gomez, H
+ED  - Bethard, S
+TI  - A Rationale-centric Counterfactual Data Augmentation Method for Cross-Document Event Coreference Resolution
+T2  - PROCEEDINGS OF THE 2024 CONFERENCE OF THE NORTH AMERICAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS: HUMAN LANGUAGE TECHNOLOGIES, VOL 1: LONG PAPERS
+CP  - 2024 Conference of the North American Chapter of the Association for Computational Linguistics-NAACL
+SN  - 979-8-89176-114-8
+PY  - 2024
+SP  - 1112
+EP  - 1140
+AN  - WOS:001516375900063
+ER  -
+
+TY  - JOUR
+AU  - Crosthwaite, P
+AU  - Sun, SY
+TI  - Generative AI and L2 Written Feedback Studies: A Scoping Review
+T2  - RELC JOURNAL
+SN  - 0033-6882
+SN  - 1745-526X
+DA  - APR
+PY  - 2026
+VL  - 57
+IS  - 1
+SP  - 207
+EP  - 219
+DO  - 10.1177/00336882251386530
+C6  - OCT 2025
+AN  - WOS:001598633000001
+ER  -
+
+TY  - JOUR
+AU  - Nguyen, T
+AU  - Van, LN
+AU  - Duc, AN
+AU  - Viet, SD
+TI  - A Framework for Neural Topic Modeling with Mutual Information and Group Regularization
+T2  - NEUROCOMPUTING
+SN  - 0925-2312
+SN  - 1872-8286
+DA  - SEP 7
+PY  - 2025
+VL  - 645
+C7  - 130420
+DO  - 10.1016/j.neucom.2025.130420
+C6  - MAY 2025
+AN  - WOS:001504538800008
+ER  -
+
+TY  - JOUR
+AU  - Muhetaer, M
+AU  - Hao, F
+TI  - Exploring the application of ChatGPT in scientific topic analysis: a novel paradigm for enhanced analysis and efficiency
+T2  - APPLIED INTELLIGENCE
+SN  - 0924-669X
+SN  - 1573-7497
+DA  - APR 4
+PY  - 2025
+VL  - 55
+IS  - 7
+C7  - 625
+DO  - 10.1007/s10489-025-06498-y
+AN  - WOS:001459831000003
+ER  -
+
+TY  - JOUR
+AU  - Feng, L
+AU  - Lin, AD
+AU  - Luo, ZY
+TI  - MixingInsights: A Framework for Causal Inference with Confounder Representation Learning from Mixed Structured and Textual Data
+T2  - COGNITIVE COMPUTATION
+SN  - 1866-9956
+SN  - 1866-9964
+DA  - APR 30
+PY  - 2026
+VL  - 18
+IS  - 1
+C7  - 40
+DO  - 10.1007/s12559-026-10577-8
+C6  - APR 2026
+AN  - WOS:001753860600001
+ER  -
+
+TY  - JOUR
+AU  - Zhang, LN
+AU  - Xiong, WY
+AU  - Yang, RT
+AU  - Li, M
+TI  - A text consistency evaluation method combining unified modeling and mixture-of-expert networks
+T2  - EXPERT SYSTEMS WITH APPLICATIONS
+SN  - 0957-4174
+SN  - 1873-6793
+DA  - JUN 15
+PY  - 2026
+VL  - 316
+C7  - 131809
+DO  - 10.1016/j.eswa.2026.131809
+AN  - WOS:001707843700001
+ER  -
+
+TY  - JOUR
+AU  - Yuan, JB
+AU  - Xu, YT
+AU  - Zhou, W
+AU  - Yu, M
+AU  - Sun, XM
+AU  - Zhang, LJ
+AU  - Luo, JY
+TI  - Cognitive-driven hierarchical reasoning for event causality identification
+T2  - KNOWLEDGE-BASED SYSTEMS
+SN  - 0950-7051
+SN  - 1872-7409
+DA  - JUN 7
+PY  - 2026
+VL  - 342
+C7  - 115914
+DO  - 10.1016/j.knosys.2026.115914
+C6  - APR 2026
+AN  - WOS:001745245300001
+ER  -
+
+TY  - JOUR
+AU  - Stathakis, KG
+AU  - Papageorgiou, G
+AU  - Tjortjis, C
+TI  - Identifying Methodological Language in Psychology Abstracts: A Machine Learning Approach Using NLP and Embedding-Based Clustering
+T2  - BIG DATA AND COGNITIVE COMPUTING
+SN  - 2504-2289
+DA  - AUG 29
+PY  - 2025
+VL  - 9
+IS  - 9
+C7  - 224
+DO  - 10.3390/bdcc9090224
+AN  - WOS:001580223800001
+ER  -
+
+TY  - CPAPER
+AU  - Zhu, CY
+AU  - Liang, YY
+AU  - Zhong, LM
+AU  - Liang, XY
+AU  - Xie, F
+A1  - IEEE COMPUTER SOC
+TI  - Mixterm Topic Model: A Short Text Topic Model in Low-Resource Scenarios
+T2  - 2025 IEEE INTERNATIONAL CONFERENCE ON BIG DATA AND SMART COMPUTING, BIGCOMP
+CP  - 2025 International Conference on Big Data and Smart Computing-BIGCOMP-Annual
+SN  - 2375-933X
+SN  - 979-8-3315-2903-1
+SN  - 979-8-3315-2902-4
+PY  - 2025
+SP  - 122
+EP  - 128
+DO  - 10.1109/BigComp64353.2025.00037
+AN  - WOS:001479295000028
+ER  -
+
+TY  - JOUR
+AU  - Widiastuti, I
+AU  - Yong, HS
+TI  - TR-GPT-CF: A Topic Refinement Method Using GPT and Coherence Filtering
+T2  - APPLIED SCIENCES-BASEL
+SN  - 2076-3417
+DA  - FEB
+PY  - 2025
+VL  - 15
+IS  - 4
+C7  - 1962
+DO  - 10.3390/app15041962
+AN  - WOS:001429773400001
+ER  -
+
+TY  - CPAPER
+AU  - Wang, QY
+AU  - Downey, D
+AU  - Ji, H
+AU  - Hope, T
+ED  - Ku, LW
+ED  - Martins, A
+ED  - Srikumar, V
+TI  - SCIMON : Scientific Inspiration Machines Optimized for Novelty
+T2  - PROCEEDINGS OF THE 62ND ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, VOL 1: LONG PAPERS
+CP  - 62nd Annual Meeting of the Association-for-Computational-Linguistics (ACL) / Student Research Workshop (SRW)
+SN  - 979-8-89176-094-3
+PY  - 2024
+SP  - 279
+EP  - 299
+AN  - WOS:001356729800018
+ER  -
+
+TY  - JOUR
+AU  - Feder, A
+AU  - Keith, KA
+AU  - Manzoor, E
+AU  - Pryzant, R
+AU  - Sridhar, D
+AU  - Wood-Doughty, Z
+AU  - Eisenstein, J
+AU  - Grimmer, J
+AU  - Reichart, R
+AU  - Roberts, ME
+AU  - Stewart, BM
+AU  - Veitch, V
+AU  - Yang, DY
+TI  - Causal Inference in Natural Language Processing: Estimation, Prediction, Interpretation and Beyond
+T2  - TRANSACTIONS OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS
+SN  - 2307-387X
+DA  - OCT 18
+PY  - 2022
+VL  - 10
+SP  - 1138
+EP  - 1158
+DO  - 10.1162/tacl_a_00511
+AN  - WOS:000923425200002
+ER  -
+
+TY  - JOUR
+AU  - Kjell, O
+AU  - Giorgi, S
+AU  - Schwartz, HA
+TI  - The Text-Package: An R-Package for Analyzing and Visualizing Human Language Using Natural Language Processing and Transformers
+T2  - PSYCHOLOGICAL METHODS
+SN  - 1082-989X
+SN  - 1939-1463
+DA  - DEC
+PY  - 2023
+VL  - 28
+IS  - 6
+SP  - 1478
+EP  - 1498
+DO  - 10.1037/met0000542
+C6  - MAY 2023
+AN  - WOS:000980172600001
+ER  -
+
+TY  - JOUR
+AU  - Martínez-Murillo, I
+AU  - Moreda, P
+AU  - Lloret, E
+TI  - Analysing the Problem of Automatic Evaluation of Language Generation Systems
+T2  - PROCESAMIENTO DEL LENGUAJE NATURAL
+SN  - 1135-5948
+SN  - 1989-7553
+DA  - MAR
+PY  - 2024
+IS  - 72
+SP  - 123
+EP  - 136
+DO  - 10.26342/2024-72-9
+AN  - WOS:001196288500003
+ER  -
+
+TY  - CPAPER
+AU  - Meng, Y
+AU  - Zhang, YY
+AU  - Huang, JX
+AU  - Zhang, Y
+AU  - Han, JW
+A1  - ACM
+TI  - Topic Discovery via Latent Space Clustering of Pretrained Language Model Representations
+T2  - PROCEEDINGS OF THE ACM WEB CONFERENCE 2022 (WWW'22)
+CP  - 31st ACM Web Conference (WWW)
+SN  - 978-1-4503-9096-5
+PY  - 2022
+SP  - 3143
+EP  - 3152
+DO  - 10.1145/3485447.3512034
+AN  - WOS:000852713003022
+ER  -
+
+TY  - CPAPER
+AU  - Barcelos, PPF
+AU  - Sales, TP
+AU  - Fumagalli, M
+AU  - Fonseca, CM
+AU  - Sousa, IV
+AU  - Romanenko, E
+AU  - Kritz, J
+AU  - Guizzardi, G
+ED  - Ralyte, J
+ED  - Chakravarthy, S
+ED  - Mohania, M
+ED  - Jeusfeld, MA
+ED  - Karlapalem, K
+TI  - A FAIR Model Catalog for Ontology-Driven Conceptual Modeling Research
+T2  - CONCEPTUAL MODELING (ER 2022)
+CP  - 41st International Conference on Conceptual Modeling (ER)
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 978-3-031-17995-2
+SN  - 978-3-031-17994-5
+PY  - 2022
+VL  - 13607
+SP  - 3
+EP  - 17
+DO  - 10.1007/978-3-031-17995-2_1
+AN  - WOS:000871882800001
+ER  -
+
+TY  - JOUR
+AU  - Lu, LF
+AU  - Liu, Y
+AU  - Xu, WQ
+AU  - Li, HK
+AU  - Sun, GZ
+TI  - From task to evaluation: an automatic text summarization review
+T2  - ARTIFICIAL INTELLIGENCE REVIEW
+SN  - 0269-2821
+SN  - 1573-7462
+DA  - NOV
+PY  - 2023
+VL  - 56
+IS  - SUPPL 2
+SP  - 2477
+EP  - 2507
+DO  - 10.1007/s10462-023-10582-5
+C6  - AUG 2023
+AN  - WOS:001060624100001
+ER  -
+
+TY  - CPAPER
+AU  - Chen, L
+AU  - Zhang, RQ
+AU  - Huang, W
+AU  - Chen, W
+AU  - Guo, JF
+AU  - Cheng, XQ
+A1  - ACM
+TI  - Inducing Causal Structure for Abstractive Text Summarization
+T2  - PROCEEDINGS OF THE 32ND ACM INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT, CIKM 2023
+CP  - 32nd ACM International Conference on Information and Knowledge Management (CIKM)
+SN  - 979-8-4007-0124-5
+PY  - 2023
+SP  - 213
+EP  - 223
+DO  - 10.1145/3583780.3614934
+AN  - WOS:001161549500024
+ER  -
+
+TY  - CPAPER
+AU  - Maheshwari, H
+AU  - Shekhar, S
+AU  - Saxena, A
+AU  - Chhaya, N
+ED  - Boyd-Graber, J
+ED  - Okazaki, N
+ED  - Rogers, A
+TI  - Open-World Factually Consistent Question Generation
+T2  - FINDINGS OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, ACL 2023
+CP  - 61st Annual Meeting of the the Association-for-Computational-Linguistics (ACL)
+SN  - 978-1-959429-62-3
+PY  - 2023
+SP  - 2390
+EP  - 2404
+AN  - WOS:001279595702033
+ER  -
+
+TY  - CPAPER
+AU  - Wu, JX
+AU  - Chao, WH
+AU  - Zhou, X
+AU  - Luo, ZC
+ED  - Bouamor, H
+ED  - Pino, J
+ED  - Bali, K
+TI  - Characterizing and Verifying Scientific Claims: Qualitative Causal Structure is All You Need
+T2  - 2023 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP 2023)
+CP  - Conference on Empirical Methods in Natural Language Processing (EMNLP)
+SN  - 979-8-89176-060-8
+PY  - 2023
+SP  - 13428
+EP  - 13439
+AN  - WOS:001378237105005
+ER  -
+
+TY  - CPAPER
+AU  - Fu, J
+AU  - Liu, P
+AU  - Neubig, G
+A1  - Assoc Computat Linguist
+TI  - Interpretable Multi-dataset Evaluation for Named Entity Recognition
+T2  - PROCEEDINGS OF THE 2020 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP)
+CP  - Conference on Empirical Methods in Natural Language Processing (EMNLP)
+SN  - 978-1-952148-60-6
+PY  - 2020
+SP  - 6058
+EP  - 6069
+AN  - WOS:000855160706022
+ER  -
+
+TY  - CPAPER
+AU  - Chen, ZY
+AU  - Mukherjee, A
+AU  - Liu, B
+AU  - Hsu, MC
+AU  - Castellanos, M
+AU  - Ghosh, R
+A1  - ACM
+TI  - Discovering Coherent Topics Using General Knowledge
+T2  - PROCEEDINGS OF THE 22ND ACM INTERNATIONAL CONFERENCE ON INFORMATION & KNOWLEDGE MANAGEMENT (CIKM'13)
+CP  - 22nd ACM International Conference on Information and Knowledge Management (CIKM)
+SN  - 978-1-4503-2263-8
+PY  - 2013
+SP  - 209
+EP  - 218
+DO  - 10.1145/2505515.2505519
+AN  - WOS:000722225900025
+ER  -
+
+TY  - CPAPER
+AU  - Marton, Y
+AU  - Sayeed, A
+A1  - Mariani, J
+ED  - Calzolari, N
+ED  - Bechet, F
+ED  - Blache, P
+ED  - Choukri, K
+ED  - Cieri, C
+ED  - Declerck, T
+ED  - Goggi, S
+ED  - Isahara, H
+ED  - Maegaard, B
+ED  - Mazo, H
+ED  - Odijk, H
+ED  - Piperidis, S
+TI  - Thematic Fit Bits: Annotation Quality and Quantity Interplay for Event Participant Representation
+T2  - LREC 2022: THIRTEEN INTERNATIONAL CONFERENCE ON LANGUAGE RESOURCES AND EVALUATION
+CP  - 13th International Conference on Language Resources and Evaluation (LREC)
+SN  - 979-10-95546-72-6
+PY  - 2022
+SP  - 5188
+EP  - 5197
+AN  - WOS:000889371705034
+ER  -
+
+TY  - JOUR
+AU  - Yerkhassym, A
+AU  - Pak, AA
+AU  - Akhmetov, I
+AU  - Yelenov, A
+AU  - Gelbukh, A
+TI  - On Causality Problem in Natural Language Processing Field
+T2  - COMPUTACION Y SISTEMAS
+SN  - 1405-5546
+SN  - 2007-9737
+PY  - 2022
+VL  - 26
+IS  - 4
+SP  - 1549
+EP  - 1556
+DO  - 10.13053/CyS-26-4-4434
+AN  - WOS:000905691500010
+ER  -
+
+TY  - JOUR
+AU  - Hecking, T
+AU  - Leydesdorff, L
+TI  - Can topic models be used in research evaluations? Reproducibility, validity, and reliability when compared with semantic maps
+T2  - RESEARCH EVALUATION
+SN  - 0958-2029
+SN  - 1471-5449
+DA  - JUL
+PY  - 2019
+VL  - 28
+IS  - 3
+SP  - 263
+EP  - 272
+DO  - 10.1093/reseval/rvz015
+AN  - WOS:000493051600006
+ER  -
+
+TY  - CPAPER
+AU  - Gao, HN
+AU  - Wei, ZH
+A1  - IEEE
+TI  - Neural Data-to-Text Generation Guided by Predicted Plan
+T2  - 2022 IEEE 2ND INTERNATIONAL CONFERENCE ON INFORMATION COMMUNICATION AND SOFTWARE ENGINEERING (ICICSE 2022)
+CP  - 2nd IEEE International Conference on Information Communication and Software Engineering (ICICSE) / 7th International Conference on Mathematics and Artificial Intelligence (ICMAI)
+SN  - 978-1-6654-8220-2
+PY  - 2022
+SP  - 53
+EP  - 59
+DO  - 10.1109/ICICSE55337.2022.9828913
+AN  - WOS:000859778100009
+ER  -
+
+TY  - CPAPER
+AU  - Aspillaga, C
+AU  - Mendoza, M
+AU  - Soto, A
+ED  - Xia, F
+ED  - Zong, C
+ED  - Li, W
+ED  - Navigli, R
+TI  - Inspecting the concept knowledge graph encoded by modern language models
+T2  - FINDINGS OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, ACL-IJCNLP 2021
+CP  - Joint Conference of 59th Annual Meeting of the Association-for-Computational-Linguistics (ACL) / 11th International Joint Conference on Natural Language Processing (IJCNLP) / 6th Workshop on Representation Learning for NLP (RepL4NLP)
+SN  - 978-1-954085-54-1
+PY  - 2021
+SP  - 2984
+EP  - 3000
+AN  - WOS:001181734702009
+ER  -
+
+TY  - CPAPER
+AU  - Ren, J
+AU  - Kunes, R
+AU  - Doshi-Velez, F
+ED  - Chiappa, S
+ED  - Calandra, R
+TI  - Prediction Focused Topic Models via Feature Selection
+T2  - INTERNATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE AND STATISTICS, VOL 108
+CP  - 23rd International Conference on Artificial Intelligence and Statistics (AISTATS)
+SN  - 2640-3498
+PY  - 2020
+VL  - 108
+SP  - 4420
+EP  - 4428
+AN  - WOS:000559931302090
+ER  -
+
+TY  - CPAPER
+AU  - Geiger, A
+AU  - Lu, H
+AU  - Icard, T
+AU  - Potts, C
+ED  - Ranzato, M
+ED  - Beygelzimer, A
+ED  - Dauphin, Y
+ED  - Liang, PS
+ED  - Vaughan, JW
+TI  - Causal Abstractions of Neural Networks
+T2  - ADVANCES IN NEURAL INFORMATION PROCESSING SYSTEMS 34 (NEURIPS 2021)
+CP  - 35th Annual Conference on Neural Information Processing Systems (NeurIPS)
+SN  - 1049-5258
+PY  - 2021
+VL  - 34
+AN  - WOS:000901616404035
+ER  -
+
+TY  - CPAPER
+AU  - Mendbayar, K
+AU  - Aono, M
+ED  - Herbelot, A
+ED  - Zhu, X
+ED  - Palmer, A
+ED  - Schneider, N
+ED  - May, J
+ED  - Shutova, E
+TI  - KDE SenseForce at SemEval-2020 Task 4: Exploiting BERT for Commonsense Validation and Explanation
+T2  - PROCEEDINGS OF THE FOURTEENTH WORKSHOP ON SEMANTIC EVALUATION
+CP  - 14th International Workshops on Semantic Evaluation (SemEval)
+SN  - 978-1-952148-31-6
+PY  - 2020
+SP  - 551
+EP  - 555
+AN  - WOS:001361895500068
+ER  -
+
+TY  - CPAPER
+AU  - Huang, J
+AU  - Wang, ZL
+AU  - Chang, KCC
+AU  - Hwu, WM
+AU  - Xiong, JJ
+A1  - Assoc Computat Linguist
+TI  - Exploring Semantic Capacity of Terms
+T2  - PROCEEDINGS OF THE 2020 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP)
+CP  - Conference on Empirical Methods in Natural Language Processing (EMNLP)
+SN  - 978-1-952148-60-6
+PY  - 2020
+SP  - 8509
+EP  - 8518
+AN  - WOS:000855160708059
+ER  -
+
+TY  - CPAPER
+AU  - Terko, A
+AU  - Zunic, E
+AU  - Donko, D
+A1  - IEEE
+TI  - NeurIPS Conference Papers Classification Based on Topic Modeling
+T2  - 2019 XXVII INTERNATIONAL CONFERENCE ON INFORMATION, COMMUNICATION AND AUTOMATION TECHNOLOGIES (ICAT 2019)
+CP  - 27th International Conference on Information, Communication and Automation Technologies (ICAT)
+SN  - 978-1-7281-4543-3
+PY  - 2019
+DO  - 10.1109/icat47117.2019.8938961
+AN  - WOS:000526391600016
+ER  -
+
+TY  - CPAPER
+AU  - Phull, DK
+AU  - Kumar, GB
+A1  - IEEE
+TI  - Analyzing various Topic Modeling Approaches for Domain-Specific Language Model
+T2  - 2017 INTERNATIONAL CONFERENCE ON NETWORKS & ADVANCES IN COMPUTATIONAL TECHNOLOGIES (NETACT)
+CP  - International Conference on Networks and Advances in Computational Technologies (NetACT)
+SN  - 978-1-5090-6590-5
+PY  - 2017
+SP  - 69
+EP  - 73
+AN  - WOS:000426730100012
+ER  -
+
+TY  - JOUR
+AU  - D'Souza, J
+AU  - Ng, V
+TI  - Knowledge-rich temporal relation identification and classification in clinical notes
+T2  - DATABASE-THE JOURNAL OF BIOLOGICAL DATABASES AND CURATION
+SN  - 1758-0463
+DA  - NOV 19
+PY  - 2014
+C7  - bau109
+DO  - 10.1093/database/bau109
+AN  - WOS:000345121800001
+ER  -
+
+TY  - JOUR
+AU  - Wang, T
+AU  - Zhou, ZK
+AU  - Hu, XG
+AU  - Liu, Z
+AU  - Ding, Y
+AU  - Cai, ZQ
+TI  - Latent topics resonance in scientific literature and commentaries: evidences from natural language processing approach
+T2  - HELIYON
+SN  - 2405-8440
+DA  - JUN
+PY  - 2018
+VL  - 4
+IS  - 6
+C7  - e00659
+DO  - 10.1016/j.heliyon.2018.e00659
+AN  - WOS:000437801800013
+ER  -
+

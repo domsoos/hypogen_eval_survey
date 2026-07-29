@@ -1,0 +1,3785 @@
+﻿TY  - CPAPER
+AU  - Szymanski, A
+AU  - Ziems, N
+AU  - Eicher-Miller, HA
+AU  - Li, TJJ
+AU  - Jiang, M
+AU  - Metoyer, RA
+A1  - ACM
+TI  - Limitations of the LLM-as-a-Judge Approach for Evaluating LLM Outputs in Expert Knowledge Tasks
+T2  - PROCEEDINGS OF THE 2025 CONFERENCE ON INTELLIGENT USER INTERFACES, IUI 2025
+CP  - 30th International Conference on Intelligent User Interfaces-IUI
+SN  - 979-8-4007-1306-4
+PY  - 2025
+SP  - 952
+EP  - 966
+DO  - 10.1145/3708359.3712091
+AN  - WOS:001477132000056
+ER  -
+
+TY  - JOUR
+AU  - Keith, B
+TI  - LLM-as-a-Judge Approaches as Proxies for Mathematical Coherence in Narrative Extraction
+T2  - ELECTRONICS
+SN  - 2079-9292
+DA  - JUL 7
+PY  - 2025
+VL  - 14
+IS  - 13
+C7  - 2735
+DO  - 10.3390/electronics14132735
+AN  - WOS:001528245200001
+ER  -
+
+TY  - CPAPER
+AU  - Li, QQ
+AU  - Dou, SY
+AU  - Shao, KL
+AU  - Chen, C
+AU  - Hu, HX
+ED  - Jung, H
+ED  - Wang, T
+ED  - Toyoda, M
+ED  - Kwon, HY
+ED  - Lee, JW
+TI  - Evaluating Scoring Bias in LLM-as-a-Judge
+T2  - DATABASE SYSTEMS FOR ADVANCED APPLICATIONS, DASFAA 2026, PT IV
+CP  - 31st International Conference on Database Systems for Advanced Applications-DASFAA-Annual
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 978-981-92-0371-0
+SN  - 978-981-92-0372-7
+PY  - 2026
+VL  - 16538
+SP  - 19
+EP  - 34
+DO  - 10.1007/978-981-92-0372-7_2
+AN  - WOS:001794586300002
+ER  -
+
+TY  - CPAPER
+AU  - Boyapati, M
+AU  - Meesala, L
+AU  - Aygun, R
+AU  - Franks, B
+AU  - Choi, H
+AU  - Riordan, S
+AU  - Modgil, G
+A1  - IEEE COMPUTER SOC
+TI  - LevelEval: Adaptive Pipeline for Evaluating LLM as a Judge - Analysis on Open LLMs as Judges
+T2  - 2024 INTERNATIONAL CONFERENCE ON AI X DATA AND KNOWLEDGE ENGINEERING, AIXDKE
+CP  - 2024 International Conference on AI x Data and Knowledge Engineering-AIxDKE
+SN  - 2831-7211
+SN  - 979-8-3315-1705-2
+SN  - 979-8-3315-1704-5
+PY  - 2024
+SP  - 74
+EP  - 77
+DO  - 10.1109/AIXDKE63520.2024.00020
+AN  - WOS:001555562200014
+ER  -
+
+TY  - CPAPER
+AU  - Hu, RJ
+AU  - Cheng, Y
+AU  - Meng, LB
+AU  - Xia, JX
+AU  - Zong, Y
+AU  - Shi, X
+AU  - Lin, W
+A1  - ACM
+TI  - Training an LLM-as-a-Judge Model: Pipeline, Insights, and Practical Lessons
+T2  - COMPANION PROCEEDINGS OF THE ACM WEB CONFERENCE 2025, WWW COMPANION 2025
+CP  - 2025 Web Conference-WWW
+SN  - 979-8-4007-1331-6
+PY  - 2025
+SP  - 228
+EP  - 237
+DO  - 10.1145/3701716.3715265
+AN  - WOS:001527543600037
+ER  -
+
+TY  - CPAPER
+AU  - Calderon, N
+AU  - Reichart, R
+AU  - Dror, R
+ED  - Che, W
+ED  - Nabende, J
+ED  - Shutova, E
+ED  - Pilehvar, MT
+TI  - The Alternative Annotator Test for LLM-as-a-Judge: How to Statistically Justify Replacing Human Annotators with LLMs
+T2  - PROCEEDINGS OF THE 63RD ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, VOL 1: LONG PAPERS
+CP  - 63rd Association for Computational Linguistics Meeting-ACL-Annual
+SN  - 979-8-89176-251-0
+PY  - 2025
+SP  - 16051
+EP  - 16081
+AN  - WOS:001611618300141
+ER  -
+
+TY  - JOUR
+AU  - Gu, JW
+AU  - Jiang, XH
+AU  - Shi, ZC
+AU  - Tan, HX
+AU  - Zhai, XH
+AU  - Xu, CJ
+AU  - Li, W
+AU  - Shen, YH
+AU  - Ma, SJ
+AU  - Liu, HH
+AU  - Wang, SZ
+AU  - Zhang, K
+AU  - Lin, ZC
+AU  - Zhang, BW
+AU  - Ni, LE
+AU  - Gao, W
+AU  - Wang, YZ
+AU  - Guo, J
+TI  - A survey on LLM-as-a-judge
+T2  - INNOVATION
+SN  - 2666-6758
+DA  - JUN 1
+PY  - 2026
+VL  - 7
+IS  - 6
+C7  - 101253
+DO  - 10.1016/j.xinn.2025.101253
+AN  - WOS:001787740600001
+ER  -
+
+TY  - CPAPER
+AU  - D'Souza, J
+AU  - Giglou, HB
+AU  - Münch, Q
+ED  - Che, W
+ED  - Nabende, J
+ED  - Shutova, E
+ED  - Pilehvar, MT
+TI  - YESciEval: Robust LLM-as-a-Judge for Scientific Question Answering
+T2  - PROCEEDINGS OF THE 63RD ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, VOL 1: LONG PAPERS
+CP  - 63rd Association for Computational Linguistics Meeting-ACL-Annual
+SN  - 979-8-89176-251-0
+PY  - 2025
+SP  - 13749
+EP  - 13783
+AN  - WOS:001611618300034
+ER  -
+
+TY  - CPAPER
+AU  - Kim, H
+AU  - Jeon, T
+AU  - Choi, S
+AU  - Hong, JH
+AU  - Jeon, DW
+AU  - Baek, GY
+AU  - Kwak, GW
+AU  - Lee, DH
+AU  - Bae, J
+AU  - Lee, C
+AU  - Kim, YS
+AU  - Choi, SJ
+AU  - Park, JS
+AU  - Cho, SB
+AU  - Cho, H
+A1  - ACM
+TI  - Towards Fully-Automated Materials Discovery via Large-Scale Synthesis Dataset and Expert-Level LLM-as-a-Judge
+T2  - PROCEEDINGS OF THE 34TH ACM INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT, CIKM 2025
+CP  - 34th Conference on Information and Knowledge Management-CIKM
+SN  - 979-8-4007-2040-6
+PY  - 2025
+SP  - 1302
+EP  - 1312
+DO  - 10.1145/3746252.3761359
+AN  - WOS:001661448300127
+ER  -
+
+TY  - JOUR
+AU  - Vasilev, Y
+AU  - Raznitsyna, I
+AU  - Pamova, A
+AU  - Burtsev, T
+AU  - Bobrovskaya, T
+AU  - Kosov, P
+AU  - Vladzymyrskyy, A
+AU  - Omelyanskaya, O
+AU  - Arzamasov, K
+TI  - Evaluating Medical Text Summaries Using Automatic Evaluation Metrics and LLM-as-a-Judge Approach: A Pilot Study
+T2  - DIAGNOSTICS
+SN  - 2075-4418
+DA  - DEC 19
+PY  - 2025
+VL  - 16
+IS  - 1
+C7  - 3
+DO  - 10.3390/diagnostics16010003
+AN  - WOS:001657711700001
+ER  -
+
+TY  - JOUR
+AU  - Li, YX
+AU  - Chen, XY
+AU  - Dolata, M
+TI  - LLM-as-a-Judge for mental support: A meta-evaluation using domain-specific platform data
+T2  - ELECTRONIC MARKETS
+SN  - 1019-6781
+SN  - 1422-8890
+DA  - APR 14
+PY  - 2026
+VL  - 36
+IS  - 1
+C7  - 36
+DO  - 10.1007/s12525-026-00890-3
+C6  - APR 2026
+AN  - WOS:001739898300001
+ER  -
+
+TY  - JOUR
+AU  - Oprea, SV
+AU  - Bâra, A
+TI  - LLM-as-a-judge for sarcasm detection using supervised fine-tuning of transformers
+T2  - JOURNAL OF KING SAUD UNIVERSITY COMPUTER AND INFORMATION SCIENCES
+SN  - 1319-1578
+SN  - 2213-1248
+DA  - DEC 9
+PY  - 2025
+VL  - 37
+IS  - 10
+C7  - 357
+DO  - 10.1007/s44443-025-00379-7
+AN  - WOS:001634272900002
+ER  -
+
+TY  - CPAPER
+AU  - Chen, DP
+AU  - Chen, RX
+AU  - Zhang, SL
+AU  - Wang, YC
+AU  - Liu, YN
+AU  - Zhou, HC
+AU  - Zhang, QH
+AU  - Wan, Y
+AU  - Zhou, P
+AU  - Sun, LC
+ED  - Salakhutdinov, R
+ED  - Kolter, Z
+ED  - Heller, K
+ED  - Weller, A
+ED  - Oliver, N
+ED  - Scarlett, J
+ED  - Berkenkamp, F
+TI  - MLLM-as-a-Judge: Assessing Multimodal LLM-as-a-Judge with Vision-Language Benchmark
+T2  - INTERNATIONAL CONFERENCE ON MACHINE LEARNING
+CP  - 41st International Conference on Machine Learning (ICML)
+SN  - 2640-3498
+PY  - 2024
+VL  - 235
+AN  - WOS:001347135506028
+ER  -
+
+TY  - JOUR
+AU  - Kocaman, V
+AU  - Kaya, MA
+AU  - Feier, AM
+AU  - Talby, D
+TI  - Clinical Large Language Model Evaluation by Expert Review (CLEVER): Framework Development and Validation
+T2  - JMIR AI
+SN  - 2817-1705
+PY  - 2025
+VL  - 4
+C7  - e72153
+DO  - 10.2196/72153
+AN  - WOS:001637033400004
+ER  -
+
+TY  - CPAPER
+AU  - Sollenberger, Z
+AU  - Patel, J
+AU  - Munley, C
+AU  - Jarmusch, A
+AU  - Chandrasekaran, S
+A1  - ASSOC COMPUTING MACHINERY
+TI  - LLM4VV: Exploring LLM-as-a-Judge for Validation and Verification Testsuites
+T2  - PROCEEDINGS OF SC24-W: WORKSHOPS OF THE INTERNATIONAL CONFERENCE FOR HIGH PERFORMANCE COMPUTING, NETWORKING, STORAGE AND ANALYSIS
+CP  - 2024 Workshops of the International Conference for High Performance Computing Networking Storage and Analysis-SC-W
+SN  - 979-8-3503-5554-3
+PY  - 2024
+SP  - 1885
+EP  - 1893
+DO  - 10.1109/SCW63240.2024.00238
+AN  - WOS:001451792300196
+ER  -
+
+TY  - CPAPER
+AU  - Zhou, HL
+AU  - Huang, H
+AU  - Long, YF
+AU  - Xu, B
+AU  - Zhu, CH
+AU  - Cao, HL
+AU  - Yang, MY
+AU  - Zhao, TJ
+ED  - Sun, M
+ED  - Liang, J
+ED  - Han, X
+ED  - Liu, Z
+ED  - He, Y
+ED  - Rao, G
+ED  - Chen, Y
+ED  - Tian, Z
+TI  - Mitigating the Bias of Large Language Model Evaluation
+T2  - CHINESE COMPUTATIONAL LINGUISTICS, CCL 2024
+CP  - 23rd China National Conference on Chinese Computational Linguistics-CCL
+SN  - 2945-9133
+SN  - 1611-3349
+SN  - 978-981-97-8366-3
+SN  - 978-981-97-8367-0
+PY  - 2025
+VL  - 14761
+SP  - 451
+EP  - 462
+DO  - 10.1007/978-981-97-8367-0_27
+AN  - WOS:001546392400027
+ER  -
+
+TY  - JOUR
+AU  - Liu, SR
+AU  - Huang, SS
+AU  - Mccoy, AB
+AU  - Wright, AP
+AU  - Horst, S
+AU  - Wright, A
+TI  - Optimizing Order Sets With a Large Language Model-Powered Multiagent System
+T2  - JAMA NETWORK OPEN
+SN  - 2574-3805
+DA  - SEP 23
+PY  - 2025
+VL  - 8
+IS  - 9
+C7  - e2533277
+DO  - 10.1001/jamanetworkopen.2025.33277
+AN  - WOS:001581477300003
+ER  -
+
+TY  - JOUR
+AU  - Vilakati, S
+TI  - Prompt engineering for accurate statistical reasoning with large language models in medical research
+T2  - FRONTIERS IN ARTIFICIAL INTELLIGENCE
+SN  - 2624-8212
+DA  - OCT 13
+PY  - 2025
+VL  - 8
+C7  - 1658316
+DO  - 10.3389/frai.2025.1658316
+AN  - WOS:001600237000001
+ER  -
+
+TY  - CPAPER
+AU  - Tamburini, F
+ED  - Bosco, C
+ED  - Jezek, E
+ED  - Polignano, M
+ED  - Sanguinetti, M
+TI  - Curated Data does not mean Representative Data when training Large Language Models: an Experiment using Representative Data for Italian
+T2  - ITALIAN CONFERENCE ON COMPUTATIONAL LINGUISTICS, CLIC-IT 2025
+CP  - 11th Italian Conference on Computational Linguistics-CLiC-it
+SN  - 1613-0073
+PY  - 2025
+VL  - 4112
+AN  - WOS:001781117000103
+ER  -
+
+TY  - CPAPER
+AU  - Sandan, IB
+AU  - Dinh, TA
+AU  - Niehues, J
+ED  - Arviv, O
+ED  - Clinciu, M
+ED  - Dhole, K
+ED  - Dror, R
+ED  - Gehrmann, S
+ED  - Habba, E
+ED  - Itzhak, I
+ED  - Mille, S
+ED  - Perlitz, Y
+ED  - Santus, E
+ED  - Sedoc, J
+ED  - Scheuer, MS
+ED  - Stanovsky, G
+ED  - Tafjord, O
+TI  - Knockout LLM Assessment: Using Large Language Models for Evaluations through Iterative Pairwise Comparisons
+T2  - PROCEEDINGS OF THE FOURTH WORKSHOP ON GENERATION, EVALUATION AND METRICS, GEM2
+CP  - 4th Workshop on Natural Language Generation Evaluation and Metrics-GEM-Annual
+SN  - 979-8-89176-261-9
+PY  - 2025
+SP  - 121
+EP  - 128
+AN  - WOS:001661927400009
+ER  -
+
+TY  - CPAPER
+AU  - Hwang, S
+AU  - Lim, S
+AU  - Shin, S
+AU  - Kim, HG
+AU  - Lim, J
+AU  - Kim, J
+AU  - Kang, B
+AU  - Myoung, D
+A1  - IEEE COMPUTER SOC
+TI  - Mitigating Language Confusion for Multimodal Foundation Models via Confusion-Aware Preference Optimization Pipeline
+T2  - 2025 IEEE/CVF INTERNATIONAL CONFERENCE ON COMPUTER VISION WORKSHOPS, ICCVW
+CP  - 2025 International Conference on Computer Vision Workshops-ICCVW
+SN  - 2473-9936
+SN  - 979-8-3315-8989-9
+SN  - 979-8-3315-8988-2
+PY  - 2025
+SP  - 4224
+EP  - 4233
+DO  - 10.1109/ICCVW69036.2025.00439
+AN  - WOS:001740020100439
+ER  -
+
+TY  - CPAPER
+AU  - Saito, T
+AU  - Yamanaka, R
+AU  - Wakabayashi, Y
+AU  - Kitaoka, N
+A1  - IEEE
+TI  - GENERATION AND AUTOMATIC EVALUATION OF SOAP NOTES FROM MEDICAL DIALOGUE USING LARGE LANGUAGE MODELS
+T2  - 2025 28TH CONFERENCE OF THE ORIENTAL COCOSDA INTERNATIONAL COMMITTEE FOR THE CO-ORDINATION AND STANDARDISATION OF SPEECH DATABASES AND ASSESSMENT TECHNIQUES, O-COCOSDA
+CP  - 28th International Conference of the Oriental COCOSDA-O-COCOSDA
+SN  - 2163-3479
+SN  - 979-8-3315-8963-9
+SN  - 979-8-3315-8962-2
+PY  - 2025
+DO  - 10.1109/O-COCOSDA68185.2025.11385094
+AN  - WOS:001748411900037
+ER  -
+
+TY  - JOUR
+AU  - Nechakhin, V
+AU  - D'Souza, J
+AU  - Eger, S
+AU  - Auer, S
+TI  - KGEval: Evaluating Scientific Knowledge Graphs with Large Language Models
+T2  - INFORMATION
+SN  - 2078-2489
+DA  - JAN 3
+PY  - 2026
+VL  - 17
+IS  - 1
+C7  - 35
+DO  - 10.3390/info17010035
+AN  - WOS:001670566600001
+ER  -
+
+TY  - CPAPER
+AU  - Ren, HM
+AU  - Liang, Y
+AU  - Su, BQ
+AU  - Sun, CB
+AU  - Lu, HT
+AU  - Zhang, KK
+AU  - Wei, C
+ED  - Koenig, S
+ED  - Jenkins, C
+ED  - Taylor, ME
+TI  - LexInstructEval: Lexical Instruction Following Evaluation for Large Language Models
+T2  - FORTIETH AAAI CONFERENCE ON ARTIFICIAL INTELLIGENCE, AAAI-26, VOL 40 NO 30
+CP  - 40th AAAI Conference on Artificial Intelligence
+SN  - 2159-5399
+SN  - 2374-3468
+PY  - 2026
+SP  - 25117
+EP  - 25123
+AN  - WOS:001769354100018
+ER  -
+
+TY  - CPAPER
+AU  - Liu, JH
+AU  - Xu, ZH
+AU  - Fang, YX
+AU  - Chen, YC
+AU  - Ying, ZB
+AU  - Chang, WH
+ED  - Zhu, T
+ED  - Zhou, W
+ED  - Zhu, C
+TI  - From Thinking to Output: Chain-of-Thought and Text Generation Characteristics in Reasoning Language Models
+T2  - KNOWLEDGE SCIENCE, ENGINEERING AND MANAGEMENT, KSEM 2025, PT III
+CP  - 18th International Conference on Knowledge Science Engineering and Management-KSEM-Annual
+SN  - 2945-9133
+SN  - 1611-3349
+SN  - 978-981-95-3054-0
+SN  - 978-981-95-3055-7
+PY  - 2026
+VL  - 15921
+SP  - 413
+EP  - 430
+DO  - 10.1007/978-981-95-3055-7_32
+AN  - WOS:001717867900032
+ER  -
+
+TY  - CPAPER
+AU  - Bi, Z
+AU  - Srivastava, G
+AU  - Lie, Y
+AU  - Roy, S
+AU  - Lu, M
+AU  - Ziyadi, M
+AU  - Wang, X
+ED  - Koenig, S
+ED  - Jenkins, C
+ED  - Taylor, ME
+TI  - JudgeBoard: Benchmarking and Enhancing Small Language Models for Reasoning Evaluation
+T2  - FORTIETH AAAI CONFERENCE ON ARTIFICIAL INTELLIGENCE, AAAI-26, VOL 40 NO 36
+CP  - 40th AAAI Conference on Artificial Intelligence
+SN  - 2159-5399
+SN  - 2374-3468
+PY  - 2026
+SP  - 30076
+EP  - 30084
+AN  - WOS:001769431800014
+ER  -
+
+TY  - JOUR
+AU  - Zhao, SF
+AU  - Ji, DW
+TI  - Improving LLM-Assisted Domain-Specific Design Tasks Through Domain-Structured Persona Prompting
+T2  - APPLIED SCIENCES-BASEL
+SN  - 2076-3417
+DA  - JUN 8
+PY  - 2026
+VL  - 16
+IS  - 12
+C7  - 5770
+DO  - 10.3390/app16125770
+C6  - JUN 2026
+AN  - WOS:001801921200001
+ER  -
+
+TY  - CPAPER
+AU  - Thakur, AS
+AU  - Choudhary, K
+AU  - Ramayapally, VS
+AU  - Vaidyanathan, S
+AU  - Hupkes, D
+ED  - Arviv, O
+ED  - Clinciu, M
+ED  - Dhole, K
+ED  - Dror, R
+ED  - Gehrmann, S
+ED  - Habba, E
+ED  - Itzhak, I
+ED  - Mille, S
+ED  - Perlitz, Y
+ED  - Santus, E
+ED  - Sedoc, J
+ED  - Scheuer, MS
+ED  - Stanovsky, G
+ED  - Tafjord, O
+TI  - Judging the Judges: Evaluating Alignment and Vulnerabilities in LLMs-as-Judges
+T2  - PROCEEDINGS OF THE FOURTH WORKSHOP ON GENERATION, EVALUATION AND METRICS, GEM2
+CP  - 4th Workshop on Natural Language Generation Evaluation and Metrics-GEM-Annual
+SN  - 979-8-89176-261-9
+PY  - 2025
+SP  - 404
+EP  - 430
+AN  - WOS:001661927400028
+ER  -
+
+TY  - CPAPER
+AU  - Kocmi, T
+AU  - Artemova, E
+AU  - Avramidis, E
+AU  - Briakou, E
+AU  - Chen, PZ
+AU  - Fadaee, M
+AU  - Freitag, M
+AU  - Grundkiewicz, R
+AU  - Hou, YP
+AU  - Koehn, P
+AU  - Kreutzer, J
+AU  - Mansour, S
+AU  - Perrella, S
+AU  - Proietti, L
+AU  - Riley, P
+AU  - Sánchez, E
+AU  - Schmidtová, P
+AU  - Shmatova, M
+AU  - Zouhar, V
+ED  - Haddow, B
+ED  - Kocmi, T
+ED  - Koehn, P
+ED  - Monz, C
+TI  - Findings of the WMT25 Multilingual Instruction Shared Task: Persistent Hurdles in Reasoning, Generation, and Evaluation
+T2  - PROCEEDINGS OF THE TENTH CONFERENCE ON MACHINE TRANSLATION
+CP  - 10th Conference on Machine Translation-WMT
+SN  - 979-8-89176-341-8
+PY  - 2025
+SP  - 414
+EP  - 435
+AN  - WOS:001788133000023
+ER  -
+
+TY  - CPAPER
+AU  - Chhikara, P
+AU  - Khant, D
+AU  - Aryan, S
+AU  - Singh, T
+AU  - Yadav, D
+ED  - Lynce, I
+ED  - Murano, N
+ED  - Vallati, M
+ED  - Villata, S
+ED  - Chesani, F
+ED  - Milano, M
+ED  - Omicini, A
+ED  - Dastani, M
+TI  - Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory
+T2  - ECAI 2025
+CP  - 28th European Conference on Artificial Intelligence-ECAI-Biennial
+SN  - 0922-6389
+SN  - 1879-8314
+SN  - 978-1-64368-631-8
+PY  - 2025
+VL  - 413
+SP  - 2993
+EP  - 3000
+DO  - 10.3233/FAIA251160
+AN  - WOS:001753070100374
+ER  -
+
+TY  - JOUR
+AU  - Makrinsky, K
+AU  - Shendrikov, V
+AU  - Makhonko, A
+AU  - Merkushkin, D
+AU  - Batishchev, OV
+TI  - LLM-Based Pipeline for Structured Knowledge Extraction from Scientific Literature on Heavy Metal Hyperaccumulation
+T2  - MACHINE LEARNING AND KNOWLEDGE EXTRACTION
+SN  - 2504-4990
+DA  - NOV 25
+PY  - 2025
+VL  - 7
+IS  - 4
+C7  - 152
+DO  - 10.3390/make7040152
+AN  - WOS:001646985900001
+ER  -
+
+TY  - CPAPER
+AU  - Arun, A
+AU  - Dimino, F
+AU  - Agarwal, TP
+AU  - Sarmah, B
+AU  - Pasquali, S
+A1  - ACM
+TI  - FinReflectKG: Agentic Construction and Evaluation of Financial Knowledge Graphs
+T2  - 6TH ACM INTERNATIONAL CONFERENCE ON AI IN FINANCE, ICAIF 2025
+CP  - 6th International Conference on AI in Finance-ICAIF
+SN  - 979-8-4007-2220-2
+PY  - 2025
+SP  - 283
+EP  - 290
+DO  - 10.1145/3768292.3770363
+AN  - WOS:001695124500033
+ER  -
+
+TY  - CPAPER
+AU  - Jourdan, L
+AU  - Boudin, F
+AU  - Hernandez, N
+AU  - Dufour, R
+ED  - Che, W
+ED  - Nabende, J
+ED  - Shutova, E
+ED  - Pilehvar, MT
+TI  - Identifying Reliable Evaluation Metrics for Scientific Text Revision
+T2  - PROCEEDINGS OF THE 63RD ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, VOL 1: LONG PAPERS
+CP  - 63rd Association for Computational Linguistics Meeting-ACL-Annual
+SN  - 979-8-89176-251-0
+PY  - 2025
+SP  - 6731
+EP  - 6756
+AN  - WOS:001611615400014
+ER  -
+
+TY  - JOUR
+AU  - Pei, B
+AU  - Sun, XJ
+AU  - Guo, R
+AU  - Zhang, ZW
+TI  - LitPilot: A Human-Centered Platform for Transparent and Interactive Systematic Literature Reviews
+T2  - INTERNATIONAL JOURNAL OF HUMAN-COMPUTER INTERACTION
+SN  - 1044-7318
+SN  - 1532-7590
+DA  - 2026 MAR 28
+PY  - 2026
+DO  - 10.1080/10447318.2026.2646419
+C6  - MAR 2026
+AN  - WOS:001728716700001
+ER  -
+
+TY  - JOUR
+AU  - Karatas, Z
+TI  - Can a Large Language Model Judge a Child's Statement?: A Comparative Analysis of ChatGPT and Human Experts in Credibility Assessment
+T2  - JOURNAL OF EVIDENCE-BASED SOCIAL WORK
+SN  - 2640-8066
+SN  - 2640-8074
+DA  - JAN 2
+PY  - 2026
+VL  - 23
+IS  - 1
+SP  - 78
+EP  - 93
+DO  - 10.1080/26408066.2025.2547211
+C6  - AUG 2025
+AN  - WOS:001548353100001
+ER  -
+
+TY  - CPAPER
+AU  - Son, S
+AU  - Oh, JM
+AU  - Jin, H
+AU  - Jang, C
+AU  - Jeong, J
+AU  - Kim, K
+ED  - Christodoulopoulos, C
+ED  - Chakraborty, T
+ED  - Rose, C
+ED  - Peng, V
+TI  - Arena-Lite: Efficient and Reliable Large Language Model Evaluation via Tournament-Based Direct Comparisons
+T2  - PROCEEDINGS OF THE 2025 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING
+CP  - 2025 Conference on Empirical Methods in Natural Language Processing-EMNLP
+SN  - 979-8-89176-332-6
+PY  - 2025
+SP  - 7057
+EP  - 7075
+AN  - WOS:001805531300360
+ER  -
+
+TY  - CPAPER
+AU  - Dietz, L
+AU  - Zendel, O
+AU  - Bailey, P
+AU  - Clarke, CLA
+AU  - Cotterill, E
+AU  - Dalton, J
+AU  - Hasibi, F
+AU  - Sanderson, M
+AU  - Craswell, N
+A1  - ACM
+TI  - Principles and Guidelines for the Use of LLM Judges
+T2  - PROCEEDINGS OF THE 2025 INTERNATIONAL ACM SIGIR CONFERENCE ON INNOVATIVE CONCEPTS AND THEORIES IN INFORMATION RETRIEVAL, ICTIR 2025
+CP  - 2025 International Conference on Innovative Concepts and Theories in Information Retrieval-ICTIR
+SN  - 979-8-4007-1861-8
+PY  - 2025
+SP  - 218
+EP  - 229
+DO  - 10.1145/3731120.3744588
+AN  - WOS:001594390000021
+ER  -
+
+TY  - JOUR
+AU  - Anghel, C
+AU  - Craciun, MV
+AU  - Pecheanu, E
+AU  - Cocu, A
+AU  - Anghel, AA
+AU  - Iacobescu, P
+AU  - Maier, C
+AU  - Andrei, CA
+AU  - Scheau, C
+AU  - Dragosloveanu, S
+TI  - CourseEvalAI: Rubric-Guided Framework for Transparent and Consistent Evaluation of Large Language Models
+T2  - COMPUTERS
+SN  - 2073-431X
+DA  - OCT 11
+PY  - 2025
+VL  - 14
+IS  - 10
+C7  - 431
+DO  - 10.3390/computers14100431
+AN  - WOS:001602356500001
+ER  -
+
+TY  - JOUR
+AU  - Brunyé, TT
+TI  - Human Evaluation of Large Language Models: A Review and Protocol Selection Framework
+T2  - AI
+SN  - 2673-2688
+DA  - MAY 19
+PY  - 2026
+VL  - 7
+IS  - 5
+C7  - 174
+DO  - 10.3390/ai7050174
+C6  - MAY 2026
+AN  - WOS:001774075500001
+ER  -
+
+TY  - JOUR
+AU  - Ghosh, S
+AU  - Tewari, A
+TI  - LLM-based AI agents for automated extraction of material properties and structural features
+T2  - COMPUTATIONAL MATERIALS SCIENCE
+SN  - 0927-0256
+SN  - 1879-0801
+DA  - FEB 20
+PY  - 2026
+VL  - 265
+C7  - 114521
+DO  - 10.1016/j.commatsci.2026.114521
+C6  - JAN 2026
+AN  - WOS:001676996200001
+ER  -
+
+TY  - CPAPER
+AU  - Mothukuri, V
+AU  - Parizi, RM
+A1  - IEEE
+TI  - Automated Judging of LLM-based Smart Contract Security Auditors
+T2  - 2025 IEEE INTERNATIONAL CONFERENCE ON BLOCKCHAIN AND CRYPTOCURRENCY, ICBC
+CP  - 7th International Conference on Blockchain and Cryptocurrency-ICBC-Annual
+SN  - 979-8-3315-4136-1
+SN  - 979-8-3315-4135-4
+PY  - 2025
+SP  - 512
+EP  - 516
+DO  - 10.1109/ICBC64466.2025.11114647
+AN  - WOS:001568940100082
+ER  -
+
+TY  - CPAPER
+AU  - Balog, K
+AU  - Metzler, D
+AU  - Qin, Z
+A1  - ACM
+TI  - Rankers, Judges, and Assistants: Towards Understanding the Interplay of LLMs in Information Retrieval Evaluation
+T2  - PROCEEDINGS OF THE 48TH INTERNATIONAL ACM SIGIR CONFERENCE ON RESEARCH AND DEVELOPMENT IN INFORMATION RETRIEVAL, SIGIR 2025
+CP  - 48th Conference on Research and Development in Information Retrieval-RDIR
+SN  - 979-8-4007-1592-1
+PY  - 2025
+SP  - 3865
+EP  - 3875
+DO  - 10.1145/3726302.3730348
+AN  - WOS:001587983900431
+ER  -
+
+TY  - CPAPER
+AU  - Pati, P
+AU  - De, S
+AU  - Tiwari, S
+AU  - Mukherjee, I
+AU  - Sanyal, DK
+ED  - Alhoori, H
+ED  - Downie, JS
+ED  - Kelly, M
+ED  - Choudhury, SR
+ED  - Frommholz, I
+ED  - Chen, J
+TI  - K-Span Select and Multi-Dimensional Judging for Reliable Scholarly Question Answering
+T2  - 2025 ACM/IEEE JOINT CONFERENCE ON DIGITAL LIBRARIES, JCDL
+CP  - 25th ACM/IEEE Joint Conference on Digital Libraries-JCDL
+SN  - 979-8-3315-6804-7
+SN  - 979-8-3315-6803-0
+PY  - 2025
+SP  - 253
+EP  - 256
+DO  - 10.1109/JCDL67857.2025.00039
+AN  - WOS:001710657900029
+ER  -
+
+TY  - JOUR
+AU  - Tuohetiyaer, Y
+AU  - Zhu, YY
+AU  - Hu, Y
+AU  - Lu, SY
+AU  - Wang, ZF
+TI  - Deep-Research Eval: An Automated Framework for Assessing Quality and Reliability in Long-Form Reports
+T2  - APPLIED SCIENCES-BASEL
+SN  - 2076-3417
+DA  - MAR 6
+PY  - 2026
+VL  - 16
+IS  - 5
+C7  - 2546
+DO  - 10.3390/app16052546
+AN  - WOS:001713362800001
+ER  -
+
+TY  - CPAPER
+AU  - Zhou, H
+AU  - Wan, XC
+AU  - Liu, YH
+AU  - Collier, N
+AU  - Vulic, I
+AU  - Korhonen, A
+ED  - Al-Onaizan, Y
+ED  - Bansal, M
+ED  - Chen, YN
+TI  - Fairer Preferences Elicit Improved Human-Aligned Large Language Model Judgments
+T2  - 2024 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING, EMNLP 2024
+CP  - 29th Conference on Empirical Methods in Natural Language Processing
+SN  - 979-8-89176-164-3
+PY  - 2024
+SP  - 1241
+EP  - 1252
+AN  - WOS:001431695500072
+ER  -
+
+TY  - CPAPER
+AU  - Stureborg, R
+AU  - Alikaniotis, D
+AU  - Suhara, Y
+ED  - Graham, Y
+ED  - Purver, M
+TI  - Characterizing the Confidence of Large Language Model-Based Automatic Evaluation Metrics
+T2  - PROCEEDINGS OF THE 18TH CONFERENCE OF THE EUROPEAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, VOL 2: SHORT PAPERS
+CP  - 18th Conference of the European-Chapter of the Association-for-Computational-Linguistics (EACL)
+SN  - 979-8-89176-089-9
+PY  - 2024
+SP  - 76
+EP  - 89
+AN  - WOS:001356733300009
+ER  -
+
+TY  - JOUR
+AU  - Park, CK
+AU  - Bae, SH
+AU  - Park, HW
+AU  - Oh, NS
+AU  - Kim, YJ
+AU  - Kim, YW
+AU  - Cho, TJ
+AU  - Li, Y
+AU  - Chai, JM
+AU  - Zhao, JC
+AU  - Cho, HT
+AU  - Jung, JH
+AU  - Park, J
+AU  - Kim, TG
+AU  - Kim, JK
+TI  - Development of Large Language Model Specialized into Microbiome Datasets: an Application of Self-Evaluation and Scoring Comparison with Conventional Natural Language Processing Markers
+T2  - JOURNAL OF MICROBIOLOGY AND BIOTECHNOLOGY
+SN  - 1017-7825
+SN  - 1738-8872
+PY  - 2026
+VL  - 36
+C7  - e2511050
+DO  - 10.4014/jmb.2511.11050
+AN  - WOS:001682164000003
+ER  -
+
+TY  - JOUR
+AU  - Bilalpur, M
+AU  - Hamm, ME
+AU  - Lee, YJ
+AU  - Norman, NG
+AU  - Mctigue, KM
+AU  - Wang, YS
+TI  - Topic-Aware Summarization of Lived Health Care Experiences: Large Language Model Evaluation Study
+T2  - JMIR MEDICAL INFORMATICS
+SN  - 2291-9694
+PY  - 2026
+VL  - 14
+C7  - e85960
+DO  - 10.2196/85960
+AN  - WOS:001799392600002
+ER  -
+
+TY  - CPAPER
+AU  - Hashemi, H
+AU  - Eisner, J
+AU  - Rosset, C
+AU  - Van Durme, B
+AU  - Kedzie, C
+ED  - Ku, LW
+ED  - Martins, A
+ED  - Srikumar, V
+TI  - LLM- RUBRIC: A Multidimensional, Calibrated Approach to Automated Evaluation of Natural Language Texts
+T2  - PROCEEDINGS OF THE 62ND ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, VOL 1: LONG PAPERS
+CP  - 62nd Annual Meeting of the Association-for-Computational-Linguistics (ACL) / Student Research Workshop (SRW)
+SN  - 979-8-89176-094-3
+PY  - 2024
+SP  - 13806
+EP  - 13834
+AN  - WOS:001391776304053
+ER  -
+
+TY  - JOUR
+AU  - Lai, PC
+AU  - Zhang, KX
+AU  - Lin, Y
+AU  - Zhang, LYH
+AU  - Ye, FY
+AU  - Yan, JH
+AU  - Xu, YW
+AU  - He, CH
+AU  - Zhang, WT
+AU  - Wang, YL
+AU  - Cui, B
+TI  - SAS-bench: A fine-grained benchmark for evaluating short answer scoring with large language models
+T2  - NEURAL NETWORKS
+SN  - 0893-6080
+SN  - 1879-2782
+DA  - NOV
+PY  - 2026
+VL  - 203
+C7  - 109199
+DO  - 10.1016/j.neunet.2026.109199
+AN  - WOS:001793238500001
+ER  -
+
+TY  - CPAPER
+AU  - Baek, J
+AU  - Jauhar, SK
+AU  - Cucerzan, S
+AU  - Hwang, SJ
+A1  - Ritter, A
+ED  - Chiruzzo, L
+ED  - Wang, L
+TI  - ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models
+T2  - PROCEEDINGS OF THE 2025 CONFERENCE OF THE NATIONS OF THE AMERICAS CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS: HUMAN LANGUAGE TECHNOLOGIES, VOL 1: LONG PAPERS
+CP  - 2025 Conference of the North American Chapter of the Association for Computational Linguistics-NAACL
+SN  - 979-8-89176-189-6
+PY  - 2025
+SP  - 6709
+EP  - 6738
+AN  - WOS:001611654000023
+ER  -
+
+TY  - JOUR
+AU  - Bakir, D
+AU  - Aktas, MS
+AU  - Yildiz, B
+TI  - A Model-Based Evaluation Metric for Question Answering Systems
+T2  - INTERNATIONAL JOURNAL OF SOFTWARE ENGINEERING AND KNOWLEDGE ENGINEERING
+SN  - 0218-1940
+SN  - 1793-6403
+DA  - FEB
+PY  - 2025
+VL  - 35
+IS  - 02
+SP  - 243
+EP  - 262
+DO  - 10.1142/S0218194025500032
+C6  - JAN 2025
+AN  - WOS:001405946200001
+ER  -
+
+TY  - JOUR
+AU  - O'Leary, DE
+TI  - Confirmation and Specificity Biases in Large Language Models: An Explorative Study
+T2  - IEEE INTELLIGENT SYSTEMS
+SN  - 1541-1672
+SN  - 1941-1294
+DA  - JAN
+PY  - 2025
+VL  - 40
+IS  - 1
+SP  - 63
+EP  - 68
+DO  - 10.1109/MIS.2024.3513992
+AN  - WOS:001428076400006
+ER  -
+
+TY  - JOUR
+AU  - Kölbel, LM
+AU  - Poss, L
+AU  - Schönig, S
+TI  - Context is key for cybersecurity: leveraging external knowledge for process model explanation via LLMs
+T2  - INTERNATIONAL JOURNAL OF INFORMATION SECURITY
+SN  - 1615-5262
+SN  - 1615-5270
+DA  - JUN 15
+PY  - 2026
+VL  - 25
+IS  - 4
+C7  - 108
+DO  - 10.1007/s10207-026-01245-x
+AN  - WOS:001793347400002
+ER  -
+
+TY  - CPAPER
+AU  - Szymanski, A
+A1  - ACM
+TI  - Evaluation Workflows for Large Language Models (LLMs) that Integrate Domain Expertise for Complex Knowledge Tasks
+T2  - COMPANION PROCEEDINGS OF THE 2025 CONFERENCE ON INTELLIGENT USER INTERFACES, IUI 2025
+CP  - 30th International Conference on Intelligent User Interfaces-IUI
+SN  - 979-8-4007-1409-2
+PY  - 2025
+SP  - 215
+EP  - 217
+DO  - 10.1145/3708557.3716146
+AN  - WOS:001477116100053
+ER  -
+
+TY  - JOUR
+AU  - Thelwall, M
+AU  - Yang, YH
+TI  - Implicit and explicit research quality score probabilities from ChatGPT
+T2  - QUANTITATIVE SCIENCE STUDIES
+SN  - 2641-3337
+DA  - DEC 12
+PY  - 2025
+VL  - 6
+SP  - 1271
+EP  - 1293
+DO  - 10.1162/QSS.a.393
+AN  - WOS:001636098500005
+ER  -
+
+TY  - JOUR
+AU  - Heo, S
+AU  - Son, S
+AU  - Park, H
+TI  - HaluCheck: Explainable and verifiable automation for detecting hallucinations in LLM responses
+T2  - EXPERT SYSTEMS WITH APPLICATIONS
+SN  - 0957-4174
+SN  - 1873-6793
+DA  - MAY 5
+PY  - 2025
+VL  - 272
+C7  - 126712
+DO  - 10.1016/j.eswa.2025.126712
+C6  - FEB 2025
+AN  - WOS:001426376100001
+ER  -
+
+TY  - JOUR
+AU  - Sheikhi, S
+AU  - Lovén, L
+AU  - Kostakos, P
+TI  - Beyond the Leaderboard: A Survey of the Science of Evaluation, Benchmarking, and Methodologies for Large Language Models
+T2  - IEEE ACCESS
+SN  - 2169-3536
+PY  - 2026
+VL  - 14
+SP  - 66493
+EP  - 66515
+DO  - 10.1109/ACCESS.2026.3686088
+AN  - WOS:001763003100035
+ER  -
+
+TY  - JOUR
+AU  - Liang, C
+AU  - Huang, ZQ
+AU  - Wang, HF
+AU  - Chai, F
+AU  - Yu, CY
+AU  - Wei, HH
+AU  - Liu, ZJ
+AU  - Li, YP
+AU  - Wang, HJ
+AU  - Luo, RF
+AU  - Zhao, XZ
+TI  - AECBench: A hierarchical benchmark for knowledge evaluation of large language models in the AEC field
+T2  - ADVANCED ENGINEERING INFORMATICS
+SN  - 1474-0346
+SN  - 1873-5320
+DA  - APR
+PY  - 2026
+VL  - 71
+C7  - 104314
+DO  - 10.1016/j.aei.2026.104314
+C6  - JAN 2026
+AN  - WOS:001672515000001
+ER  -
+
+TY  - CPAPER
+AU  - Guo, Y
+AU  - Hou, KY
+AU  - Yan, ZY
+AU  - Chen, HK
+AU  - Xing, GL
+AU  - Jiang, XF
+A1  - IEEE COMPUTER SOC
+TI  - Sensor2Scene: Foundation Model-driven Interactive Realities
+T2  - PROCEEDINGS 2024 IEEE INTERNATIONAL WORKSHOP ON FOUNDATION MODELS FOR CYBER-PHYSICAL SYSTEMS & INTERNET OF THINGS, FMSYS 2024
+CP  - IEEE International Workshop on Foundation Models for Cyber-Physical Systems and Internet of Things (FMSys)
+SN  - 979-8-3503-6345-6
+SN  - 979-8-3503-6346-3
+PY  - 2024
+SP  - 13
+EP  - 19
+DO  - 10.1109/FMSys62467.2024.00007
+AN  - WOS:001325271200003
+ER  -
+
+TY  - JOUR
+AU  - Li, HY
+AU  - He, X
+AU  - Subbaswamy, A
+AU  - Vossler, P
+AU  - Gossmann, A
+AU  - Singh, K
+AU  - Feng, J
+TI  - Scaling medical device regulatory science using large language models
+T2  - NPJ DIGITAL MEDICINE
+SN  - 2398-6352
+DA  - FEB 5
+PY  - 2026
+VL  - 9
+IS  - 1
+C7  - 221
+DO  - 10.1038/s41746-026-02353-7
+AN  - WOS:001715985500001
+ER  -
+
+TY  - JOUR
+AU  - Arnaiz-Rodriguez, A
+AU  - Baidal, M
+AU  - Derner, E
+AU  - Annable, JL
+AU  - Ball, M
+AU  - Ince, M
+AU  - Vallejos, EP
+AU  - Oliver, N
+TI  - Between Help and Harm: An Evaluation Study of Mental Health Crisis Handling by Large Language Models
+T2  - JMIR MENTAL HEALTH
+SN  - 2368-7959
+PY  - 2026
+VL  - 13
+C7  - e88435
+DO  - 10.2196/88435
+AN  - WOS:001799428100002
+ER  -
+
+TY  - JOUR
+AU  - Sun, JY
+AU  - Zhou, JB
+AU  - Wang, HB
+AU  - Liu, W
+AU  - Yuan, J
+AU  - Wang, Y
+AU  - Xie, T
+AU  - Tan, L
+AU  - Zhang, HL
+AU  - Zou, YP
+AU  - Zhang, ZM
+AU  - Lu, HM
+TI  - TeLLAgent: a dual-agent framework for reliable scientific discovery with tool-enhanced LLMs
+T2  - CHEMICAL SCIENCE
+SN  - 2041-6520
+SN  - 2041-6539
+DA  - JUL 8
+PY  - 2026
+VL  - 17
+IS  - 26
+SP  - 13101
+EP  - 13117
+DO  - 10.1039/d5sc09883a
+C6  - MAY 2026
+AN  - WOS:001776326800001
+ER  -
+
+TY  - JOUR
+AU  - Nadas, M
+AU  - Diosan, L
+AU  - Tomescu, A
+AU  - Piscoran, A
+TI  - Building large-scale English-Romanian literary translation resources with open models
+T2  - FRONTIERS IN ARTIFICIAL INTELLIGENCE
+SN  - 2624-8212
+DA  - JUN 17
+PY  - 2026
+VL  - 9
+C7  - 1807431
+DO  - 10.3389/frai.2026.1807431
+C6  - JUN 2026
+AN  - WOS:001808638000001
+ER  -
+
+TY  - JOUR
+AU  - Bentley, KH
+AU  - Belli, L
+AU  - Chekroud, AM
+AU  - Ward, EJ
+AU  - Dworkin, ER
+AU  - Van Ark, E
+AU  - Johnston, KM
+AU  - Brown, M
+AU  - Hawrilenko, M
+TI  - AI Chatbot Suicide Risk Detection and Response: Human Validation Study of the Open-Source VERA-MH Safety Evaluation
+T2  - JMIR AI
+SN  - 2817-1705
+PY  - 2026
+VL  - 5
+C7  - e92817
+DO  - 10.2196/92817
+AN  - WOS:001820317800001
+ER  -
+
+TY  - JOUR
+AU  - Alexiou, VG
+AU  - Vassiliou, A
+AU  - Sumpio, BE
+AU  - Geroulakos, G
+AU  - Kakkos, SK
+TI  - An Artificial Intelligence Application for Standardized Expert-Level Interpretation of Vascular Clinical Practice Guidelines
+T2  - ANNALS OF VASCULAR SURGERY
+SN  - 0890-5096
+SN  - 1615-5947
+DA  - JUL
+PY  - 2026
+VL  - 128
+SP  - 473
+EP  - 483
+DO  - 10.1016/j.avsg.2026.03.020
+C6  - APR 2026
+AN  - WOS:001745675700001
+ER  -
+
+TY  - CPAPER
+AU  - Akyurek, AF
+AU  - Kocyigit, MY
+AU  - Paik, S
+AU  - Wijaya, D
+ED  - Hardmeier, C
+ED  - Basta, C
+ED  - Costa-jussa, MR
+ED  - Stanovsky, G
+ED  - Gonen, H
+TI  - Challenges in Measuring Bias via Open-Ended Language Generation
+T2  - PROCEEDINGS OF THE 4TH WORKSHOP ON GENDER BIAS IN NATURAL LANGUAGE PROCESSING, GEBNLP
+CP  - 4th Workshop on Gender Bias in Natural Language Processing-GeBNLP
+SN  - 978-1-955917-68-1
+PY  - 2022
+SP  - 76
+EP  - 76
+AN  - WOS:001688435800009
+ER  -
+
+TY  - CPAPER
+AU  - Cao, BX
+AU  - Pan, RT
+AU  - Lin, HY
+AU  - Han, XP
+AU  - Sun, L
+ED  - Koenig, S
+ED  - Jenkins, C
+ED  - Taylor, ME
+TI  - Does Question Really Matter? The Attribution of Answer Bias in LLM Evaluation
+T2  - FORTIETH AAAI CONFERENCE ON ARTIFICIAL INTELLIGENCE, AAAI-26, VOL 40 NO 36
+CP  - 40th AAAI Conference on Artificial Intelligence
+SN  - 2159-5399
+SN  - 2374-3468
+PY  - 2026
+SP  - 30130
+EP  - 30138
+AN  - WOS:001769431800020
+ER  -
+
+TY  - CPAPER
+AU  - Wu, QL
+AU  - Peng, SJ
+AU  - Lu, ZX
+AU  - Liu, X
+ED  - Kittler, J
+ED  - Xiong, H
+ED  - Yang, J
+ED  - Chen, X
+ED  - Lu, J
+ED  - Lin, W
+ED  - Yu, J
+ED  - Zheng, W
+TI  - MPCLA: Multi-perspective Cross-Lingual Alignment for Efficient Preference Leakage Mitigating in LLMs
+T2  - PATTERN RECOGNITION AND COMPUTER VISION, PRCV 2025, PT XII
+CP  - 8th Chinese Conference on Pattern Recognition and Computer Vision-PRCV-Annual
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 978-981-95-5760-8
+SN  - 978-981-95-5761-5
+PY  - 2026
+VL  - 16283
+SP  - 474
+EP  - 487
+DO  - 10.1007/978-981-95-5761-5_33
+AN  - WOS:001734964800033
+ER  -
+
+TY  - JOUR
+AU  - Driss, M
+AU  - Ben Atitallah, S
+AU  - Ammar, A
+AU  - Boulila, W
+TI  - NEXUS-IDS: From structural to semantic explainability in flow-node graph neural networks for IoT intrusion detection
+T2  - INTERNET OF THINGS
+SN  - 2543-1536
+SN  - 2542-6605
+DA  - SEP
+PY  - 2026
+VL  - 39
+C7  - 102010
+DO  - 10.1016/j.iot.2026.102010
+C6  - JUL 2026
+AN  - WOS:001820021000001
+ER  -
+
+TY  - JOUR
+AU  - Singh, AK
+AU  - Lamichhane, B
+AU  - Devkota, S
+AU  - Dhakal, U
+AU  - Dhakal, C
+TI  - Do Large Language Models Show Human-like Biases? Exploring Confidence-Competence Gap in AI
+T2  - INFORMATION
+SN  - 2078-2489
+DA  - FEB
+PY  - 2024
+VL  - 15
+IS  - 2
+C7  - 92
+DO  - 10.3390/info15020092
+AN  - WOS:001168316300001
+ER  -
+
+TY  - JOUR
+AU  - Kerwer, M
+AU  - Jonas, M
+AU  - Stoll, M
+AU  - Benz, G
+AU  - Chasiotis, A
+TI  - A Randomized Controlled Study on the Effectiveness of Plain Language Summaries of Psychological Meta-Analyses Targeting Knowledge, User Experience, Relevance, and Trust
+T2  - ZEITSCHRIFT FUR PSYCHOLOGIE-JOURNAL OF PSYCHOLOGY
+SN  - 2190-8370
+SN  - 2151-2604
+DA  - JAN
+PY  - 2025
+VL  - 233
+IS  - 1
+SP  - 30
+EP  - 39
+DO  - 10.1027/2151-2604/a000570
+C6  - SEP 2024
+AN  - WOS:001306438800003
+ER  -
+
+TY  - CPAPER
+AU  - Giglou, HB
+AU  - D'Souza, J
+AU  - Auer, S
+ED  - Wu, J
+ED  - Hu, X
+ED  - Nurmikko-Fuller, T
+ED  - Chu, S
+ED  - Yang, R
+ED  - Downie, JS
+TI  - LLMs4Synthesis: Leveraging Large Language Models for Scientific Synthesis
+T2  - PROCEEDINGS OF THE 24TH ACM/IEEE JOINT CONFERENCE ON DIGITAL LIBRARIES, JCDL 2024
+CP  - 24th ACM/IEEE Joint Conference on Digital Libraries-JCDL
+SN  - 2575-7865
+SN  - 2575-8152
+SN  - 979-8-4007-1093-3
+PY  - 2024
+DO  - 10.1145/3677389.3702565
+AN  - WOS:001481696900031
+ER  -
+
+TY  - JOUR
+AU  - Naivasha, P
+AU  - Musumba, G
+AU  - Gikunda, P
+AU  - Wandeto, J
+TI  - Model-based evaluation of synthetic financial time series data: A comparative study with multi-metric validation
+T2  - ARRAY
+SN  - 2590-0056
+DA  - MAR
+PY  - 2026
+VL  - 29
+C7  - 100684
+DO  - 10.1016/j.array.2026.100684
+C6  - FEB 2026
+AN  - WOS:001683565700001
+ER  -
+
+TY  - JOUR
+AU  - Airaldi, AL
+AU  - Carruthers, JA
+AU  - Irrazábal, E
+AU  - Diaz-Pace, A
+TI  - Measuring Narrative Visualizations: A Model-Based Evaluation Framework and Validation
+T2  - IEEE ACCESS
+SN  - 2169-3536
+PY  - 2025
+VL  - 13
+SP  - 87350
+EP  - 87368
+DO  - 10.1109/ACCESS.2025.3570485
+AN  - WOS:001494102600019
+ER  -
+
+TY  - CPAPER
+AU  - Dreier, J
+AU  - Jacobs, G
+AU  - Hoepfner, G
+A1  - IEEE
+TI  - Model-Based Evaluation of Remaining Useful Life and Reusability of Used Systems
+T2  - 2025 IEEE INTERNATIONAL SYMPOSIUM ON SYSTEMS ENGINEERING, ISSE
+CP  - 48th International Symposium on Systems Engineering-ISSE-Annual
+SN  - 2687-881X
+SN  - 2687-8828
+SN  - 979-8-3315-7551-9
+SN  - 979-8-3315-7550-2
+PY  - 2025
+DO  - 10.1109/ISSE65546.2025.11370005
+AN  - WOS:001712072200030
+ER  -
+
+TY  - JOUR
+AU  - Dore, M
+AU  - Ebner, DW
+AU  - Vahdat, V
+AU  - Estes, C
+AU  - Ozbay, AB
+AU  - Foster, V
+AU  - Limburg, PJ
+TI  - Model-based evaluation of colorectal cancer screening effectiveness: three rounds of multitarget stool DNA testing versus one colonoscopy
+T2  - JOURNAL OF MEDICAL ECONOMICS
+SN  - 1369-6998
+SN  - 1941-837X
+DA  - DEC 31
+PY  - 2026
+VL  - 29
+IS  - 1
+SP  - 986
+EP  - 993
+DO  - 10.1080/13696998.2026.2645491
+AN  - WOS:001728319800001
+ER  -
+
+TY  - CPAPER
+AU  - Park, J
+AU  - Jwa, S
+AU  - Ren, M
+AU  - Kim, D
+AU  - Choi, S
+ED  - Al-Onaizan, Y
+ED  - Bansal, M
+ED  - Chen, YN
+TI  - OffsetBias: Leveraging Debiased Data for Tuning Evaluators
+T2  - FINDINGS OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS: EMNLP 2024
+CP  - 29th Conference on Empirical Methods in Natural Language Processing
+SN  - 979-8-89176-168-1
+PY  - 2024
+SP  - 1043
+EP  - 1067
+AN  - WOS:001511154401007
+ER  -
+
+TY  - CPAPER
+AU  - Reif, Y
+AU  - Schwartz, R
+ED  - Duh, K
+ED  - Gomez, H
+ED  - Bethard, S
+TI  - Beyond Performance: Quantifying and Mitigating Label Bias in LLMs
+T2  - PROCEEDINGS OF THE 2024 CONFERENCE OF THE NORTH AMERICAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS: HUMAN LANGUAGE TECHNOLOGIES, VOL 1: LONG PAPERS
+CP  - 2024 Conference of the North American Chapter of the Association for Computational Linguistics-NAACL
+SN  - 979-8-89176-114-8
+PY  - 2024
+SP  - 6784
+EP  - 6798
+AN  - WOS:001516375900378
+ER  -
+
+TY  - JOUR
+AU  - Manzanarez, GA
+AU  - Monroy, R
+AU  - Flores, JG
+AU  - Calvo, H
+TI  - Literary Language Mashup: Curating Fictions with Large Language Models
+T2  - MATHEMATICS
+SN  - 2227-7390
+DA  - JAN 6
+PY  - 2026
+VL  - 14
+IS  - 2
+C7  - 210
+DO  - 10.3390/math14020210
+AN  - WOS:001671028000001
+ER  -
+
+TY  - JOUR
+AU  - Da, YF
+AU  - Bossa, MN
+AU  - Berenguer, AD
+AU  - Sahli, H
+TI  - Reducing Bias in Sentiment Analysis Models Through Causal Mediation Analysis and Targeted Counterfactual Training
+T2  - IEEE ACCESS
+SN  - 2169-3536
+PY  - 2024
+VL  - 12
+SP  - 10120
+EP  - 10134
+DO  - 10.1109/ACCESS.2024.3353056
+AN  - WOS:001150256200001
+ER  -
+
+TY  - CPAPER
+AU  - Delobelle, P
+AU  - Tokpo, EK
+AU  - Calders, T
+AU  - Berendt, B
+A1  - ASSOC COMPUTAT LINGUIST
+TI  - Measuring Fairness with Biased Rulers: A Comparative Study on Bias Metrics for Pre-trained Language Models
+T2  - NAACL 2022: THE 2022 CONFERENCE OF THE NORTH AMERICAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS: HUMAN LANGUAGE TECHNOLOGIES
+CP  - Conference of the North-American-Chapter-of-the-Association-for-Computational-Linguistics (NAAACL) - Human Language Technologies
+SN  - 978-1-955917-71-1
+PY  - 2022
+SP  - 1693
+EP  - 1706
+DO  - 10.18653/v1/2022.naacl-main.122
+AN  - WOS:000859869501057
+ER  -
+
+TY  - JOUR
+AU  - Paci, S
+TI  - Is Research Safe in the AI Revolution? LLMs Fall Short of Expert Benchmarks in Scientific Evidence Evaluation
+T2  - CHINESE POLITICAL SCIENCE REVIEW
+SN  - 2365-4244
+SN  - 2365-4252
+DA  - 2026 FEB 28
+PY  - 2026
+DO  - 10.1007/s41111-026-00335-4
+C6  - FEB 2026
+AN  - WOS:001702203800001
+ER  -
+
+TY  - JOUR
+AU  - Nawara, D
+AU  - Kashef, R
+TI  - A Comprehensive Survey on LLM-Powered Recommender Systems: From Discriminative, Generative to Multi-Modal Paradigms
+T2  - IEEE ACCESS
+SN  - 2169-3536
+PY  - 2025
+VL  - 13
+SP  - 145772
+EP  - 145798
+DO  - 10.1109/ACCESS.2025.3599832
+AN  - WOS:001556087800012
+ER  -
+
+TY  - CPAPER
+AU  - Arabzadeh, N
+AU  - Clarke, CLA
+A1  - ACM
+TI  - Benchmarking LLM-based Relevance Judgment Methods
+T2  - PROCEEDINGS OF THE 48TH INTERNATIONAL ACM SIGIR CONFERENCE ON RESEARCH AND DEVELOPMENT IN INFORMATION RETRIEVAL, SIGIR 2025
+CP  - 48th Conference on Research and Development in Information Retrieval-RDIR
+SN  - 979-8-4007-1592-1
+PY  - 2025
+SP  - 3194
+EP  - 3204
+DO  - 10.1145/3726302.3730305
+AN  - WOS:001587983900366
+ER  -
+
+TY  - CPAPER
+AU  - Tjuatja, L
+AU  - Neubig, G
+AU  - Linzen, T
+AU  - Hao, S
+ED  - Ritter, A
+ED  - Chiruzzo, L
+ED  - Wang, L
+TI  - What Goes Into a LM Acceptability Judgment? Rethinking the Impact of Frequency and Length
+T2  - PROCEEDINGS OF THE 2025 CONFERENCE OF THE NATIONS OF THE AMERICAS CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS: HUMAN LANGUAGE TECHNOLOGIES, VOL 1: LONG PAPERS
+CP  - 2025 Conference of the North American Chapter of the Association for Computational Linguistics-NAACL
+SN  - 979-8-89176-189-6
+PY  - 2025
+SP  - 2173
+EP  - 2186
+AN  - WOS:001598852000109
+ER  -
+
+TY  - JOUR
+AU  - Zhou, CY
+AU  - Talmi, D
+AU  - Daw, ND
+AU  - Mattar, MG
+TI  - Episodic Retrieval for Model-Based Evaluation in Sequential Decision Tasks
+T2  - PSYCHOLOGICAL REVIEW
+SN  - 0033-295X
+SN  - 1939-1471
+DA  - JAN
+PY  - 2025
+VL  - 132
+IS  - 1
+SP  - 18
+EP  - 49
+DO  - 10.1037/rev0000505
+C6  - DEC 2024
+AN  - WOS:001385562400001
+ER  -
+
+TY  - JOUR
+AU  - Xiao, HM
+AU  - Lu, YF
+AU  - Huang, FF
+AU  - Li, SY
+AU  - Liao, JH
+TI  - Construction of the medical virtual teaching and research office evaluation system in China based on the context, input, process, product model: a Delphi study
+T2  - BMC MEDICAL EDUCATION
+SN  - 1472-6920
+DA  - NOV 18
+PY  - 2024
+VL  - 24
+IS  - 1
+C7  - 1322
+DO  - 10.1186/s12909-024-06312-2
+AN  - WOS:001358854200004
+ER  -
+
+TY  - JOUR
+AU  - Bosheah, Z
+AU  - Bilicki, V
+TI  - Challenges in Generating Accurate Text in Images: A Benchmark for Text-to-Image Models on Specialized Content
+T2  - APPLIED SCIENCES-BASEL
+SN  - 2076-3417
+DA  - MAR
+PY  - 2025
+VL  - 15
+IS  - 5
+C7  - 2274
+DO  - 10.3390/app15052274
+AN  - WOS:001442338700001
+ER  -
+
+TY  - CPAPER
+AU  - Yang, CX
+AU  - Yuan, JL
+AU  - Cai, SQ
+AU  - Jiang, JW
+AU  - Hu, C
+A1  - ACM
+TI  - Heaven-Sent or Hell-Bent? Benchmarking the Intelligence and Defectiveness of LLM Hallucinations
+T2  - PROCEEDINGS OF THE 32ND ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING VOL 1, KDD 2026
+CP  - 32nd International Conference on Knowledge Discovery and Data Mining-KDD
+SN  - 979-8-4007-2258-5
+PY  - 2026
+SP  - 2830
+EP  - 2841
+DO  - 10.1145/3770854.3785704
+AN  - WOS:001783169400244
+ER  -
+
+TY  - JOUR
+AU  - Minichmayr, IK
+AU  - Plan, EL
+AU  - Weber, B
+AU  - Ueckert, S
+TI  - A Model-Based Evaluation of Noninvasive Biomarkers to Reflect Histological Nonalcoholic Fatty Liver Disease Scores
+T2  - PHARMACEUTICAL RESEARCH
+SN  - 0724-8741
+SN  - 1573-904X
+DA  - JAN
+PY  - 2025
+VL  - 42
+IS  - 1
+SP  - 123
+EP  - 135
+DO  - 10.1007/s11095-024-03791-2
+C6  - DEC 2024
+AN  - WOS:001380444500001
+ER  -
+
+TY  - JOUR
+AU  - Shen, YC
+AU  - Wu, JL
+AU  - Zhang, YK
+AU  - Yan, LY
+AU  - Yin, DW
+AU  - Cao, M
+AU  - Ye, M
+TI  - Beyond action units: Towards multi-cue facial emotion analysis
+T2  - PATTERN RECOGNITION
+SN  - 0031-3203
+SN  - 1873-5142
+DA  - NOV
+PY  - 2026
+VL  - 179
+C7  - 113519
+DO  - 10.1016/j.patcog.2026.113519
+AN  - WOS:001730498800001
+ER  -
+
+TY  - JOUR
+AU  - Owczarek, W
+AU  - Wróbel, J
+AU  - Peszor, D
+TI  - Knowledge-Driven Generative Design of Role-Playing Game Scenarios
+T2  - APPLIED SCIENCES-BASEL
+SN  - 2076-3417
+DA  - MAR 19
+PY  - 2026
+VL  - 16
+IS  - 6
+C7  - 2966
+DO  - 10.3390/app16062966
+AN  - WOS:001725052700001
+ER  -
+
+TY  - JOUR
+AU  - Ji, H
+AU  - Aditya, K
+AU  - Escalante, S
+AU  - Qiu, YJ
+TI  - CodeGen-3D: A Benchmark for Evaluating LLMs in Zero-Shot and Iterative 3D Modeling in Blender
+T2  - IEEE ACCESS
+SN  - 2169-3536
+PY  - 2026
+VL  - 14
+SP  - 18181
+EP  - 18192
+DO  - 10.1109/ACCESS.2026.3654948
+AN  - WOS:001682702600050
+ER  -
+
+TY  - JOUR
+AU  - Katalshov, D
+AU  - Shvetsova, O
+AU  - Lee, SK
+AU  - Koltun, S
+TI  - Decoupling Intelligence from Governance: A Dynamic Bilateral Architecture for Real-Time Enterprise AI Compliance
+T2  - ELECTRONICS
+SN  - 2079-9292
+DA  - MAY 15
+PY  - 2026
+VL  - 15
+IS  - 10
+C7  - 2125
+DO  - 10.3390/electronics15102125
+C6  - MAY 2026
+AN  - WOS:001774452800001
+ER  -
+
+TY  - JOUR
+AU  - Schiezaro, M
+AU  - Rosa, G
+AU  - Campos, BAG
+AU  - Pedrini, H
+TI  - Guardians of the data: NER and LLMs for effective medical record anonymization in Brazilian Portuguese
+T2  - FRONTIERS IN PUBLIC HEALTH
+SN  - 2296-2565
+DA  - JAN 5
+PY  - 2026
+VL  - 13
+C7  - 1717303
+DO  - 10.3389/fpubh.2025.1717303
+AN  - WOS:001664145600001
+ER  -
+
+TY  - JOUR
+AU  - Khoruzhaya, AN
+AU  - Varyukhina, MD
+AU  - Erizhokov, RA
+AU  - Blokhin, IA
+AU  - Reshetnikov, RV
+AU  - Kodenko, MR
+AU  - Pamova, AP
+AU  - Burtsev, TA
+AU  - Arzamasov, KM
+AU  - Omelyanskaya, OV
+AU  - Vladzymyrskyy, AV
+AU  - Vasilev, YA
+TI  - MEDAI-LLM-SUMM: a reporting checklist for medical text summarization studies using large language models
+T2  - FRONTIERS IN DIGITAL HEALTH
+SN  - 2673-253X
+DA  - MAR 2
+PY  - 2026
+VL  - 8
+C7  - 1761601
+DO  - 10.3389/fdgth.2026.1761601
+AN  - WOS:001715836100001
+ER  -
+
+TY  - CPAPER
+AU  - Liu, YX
+AU  - Shi, KJ
+AU  - Fabbri, AR
+AU  - Zhao, YL
+AU  - Wang, PF
+AU  - Wu, CS
+AU  - Joty, S
+AU  - Cohan, A
+A1  - Ritter, A
+ED  - Chiruzzo, L
+ED  - Wang, L
+TI  - REIFE: Re-evaluating Instruction-Following Evaluation
+T2  - PROCEEDINGS OF THE 2025 CONFERENCE OF THE NATIONS OF THE AMERICAS CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS: HUMAN LANGUAGE TECHNOLOGIES, VOL 1: LONG PAPERS
+CP  - 2025 Conference of the North American Chapter of the Association for Computational Linguistics-NAACL
+SN  - 979-8-89176-189-6
+PY  - 2025
+SP  - 12247
+EP  - 12287
+AN  - WOS:001611654000291
+ER  -
+
+TY  - JOUR
+AU  - Titihazan, F
+AU  - Hajaj, T
+AU  - Novac, AC
+AU  - Pop, DM
+AU  - Sinescu, C
+AU  - Negrutiu, ML
+AU  - Romînu, M
+AU  - Zaharia, C
+TI  - Dental Preparation Guides-From CAD to PRINT and CAM
+T2  - ORAL-HEALTH DISEASES THERAPIES AND TECHNOLOGIES
+SN  - 2673-6373
+DA  - JAN 12
+PY  - 2026
+VL  - 6
+IS  - 1
+C7  - 12
+DO  - 10.3390/oral6010012
+AN  - WOS:001700995700001
+ER  -
+
+TY  - CPAPER
+AU  - Alaofi, M
+AU  - Thomas, P
+AU  - Scholer, F
+AU  - Sanderson, M
+A1  - ASSOC COMPUTING MACHINERY
+TI  - LLMs can be Fooled into Labelling a Document as Relevant best cafe near me; this paper is perfectly relevant
+T2  - PROCEEDINGS OF THE 2024 ANNUAL INTERNATIONAL ACM SIGIR CONFERENCE ON RESEARCH AND DEVELOPMENT IN INFORMATION RETRIEVAL IN THE ASIA PACIFIC REGION, SIGIR-AP 2024
+CP  - 2024 Annual International ACM SIGIR Conference on Research and Development in Information Retrieval in the Asia Pacific Region
+SN  - 979-8-4007-0724-7
+PY  - 2024
+SP  - 32
+EP  - 41
+DO  - 10.1145/3673791.3698431
+AN  - WOS:001443314600005
+ER  -
+
+TY  - JOUR
+AU  - Tjuatja, L
+AU  - Chen, V
+AU  - Wu, TS
+AU  - Talwalkwar, A
+AU  - Neubig, G
+TI  - Do LLMs Exhibit Human-like Response Biases? A Case Study in Survey Design
+T2  - TRANSACTIONS OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS
+SN  - 2307-387X
+DA  - SEP 4
+PY  - 2024
+VL  - 12
+SP  - 1011
+EP  - 1026
+DO  - 10.1162/tacl_a_00685
+AN  - WOS:001305660400002
+ER  -
+
+TY  - CPAPER
+AU  - Kwako, A
+AU  - Wan, YX
+AU  - Zhao, JY
+AU  - Chang, KW
+AU  - Cai, L
+AU  - Hansen, M
+ED  - Burstein, J
+ED  - Horbach, A
+ED  - Kochmar, E
+ED  - Laarmann-Quante, R
+ED  - Madnani, N
+ED  - Tack, A
+ED  - Yaneva, V
+ED  - Yuan, Z
+ED  - Zesch, T
+TI  - Does BERT Exacerbate Gender or L1 Biases in Automated English Speaking Assessment?
+T2  - PROCEEDINGS OF THE 18TH WORKSHOP ON INNOVATIVE USE OF NLP FOR BUILDING EDUCATIONAL APPLICATIONS, BEA 2023
+CP  - 18th Workshop on Innovative Use of NLP for Building Educational Applications-BEA
+SN  - 978-1-959429-80-7
+PY  - 2023
+SP  - 668
+EP  - 681
+AN  - WOS:001710931500055
+ER  -
+
+TY  - JOUR
+AU  - Sun, SN
+AU  - Chen, YY
+AU  - Wang, AL
+AU  - Liu, XJ
+TI  - An Evaluation Model of Carbon Emission Reduction Effect of Prefabricated Buildings Based on Cloud Model from the Perspective of Construction Supply Chain
+T2  - BUILDINGS
+SN  - 2075-5309
+DA  - OCT
+PY  - 2022
+VL  - 12
+IS  - 10
+C7  - 1534
+DO  - 10.3390/buildings12101534
+AN  - WOS:000874279200001
+ER  -
+
+TY  - CPAPER
+AU  - Wu, TS
+AU  - Ribeiro, MT
+AU  - Heer, J
+AU  - Weld, DS
+A1  - ACL
+ED  - Korhonen, A
+ED  - Traum, D
+ED  - Marquez, L
+TI  - Errudite: Scalable, Reproducible, and Testable Error Analysis
+T2  - 57TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2019)
+CP  - 57th Annual Meeting of the Association-for-Computational-Linguistics (ACL)
+SN  - 978-1-950737-48-2
+PY  - 2019
+SP  - 747
+EP  - 763
+AN  - WOS:000493046101026
+ER  -
+
+TY  - JOUR
+AU  - Goodman, SN
+AU  - Fanelli, D
+AU  - Ioannidis, JPA
+TI  - What does research reproducibility mean?
+T2  - SCIENCE TRANSLATIONAL MEDICINE
+SN  - 1946-6234
+SN  - 1946-6242
+DA  - JUN 1
+PY  - 2016
+VL  - 8
+IS  - 341
+C7  - 341ps12
+DO  - 10.1126/scitranslmed.aaf5027
+AN  - WOS:000377443000001
+ER  -
+
+TY  - JOUR
+AU  - Kobayashi, M
+AU  - Mita, M
+AU  - Komachi, M
+TI  - Revisiting Meta-evaluation for Grammatical Error Correction
+T2  - TRANSACTIONS OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS
+SN  - 2307-387X
+DA  - JUL 15
+PY  - 2024
+VL  - 12
+SP  - 837
+EP  - 855
+DO  - 10.1162/tacl_a_00676
+AN  - WOS:001271217900002
+ER  -
+
+TY  - JOUR
+AU  - Modak, S
+AU  - Raheman, H
+TI  - Model Based Evaluation and Validation of High-Speed Cutting System for Paddy Crop Using Combine Harvester
+T2  - JOURNAL OF BIOSYSTEMS ENGINEERING
+SN  - 1738-1266
+SN  - 2234-1862
+DA  - MAR
+PY  - 2023
+VL  - 48
+IS  - 1
+SP  - 13
+EP  - 25
+DO  - 10.1007/s42853-022-00168-4
+AN  - WOS:001210973500009
+ER  -
+
+TY  - JOUR
+AU  - Barrett, P
+TI  - Structural equation modelling: Adjudging model fit
+T2  - PERSONALITY AND INDIVIDUAL DIFFERENCES
+SN  - 0191-8869
+SN  - 1873-3549
+DA  - MAY
+PY  - 2007
+VL  - 42
+IS  - 5
+SP  - 815
+EP  - 824
+DO  - 10.1016/j.paid.2006.09.018
+AN  - WOS:000245028700002
+ER  -
+
+TY  - JOUR
+AU  - Silvey, C
+AU  - Dienes, Z
+AU  - Wonnacott, E
+TI  - Bayes Factors for Logistic (Mixed-Effect) Models
+T2  - PSYCHOLOGICAL METHODS
+SN  - 1082-989X
+SN  - 1939-1463
+DA  - 2024 DEC 12
+PY  - 2024
+DO  - 10.1037/met0000714
+C6  - DEC 2024
+AN  - WOS:001375665600001
+ER  -
+
+TY  - JOUR
+AU  - Hancock, PA
+AU  - Volante, WG
+TI  - Quantifying the qualities of language
+T2  - PLOS ONE
+SN  - 1932-6203
+DA  - MAY 5
+PY  - 2020
+VL  - 15
+IS  - 5
+C7  - e0232198
+DO  - 10.1371/journal.pone.0232198
+AN  - WOS:000537280000019
+ER  -
+
+TY  - CPAPER
+AU  - Mahaut, M
+AU  - Aina, L
+AU  - Czarnowska, P
+AU  - Hardalov, M
+AU  - Müller, T
+AU  - Màrquez, L
+ED  - Ku, LW
+ED  - Martins, A
+ED  - Srikumar, V
+TI  - Factual Confidence of LLMs: on Reliability and Robustness of Current Estimators
+T2  - PROCEEDINGS OF THE 62ND ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, VOL 1: LONG PAPERS
+CP  - 62nd Annual Meeting of the Association-for-Computational-Linguistics (ACL) / Student Research Workshop (SRW)
+SN  - 979-8-89176-094-3
+PY  - 2024
+SP  - 4554
+EP  - 4570
+AN  - WOS:001356729804039
+ER  -
+
+TY  - CPAPER
+AU  - Jiao, T
+AU  - Zhang, J
+AU  - Xu, K
+AU  - Li, R
+AU  - Du, X
+AU  - Wang, SQ
+AU  - Song, ZB
+ED  - Batarseh, FA
+ED  - Stein, F
+TI  - Enhancing Fairness in LLM Evaluations: Unveiling and Mitigating Biases in Standard-Answer-Based Evaluations
+T2  - PROCEEDINGS OF THE 2024 AAAI FALL SYMPOSIA, VOL 4 NO 1
+CP  - 2024 AAAI Fall Symposium Series
+SN  - 2994-4317
+SN  - 978-1-57735-894-7
+PY  - 2024
+SP  - 56
+EP  - 59
+AN  - WOS:001784473000008
+ER  -
+
+TY  - JOUR
+AU  - Pek, J
+AU  - Flora, DB
+TI  - Reporting Effect Sizes in Original Psychological Research: A Discussion and Tutorial
+T2  - PSYCHOLOGICAL METHODS
+SN  - 1082-989X
+SN  - 1939-1463
+DA  - JUN
+PY  - 2018
+VL  - 23
+IS  - 2
+SP  - 208
+EP  - 225
+DO  - 10.1037/met0000126
+AN  - WOS:000433151200002
+ER  -
+
+TY  - CPAPER
+AU  - Durmus, E
+AU  - Cardie, C
+A1  - ACL
+ED  - Korhonen, A
+ED  - Traum, D
+ED  - Marquez, L
+TI  - A Corpus for Modeling User and Language Effects in Argumentation on Online Debating
+T2  - 57TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2019)
+CP  - 57th Annual Meeting of the Association-for-Computational-Linguistics (ACL)
+SN  - 978-1-950737-48-2
+PY  - 2019
+SP  - 602
+EP  - 607
+AN  - WOS:000493046101010
+ER  -
+
+TY  - JOUR
+AU  - Hommel, BE
+TI  - Expanding the methodological toolbox: Machine-based item desirability ratings as an alternative to human-based ratings
+T2  - PERSONALITY AND INDIVIDUAL DIFFERENCES
+SN  - 0191-8869
+SN  - 1873-3549
+DA  - OCT
+PY  - 2023
+VL  - 213
+C7  - 112307
+DO  - 10.1016/j.paid.2023.112307
+C6  - JUN 2023
+AN  - WOS:001035407700001
+ER  -
+
+TY  - JOUR
+AU  - Losina, E
+AU  - Usiskin, IM
+AU  - Smith, SR
+AU  - Sullivan, JK
+AU  - Smith, KC
+AU  - Hunter, DJ
+AU  - Messier, SP
+AU  - Paltiel, AD
+AU  - Katz, JN
+TI  - Cost-effectiveness of generic celecoxib in knee osteoarthritis for average-risk patients: a model-based evaluation
+T2  - OSTEOARTHRITIS AND CARTILAGE
+SN  - 1063-4584
+SN  - 1522-9653
+DA  - MAY
+PY  - 2018
+VL  - 26
+IS  - 5
+SP  - 641
+EP  - 650
+DO  - 10.1016/j.joca.2018.02.898
+AN  - WOS:000431277500005
+ER  -
+
+TY  - JOUR
+AU  - Medo, M
+AU  - Cimini, G
+TI  - Model-based evaluation of scientific impact indicators
+T2  - PHYSICAL REVIEW E
+SN  - 2470-0045
+SN  - 2470-0053
+DA  - SEP 16
+PY  - 2016
+VL  - 94
+IS  - 3
+C7  - 032312
+DO  - 10.1103/PhysRevE.94.032312
+AN  - WOS:000383342700004
+ER  -
+
+TY  - CPAPER
+AU  - Wang, LZ
+AU  - Zhang, ZC
+AU  - Chen, M
+AU  - Xie, JY
+AU  - Liu, FY
+AU  - Yuan, H
+AU  - Xiang, ZY
+AU  - Yu, LY
+A1  - AMER SOC MECHANICAL ENGINEERS
+TI  - MACHINE LEARNING-BASED FATIGUE LIFE EVALUATION OF THE PUMP SPINDLE ASSEMBLY WITH PARAMETRIZED GEOMETRY
+T2  - PROCEEDINGS OF ASME 2023 INTERNATIONAL MECHANICAL ENGINEERING CONGRESS AND EXPOSITION, IMECE2023, VOL 11
+CP  - ASME International Mechanical Engineering Congress and Exposition (IMECE)
+SN  - 978-0-7918-8768-4
+PY  - 2023
+AN  - WOS:001216767900022
+ER  -
+
+TY  - JOUR
+AU  - Cao, ZJ
+AU  - Chen, Y
+AU  - Wang, SM
+TI  - Health belief model based evaluation of school health education programme for injury prevention among high school students in the community context
+T2  - BMC PUBLIC HEALTH
+SN  - 1471-2458
+DA  - JAN 10
+PY  - 2014
+VL  - 14
+C7  - 26
+DO  - 10.1186/1471-2458-14-26
+AN  - WOS:000331290000001
+ER  -
+
+TY  - CPAPER
+AU  - Liu, SY
+AU  - Sabour, S
+AU  - Zheng, YH
+AU  - Ke, P
+AU  - Zhu, XY
+AU  - Huang, ML
+A1  - Assoc Computa Linguist
+TI  - Rethinking and Refining the Distinct Metric
+T2  - PROCEEDINGS OF THE 60TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2022): (SHORT PAPERS), VOL 2
+CP  - 60th Annual Meeting of the Association-for-Computational-Linguistics (ACL)
+SN  - 978-1-955917-22-3
+PY  - 2022
+SP  - 762
+EP  - 770
+AN  - WOS:000828732800086
+ER  -
+
+TY  - CPAPER
+AU  - Zhang, SJ
+AU  - Gong, CY
+AU  - Choi, E
+ED  - Xia, F
+ED  - Zong, C
+ED  - Li, W
+ED  - Navigli, R
+TI  - Knowing More About Questions Can Help: Improving Calibration in Question Answering
+T2  - FINDINGS OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, ACL-IJCNLP 2021
+CP  - Joint Conference of 59th Annual Meeting of the Association-for-Computational-Linguistics (ACL) / 11th International Joint Conference on Natural Language Processing (IJCNLP) / 6th Workshop on Representation Learning for NLP (RepL4NLP)
+SN  - 978-1-954085-54-1
+PY  - 2021
+SP  - 1958
+EP  - 1970
+AN  - WOS:001181734700082
+ER  -
+
+TY  - JOUR
+AU  - Hollis, G
+TI  - Scoring best-worst data in unbalanced many-item designs, with applications to crowdsourcing semantic judgments
+T2  - BEHAVIOR RESEARCH METHODS
+SN  - 1554-351X
+SN  - 1554-3528
+DA  - APR
+PY  - 2018
+VL  - 50
+IS  - 2
+SP  - 711
+EP  - 729
+DO  - 10.3758/s13428-017-0898-2
+AN  - WOS:000429033600018
+ER  -
+
+TY  - JOUR
+AU  - Pankratz, E
+AU  - Van Tiel, B
+TI  - The role of relevance for scalar diversity: a usage-based approach
+T2  - LANGUAGE AND COGNITION
+SN  - 1866-9808
+SN  - 1866-9859
+DA  - DEC
+PY  - 2021
+VL  - 13
+IS  - 4
+SP  - 562
+EP  - 594
+C7  - PII S1866980821000132
+DO  - 10.1017/langcog.2021.13
+AN  - WOS:000757481400003
+ER  -
+
+TY  - JOUR
+AU  - Rocklage, MD
+AU  - Fazio, RH
+TI  - The Evaluative Lexicon: Adjective use as a means of assessing and distinguishing attitude valence, extremity, and emotionality
+T2  - JOURNAL OF EXPERIMENTAL SOCIAL PSYCHOLOGY
+SN  - 0022-1031
+SN  - 1096-0465
+DA  - JAN
+PY  - 2015
+VL  - 56
+SP  - 214
+EP  - 227
+DO  - 10.1016/j.jesp.2014.10.005
+AN  - WOS:000347770600029
+ER  -
+
+TY  - JOUR
+AU  - Szilágyi, B
+TI  - Modeling and analysis of MSMPR cascades involving nucleation, growth and agglomeration mechanisms with slurry recycling
+T2  - CHEMICAL ENGINEERING RESEARCH & DESIGN
+SN  - 0263-8762
+SN  - 1744-3563
+DA  - OCT
+PY  - 2021
+VL  - 174
+SP  - 42
+EP  - 56
+DO  - 10.1016/j.cherd.2021.07.029
+C6  - AUG 2021
+AN  - WOS:000704408300005
+ER  -
+
+TY  - JOUR
+AU  - Brun, M
+AU  - Sima, C
+AU  - Hua, JP
+AU  - Lowey, J
+AU  - Carroll, B
+AU  - Suh, E
+AU  - Dougherty, ER
+TI  - Model-based evaluation of clustering validation measures
+T2  - PATTERN RECOGNITION
+SN  - 0031-3203
+SN  - 1873-5142
+DA  - MAR
+PY  - 2007
+VL  - 40
+IS  - 3
+SP  - 807
+EP  - 824
+DO  - 10.1016/j.patcog.2006.06.026
+AN  - WOS:000242684100004
+ER  -
+
+TY  - JOUR
+AU  - Juslin, P
+AU  - Winman, A
+AU  - Hansson, P
+TI  - The naive intuitive statistician:: a naive sampling model of intuitive confidence intervals
+T2  - PSYCHOLOGICAL REVIEW
+SN  - 0033-295X
+SN  - 1939-1471
+DA  - JUL
+PY  - 2007
+VL  - 114
+IS  - 3
+SP  - 678
+EP  - 703
+DO  - 10.1037/0033-295X.114.3.678
+AN  - WOS:000247855400007
+ER  -
+
+TY  - JOUR
+AU  - Hollis, G
+TI  - The role of number of items per trial in best-worst scaling experiments
+T2  - BEHAVIOR RESEARCH METHODS
+SN  - 1554-351X
+SN  - 1554-3528
+DA  - APR
+PY  - 2020
+VL  - 52
+IS  - 2
+SP  - 694
+EP  - 722
+DO  - 10.3758/s13428-019-01270-w
+AN  - WOS:000524956600017
+ER  -
+
+TY  - JOUR
+AU  - Kerr, KF
+AU  - McClelland, RL
+AU  - Brown, ER
+AU  - Lumley, T
+TI  - Evaluating the Incremental Value of New Biomarkers With Integrated Discrimination Improvement
+T2  - AMERICAN JOURNAL OF EPIDEMIOLOGY
+SN  - 0002-9262
+SN  - 1476-6256
+DA  - AUG 1
+PY  - 2011
+VL  - 174
+IS  - 3
+SP  - 364
+EP  - 374
+DO  - 10.1093/aje/kwr086
+AN  - WOS:000293077600014
+ER  -
+
+TY  - CHAP
+AU  - Basile, D
+AU  - Di Giandomenico, F
+AU  - Gnesi, S
+ED  - Kharchenko, V
+ED  - Kondratenko, Y
+ED  - Kacprzyk, J
+TI  - Model-Based Evaluation of Energy Saving Systems
+T2  - GREEN IT ENGINEERING: CONCEPTS, MODELS, COMPLEX SYSTEMS ARCHITECTURES
+SN  - 2198-4182
+SN  - 2198-4190
+SN  - 978-3-319-44162-7
+SN  - 978-3-319-44161-0
+PY  - 2017
+VL  - 74
+SP  - 187
+EP  - 208
+DO  - 10.1007/978-3-319-44162-7_10
+DO  - 10.1007/978-3-319-44162-7
+AN  - WOS:000398938600011
+ER  -
+
+TY  - JOUR
+AU  - Trippas, D
+AU  - Kellen, D
+AU  - Singmann, H
+AU  - Pennycook, G
+AU  - Koehler, DJ
+AU  - Fugelsang, JA
+AU  - Dubé, C
+TI  - Characterizing belief bias in syllogistic reasoning: A hierarchical Bayesian meta-analysis of ROC data
+T2  - PSYCHONOMIC BULLETIN & REVIEW
+SN  - 1069-9384
+SN  - 1531-5320
+DA  - DEC
+PY  - 2018
+VL  - 25
+IS  - 6
+SP  - 2141
+EP  - 2174
+DO  - 10.3758/s13423-018-1460-7
+AN  - WOS:000451467600011
+ER  -
+
+TY  - JOUR
+AU  - Mahowald, K
+AU  - Graff, P
+AU  - Hartman, J
+AU  - Gibson, E
+TI  - SNAP JUDGMENTS: A SMALL N ACCEPTABILITY PARADIGM (SNAP) FOR LINGUISTIC ACCEPTABILITY JUDGMENTS
+T2  - LANGUAGE
+SN  - 0097-8507
+SN  - 1535-0665
+DA  - SEP
+PY  - 2016
+VL  - 92
+IS  - 3
+SP  - 619
+EP  - 635
+DO  - 10.1353/lan.2016.0052
+AN  - WOS:000382601600005
+ER  -
+
+TY  - CPAPER
+AU  - Li, JR
+AU  - Liu, LM
+AU  - Li, HY
+AU  - Li, GL
+AU  - Huang, GP
+AU  - Shi, SM
+A1  - Assoc Computat Linguist
+TI  - Evaluating Explanation Methods for Neural Machine Translation
+T2  - 58TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2020)
+CP  - 58th Annual Meeting of the Association-for-Computational-Linguistics (ACL)
+SN  - 978-1-952148-25-5
+PY  - 2020
+SP  - 365
+EP  - 375
+AN  - WOS:000570978200035
+ER  -
+
+TY  - CPAPER
+AU  - Zhang, F
+AU  - Jiaxin, O
+AU  - Liu, YQ
+AU  - Ma, WZ
+AU  - Zhang, M
+AU  - Ma, SP
+A1  - ACM
+TI  - Cascade or Recency: Constructing Better Evaluation Metrics for Session Search
+T2  - PROCEEDINGS OF THE 43RD INTERNATIONAL ACM SIGIR CONFERENCE ON RESEARCH AND DEVELOPMENT IN INFORMATION RETRIEVAL (SIGIR '20)
+CP  - 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)
+SN  - 978-1-4503-8016-4
+PY  - 2020
+SP  - 389
+EP  - 398
+DO  - 10.1145/3397271.3401163
+AN  - WOS:000722377700047
+ER  -
+
+TY  - JOUR
+AU  - Hontangas, PM
+AU  - Leenen, I
+AU  - de la Torre, J
+AU  - Ponsoda, V
+AU  - Morillo, D
+AU  - Abad, FJ
+TI  - Traditional scores versus IRT estimates on forced-choice tests based on a dominance model
+T2  - PSICOTHEMA
+SN  - 0214-9915
+SN  - 1886-144X
+DA  - FEB
+PY  - 2016
+VL  - 28
+IS  - 1
+SP  - 76
+EP  - 82
+DO  - 10.7334/psicothema2015.204
+AN  - WOS:000368312800012
+ER  -
+
+TY  - CPAPER
+AU  - Du, YP
+AU  - Fang, QX
+AU  - Nguyen, D
+A1  - Assoc Computat Linguist
+TI  - Assessing the Reliability of Word Embedding Gender Bias Measures
+T2  - 2021 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP 2021)
+CP  - Conference on Empirical Methods in Natural Language Processing (EMNLP)
+SN  - 978-1-955917-09-4
+PY  - 2021
+SP  - 10012
+EP  - 10034
+AN  - WOS:000860727004009
+ER  -
+
+TY  - JOUR
+AU  - Everaert, G
+AU  - Pauwels, IS
+AU  - Boets, P
+AU  - Verduin, E
+AU  - de la Haye, MAA
+AU  - Blom, C
+AU  - Goethals, PLM
+TI  - Model-based evaluation of ecological bank design and management in the scope of the European Water Framework Directive
+T2  - ECOLOGICAL ENGINEERING
+SN  - 0925-8574
+SN  - 1872-6992
+DA  - APR
+PY  - 2013
+VL  - 53
+SP  - 144
+EP  - 152
+DO  - 10.1016/j.ecoleng.2012.12.034
+AN  - WOS:000317158700020
+ER  -
+
+TY  - JOUR
+AU  - Wojciechowski, J
+AU  - Wiese, MD
+AU  - Proudman, SM
+AU  - Foster, DJR
+AU  - Upton, RN
+TI  - A model-based evaluation of single metrics for discriminating changes in rheumatoid arthritis disease activity
+T2  - BRITISH JOURNAL OF CLINICAL PHARMACOLOGY
+SN  - 0306-5251
+SN  - 1365-2125
+DA  - JUN
+PY  - 2016
+VL  - 81
+IS  - 6
+SP  - 1046
+EP  - 1057
+DO  - 10.1111/bcp.12891
+AN  - WOS:000382508500006
+ER  -
+
+TY  - CPAPER
+AU  - Guo, XB
+AU  - Vosoughi, S
+ED  - Bouamor, H
+ED  - Pino, J
+ED  - Bali, K
+TI  - Length Does Matter: Summary Length can Bias Summarization Metrics
+T2  - 2023 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP 2023)
+CP  - Conference on Empirical Methods in Natural Language Processing (EMNLP)
+SN  - 979-8-89176-060-8
+PY  - 2023
+SP  - 15869
+EP  - 15879
+AN  - WOS:001378237107039
+ER  -
+
+TY  - JOUR
+AU  - Roloff, V
+AU  - Higgins, JPT
+AU  - Sutton, AJ
+TI  - Planning future studies based on the conditional power of a meta-analysis
+T2  - STATISTICS IN MEDICINE
+SN  - 0277-6715
+SN  - 1097-0258
+DA  - JAN 15
+PY  - 2013
+VL  - 32
+IS  - 1
+SP  - 11
+EP  - 24
+DO  - 10.1002/sim.5524
+AN  - WOS:000312481400002
+ER  -
+
+TY  - JOUR
+AU  - Karahan, Ö
+AU  - Dogruel, S
+AU  - Dulekgurgen, E
+AU  - Orhon, D
+TI  - COD fractionation of tannery wastewaters - Particle size distribution, biodegradability and modeling
+T2  - WATER RESEARCH
+SN  - 0043-1354
+SN  - 1879-2448
+DA  - FEB
+PY  - 2008
+VL  - 42
+IS  - 4-5
+SP  - 1083
+EP  - 1092
+DO  - 10.1016/j.watres.2007.10.001
+AN  - WOS:000254111000026
+ER  -
+
+TY  - JOUR
+AU  - Parker, WS
+TI  - Getting (even more) serious about similarity
+T2  - BIOLOGY & PHILOSOPHY
+SN  - 0169-3867
+SN  - 1572-8404
+DA  - MAR
+PY  - 2015
+VL  - 30
+IS  - 2
+SP  - 267
+EP  - 276
+DO  - 10.1007/s10539-013-9406-y
+AN  - WOS:000351153900007
+ER  -
+
+TY  - JOUR
+AU  - Eivazzadeh, S
+AU  - Anderberg, P
+AU  - Larsson, TC
+AU  - Fricker, SA
+AU  - Berglund, J
+TI  - Evaluating Health Information Systems Using Ontologies
+T2  - JMIR MEDICAL INFORMATICS
+SN  - 2291-9694
+DA  - APR-JUN
+PY  - 2016
+VL  - 4
+IS  - 2
+SP  - 103
+EP  - 115
+DO  - 10.2196/medinform.5185
+AN  - WOS:000387986800010
+ER  -
+
+TY  - JOUR
+AU  - Maydeu-Olivares, A
+AU  - Brown, A
+TI  - Item Response Modeling of Paired Comparison and Ranking Data
+T2  - MULTIVARIATE BEHAVIORAL RESEARCH
+SN  - 0027-3171
+PY  - 2010
+VL  - 45
+IS  - 6
+SP  - 935
+EP  - 974
+C7  - PII 931419264
+DO  - 10.1080/00273171.2010.531231
+AN  - WOS:000285516900003
+ER  -
+
+TY  - JOUR
+AU  - Hu, TF
+AU  - Mao, JQ
+AU  - Zhang, PP
+AU  - Xu, DD
+AU  - Chen, WY
+AU  - Dai, HC
+TI  - Hydrological utilization of satellite precipitation estimates in a data-scarce lake region
+T2  - WATER SCIENCE AND TECHNOLOGY-WATER SUPPLY
+SN  - 1606-9749
+DA  - OCT
+PY  - 2018
+VL  - 18
+IS  - 5
+SP  - 1581
+EP  - 1589
+DO  - 10.2166/ws.2017.223
+AN  - WOS:000445137100007
+ER  -
+
+TY  - JOUR
+AU  - Chiu, TW
+AU  - Camilli, G
+TI  - Comment on 3PL IRT Adjustment for Guessing
+T2  - APPLIED PSYCHOLOGICAL MEASUREMENT
+SN  - 0146-6216
+SN  - 1552-3497
+DA  - JAN
+PY  - 2013
+VL  - 37
+IS  - 1
+SP  - 76
+EP  - 86
+DO  - 10.1177/0146621612459369
+AN  - WOS:000311908000005
+ER  -
+
+TY  - JOUR
+AU  - Huang, SC
+AU  - Chou, IF
+AU  - Bias, RG
+TI  - Empirical Evaluation of a Popular Cellular Phone's Menu System: Theory Meets Practice
+T2  - JOURNAL OF USABILITY STUDIES
+SN  - 1931-3357
+DA  - FEB
+PY  - 2006
+VL  - 1
+IS  - 2
+SP  - 91
+EP  - 108
+AN  - WOS:000415514200004
+ER  -
+
+TY  - CPAPER
+AU  - Noda, M
+ED  - Karimi, IA
+ED  - Srinivasan, R
+TI  - Research Challenges in Alarm Management for Safe and Stable Plant Operations in Chemical Process Industries
+T2  - 11TH INTERNATIONAL SYMPOSIUM ON PROCESS SYSTEMS ENGINEERING, PTS A AND B
+CP  - 11th International Symposium on Process Systems Engineering (PSE)
+SN  - 1570-7946
+SN  - 978-0-444-59505-8
+PY  - 2012
+VL  - 31
+SP  - 107
+EP  - 114
+AN  - WOS:000316676100014
+ER  -
+
+TY  - JOUR
+AU  - Hultcrantz, M
+AU  - Schuenemann, HJ
+AU  - Mustafa, RA
+AU  - Rind, DM
+AU  - Murad, MH
+AU  - Mayer, M
+AU  - Tovey, D
+AU  - Alper, BS
+AU  - Akl, EA
+AU  - Saif-Ur-Rahman, KM
+AU  - Sousa-Pinto, B
+AU  - Neumann, I
+AU  - Izcovich, A
+AU  - Guyatt, G
+TI  - GRADE Certainty Ratings: Thresholds Rather Than Categories of Contextualization (GRADE Guidance 41)
+T2  - ANNALS OF INTERNAL MEDICINE
+SN  - 0003-4819
+SN  - 1539-3704
+DA  - AUG
+PY  - 2025
+VL  - 178
+IS  - 8
+SP  - 1183
+EP  - 1186
+DO  - 10.7326/ANNALS-25-00548
+C6  - JUL 2025
+AN  - WOS:001522099100001
+ER  -
+
+TY  - JOUR
+AU  - Gobin, M
+AU  - Gosnat, M
+AU  - Toure, S
+AU  - Faik, L
+AU  - Belafa, J
+AU  - de Torcy, AV
+AU  - Armstrong, F
+TI  - From data extraction to analysis: a comparative study of ELISE capabilities in scientific literature
+T2  - FRONTIERS IN ARTIFICIAL INTELLIGENCE
+SN  - 2624-8212
+DA  - MAY 12
+PY  - 2025
+VL  - 8
+C7  - 1587244
+DO  - 10.3389/frai.2025.1587244
+AN  - WOS:001494296200001
+ER  -
+
+TY  - CPAPER
+AU  - Vinogradov, V
+AU  - Vinogradova, A
+AU  - Radkevich, D
+AU  - Yasny, I
+AU  - Kobyzev, D
+AU  - Izmailov, I
+AU  - Yanchanka, K
+AU  - Doronichev, A
+ED  - Koenig, S
+ED  - Jenkins, C
+ED  - Taylor, ME
+TI  - LLM-Based Agents for Competitive Landscape Mapping in Drug Asset Due Diligence
+T2  - FORTIETH AAAI CONFERENCE ON ARTIFICIAL INTELLIGENCE, AAAI-26, VOL 40 NO 47
+CP  - 40th AAAI Conference on Artificial Intelligence
+SN  - 2159-5399
+SN  - 2374-3468
+PY  - 2026
+SP  - 40118
+EP  - 40127
+AN  - WOS:001769914400110
+ER  -
+
+TY  - JOUR
+AU  - Levine, J
+AU  - Riarh, G
+AU  - Green, JR
+TI  - Generative Simulation and Summarization of Neonatal Patient Data
+T2  - INFORMATION
+SN  - 2078-2489
+DA  - MAR 5
+PY  - 2026
+VL  - 17
+IS  - 3
+C7  - 261
+DO  - 10.3390/info17030261
+AN  - WOS:001725609500001
+ER  -
+
+TY  - JOUR
+AU  - Reich, Y
+TI  - What we have learned: reflections on eighteen years of editorship of research in engineering design
+T2  - RESEARCH IN ENGINEERING DESIGN
+SN  - 0934-9839
+SN  - 1435-6066
+DA  - FEB 13
+PY  - 2026
+VL  - 37
+IS  - 2
+C7  - 12
+DO  - 10.1007/s00163-026-00474-4
+AN  - WOS:001691233400001
+ER  -
+
+TY  - JOUR
+AU  - Kane, JV
+TI  - More than meets the ITT: A guide for anticipating and investigating nonsignificant results in survey experiments
+T2  - JOURNAL OF EXPERIMENTAL POLITICAL SCIENCE
+SN  - 2052-2630
+SN  - 2052-2649
+DA  - SPR
+PY  - 2025
+VL  - 12
+IS  - 1
+SP  - 110
+EP  - 125
+DO  - 10.1017/XPS.2024.1
+C6  - FEB 2024
+AN  - WOS:001165055700001
+ER  -
+
+TY  - JOUR
+AU  - Urban, J
+AU  - Scherrer, V
+AU  - Strobel, A
+AU  - Preckel, F
+TI  - Continuous Norming Approaches: A Systematic Review and Real Data Example
+T2  - ASSESSMENT
+SN  - 1073-1911
+SN  - 1552-3489
+DA  - JUL
+PY  - 2025
+VL  - 32
+IS  - 5
+SP  - 654
+EP  - 674
+DO  - 10.1177/10731911241260545
+C6  - JUL 2024
+AN  - WOS:001278024600001
+ER  -
+
+TY  - CHAP
+AU  - Podsakoff, PM
+AU  - MacKenzie, SB
+AU  - Podsakoff, NP
+ED  - Fiske, ST
+ED  - Schacter, DL
+ED  - Taylor, SE
+TI  - Sources of Method Bias in Social Science Research and Recommendations on How to Control It
+T2  - ANNUAL REVIEW OF PSYCHOLOGY, VOL 63
+SN  - 0066-4308
+SN  - 1545-2085
+SN  - 978-0-8243-0263-4
+PY  - 2012
+VL  - 63
+SP  - 539
+EP  - 569
+DO  - 10.1146/annurev-psych-120710-100452
+AN  - WOS:000299709900021
+ER  -
+
+TY  - JOUR
+AU  - Murad, MH
+AU  - Chu, HT
+AU  - Lin, LF
+AU  - Wang, Z
+TI  - The effect of publication bias magnitude and direction on the certainty in evidence
+T2  - BMJ EVIDENCE-BASED MEDICINE
+SN  - 2515-446X
+SN  - 2515-4478
+DA  - JUN
+PY  - 2018
+VL  - 23
+IS  - 3
+SP  - 84
+EP  - 86
+DO  - 10.1136/bmjebm-2018-110891
+AN  - WOS:000596880000002
+ER  -
+
+TY  - JOUR
+AU  - Etz, A
+AU  - Vandekerckhove, J
+TI  - A Bayesian Perspective on the Reproducibility Project: Psychology
+T2  - PLOS ONE
+SN  - 1932-6203
+DA  - FEB 26
+PY  - 2016
+VL  - 11
+IS  - 2
+C7  - e0149794
+DO  - 10.1371/journal.pone.0149794
+AN  - WOS:000371274400046
+ER  -
+
+TY  - JOUR
+AU  - Mcclure, K
+AU  - Ammerman, BA
+AU  - Jacobucci, R
+TI  - On the Selection of Item Scores or Composite Scores for Clinical Prediction
+T2  - MULTIVARIATE BEHAVIORAL RESEARCH
+SN  - 0027-3171
+SN  - 1532-7906
+DA  - MAY 3
+PY  - 2024
+VL  - 59
+IS  - 3
+SP  - 566
+EP  - 583
+DO  - 10.1080/00273171.2023.2292598
+C6  - DEC 2023
+AN  - WOS:001171459400001
+ER  -
+
+TY  - JOUR
+AU  - Steinberg, ALS
+AU  - Hohenberger, C
+TI  - Can AI close the gender gap in the job market? Individuals' preferences for AI evaluations
+T2  - COMPUTERS IN HUMAN BEHAVIOR REPORTS
+SN  - 2451-9588
+DA  - MAY
+PY  - 2023
+VL  - 10
+C7  - 100287
+DO  - 10.1016/j.chbr.2023.100287
+C6  - APR 2023
+AN  - WOS:000988509800001
+ER  -
+
+TY  - JOUR
+AU  - Levy, JS
+TI  - Case studies: Types, designs, and logics of inference
+T2  - CONFLICT MANAGEMENT AND PEACE SCIENCE
+SN  - 0738-8942
+SN  - 1549-9219
+DA  - SPR
+PY  - 2008
+VL  - 25
+IS  - 1
+SP  - 1
+EP  - 18
+DO  - 10.1080/07388940701860318
+AN  - WOS:000255000900001
+ER  -
+
+TY  - JOUR
+AU  - Machery, E
+TI  - Anomalies in implicit attitudes research
+T2  - WILEY INTERDISCIPLINARY REVIEWS-COGNITIVE SCIENCE
+SN  - 1939-5078
+SN  - 1939-5086
+DA  - JAN
+PY  - 2022
+VL  - 13
+IS  - 1
+C7  - e1569
+DO  - 10.1002/wcs.1569
+C6  - JUN 2021
+AN  - WOS:000661612200001
+ER  -
+
+TY  - JOUR
+AU  - Dowdy, A
+AU  - Hantula, DA
+AU  - Travers, JC
+AU  - Tincani, M
+TI  - Meta-Analytic Methods to Detect Publication Bias in Behavior Science Research
+T2  - PERSPECTIVES ON BEHAVIOR SCIENCE
+SN  - 2520-8969
+SN  - 2520-8977
+DA  - MAR
+PY  - 2022
+VL  - 45
+IS  - 1
+SP  - 37
+EP  - 52
+DO  - 10.1007/s40614-021-00303-0
+C6  - JUL 2021
+AN  - WOS:000675358100002
+ER  -
+
+TY  - JOUR
+AU  - van Assen, MALM
+AU  - van Aert, RCM
+AU  - Wicherts, JM
+TI  - Meta-Analysis Using Effect Size Distributions of Only Statistically Significant Studies
+T2  - PSYCHOLOGICAL METHODS
+SN  - 1082-989X
+SN  - 1939-1463
+DA  - SEP
+PY  - 2015
+VL  - 20
+IS  - 3
+SP  - 293
+EP  - 309
+DO  - 10.1037/met0000025
+AN  - WOS:000361062800001
+ER  -
+
+TY  - JOUR
+AU  - Tsang, EWK
+TI  - Generalizing from Research Findings: The Merits of Case Studies
+T2  - INTERNATIONAL JOURNAL OF MANAGEMENT REVIEWS
+SN  - 1460-8545
+SN  - 1468-2370
+DA  - OCT
+PY  - 2014
+VL  - 16
+IS  - 4
+SP  - 369
+EP  - 383
+DO  - 10.1111/ijmr.12024
+AN  - WOS:000342820900001
+ER  -
+
+TY  - JOUR
+AU  - Vasishth, S
+AU  - Gelman, A
+TI  - How to embrace variation and accept uncertainty in linguistic and psycholinguistic data analysis
+T2  - LINGUISTICS
+SN  - 0024-3949
+SN  - 1613-396X
+PY  - 2021
+VL  - 59
+IS  - 5
+SP  - 1311
+EP  - 1342
+DO  - 10.1515/ling-2019-0051
+AN  - WOS:000697371400006
+ER  -
+
+TY  - JOUR
+AU  - Ioannidis, JPA
+TI  - Interpretation of tests of heterogeneity and bias in meta-analysis
+T2  - JOURNAL OF EVALUATION IN CLINICAL PRACTICE
+SN  - 1356-1294
+SN  - 1365-2753
+DA  - OCT
+PY  - 2008
+VL  - 14
+IS  - 5
+SP  - 951
+EP  - 957
+DO  - 10.1111/j.1365-2753.2008.00986.x
+AN  - WOS:000260544400050
+ER  -
+
+TY  - JOUR
+AU  - Brewin, CR
+TI  - Inaccuracy in the Scientific Record and Open Postpublication Critique
+T2  - PERSPECTIVES ON PSYCHOLOGICAL SCIENCE
+SN  - 1745-6916
+SN  - 1745-6924
+DA  - SEP
+PY  - 2023
+VL  - 18
+IS  - 5
+SP  - 1244
+EP  - 1253
+DO  - 10.1177/17456916221141357
+C6  - FEB 2023
+AN  - WOS:000928509100001
+ER  -
+
+TY  - CPAPER
+AU  - Masson, D
+AU  - Malacria, S
+AU  - Casiez, G
+AU  - Vogel, D
+A1  - ACM
+TI  - Statslator: Interactive Translation of NHST and Estimation Statistics Reporting Styles in Scientific Documents
+T2  - PROCEEDINGS OF THE 36TH ANNUAL ACM SYMPOSIUM ON USER INTERFACE SOFTWARE AND TECHNOLOGY, UIST 2023
+CP  - 36th Annual ACM Symposium on User Interface Software and Technology (UIST)
+SN  - 979-8-4007-0132-0
+PY  - 2023
+C7  - 91
+DO  - 10.1145/3586183.3606762
+AN  - WOS:001360355700091
+ER  -
+
+TY  - JOUR
+AU  - Dienes, Z
+TI  - Obtaining Evidence for No Effect
+T2  - COLLABRA-PSYCHOLOGY
+SN  - 2474-7394
+DA  - SEP 30
+PY  - 2021
+VL  - 7
+IS  - 1
+DO  - 10.1525/collabra.28202
+AN  - WOS:000711481100001
+ER  -
+
+TY  - JOUR
+AU  - Schweinsberg, M
+AU  - Thau, S
+AU  - Pillutla, M
+TI  - Research-Problem Validity in Primary Research: Precision and Transparency in Characterizing Past Knowledge
+T2  - PERSPECTIVES ON PSYCHOLOGICAL SCIENCE
+SN  - 1745-6916
+SN  - 1745-6924
+DA  - SEP
+PY  - 2023
+VL  - 18
+IS  - 5
+SP  - 1230
+EP  - 1243
+DO  - 10.1177/17456916221144990
+C6  - FEB 2023
+AN  - WOS:000928257400001
+ER  -
+
+TY  - JOUR
+AU  - Lesterhuis, M
+AU  - Bouwer, R
+AU  - van Daal, T
+AU  - Donche, V
+AU  - De Maeyer, S
+TI  - Validity of Comparative Judgment Scores: How Assessors Evaluate Aspects of Text Quality When Comparing Argumentative Texts
+T2  - FRONTIERS IN EDUCATION
+SN  - 2504-284X
+DA  - MAY 13
+PY  - 2022
+VL  - 7
+C7  - 823895
+DO  - 10.3389/feduc.2022.823895
+AN  - WOS:000802668900001
+ER  -
+
+TY  - JOUR
+AU  - Froseth, GT
+AU  - Ronnquist, A
+AU  - Cantero, D
+AU  - Oiseth, O
+TI  - Influence line extraction by deconvolution in the frequency domain
+T2  - COMPUTERS & STRUCTURES
+SN  - 0045-7949
+SN  - 1879-2243
+DA  - SEP
+PY  - 2017
+VL  - 189
+SP  - 21
+EP  - 30
+DO  - 10.1016/j.compstruc.2017.04.014
+AN  - WOS:000403738300003
+ER  -
+
+TY  - JOUR
+AU  - Kreitchmann, RS
+AU  - Sorrel, MA
+AU  - Abad, FJ
+TI  - On Bank Assembly and Block Selection in Multidimensional Forced-Choice Adaptive Assessments
+T2  - EDUCATIONAL AND PSYCHOLOGICAL MEASUREMENT
+SN  - 0013-1644
+SN  - 1552-3888
+DA  - APR
+PY  - 2023
+VL  - 83
+IS  - 2
+SP  - 294
+EP  - 321
+C7  - 00131644221087986
+DO  - 10.1177/00131644221087986
+C6  - APR 2022
+AN  - WOS:000789409100001
+ER  -
+
+TY  - JOUR
+AU  - Marquardt, KL
+AU  - Pemstein, D
+TI  - IRT Models for Expert-Coded Panel Data
+T2  - POLITICAL ANALYSIS
+SN  - 1047-1987
+SN  - 1476-4989
+DA  - OCT
+PY  - 2018
+VL  - 26
+IS  - 4
+SP  - 431
+EP  - 456
+DO  - 10.1017/pan.2018.28
+AN  - WOS:000446677500005
+ER  -
+
+TY  - JOUR
+AU  - Hollis, G
+AU  - Westbury, C
+TI  - When is best-worst best? A comparison of best-worst scaling, numeric estimation, and rating scales for collection of semantic norms
+T2  - BEHAVIOR RESEARCH METHODS
+SN  - 1554-351X
+SN  - 1554-3528
+DA  - FEB
+PY  - 2018
+VL  - 50
+IS  - 1
+SP  - 115
+EP  - 133
+DO  - 10.3758/s13428-017-1009-0
+AN  - WOS:000424922400008
+ER  -
+
+TY  - JOUR
+AU  - Appelt, KC
+AU  - Milch, KF
+AU  - Handgraaf, MJJ
+AU  - Weber, EU
+TI  - The Decision Making Individual Differences Inventory and guidelines for the study of individual differences in judgment and decision-making research
+T2  - JUDGMENT AND DECISION MAKING
+SN  - 1930-2975
+DA  - APR
+PY  - 2011
+VL  - 6
+IS  - 3
+SP  - 252
+EP  - 262
+AN  - WOS:000290025600007
+ER  -
+
+TY  - JOUR
+AU  - Laird, RD
+TI  - Analytical Challenges of Testing Hypotheses of Agreement and Discrepancy: Comment on Campione-Barr, Lindell, and Giron (2020)
+T2  - DEVELOPMENTAL PSYCHOLOGY
+SN  - 0012-1649
+SN  - 1939-0599
+DA  - MAY
+PY  - 2020
+VL  - 56
+IS  - 5
+SP  - 970
+EP  - 977
+DO  - 10.1037/dev0000763
+AN  - WOS:000525396600010
+ER  -
+
+TY  - JOUR
+AU  - Wertgen, AG
+AU  - Richter, T
+TI  - Source credibility modulates the validation of implausible information
+T2  - MEMORY & COGNITION
+SN  - 0090-502X
+SN  - 1532-5946
+DA  - NOV
+PY  - 2020
+VL  - 48
+IS  - 8
+SP  - 1359
+EP  - 1375
+DO  - 10.3758/s13421-020-01067-9
+C6  - JUL 2020
+AN  - WOS:000547248500002
+ER  -
+
+TY  - JOUR
+AU  - Sica, GT
+TI  - Bias in research studies
+T2  - RADIOLOGY
+SN  - 0033-8419
+DA  - MAR
+PY  - 2006
+VL  - 238
+IS  - 3
+SP  - 780
+EP  - 789
+DO  - 10.1148/radiol.2383041109
+AN  - WOS:000235520100004
+ER  -
+
+TY  - JOUR
+AU  - Dieckmann, NF
+AU  - Johnson, BB
+TI  - Why do scientists disagree? Explaining and improving measures of the perceived causes of scientific disputes
+T2  - PLOS ONE
+SN  - 1932-6203
+DA  - FEB 7
+PY  - 2019
+VL  - 14
+IS  - 2
+C7  - e0211269
+DO  - 10.1371/journal.pone.0211269
+AN  - WOS:000458026000018
+ER  -
+
+TY  - JOUR
+AU  - Gollwitzer, M
+AU  - Schwabe, J
+TI  - Context Dependency as a Predictor of Replicability
+T2  - REVIEW OF GENERAL PSYCHOLOGY
+SN  - 1089-2680
+SN  - 1939-1552
+DA  - JUN
+PY  - 2022
+VL  - 26
+IS  - 2
+SP  - 241
+EP  - 249
+C7  - 10892680211015635
+DO  - 10.1177/10892680211015635
+C6  - JUL 2021
+AN  - WOS:000678617000001
+ER  -
+
+TY  - JOUR
+AU  - Goeman, JJ
+AU  - Solari, A
+TI  - Multiple Testing for Exploratory Research
+T2  - STATISTICAL SCIENCE
+SN  - 0883-4237
+DA  - NOV
+PY  - 2011
+VL  - 26
+IS  - 4
+SP  - 584
+EP  - 597
+AN  - WOS:000301562400008
+ER  -
+
+TY  - JOUR
+AU  - Masson, MEJ
+AU  - Rotello, CM
+TI  - Sources of Bias in the Goodman-Kruskal Gamma Coefficient Measure of Association: Implications for Studies of Metacognitive Processes
+T2  - JOURNAL OF EXPERIMENTAL PSYCHOLOGY-LEARNING MEMORY AND COGNITION
+SN  - 0278-7393
+DA  - MAR
+PY  - 2009
+VL  - 35
+IS  - 2
+SP  - 509
+EP  - 527
+DO  - 10.1037/a0014876
+AN  - WOS:000263981500015
+ER  -
+
+TY  - JOUR
+AU  - Saylor, R
+TI  - Why Causal Mechanisms and Process Tracing Should Alter Case Selection Guidance
+T2  - SOCIOLOGICAL METHODS & RESEARCH
+SN  - 0049-1241
+SN  - 1552-8294
+DA  - NOV
+PY  - 2020
+VL  - 49
+IS  - 4
+SP  - 982
+EP  - 1017
+DO  - 10.1177/0049124118769109
+AN  - WOS:000591203300005
+ER  -
+
+TY  - CPAPER
+AU  - Rekabsaz, N
+AU  - Lupu, M
+AU  - Hanbury, A
+ED  - Jose, JM
+ED  - Hauff, C
+ED  - Altingovde, IS
+ED  - Song, D
+ED  - Albakour, D
+ED  - Watt, S
+ED  - Tait, J
+TI  - Exploration of a Threshold for Similarity Based on Uncertainty in Word Embedding
+T2  - ADVANCES IN INFORMATION RETRIEVAL, ECIR 2017
+CP  - 39th European Conference on Information Retrieval Research (ECIR)
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 978-3-319-56608-5
+SN  - 978-3-319-56607-8
+PY  - 2017
+VL  - 10193
+SP  - 396
+EP  - 409
+DO  - 10.1007/978-3-319-56608-5_31
+AN  - WOS:000426152000031
+ER  -
+
+TY  - JOUR
+AU  - Nestler, S
+AU  - Back, MD
+TI  - Using Cross-Classified Structural Equation Models to Examine the Accuracy of Personality Judgments
+T2  - PSYCHOMETRIKA
+SN  - 0033-3123
+SN  - 1860-0980
+DA  - JUN
+PY  - 2017
+VL  - 82
+IS  - 2
+SP  - 475
+EP  - 497
+DO  - 10.1007/s11336-015-9485-6
+AN  - WOS:000404183300011
+ER  -
+
+TY  - JOUR
+AU  - Li, JK
+AU  - Lu, G
+AU  - Niu, T
+AU  - Zhang, J
+TI  - Developing an online air quality warning system based on streaming data for dynamic environmental management
+T2  - JOURNAL OF CLEANER PRODUCTION
+SN  - 0959-6526
+SN  - 1879-1786
+DA  - NOV 10
+PY  - 2020
+VL  - 273
+C7  - 122953
+DO  - 10.1016/j.jclepro.2020.122953
+AN  - WOS:000571824900014
+ER  -
+
+TY  - JOUR
+AU  - Beribisky, N
+AU  - Davidson, H
+AU  - Cribbie, RA
+TI  - Exploring perceptions of meaningfulness in visual representations of bivariate relationships
+T2  - PEERJ
+SN  - 2167-8359
+DA  - MAY 14
+PY  - 2019
+VL  - 7
+C7  - e6853
+DO  - 10.7717/peerj.6853
+AN  - WOS:000467832400002
+ER  -
+
+TY  - JOUR
+AU  - van Aert, RCM
+AU  - van Assen, MALM
+TI  - Examining reproducibility in psychology: A hybrid method for combining a statistically significant original study and a replication
+T2  - BEHAVIOR RESEARCH METHODS
+SN  - 1554-351X
+SN  - 1554-3528
+DA  - AUG
+PY  - 2018
+VL  - 50
+IS  - 4
+SP  - 1515
+EP  - 1539
+DO  - 10.3758/s13428-017-0967-6
+AN  - WOS:000440459100014
+ER  -
+
+TY  - JOUR
+AU  - Ivanchei, II
+AU  - Moroshkina, NV
+TI  - The effect of subjective awareness measures on performance in artificial grammar learning task
+T2  - CONSCIOUSNESS AND COGNITION
+SN  - 1053-8100
+SN  - 1090-2376
+DA  - JAN
+PY  - 2018
+VL  - 57
+SP  - 116
+EP  - 133
+DO  - 10.1016/j.concog.2017.11.010
+AN  - WOS:000424856400012
+ER  -
+
+TY  - JOUR
+AU  - Cumming, G
+AU  - Fidler, F
+TI  - Confidence Intervals Better Answers to Better Questions
+T2  - ZEITSCHRIFT FUR PSYCHOLOGIE-JOURNAL OF PSYCHOLOGY
+SN  - 2190-8370
+SN  - 2151-2604
+PY  - 2009
+VL  - 217
+IS  - 1
+SP  - 15
+EP  - 26
+DO  - 10.1027/0044-3409.217.1.15
+AN  - WOS:000263931500003
+ER  -
+
+TY  - JOUR
+AU  - Parker, AM
+AU  - Stone, ER
+TI  - Identifying the Effects of Unjustified Confidence versus Overconfidence: Lessons Learned from Two Analytic Methods
+T2  - JOURNAL OF BEHAVIORAL DECISION MAKING
+SN  - 0894-3257
+SN  - 1099-0771
+DA  - APR
+PY  - 2014
+VL  - 27
+IS  - 2
+SP  - 134
+EP  - 145
+DO  - 10.1002/bdm.1787
+AN  - WOS:000333016800004
+ER  -
+
+TY  - CPAPER
+AU  - Shokouhi, M
+AU  - White, RW
+AU  - Yilmaz, E
+A1  - ACM
+TI  - Anchoring and Adjustment in Relevance Estimation
+T2  - SIGIR 2015: PROCEEDINGS OF THE 38TH INTERNATIONAL ACM SIGIR CONFERENCE ON RESEARCH AND DEVELOPMENT IN INFORMATION RETRIEVAL
+CP  - 38th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)
+SN  - 978-1-4503-3621-5
+PY  - 2015
+SP  - 963
+EP  - 966
+DO  - 10.1145/2766462.2767841
+AN  - WOS:000382307300136
+ER  -
+
+TY  - JOUR
+AU  - Shanteau, J
+TI  - Why task domains (still) matter for understanding expertise
+T2  - JOURNAL OF APPLIED RESEARCH IN MEMORY AND COGNITION
+SN  - 2211-3681
+SN  - 2211-369X
+DA  - SEP
+PY  - 2015
+VL  - 4
+IS  - 3
+SP  - 169
+EP  - 175
+DO  - 10.1016/j.jarmac.2015.07.003
+AN  - WOS:000362924200003
+ER  -
+
+TY  - JOUR
+AU  - Camilli, G
+TI  - Ongoing issues in test fairness
+T2  - EDUCATIONAL RESEARCH AND EVALUATION
+SN  - 1380-3611
+SN  - 1744-4187
+PY  - 2013
+VL  - 19
+IS  - 2-3
+SP  - 104
+EP  - 120
+DO  - 10.1080/13803611.2013.767602
+AN  - WOS:000415464900002
+ER  -
+
+TY  - JOUR
+AU  - Wiernik, BM
+AU  - Kostal, JW
+AU  - Wilmot, MP
+AU  - Dilchert, S
+AU  - Ones, DS
+TI  - Empirical Benchmarks for Interpreting Effect Size Variability in Meta-Analysis
+T2  - INDUSTRIAL AND ORGANIZATIONAL PSYCHOLOGY-PERSPECTIVES ON SCIENCE AND PRACTICE
+SN  - 1754-9426
+SN  - 1754-9434
+DA  - SEP
+PY  - 2017
+VL  - 10
+IS  - 3
+SP  - 472
+EP  - 479
+DO  - 10.1017/iop.2017.44
+AN  - WOS:000409048700020
+ER  -
+
+TY  - JOUR
+AU  - Bergstroem, G
+AU  - Hujainah, F
+AU  - Truong, HQ
+AU  - Jolak, R
+AU  - Rukmono, SA
+AU  - Nurwidyantoro, A
+AU  - Chaudron, MRV
+TI  - Evaluating the layout quality of UML class diagrams using machine learning
+T2  - JOURNAL OF SYSTEMS AND SOFTWARE
+SN  - 0164-1212
+SN  - 1873-1228
+DA  - OCT
+PY  - 2022
+VL  - 192
+C7  - 111413
+DO  - 10.1016/j.jss.2022.111413
+C6  - JUL 2022
+AN  - WOS:000829490300009
+ER  -
+
+TY  - JOUR
+AU  - Lee, CJ
+TI  - A Kuhnian Critique of Psychometric Research on Peer Review
+T2  - PHILOSOPHY OF SCIENCE
+CP  - Meeting of the Philosophy-of-Science-Association (PSA)
+SN  - 0031-8248
+SN  - 1539-767X
+DA  - DEC
+PY  - 2012
+VL  - 79
+IS  - 5
+SP  - 859
+EP  - 870
+DO  - 10.1086/667841
+AN  - WOS:000311338500024
+ER  -
+
+TY  - JOUR
+AU  - Stukas, AA
+AU  - Cumming, G
+TI  - Interpreting effect sizes: Toward a quantitative cumulative social psychology
+T2  - EUROPEAN JOURNAL OF SOCIAL PSYCHOLOGY
+SN  - 0046-2772
+SN  - 1099-0992
+DA  - DEC
+PY  - 2014
+VL  - 44
+IS  - 7
+SP  - 711
+EP  - 722
+DO  - 10.1002/ejsp.2019
+AN  - WOS:000346557400007
+ER  -
+
+TY  - JOUR
+AU  - Vadillo, MA
+AU  - Matute, H
+TI  - Predictions and causal estimations are not supported by the same associative structure
+T2  - QUARTERLY JOURNAL OF EXPERIMENTAL PSYCHOLOGY
+SN  - 1747-0218
+DA  - MAR
+PY  - 2007
+VL  - 60
+IS  - 3
+SP  - 433
+EP  - 447
+DO  - 10.1080/17470210601002520
+AN  - WOS:000245106800010
+ER  -
+
+TY  - JOUR
+AU  - Katsikopoulos, KV
+TI  - Decision Methods for Design: Insights from Psychology
+T2  - JOURNAL OF MECHANICAL DESIGN
+SN  - 1050-0472
+DA  - AUG
+PY  - 2012
+VL  - 134
+IS  - 8
+C7  - 084504
+DO  - 10.1115/1.4007001
+AN  - WOS:000308403300013
+ER  -
+
+TY  - JOUR
+AU  - Suls, J
+AU  - Chambers, J
+AU  - Krizan, Z
+AU  - Mortensen, CR
+AU  - Koestner, B
+AU  - Bruchmann, K
+TI  - Testing four explanations for the better/worse-than-average effect: Single- and multi-item entities as comparison targets and referents
+T2  - ORGANIZATIONAL BEHAVIOR AND HUMAN DECISION PROCESSES
+SN  - 0749-5978
+DA  - SEP
+PY  - 2010
+VL  - 113
+IS  - 1
+SP  - 62
+EP  - 72
+DO  - 10.1016/j.obhdp.2010.03.003
+AN  - WOS:000281348700006
+ER  -
+

@@ -1,0 +1,1213 @@
+﻿TY  - JOUR
+AU  - Susnjak, T
+AU  - Palffy, C
+AU  - Zimina, T
+AU  - Altynbekova, N
+AU  - Garg, K
+AU  - Gilbert, L
+TI  - Large language models for scientometric mapping of scientific controversy: A validated hybrid AI-Human framework
+T2  - SCIENTOMETRICS
+SN  - 0138-9130
+SN  - 1588-2861
+DA  - 2026 JUN 13
+PY  - 2026
+DO  - 10.1007/s11192-026-05681-3
+C6  - JUN 2026
+AN  - WOS:001791907100001
+ER  -
+
+TY  - JOUR
+AU  - Ning, KW
+AU  - Chen, JC
+AU  - Zhang, JW
+AU  - Li, W
+AU  - Wang, ZX
+AU  - Feng, YM
+AU  - Zhang, WZ
+AU  - Zheng, ZB
+TI  - Defining and Detecting the Defects of Large Language Model-Based Autonomous Agents
+T2  - IEEE TRANSACTIONS ON SOFTWARE ENGINEERING
+SN  - 0098-5589
+SN  - 1939-3520
+DA  - MAR
+PY  - 2026
+VL  - 52
+IS  - 3
+SP  - 1074
+EP  - 1093
+DO  - 10.1109/TSE.2026.3658554
+AN  - WOS:001717532700008
+ER  -
+
+TY  - JOUR
+AU  - Stübinger, J
+AU  - Metz, F
+TI  - Understanding AI Agents-A Data-Driven Literature Review
+T2  - MATHEMATICS
+SN  - 2227-7390
+DA  - APR 28
+PY  - 2026
+VL  - 14
+IS  - 9
+C7  - 1478
+DO  - 10.3390/math14091478
+C6  - APR 2026
+AN  - WOS:001763836600001
+ER  -
+
+TY  - CPAPER
+AU  - Qin, C
+AU  - Chen, X
+AU  - Wang, CR
+AU  - Wu, PM
+AU  - Chen, X
+AU  - Cheng, YH
+AU  - Zhao, JY
+AU  - Xiao, M
+AU  - Dong, XC
+AU  - Long, QQ
+AU  - Pan, BY
+AU  - Wu, H
+AU  - Zhou, YC
+AU  - Xiong, H
+AU  - Li, CZ
+AU  - Zhu, HS
+A1  - ACM
+TI  - SciHorizon: Benchmarking AI-for-Science Readiness from Scientific Data to Large Language Models
+T2  - PROCEEDINGS OF THE 31ST ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING V.2, KDD 2025
+CP  - 31st International Conference on Knowledge Discovery and Data Mining-KDD
+SN  - 979-8-4007-1454-2
+PY  - 2025
+SP  - 5754
+EP  - 5765
+DO  - 10.1145/3711896.3737403
+AN  - WOS:001592428900504
+ER  -
+
+TY  - JOUR
+AU  - Dakhnovich, AD
+AU  - Bogina, VM
+AU  - Makeeva, AA
+TI  - Application of Large Language Models in the Problem of Event Forecasting
+T2  - AUTOMATIC CONTROL AND COMPUTER SCIENCES
+SN  - 0146-4116
+SN  - 1558-108X
+DA  - DEC
+PY  - 2025
+VL  - 59
+IS  - 8
+SP  - 1536
+EP  - 1543
+DO  - 10.3103/S0146411625701111
+AN  - WOS:001699335700040
+ER  -
+
+TY  - JOUR
+AU  - Chowa, SS
+AU  - Alvi, R
+AU  - Rahman, SS
+AU  - Rahman, MA
+AU  - Raiaan, MAK
+AU  - Islam, MR
+AU  - Hussain, M
+AU  - Azam, S
+TI  - From language to action: a review of large language models as autonomous agents and tool users
+T2  - ARTIFICIAL INTELLIGENCE REVIEW
+SN  - 0269-2821
+SN  - 1573-7462
+DA  - JAN 6
+PY  - 2026
+VL  - 59
+IS  - 2
+C7  - 71
+DO  - 10.1007/s10462-025-11471-9
+AN  - WOS:001666726700002
+ER  -
+
+TY  - JOUR
+AU  - Yu, HJ
+AU  - Wang, YZ
+AU  - Cheng, T
+AU  - Yan, Y
+AU  - Dawson, KA
+AU  - Li, SFY
+AU  - Zheng, YF
+AU  - Jin, YC
+TI  - Empowering scientific discovery with explainable small domain-specific and large language models
+T2  - ARTIFICIAL INTELLIGENCE REVIEW
+SN  - 0269-2821
+SN  - 1573-7462
+DA  - OCT 8
+PY  - 2025
+VL  - 58
+IS  - 12
+C7  - 371
+DO  - 10.1007/s10462-025-11365-w
+AN  - WOS:001589703100003
+ER  -
+
+TY  - JOUR
+AU  - Pan, ZC
+AU  - Zhao, YH
+AU  - Huang, HZ
+AU  - Wang, ZY
+AU  - Geng, BJ
+AU  - Wang, ZR
+AU  - Zhao, QY
+AU  - Yao, JQ
+AU  - Yang, Y
+TI  - Transforming Molecular Science With Large Language Models: From Molecule Understanding to Autonomous Scientific Discovery
+T2  - CHEMISTRY-AN ASIAN JOURNAL
+SN  - 1861-4728
+SN  - 1861-471X
+DA  - JUN 14
+PY  - 2026
+VL  - 21
+IS  - 11
+C7  - e70837
+DO  - 10.1002/asia.70837
+AN  - WOS:001792314100001
+ER  -
+
+TY  - CPAPER
+AU  - Su, HY
+AU  - Chen, RQ
+AU  - Tang, SX
+AU  - Yin, ZF
+AU  - Zheng, XZ
+AU  - Li, JZ
+AU  - Qi, BQ
+AU  - Wu, Q
+AU  - Li, H
+AU  - Ouyang, WL
+AU  - Torr, P
+AU  - Zhou, BW
+AU  - Dong, NQ
+ED  - Che, W
+ED  - Nabende, J
+ED  - Shutova, E
+ED  - Pilehvar, MT
+TI  - Many Heads Are Better Than One: Improved Scientific Idea Generation by A LLM-Based Multi-Agent System
+T2  - PROCEEDINGS OF THE 63RD ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, VOL 1: LONG PAPERS
+CP  - 63rd Association for Computational Linguistics Meeting-ACL-Annual
+SN  - 979-8-89176-251-0
+PY  - 2025
+SP  - 28201
+EP  - 28240
+AN  - WOS:001611629600087
+ER  -
+
+TY  - CPAPER
+AU  - Wu, JD
+AU  - Zhu, JY
+AU  - Liu, YY
+AU  - Xu, M
+AU  - Jin, YM
+ED  - Che, W
+ED  - Nabende, J
+ED  - Shutova, E
+ED  - Pilehvar, MT
+TI  - Agentic Reasoning: A Streamlined Framework for Enhancing LLM Reasoning with Agentic Tools
+T2  - PROCEEDINGS OF THE 63RD ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, VOL 1: LONG PAPERS
+CP  - 63rd Association for Computational Linguistics Meeting-ACL-Annual
+SN  - 979-8-89176-251-0
+PY  - 2025
+SP  - 28489
+EP  - 28503
+AN  - WOS:001611629600102
+ER  -
+
+TY  - JOUR
+AU  - Swanson, K
+AU  - Wu, W
+AU  - Bulaong, NL
+AU  - Pak, JE
+AU  - Zou, J
+TI  - The Virtual Lab of AI agents designs new SARS-CoV-2 nanobodies
+T2  - NATURE
+SN  - 0028-0836
+SN  - 1476-4687
+DA  - OCT 16
+PY  - 2025
+VL  - 646
+IS  - 8085
+DO  - 10.1038/s41586-025-09442-9
+C6  - JUL 2025
+AN  - WOS:001562550100001
+ER  -
+
+TY  - JOUR
+AU  - Ferrag, MA
+AU  - Tihanyi, N
+AU  - Debbah, M
+TI  - From LLM Reasoning to Autonomous AI Agents: A Comprehensive Review
+T2  - IEEE ACCESS
+SN  - 2169-3536
+PY  - 2026
+VL  - 14
+SP  - 84237
+EP  - 84285
+DO  - 10.1109/ACCESS.2026.3698694
+AN  - WOS:001788886000023
+ER  -
+
+TY  - JOUR
+AU  - Ren, YW
+AU  - Liu, YY
+AU  - Ji, T
+AU  - Xu, X
+TI  - AI Agents and Agentic AI-navigating a plethora of concepts for future manufacturing *
+T2  - JOURNAL OF MANUFACTURING SYSTEMS
+SN  - 0278-6125
+SN  - 1878-6642
+DA  - DEC
+PY  - 2025
+VL  - 83
+SP  - 126
+EP  - 133
+DO  - 10.1016/j.jmsy.2025.08.017
+C6  - SEP 2025
+AN  - WOS:001572155600001
+ER  -
+
+TY  - JOUR
+AU  - Penades, JR
+AU  - Gottweis, J
+AU  - He, LC
+AU  - Patkowski, JB
+AU  - Daryin, A
+AU  - Weng, WH
+AU  - Tu, T
+AU  - Palepu, JA
+AU  - Myaskovsky, A
+AU  - Natarajan, V
+AU  - Karthikesalingam, A
+AU  - Costa, TRD
+TI  - AI mirrors experimental science to uncover a mechanism of gene transfer crucial to bacterial evolution
+T2  - CELL
+SN  - 0092-8674
+SN  - 1097-4172
+DA  - NOV 13
+PY  - 2025
+VL  - 188
+IS  - 23
+SP  - 6654
+EP  - 6665
+DO  - 10.1016/j.cell.2025.08.018
+C6  - NOV 2025
+AN  - WOS:001619463200019
+ER  -
+
+TY  - JOUR
+AU  - Otoum, N
+AU  - Elkhalili, N
+TI  - Methods and Techniques of Agentic Software Engineering: A Systematic Literature Review
+T2  - IEEE ACCESS
+SN  - 2169-3536
+PY  - 2026
+VL  - 14
+SP  - 7443
+EP  - 7465
+DO  - 10.1109/ACCESS.2026.3652325
+AN  - WOS:001663381000018
+ER  -
+
+TY  - CPAPER
+AU  - Liu, YF
+AU  - Wang, XW
+AU  - Zhang, Y
+ED  - Kittler, J
+ED  - Xiong, H
+ED  - Yang, J
+ED  - Chen, X
+ED  - Lu, J
+ED  - Lin, W
+ED  - Yu, J
+ED  - Zheng, W
+TI  - Co-BioBench and SDTL: Advancing Human-AI Collaboration in Open-Ended Scientific Discovery
+T2  - PATTERN RECOGNITION AND COMPUTER VISION, PRCV 2025, PT XVIII
+CP  - 8th Chinese Conference on Pattern Recognition and Computer Vision-PRCV-Annual
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 978-981-95-5763-9
+SN  - 978-981-95-5764-6
+PY  - 2026
+VL  - 16289
+SP  - 349
+EP  - 362
+DO  - 10.1007/978-981-95-5764-6_24
+AN  - WOS:001734994400024
+ER  -
+
+TY  - JOUR
+AU  - Wu, Y
+AU  - Lu, ZY
+AU  - Gao, ZF
+TI  - Applications of multi-agent systems in computational materials science
+T2  - ACTA PHYSICA SINICA
+SN  - 1000-3290
+DA  - MAR 5
+PY  - 2026
+VL  - 75
+IS  - 5
+C7  - 050801
+DO  - 10.7498/aps.75.20251687
+AN  - WOS:001721551300028
+ER  -
+
+TY  - CPAPER
+AU  - Wang, ZH
+AU  - Cornacchia, A
+AU  - Galante, F
+AU  - Centofanti, C
+AU  - Sacco, A
+AU  - Jiang, D
+A1  - ACM
+TI  - Towards a Playground to Democratize Experimentation and Benchmarking of AI Agents for Network Troubleshooting
+T2  - PROCEEDINGS OF THE 2025 1ST WORKSHOP ON NEXT-GENERATION NETWORK OBSERVABILITY, NGNO 2025
+CP  - 1st Workshop on Next-Generation Network Observability-NGNO
+SN  - 979-8-4007-2087-1
+PY  - 2025
+SP  - 1
+EP  - 3
+DO  - 10.1145/3748496.3748990
+AN  - WOS:001588063400001
+ER  -
+
+TY  - CPAPER
+AU  - Mohammad, AF
+AU  - Ahmed, W
+AU  - Almekhlafi, AG
+AU  - Alzahmi, S
+AU  - Al-Marzouqi, AH
+AU  - Alrabaee, S
+AU  - Zaneldin, E
+A1  - IEEE
+TI  - The Role of AI in Advancing Scientific Research from Hypothesis to Publication
+T2  - 2025 IEEE 19TH INTERNATIONAL CONFERENCE ON APPLICATION OF INFORMATION AND COMMUNICATION TECHNOLOGIES, AICT
+CP  - 19th IEEE International Conference on Application of Information and Communication Technologies-AICT
+SN  - 2378-8232
+SN  - 2472-8586
+SN  - 979-8-3315-9343-8
+SN  - 979-8-3315-9342-1
+PY  - 2025
+DO  - 10.1109/AICT67988.2025.11268778
+AN  - WOS:001719954700064
+ER  -
+
+TY  - JOUR
+AU  - Santos, RFD
+AU  - Aganette, EC
+TI  - Artificial intelligence and automation in scientific research: a proposal for a computational agent to support literature review
+T2  - RDBCI-REVISTA DIGITAL DE BIBLIOTECONOMIA E CIENCIA DA INFORMACAO
+SN  - 1678-765X
+PY  - 2026
+VL  - 24
+DO  - 10.20396/rdbci.v24i00.8679621/en
+AN  - WOS:001607191300002
+ER  -
+
+TY  - JOUR
+AU  - Zhu, JY
+AU  - Zhang, LH
+AU  - Zhu, YZ
+AU  - Lin, XT
+AU  - Wu, YF
+AU  - Di, SM
+AU  - Liu, B
+AU  - Luo, YY
+AU  - Zhang, TY
+TI  - A survey of agentic materials science and engineering: where are we and where are we going?
+T2  - JOURNAL OF MATERIALS INFORMATICS
+SN  - 2770-372X
+DA  - JUN
+PY  - 2026
+VL  - 6
+IS  - 2
+C7  - 32
+DO  - 10.20517/jmi.2026.07
+AN  - WOS:001804705600014
+ER  -
+
+TY  - JOUR
+AU  - Yang, ZZ
+AU  - Veith, GM
+AU  - Son, SB
+AU  - Ingram, B
+TI  - Accelerating battery materials discovery with an agentic AI for automated XPS analysis integrating physical constraints and chemometrics
+T2  - ENERGY AND AI
+SN  - 2666-5468
+DA  - SEP
+PY  - 2026
+VL  - 25
+C7  - 100796
+DO  - 10.1016/j.egyai.2026.100796
+AN  - WOS:001804105800001
+ER  -
+
+TY  - JOUR
+AU  - Peasley, D
+AU  - Kuplicki, R
+AU  - Sen, S
+AU  - Paulus, M
+TI  - Leveraging Large Language Models and Agent-Based Systems for Scientific Data Analysis: Validation Study
+T2  - JMIR MENTAL HEALTH
+SN  - 2368-7959
+PY  - 2025
+VL  - 12
+C7  - e68135
+DO  - 10.2196/68135
+AN  - WOS:001427967400001
+ER  -
+
+TY  - CPAPER
+AU  - Huang, TH
+AU  - Lee, DH
+AU  - Sweeney, J
+AU  - Shi, JT
+AU  - Steliotes, E
+AU  - Lange, M
+AU  - May, J
+AU  - Chen, MH
+A1  - ACM
+TI  - FoodPuzzle: Developing Large Language Model Agents as Flavor Scientists
+T2  - PROCEEDINGS OF THE 31ST ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING V.2, KDD 2025
+CP  - 31st International Conference on Knowledge Discovery and Data Mining-KDD
+SN  - 979-8-4007-1454-2
+PY  - 2025
+SP  - 5493
+EP  - 5504
+DO  - 10.1145/3711896.3737384
+AN  - WOS:001592428900481
+ER  -
+
+TY  - CPAPER
+AU  - Reddy, CK
+AU  - Shojaee, P
+ED  - Shah, J
+ED  - Kolter, Z
+ED  - Walsh, T
+TI  - Towards Scientific Discovery with Generative AI: Progress, Opportunities, and Challenges
+T2  - THIRTY-NINTH AAAI CONFERENCE ON ARTIFICIAL INTELLIGENCE, AAAI-25, VOL 39 NO 27
+CP  - 39th AAAI Conference on Artificial Intelligence
+SN  - 2159-5399
+SN  - 2374-3468
+PY  - 2025
+SP  - 28601
+EP  - 28609
+AN  - WOS:001477481300092
+ER  -
+
+TY  - JOUR
+AU  - Gao, SH
+AU  - Fang, A
+AU  - Huang, YP
+AU  - Giunchiglia, V
+AU  - Noori, A
+AU  - Schwarz, JR
+AU  - Ektefaie, Y
+AU  - Kondic, J
+AU  - Zitnik, M
+TI  - Empowering biomedical discovery with AI agents
+T2  - CELL
+SN  - 0092-8674
+SN  - 1097-4172
+DA  - OCT 31
+PY  - 2024
+VL  - 187
+IS  - 22
+SP  - 6125
+EP  - 6151
+DO  - 10.1016/j.cell.2024.09.022
+C6  - OCT 2024
+AN  - WOS:001349662200001
+ER  -
+
+TY  - JOUR
+AU  - Nägele, M
+AU  - Marquardt, F
+TI  - Agentic Exploration of Physics Models
+T2  - PHYSICAL REVIEW X
+SN  - 2160-3308
+DA  - JUL 8
+PY  - 2026
+VL  - 16
+IS  - 3
+C7  - 031002
+DO  - 10.1103/xnqc-q6nt
+AN  - WOS:001821685100001
+ER  -
+
+TY  - JOUR
+AU  - Schmidt, DC
+TI  - From Code to Intent: Re-Architecting Internet Computing for the AI Era
+T2  - IEEE INTERNET COMPUTING
+SN  - 1089-7801
+SN  - 1941-0131
+DA  - NOV
+PY  - 2025
+VL  - 29
+IS  - 6
+SP  - 63
+EP  - 69
+DO  - 10.1109/MIC.2026.3651157
+AN  - WOS:001703843100002
+ER  -
+
+TY  - CPAPER
+AU  - Dam, HK
+A1  - IEEE COMPUTER SOC
+TI  - Towards Multi-Agentic AI for automated software design and modelling: challenges and opportunities
+T2  - 2025 40TH IEEE/ACM INTERNATIONAL CONFERENCE ON AUTOMATED SOFTWARE ENGINEERING WORKSHOPS, ASEW
+CP  - 40th International Conference on Automated Software Engineering-ASE
+SN  - 2151-0830
+SN  - 979-8-3315-8504-4
+SN  - 979-8-3315-8503-7
+PY  - 2025
+SP  - 311
+EP  - 314
+DO  - 10.1109/ASEW67777.2025.00063
+AN  - WOS:001795671300048
+ER  -
+
+TY  - JOUR
+AU  - Fedorov, V
+AU  - Lavitskaya, D
+AU  - Ibragimov, D
+AU  - Safronov, D
+AU  - Balles, A
+AU  - Gribanova, A
+AU  - Radionov, M
+TI  - Adapting the AI Scientist for Enterprise: Solving Real Business Problems with Autonomous Text-To-SQL Research
+T2  - DOKLADY MATHEMATICS
+SN  - 1064-5624
+SN  - 1531-8362
+DA  - OCT
+PY  - 2025
+VL  - 112
+IS  - 2
+SP  - 382
+EP  - 391
+DO  - 10.1134/S1064562425700474
+AN  - WOS:001717982900004
+ER  -
+
+TY  - JOUR
+AU  - Gomes, CP
+TI  - Knowledge-Centric AI for Scientific Discovery
+T2  - DAEDALUS
+SN  - 0011-5266
+SN  - 1548-6192
+DA  - JUN 10
+PY  - 2026
+VL  - 155
+IS  - 1-2
+SP  - 185
+EP  - 201
+DO  - 10.1162/DAED.a.981
+AN  - WOS:001789047500024
+ER  -
+
+TY  - JOUR
+AU  - Oliveira, ON Jr
+AU  - Christino, L
+AU  - Oliveira, MCF
+AU  - Paulovich, FV
+TI  - Artificial Intelligence Agents for Materials Sciences
+T2  - JOURNAL OF CHEMICAL INFORMATION AND MODELING
+SN  - 1549-9596
+SN  - 1549-960X
+DA  - DEC 12
+PY  - 2023
+VL  - 63
+IS  - 24
+SP  - 7605
+EP  - 7609
+DO  - 10.1021/acs.jcim.3c01778
+AN  - WOS:001141143200001
+ER  -
+
+TY  - JOUR
+AU  - Ren, SY
+AU  - Gan, ZY
+AU  - Yin, ZF
+AU  - Shao, J
+AU  - Hu, SY
+TI  - An AI researchers' perspective: At the crossroad of LLMs, agent-based modeling, and complex systems Comment on "LLMs and generative agent-based models for complex systems research
+T2  - PHYSICS OF LIFE REVIEWS
+SN  - 1571-0645
+SN  - 1873-1457
+DA  - JUL
+PY  - 2025
+VL  - 53
+SP  - 215
+EP  - 217
+DO  - 10.1016/j.plrev.2025.03.015
+C6  - MAR 2025
+AN  - WOS:001456973400001
+ER  -
+
+TY  - CPAPER
+AU  - Portugal, ID
+AU  - Alencar, P
+AU  - Cowan, D
+ED  - Ding, W
+ED  - Lu, CT
+ED  - Wang, F
+ED  - Di, L
+ED  - Wu, K
+ED  - Huan, J
+ED  - Nambiar, R
+ED  - Li, J
+ED  - Ilievski, F
+ED  - Baeza-Yates, R
+ED  - Hu, X
+TI  - An Agentic AI-based Multi-Agent Framework for Recommender Systems
+T2  - 2024 IEEE INTERNATIONAL CONFERENCE ON BIG DATA, BIGDATA
+CP  - 2024 IEEE International Conference on Big Data
+SN  - 2639-1589
+SN  - 979-8-3503-6249-7
+SN  - 979-8-3503-6248-0
+PY  - 2024
+SP  - 5375
+EP  - 5382
+DO  - 10.1109/BigData62323.2024.10825765
+AN  - WOS:001451321805069
+ER  -
+
+TY  - JOUR
+AU  - Sapkota, R
+AU  - Roumeliotis, KI
+AU  - Karkee, M
+TI  - AI Agents vs. Agentic AI: A Conceptual taxonomy, applications and challenges
+T2  - INFORMATION FUSION
+SN  - 1566-2535
+SN  - 1872-6305
+DA  - FEB
+PY  - 2026
+VL  - 126
+C7  - 103599
+DO  - 10.1016/j.inffus.2025.103599
+C6  - JAN 2025
+AN  - WOS:001658072100001
+ER  -
+
+TY  - JOUR
+AU  - Jacobsson, TJ
+TI  - AI-Generated Hypotheses and the Emergence of Autonomous Scientific Discovery
+T2  - ACS MATERIALS LETTERS
+SN  - 2639-4979
+DA  - JUN 1
+PY  - 2026
+VL  - 8
+IS  - 6
+SP  - 1457
+EP  - 1464
+DO  - 10.1021/acsmaterialslett.6c00224
+C6  - MAY 2026
+AN  - WOS:001758544900001
+ER  -
+
+TY  - JOUR
+AU  - Gottweis, J
+AU  - Weng, WH
+AU  - Daryin, A
+AU  - Tu, T
+AU  - Sirkovic, P
+AU  - Myaskovsky, A
+AU  - Glowaty, G
+AU  - Weissenberger, F
+AU  - Orlandi, A
+AU  - Popovici, D
+AU  - Palepu, A
+AU  - Rong, KR
+AU  - Tanno, R
+AU  - Saab, K
+AU  - Zhang, F
+AU  - Blum, J
+AU  - Carroll, A
+AU  - Kulkarni, K
+AU  - Tomasev, N
+AU  - Zverinski, D
+AU  - Rendulic, I
+AU  - Vedadi, E
+AU  - Hasler, F
+AU  - Rimanic, L
+AU  - Boia, M
+AU  - Budiselic, I
+AU  - Feinstein, B
+AU  - Bellaiche, M
+AU  - Sheffer, T
+AU  - Freyberg, J
+AU  - Ratcliff, J
+AU  - Bertolli, O
+AU  - Chou, KTRE
+AU  - Hassidim, A
+AU  - Gokturk, B
+AU  - Vahdat, A
+AU  - Guan, Y
+AU  - Dhillon, V
+AU  - Vaishnav, ED
+AU  - Lee, BY
+AU  - Costa, TRD
+AU  - Penadés, JR
+AU  - Peltz, G
+AU  - Matias, Y
+AU  - Manyika, J
+AU  - Hassabis, D
+AU  - Xu, YH
+AU  - Kohli, P
+AU  - Pawlosky, A
+AU  - Karthikesalingam, A
+AU  - Natarajan, V
+TI  - Accelerating scientific discovery with Co-Scientist
+T2  - NATURE
+SN  - 0028-0836
+SN  - 1476-4687
+DA  - JUL 9
+PY  - 2026
+VL  - 655
+IS  - 8122
+DO  - 10.1038/s41586-026-10644-y
+C6  - MAY 2026
+AN  - WOS:001809031900001
+ER  -
+
+TY  - JOUR
+AU  - Guo, XS
+AU  - Yang, XX
+AU  - Peng, MX
+AU  - Lu, HL
+AU  - Zhu, MX
+AU  - Yang, H
+TI  - Automating traffic model enhancement with AI research agent
+T2  - TRANSPORTATION RESEARCH PART C-EMERGING TECHNOLOGIES
+SN  - 0968-090X
+SN  - 1879-2359
+DA  - SEP
+PY  - 2025
+VL  - 178
+C7  - 105187
+DO  - 10.1016/j.trc.2025.105187
+C6  - JUN 2025
+AN  - WOS:001507458100001
+ER  -
+
+TY  - JOUR
+AU  - Chung, J
+AU  - Jeong, B
+AU  - Park, YJ
+AU  - Jeong, H
+AU  - Lee, J
+AU  - Yoon, J
+AU  - Choi, J
+TI  - Harnessing language models for computational literature review of emerging AI topics
+T2  - INFORMATION PROCESSING & MANAGEMENT
+SN  - 0306-4573
+SN  - 1873-5371
+DA  - NOV
+PY  - 2025
+VL  - 62
+IS  - 6
+C7  - 104245
+DO  - 10.1016/j.ipm.2025.104245
+C6  - JAN 2025
+AN  - WOS:001510941000001
+ER  -
+
+TY  - JOUR
+AU  - Lim, JS
+TI  - Introduction to generative artificial intelligence tools for academic article writing
+T2  - SCIENCE EDITING
+SN  - 2288-7474
+SN  - 2288-8063
+DA  - FEB
+PY  - 2026
+VL  - 13
+IS  - 1
+SP  - 58
+EP  - 62
+DO  - 10.6087/kcse.393
+AN  - WOS:001691617400010
+ER  -
+
+TY  - JOUR
+AU  - Branda, F
+AU  - Ahmed, MM
+AU  - Ciccozzi, M
+AU  - Guzzi, PH
+AU  - Scarpa, F
+TI  - The next paradigm in bioinformatics: a review of multi-agent systems and foundational models for end-to-end scientific discovery
+T2  - BRIEFINGS IN BIOINFORMATICS
+SN  - 1467-5463
+SN  - 1477-4054
+DA  - MAY
+PY  - 2026
+VL  - 27
+IS  - 3
+C7  - bbag245
+DO  - 10.1093/bib/bbag245
+AN  - WOS:001769685200001
+ER  -
+
+TY  - JOUR
+AU  - Rabbya, G
+AU  - Muhammedb, D
+AU  - Mitrac, P
+AU  - Auerb, S
+TI  - Iterative hypothesis generation for scientific discovery with Monte Carlo self-refining trees
+T2  - INFORMATION SCIENCES
+SN  - 0020-0255
+SN  - 1872-6291
+DA  - SEP 25
+PY  - 2026
+VL  - 751
+C7  - 123576
+DO  - 10.1016/j.ins.2026.123576
+C6  - MAY 2026
+AN  - WOS:001765036300001
+ER  -
+
+TY  - JOUR
+AU  - Lin, JB
+AU  - Tong, LY
+AU  - Wang, H
+AU  - Shao, MF
+AU  - Yang, C
+TI  - Scientific-Intention Driven Embodied Intelligent Solar Telescope: Conceptual Design (Invited)
+T2  - LASER & OPTOELECTRONICS PROGRESS
+SN  - 1006-4125
+DA  - APR
+PY  - 2026
+VL  - 63
+IS  - 8
+C7  - 0839014
+DO  - 10.3788/LOP252270
+AN  - WOS:001758357500013
+ER  -
+
+TY  - JOUR
+AU  - Lin, F
+TI  - Can AI Agents Automate Scientific Discovery?
+T2  - GEN BIOTECHNOLOGY
+SN  - 2768-1572
+SN  - 2768-1556
+DA  - 2026 JUN 10
+PY  - 2026
+DO  - 10.1177/27681572261457405
+C6  - JUN 2026
+AN  - WOS:001789639900001
+ER  -
+
+TY  - JOUR
+AU  - Zou, JM
+AU  - Yuksekgonul, M
+TI  - AI Agents for Data Science: A Discussion of "LAMBDA: A Large Model Based Data Agent"
+T2  - JOURNAL OF THE AMERICAN STATISTICAL ASSOCIATION
+SN  - 0162-1459
+SN  - 1537-274X
+DA  - JAN 2
+PY  - 2026
+VL  - 121
+IS  - 553
+SP  - 34
+EP  - 35
+DO  - 10.1080/01621459.2025.2560373
+AN  - WOS:001750208400001
+ER  -
+
+TY  - CPAPER
+AU  - Zhang, Y
+AU  - Fu, KX
+AU  - Lu, ZC
+A1  - ACM
+TI  - RevTogether: Supporting Science Story Revision with Multiple AI Agents
+T2  - EXTENDED ABSTRACTS OF THE 2025 CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, CHI 2025
+CP  - 2025 Conference on Human Factors in Computing Systems-CHI
+SN  - 979-8-4007-1395-8
+PY  - 2025
+DO  - 10.1145/3706599.3719888
+AN  - WOS:001496972000399
+ER  -
+
+TY  - CPAPER
+AU  - Gregorini, M
+AU  - Boldrini, C
+AU  - Valerio, L
+ED  - Pedreschi, D
+ED  - Milano, M
+ED  - Tiddi, I
+ED  - Russell, S
+ED  - Boldrini, C
+ED  - Pappalardo, L
+ED  - Passerini, A
+ED  - Wang, S
+TI  - Agent Meets World: Learning Causality Through Repeated Autonomous Interventions
+T2  - HHAI 2025
+CP  - 4th International Conference on Hybrid Human Artificial Intelligence-HHAI
+SN  - 0922-6389
+SN  - 1879-8314
+SN  - 978-1-64368-611-0
+PY  - 2025
+VL  - 408
+SP  - 537
+EP  - 539
+DO  - 10.3233/FAIA250686
+AN  - WOS:001753088500059
+ER  -
+
+TY  - JOUR
+AU  - Ionescu, S
+AU  - Delcea, C
+AU  - Chirita, N
+AU  - Nica, I
+TI  - Exploring the Use of Artificial Intelligence in Agent-Based Modeling Applications: A Bibliometric Study
+T2  - ALGORITHMS
+SN  - 1999-4893
+DA  - JAN
+PY  - 2024
+VL  - 17
+IS  - 1
+C7  - 21
+DO  - 10.3390/a17010021
+AN  - WOS:001148979300001
+ER  -
+
+TY  - JOUR
+AU  - Wang, KS
+AU  - Shen, ZH
+AU  - Huang, CY
+AU  - Wu, CH
+AU  - Dong, YX
+AU  - Kanakia, A
+TI  - Microsoft Academic Graph: When experts are not enough
+T2  - QUANTITATIVE SCIENCE STUDIES
+SN  - 2641-3337
+DA  - WIN
+PY  - 2020
+VL  - 1
+IS  - 1
+SP  - 396
+EP  - 413
+DO  - 10.1162/qss_a_00021
+AN  - WOS:000691837400024
+ER  -
+
+TY  - JOUR
+AU  - Yang, S
+AU  - Liu, JJ
+AU  - Jin, F
+AU  - Lu, Y
+TI  - Integration of artificial intelligence and big data in materials science: New paradigms and scientific discoveries
+T2  - CHINESE SCIENCE BULLETIN-CHINESE
+SN  - 0023-074X
+SN  - 2095-9419
+PY  - 2024
+VL  - 69
+IS  - 32
+SP  - 4730
+EP  - 4747
+DO  - 10.1360/TB-2024-0404
+AN  - WOS:001368247100013
+ER  -
+
+TY  - JOUR
+AU  - van Lier, M
+TI  - Introducing a four-fold way to conceptualize artificial agency
+T2  - SYNTHESE
+SN  - 0039-7857
+SN  - 1573-0964
+DA  - FEB 23
+PY  - 2023
+VL  - 201
+IS  - 3
+C7  - 85
+DO  - 10.1007/s11229-023-04083-9
+AN  - WOS:000937469000003
+ER  -
+
+TY  - JOUR
+AU  - Clark, E
+AU  - Khosrowi, D
+TI  - Decentring the discoverer: how AI helps us rethink scientific discovery
+T2  - SYNTHESE
+SN  - 0039-7857
+SN  - 1573-0964
+DA  - NOV 3
+PY  - 2022
+VL  - 200
+IS  - 6
+C7  - 463
+DO  - 10.1007/s11229-022-03902-9
+AN  - WOS:000878647200002
+ER  -
+
+TY  - JOUR
+AU  - Su, P
+AU  - Chen, MH
+AU  - Wang, YF
+TI  - Agent-based model: A method worthy of promotion in Library and Information Science
+T2  - JOURNAL OF INFORMATION SCIENCE
+SN  - 0165-5515
+SN  - 1741-6485
+DA  - DEC
+PY  - 2023
+VL  - 49
+IS  - 6
+SP  - 1517
+EP  - 1527
+C7  - 01655515211061867
+DO  - 10.1177/01655515211061867
+C6  - FEB 2022
+AN  - WOS:000752901300001
+ER  -
+
+TY  - CPAPER
+AU  - Kühl, N
+AU  - Goutier, M
+AU  - Hirt, R
+AU  - Satzger, G
+ED  - Bui, TX
+TI  - Machine Learning in Artificial Intelligence: Towards a Common Understanding
+T2  - PROCEEDINGS OF THE 52ND ANNUAL HAWAII INTERNATIONAL CONFERENCE ON SYSTEM SCIENCES
+CP  - 52ndHawaii International Conference on System Sciences (HICSS)
+SN  - 978-0-9981331-2-6
+PY  - 2019
+SP  - 5236
+EP  - 5245
+AN  - WOS:000625294905037
+ER  -
+
+TY  - CPAPER
+AU  - Padilla, JJ
+AU  - Shuttleworth, D
+AU  - O'Brien, K
+A1  - IEEE
+TI  - AGENT-BASED MODEL CHARACTERIZATION USING NATURAL LANGUAGE PROCESSING
+T2  - 2019 WINTER SIMULATION CONFERENCE (WSC)
+CP  - Winter Simulation Conference (WSC)
+SN  - 0891-7736
+SN  - 978-1-7281-3283-9
+PY  - 2019
+SP  - 560
+EP  - 571
+AN  - WOS:000529791400046
+ER  -
+
+TY  - JOUR
+AU  - Lee, CS
+AU  - Wang, MH
+TI  - Ontology-based computational intelligent multi-agent and its application to CMMI assessment
+T2  - APPLIED INTELLIGENCE
+SN  - 0924-669X
+SN  - 1573-7497
+DA  - JUN
+PY  - 2009
+VL  - 30
+IS  - 3
+SP  - 203
+EP  - 219
+DO  - 10.1007/s10489-007-0071-1
+AN  - WOS:000266072000003
+ER  -
+
+TY  - JOUR
+AU  - Shafiee, ME
+AU  - Berglund, EZ
+TI  - Agent-based modelling approach to evaluate the effect of collaboration among scientists in scientific workflows
+T2  - JOURNAL OF SIMULATION
+SN  - 1747-7778
+SN  - 1747-7786
+DA  - JAN 2
+PY  - 2019
+VL  - 13
+IS  - 1
+SP  - 1
+EP  - 13
+DO  - 10.1080/17477778.2017.1387333
+AN  - WOS:000458369100001
+ER  -
+
+TY  - CPAPER
+AU  - Melesko, J
+AU  - Kurilovas, E
+ED  - Chova, LG
+ED  - Martinez, AL
+ED  - Torres, IC
+TI  - ON PERSONALISED MULTI-AGENT LEARNING SYSTEM: ARTIFICIAL NEURAL NETWORK AGENT
+T2  - 10TH INTERNATIONAL CONFERENCE OF EDUCATION, RESEARCH AND INNOVATION (ICERI2017)
+CP  - 10th Annual International Conference of Education, Research and Innovation (ICERI)
+SN  - 2340-1095
+SN  - 978-84-697-6957-7
+PY  - 2017
+SP  - 3883
+EP  - 3891
+AN  - WOS:000429975303143
+ER  -
+
+TY  - CHAP
+AU  - Czarnowski, I
+AU  - Jedrzejowicz, P
+ED  - Czarnowski, I
+ED  - Jedrzejowicz, P
+ED  - Kacprzyk, J
+TI  - Machine Learning and Multiagent Systems as Interrelated Technologies
+T2  - AGENT-BASED OPTIMIZATION
+SN  - 1860-949X
+SN  - 1860-9503
+SN  - 978-3-642-34096-3
+PY  - 2013
+VL  - 456
+SP  - 1
+EP  - 28
+DO  - 10.1007/978-3-642-34097-0_1
+DO  - 10.1007/978-3-642-34097-0
+AN  - WOS:000318375700001
+ER  -
+
+TY  - CPAPER
+AU  - Shi, DJ
+AU  - Liu, ZQ
+AU  - He, J
+ED  - Luo, Q
+TI  - MAS Learning Based on Bayesian Learning Method
+T2  - INFORMATION TECHNOLOGY FOR MANUFACTURING SYSTEMS, PTS 1 AND 2
+CP  - International Conference on Information Technology for Manufacturing Systems
+SN  - 978-0-87849-287-9
+PY  - 2010
+SP  - 1292
+EP  - +
+DO  - 10.4028/www.scientific.net/AMM.20-23.1292
+AN  - WOS:000277153300221
+ER  -
+
+TY  - CPAPER
+AU  - Ceballos, HG
+AU  - Cantu, FJ
+ED  - Aguirre, AH
+ED  - Monroy, R
+ED  - Garcia, CAR
+TI  - Towards a Causal Framework for Intelligent Agents Development
+T2  - 2009 EIGHTH MEXICAN INTERNATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE, PROCEEDINGS
+CP  - 8th Mexican International Conference on Artificial Intelligence
+SN  - 978-0-7695-3933-1
+PY  - 2009
+SP  - 67
+EP  - 72
+DO  - 10.1109/MICAI.2009.12
+AN  - WOS:000276343000011
+ER  -
+
+TY  - CPAPER
+AU  - Gonzalez de Miguel, AM
+ED  - Devedzic, V
+TI  - Behavior-oriented views of intelligence: Models and systems for complex autonomous agents
+T2  - Proceedings of the IASTED International Conference on Artificial Intelligence and Applications
+CP  - IASTED International Conference on Artificial Intelligence and Applications
+SN  - 978-0-88986-629-4
+PY  - 2007
+SP  - 156
+EP  - 161
+AN  - WOS:000246292900028
+ER  -
+
