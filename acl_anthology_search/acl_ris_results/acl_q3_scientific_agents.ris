@@ -1,0 +1,108 @@
+TY  - CONF
+TI  - All That Glitters is Not Novel: Plagiarism in AI Generated Research
+AU  - Gupta, Tarun
+AU  - Pruthi, Danish
+PY  - 2025
+DA  - 2025/July
+T2  - Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
+SP  - 25721
+EP  - 25738
+PB  - Association for Computational Linguistics
+DO  - 10.18653/v1/2025.acl-long.1249
+AB  - Automating scientific research is considered the final frontier of science. Recently, several papers claim autonomous research agents can generate novel research ideas. Amidst the prevailing optimism, we document a critical concern: a considerable fraction of such research documents are smartly plagiarized. Unlike past efforts where experts evaluate the novelty and feasibility of research ideas, we request 13 experts to operate under a different situational logic: to identify similarities between LLM-generated research documents and existing work. Concerningly, the experts identify 24% of the 50 evaluated research documents to be either paraphrased (with one-to-one methodological mapping), or significantly borrowed from existing work. These reported instances are cross-verified by authors of the source papers. Experts find an additional 32% ideas to partially overlap with prior work, and a small fraction to be completely original. Problematically, these LLM-generated research documents do not acknowledge original sources, and bypass inbuilt plagiarism detectors. Lastly, through controlled experiments we show that automated plagiarism detectors are inadequate at catching plagiarized ideas from such systems. We recommend a careful assessment of LLM-generated research, and discuss the implications of our findings on academic publishing.
+AN  - 2025.acl-long.1249
+ID  - 2025.acl-long.1249
+UR  - https://aclanthology.org/2025.acl-long.1249/
+L1  - https://aclanthology.org/2025.acl-long.1249.pdf
+KW  - ACL search Q3: AI scientists and scientific agents
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q3
+ER  -
+
+TY  - CONF
+TI  - AutoSDT: Scaling Data-Driven Discovery Tasks Toward Open Co-Scientists
+AU  - Li, Yifei
+AU  - Moussa, Hanane Nour
+AU  - Chen, Ziru
+AU  - Chen, Shijie
+AU  - Yu, Botao
+AU  - Xue, Mingyi
+AU  - Burns, Benjamin
+AU  - Chiu, Tzu-Yao
+AU  - Dey, Vishal
+AU  - Lu, Zitong
+AU  - Wei, Chen
+AU  - Zhang, Qianheng
+AU  - Zhang, Tianyu
+AU  - Gao, Song
+AU  - Huang, Xuhui
+AU  - Ning, Xia
+AU  - Ahmed, Nesreen K.
+AU  - Payani, Ali
+AU  - Sun, Huan
+PY  - 2025
+DA  - 2025/November
+T2  - Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing
+SP  - 30396
+EP  - 30418
+PB  - Association for Computational Linguistics
+DO  - 10.18653/v1/2025.emnlp-main.1546
+AB  - Despite long-standing efforts in accelerating scientific discovery with AI, building AI co-scientists remains challenging due to limited high-quality data for training and evaluation. To tackle this data scarcity issue, we present AutoSDT, an automatic pipeline that collects high-quality coding tasks in real-world data-driven discovery workflows. AutoSDT leverages the coding capabilities and parametric knowledge of LLMs to search for diverse sources, select ecologically valid tasks, and synthesize accurate task instructions and code solutions. Using our pipeline, we construct AutoSDT-5K, a dataset of 5,404 coding tasks for data-driven discovery that covers four scientific disciplines and 756 unique Python packages. To the best of our knowledge, AutoSDT-5K is the only automatically collected and the largest open dataset for data-driven scientific discovery. Expert feedback on a subset of 256 tasks shows the effectiveness of AutoSDT: 93% of the collected tasks are ecologically valid, and 92.2% of the synthesized programs are functionally correct. Trained on AutoSDT-5K, the Qwen2.5-Coder-Instruct LLM series, dubbed AutoSDT-Coder, show substantial improvement on two challenging data-driven discovery benchmarks, ScienceAgentBench and DiscoveryBench. Most notably, AutoSDT-Coder-32B reaches the same level of performance as GPT-4o on ScienceAgentBench with a success rate of 7.8%, doubling the performance of its base model. On DiscoveryBench, it lifts the hypothesis matching score to 8.1, bringing a 17.4% relative improvement and closing the gap between open-weight models and GPT-4o.
+AN  - 2025.emnlp-main.1546
+ID  - 2025.emnlp-main.1546
+UR  - https://aclanthology.org/2025.emnlp-main.1546/
+L1  - https://aclanthology.org/2025.emnlp-main.1546.pdf
+KW  - ACL search Q3: AI scientists and scientific agents
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q3
+ER  -
+
+TY  - CONF
+TI  - Many Heads Are Better Than One: Improved Scientific Idea Generation by A LLM-Based Multi-Agent System
+AU  - Su, Haoyang
+AU  - Chen, Renqi
+AU  - Tang, Shixiang
+AU  - Yin, Zhenfei
+AU  - Zheng, Xinzhe
+AU  - Li, Jinzhe
+AU  - Qi, Biqing
+AU  - Wu, Qi
+AU  - Li, Hui
+AU  - Ouyang, Wanli
+AU  - Torr, Philip
+AU  - Zhou, Bowen
+AU  - Dong, Nanqing
+PY  - 2025
+DA  - 2025/July
+T2  - Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
+SP  - 28201
+EP  - 28240
+PB  - Association for Computational Linguistics
+DO  - 10.18653/v1/2025.acl-long.1368
+AB  - The rapid advancement of scientific progress requires innovative tools that can accelerate knowledge discovery. Although recent AI methods, particularly large language models (LLMs), have shown promise in tasks such as hypothesis generation and experimental design, they fall short of replicating the collaborative nature of real-world scientific practices, where diverse experts work together in teams to tackle complex problems. To address the limitations, we propose an LLM-based multi-agent system, i.e., Virtual Scientists (VIRSCI), designed to mimic the teamwork inherent in scientific research. VIRSCI organizes a team of agents to collaboratively generate, evaluate, and refine research ideas. Through comprehensive experiments, we demonstrate that this multi-agent approach outperforms the state-of-the-art method in producing novel scientific ideas. We further investigate the collaboration mechanisms that contribute to its tendency to produce ideas with higher novelty, offering valuable insights to guide future research and illuminating pathways toward building a robust system for autonomous scientific discovery. The code is available at https://github.com/open-sciencelab/Virtual-Scientists.
+AN  - 2025.acl-long.1368
+ID  - 2025.acl-long.1368
+UR  - https://aclanthology.org/2025.acl-long.1368/
+L1  - https://aclanthology.org/2025.acl-long.1368.pdf
+KW  - ACL search Q3: AI scientists and scientific agents
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q3
+ER  -
+
+TY  - CONF
+TI  - The Erosion of LLM Signatures: Can We Still Distinguish Human and LLM-Generated Scientific Ideas after Iterative Paraphrasing?
+AU  - Shahriar, Sadat
+AU  - Ayoobi, Navid
+AU  - Mukherjee, Arjun
+PY  - 2025
+DA  - 2025/September
+T2  - Proceedings of the 15th International Conference on Recent Advances in Natural Language Processing - Natural Language Processing in the Generative AI Era
+SP  - 1118
+EP  - 1126
+PB  - INCOMA Ltd., Shoumen, Bulgaria
+AB  - With the increasing reliance on LLMs as research agents, distinguishing between LLM and human-generated ideas has become crucial for understanding the cognitive nuances of LLMs’ research capabilities. While detecting LLM-generated text has been extensively studied, distinguishing human vs LLM-generated *scientific ideas* remains an unexplored area. In this work, we systematically evaluate the ability of state-of-the-art (SOTA) machine learning models to differentiate between human and LLM-generated ideas, particularly after successive paraphrasing stages. Our findings highlight the challenges SOTA models face in source attribution, with detection performance declining by an average of 25.4% after five consecutive paraphrasing stages. Additionally, we demonstrate that incorporating the research problem as contextual information improves detection performance by up to 2.97%. Notably, our analysis reveals that detection algorithms struggle significantly when ideas are paraphrased into a simplified, non-expert style, contributing the most to the erosion of distinguishable LLM signatures.
+AN  - 2025.ranlp-1.129
+ID  - 2025.ranlp-1.129
+UR  - https://aclanthology.org/2025.ranlp-1.129/
+L1  - https://aclanthology.org/2025.ranlp-1.129.pdf
+KW  - ACL search Q3: AI scientists and scientific agents
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q3
+ER  -
+
