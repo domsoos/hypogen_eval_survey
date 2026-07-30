@@ -1,48 +1,4 @@
 TY  - CONF
-TI  - A Comparison of Methods to Bias Translation Toward Portuguese Variants
-AU  - Costa, Catarina
-AU  - Padó, Sebastian
-PY  - 2026
-DA  - 2026/April
-T2  - Proceedings of the 17th International Conference on Computational Processing of Portuguese (PROPOR 2026) - Vol. 1
-SP  - 78
-EP  - 92
-PB  - Association for Computational Linguistics
-AB  - Portuguese serves as the official language of multiple countries across four continents. It is classified into two primary variants (European Portuguese and Brazilian Portuguese), but there is limited research on and resources for European Portuguese compared to the Brazilian variant.In this paper, we consider the task of Machine Translation (MT) into Portuguese. Given the resource imbalance, standard MT systems produce translations that are typically closer to the Brazilian standard. We compare four methods available to bias the translation toward the minority European Portuguese variant that target different places in the MT lifecycle: (1) reranking n-best MT outputs according to a variant classifier; (2) biasing hypothesis generation at inference time toward the target variant; (3) fine-tuning for the target variants; (4) moving completely to an LLM-based approach. We find that all methods can bias translation outputs to an extent. The LLM-based approach yields numerically the highest results, but the impact of memorisation remains unclear.
-AN  - 2026.propor-1.8
-ID  - 2026.propor-1.8
-UR  - https://aclanthology.org/2026.propor-1.8/
-L1  - https://aclanthology.org/2026.propor-1.8.pdf
-KW  - ACL search Q1: Core scientific hypothesis generation and evaluation
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q1
-ER  -
-
-TY  - CONF
-TI  - Automated Creativity Evaluation of Language Models Across Open-Ended Tasks
-AU  - Sen, Tan Min
-AU  - Chun, Zachary Choy Kit
-AU  - Alsagoff, Syed Ali Redha
-AU  - Wangsajaya, Nadya Yuki
-AU  - Mohor, Banerjee
-AU  - Saikia, Swaagat Bikash
-AU  - Chan, Alvin
-PY  - 2026
-DA  - 2026/July
-T2  - Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
-SP  - 23139
-EP  - 23173
-PB  - Association for Computational Linguistics
-DO  - 10.18653/v1/2026.acl-long.1061
-AB  - Large language models (LLMs) have achieved remarkable progress in language understanding, reasoning, and generation, sparking growing interest in their creative potential. Realizing this potential requires systematic and scalable methods for evaluating creativity across diverse tasks. However, most existing creativity metrics are tightly coupled to specific tasks, embedding domain assumptions into the evaluation process, and limiting scalability and generality. To address this gap, we introduce an automated, domain-agnostic framework for quantifying LLM creativity across open-ended tasks. Our approach separates the measurement apparatus from the creative task itself, enabling scalable, task-agnostic assessment. Divergent creativity is measured using semantic entropy, a reference-free and robust metric for novelty and diversity, validated against human annotations, LLM-based novelty judgments and baseline diversity measures. Convergent creativity is assessed via a novel retrieval-based multi-agent judge framework that delivers context-sensitive evaluation of task fulfilment with over 60% improved efficiency. We validate our framework in three qualitatively distinct domains: problem-solving (MacGyver), research ideation (HypoGen), and creative writing (BookMIA), using a broad suite of LLMs. Empirical results show that our framework reliably captures key facets of creativity, including novelty, diversity, and task fulfilment, and reveal how model properties, such as size, temperature, recency, and reasoning, impact creative performance. Our work establishes a reproducible and generalizable standard for automated LLM creativity evaluation, paving the way for scalable benchmarking and accelerating progress in creative AI.
-AN  - 2026.acl-long.1061
-ID  - 2026.acl-long.1061
-UR  - https://aclanthology.org/2026.acl-long.1061/
-L1  - https://aclanthology.org/2026.acl-long.1061.pdf
-KW  - ACL search Q1: Core scientific hypothesis generation and evaluation
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q1
-ER  -
-
-TY  - CONF
 TI  - BenchMarker: An Education-Inspired Toolkit for Highlighting Flaws in Multiple-Choice Benchmarks
 AU  - Balepur, Nishant
 AU  - Rajasekaran, Bhavya
@@ -134,9 +90,8 @@ AN  - 2026.acl-demo.10
 ID  - 2026.acl-demo.10
 UR  - https://aclanthology.org/2026.acl-demo.10/
 L1  - https://aclanthology.org/2026.acl-demo.10.pdf
-KW  - ACL search Q2: Explicit LLM-as-a-judge methods in scientific research
 KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q2, Q5
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
 ER  -
 
 TY  - CONF
@@ -160,30 +115,6 @@ N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
 ER  -
 
 TY  - CONF
-TI  - Debate-of-Thoughts: Resolving Knowledge Conflicts in LLMs Through Internal Deliberation
-AU  - Li, Guocong
-AU  - Hu, Qirui
-AU  - Wang, Ping
-AU  - Zhang, Guofeng
-AU  - Wu, Jian
-AU  - Xu, Hongxia
-PY  - 2026
-DA  - 2026/July
-T2  - Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
-SP  - 35674
-EP  - 35696
-PB  - Association for Computational Linguistics
-DO  - 10.18653/v1/2026.acl-long.1651
-AB  - Large Language Models enhanced with Retrieval Augmented Generation show strong potential in knowledge intensive tasks. However, they often encounter knowledge conflicts, where retrieved information contradicts the model’s internal knowledge or exhibits internal inconsistencies. Existing methods treat this as a simplistic binary choice, forcing models to blindly trust external contexts or rigidly rely on memory, resulting in unreliable predictions that swing between sycophancy and stubbornness. We argue that a more principled approach is to embrace contradictions as opportunities for deeper reasoning. To this end, we introduce Debate-of-Thoughts (DoT), a framework that transforms conflict resolution into an active deliberation process. DoT guides a single model through three phases: 1) hypothesis generation, which forms competing perspectives; 2) internal debate, where the model acts as both a proponent and a critic to stress test each view; and 3) adjudication, where a judge module evaluates arguments based on evidence and logical consistency. We implement DoT via two complementary strategies: inference time prompt chaining and supervised fine tuning. Experiments across multiple conflict benchmarks show that DoT consistently outperforms state-of-the-art methods, while generating transparent debate transcripts that explain its decisions. By improving both accuracy and interpretability under knowledge conflicts, DoT establishes a more reliable paradigm for retrieval augmented generation systems.
-AN  - 2026.acl-long.1651
-ID  - 2026.acl-long.1651
-UR  - https://aclanthology.org/2026.acl-long.1651/
-L1  - https://aclanthology.org/2026.acl-long.1651.pdf
-KW  - ACL search Q1: Core scientific hypothesis generation and evaluation
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q1
-ER  -
-
-TY  - CONF
 TI  - DPC: Training-Free Text-to-SQL Candidate Selection via Dual-Paradigm Consistency
 AU  - Li, Boyan
 AU  - Hei, Ou Ocean Kun
@@ -203,52 +134,6 @@ UR  - https://aclanthology.org/2026.acl-long.313/
 L1  - https://aclanthology.org/2026.acl-long.313.pdf
 KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
 N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
-ER  -
-
-TY  - CONF
-TI  - EvoNarrator: Modeling Scientific Evolution for Feasible Hypothesis Generation
-AU  - Le, Xiaoying
-AU  - Qian, Pengfei
-AU  - Zhai, Yuanzhao
-AU  - Zhang, Xu
-AU  - Liu, Qian
-AU  - Dawei, Feng
-AU  - Ding, Bo
-PY  - 2026
-DA  - 2026/July
-T2  - Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
-SP  - 11846
-EP  - 11865
-PB  - Association for Computational Linguistics
-DO  - 10.18653/v1/2026.acl-long.544
-AB  - Scientific discovery evolution does not emerge in isolation but stems from the structural deepening and recombination of existing functionalities. However, current automated hypothesis generation methods, constrained by the statistical co-occurrence nature of Large Language Models (LLMs), lack perception of temporal causality and the “evolutionary patterns” inherent in scientific development. Consequently, they often yield superficial combinations that are logically infeasible. To address this, we propose EvoNarrator, a framework for hypothesis generation based on evolutionary narratives. We first extract structured P-M-L-F (Problem, Method, Limitation, Future Work) quadruples from citation networks. Subsequently, we introduce the SocketMatch mechanism, which eliminates logical disconnects between methods and problems by assessing their deep semantic compatibility. Finally, utilizing three macro patterns—Chain, Divergence, and Convergence—we constrain the generation process within historically logical derivation paths. Furthermore, double-blind expert reviews yielded an average score of 4.80/5.00 across novelty, feasibility, theoretical, and Logical. Additionally, hindcasting experiments validated its predictive foresight. Crucially, ablation studies indicate that integrating evolutionary patterns facilitates a paradigm shift from conservative incrementalism to theoretically grounded structural innovation. The code is available at https://github.com/xiyii-star/EvoNarrator.
-AN  - 2026.acl-long.544
-ID  - 2026.acl-long.544
-UR  - https://aclanthology.org/2026.acl-long.544/
-L1  - https://aclanthology.org/2026.acl-long.544.pdf
-KW  - ACL search Q1: Core scientific hypothesis generation and evaluation
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q1
-ER  -
-
-TY  - CONF
-TI  - EvoSci: A Bio-Inspired Multi-Agent Framework for the Evolution of Scientific Discovery
-AU  - Xiong, Xiaoyu
-AU  - Ren, Yuqi
-AU  - Xiong, Deyi
-PY  - 2026
-DA  - 2026/July
-T2  - Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
-SP  - 9846
-EP  - 9878
-PB  - Association for Computational Linguistics
-DO  - 10.18653/v1/2026.acl-long.447
-AB  - Large language models (LLMs), have shown strong potential in scientific discovery, yet existing methods still face substantial challenges in the design of research workflows and multi-role collaboration mechanisms. To mitigate these issues, we propose EvoSci, a multi-agent scientific collaboration framework, which integrates bio-inspired evolution with knowledge graph modeling. To iteratively generate, evaluate, and refine research ideas, EvoSci incorporates multiple role-based agents, including mentor, researcher, and reviewer. By combining collaborative reasoning, shared memory, and evolutionary feedback, EvoSci significantly enhances the coherence and creativity of scientific exploration. Experiments on real-world research topics demonstrate that EvoSci significantly outperforms strong baselines in LLM-based structured peer-review and comparative ranking evaluations, achieving the highest overall peer-review score (ICLR 4.90) and top ranking (Top-10 = 54). These results suggest its superiority in both scientific idea generation and continuous discovery.
-AN  - 2026.acl-long.447
-ID  - 2026.acl-long.447
-UR  - https://aclanthology.org/2026.acl-long.447/
-L1  - https://aclanthology.org/2026.acl-long.447.pdf
-KW  - ACL search Q1: Core scientific hypothesis generation and evaluation
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q1
 ER  -
 
 TY  - CONF
@@ -368,75 +253,6 @@ N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
 ER  -
 
 TY  - CONF
-TI  - InkSight: Towards AI-Aided Historical Manuscript Analysis
-AU  - Sakhovskiy, Andrey
-AU  - Ulitin, Ivan
-AU  - Bojarskaja, Emilia
-AU  - Kokh, Vladimir
-AU  - Murtazin, Ruslan
-AU  - Novopoltsev, Maxim
-AU  - Budennyy, Semen
-PY  - 2026
-DA  - 2026/March
-T2  - Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (Volume 3: System Demonstrations)
-SP  - 271
-EP  - 281
-PB  - Association for Computational Linguistics
-DO  - 10.18653/v1/2026.eacl-demo.20
-AB  - Large-scale scientific research on historical documents — particularly medieval Arabic manuscripts — remains challenging due to the need for advanced paleographic and linguistic training, the large volume of hand-written materials, and the absence of assisting software. In this paper, we propose InkSight, the first end-to-end Arabic manuscript analysis tool for manuscript-based analytics and research hypothesis testing. InkSight integrates three key components: (i) an Optical Character Recognition (OCR) module utilizing a Large Visual Language Model (LVLM); (ii) a lightweight document indexing and information retrieval module that enables query-based evidence retrieval from book-length manuscripts; and (iii) a flexible Large Language Model (LLM) prompting interface factually grounded to the given manuscript via Retrieval-Augmented Generation (RAG). Empirical evaluation on the existing KITAB OCR benchmark and our in-house dataset of ancient Arabic manuscripts has revealed that historical research can be effectively supported using smaller fine-tuned LVLMs without relying on larger proprietary models. The live web demo for InkSight is available freely at: https://inksight.ru and the source code for InkSight is publicly available at Github: https://github.com/ds-hub-sochi/InkSight-tool.
-AN  - 2026.eacl-demo.20
-ID  - 2026.eacl-demo.20
-UR  - https://aclanthology.org/2026.eacl-demo.20/
-L1  - https://aclanthology.org/2026.eacl-demo.20.pdf
-KW  - ACL search Q1: Core scientific hypothesis generation and evaluation
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q1
-ER  -
-
-TY  - CONF
-TI  - MOOSE-Copilot: A Web-Based Interactive Assistant for Unified Exploratory and Fine-Grained Scientific Hypothesis Discovery
-AU  - An, Hongran
-AU  - Yang, Zonglin
-PY  - 2026
-DA  - 2026/July
-T2  - Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 3: System Demonstrations)
-SP  - 861
-EP  - 869
-PB  - Association for Computational Linguistics
-DO  - 10.18653/v1/2026.acl-demo.85
-AB  - Large language models (LLMs) show remarkable potential in scientific hypothesis discovery. However, existing approaches face two critical limitations: they treat divergent exploratory search and convergent fine-grained refinement as isolated tasks, and they operate autonomously with little to no human guidance. We present MOOSE-Copilot, the first unified framework to bridge this abstraction gap through a formalized human–AI interaction (HAII) protocol. Our system empowers scientists to steer the generative process via three explicit signals: initial blueprints, inter-stage routing, and intra-stage feedback. Using an oracle-simulated evaluation in which an LLM provides idealized expert signals, we show that injecting these structured signals significantly outperforms purely autonomous baselines, characterizing the gains achievable under high-quality guidance. Furthermore, we build a web-based interface that turns the framework into a no-code workflow: researchers pose a question, watch the hypothesis search unfold as an interactive tree, and steer it by selecting hypotheses, routing between stages, and injecting feedback—no command-line agents required. This makes end-to-end hypothesis discovery directly accessible to interdisciplinary researchers.
-AN  - 2026.acl-demo.85
-ID  - 2026.acl-demo.85
-UR  - https://aclanthology.org/2026.acl-demo.85/
-L1  - https://aclanthology.org/2026.acl-demo.85.pdf
-KW  - ACL search Q1: Core scientific hypothesis generation and evaluation
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q1
-ER  -
-
-TY  - CONF
-TI  - MoRI: Learning Motivation-Grounded Reasoning for Scientific Ideation in Large Language Models
-AU  - Gu, Chenyang
-AU  - Cheng, Jiahao
-AU  - Zhang, Meicong
-AU  - Zheng, Pujun
-AU  - Zheng, Jinquan
-AU  - He, Guoxiu
-PY  - 2026
-DA  - 2026/July
-T2  - Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
-SP  - 34838
-EP  - 34869
-PB  - Association for Computational Linguistics
-DO  - 10.18653/v1/2026.acl-long.1609
-AB  - Scientific ideation aims to propose novel solutions within a given scientific context. Existing LLM-based agentic approaches emulate human research workflows, yet inadequately model scientific reasoning, resulting in surface-level conceptual recombinations that lack technical depth and scientific grounding. To address this issue, we propose MoRI (Motivation-grounded Reasoning for Scientific Ideation), a framework that enables LLMs to explicitly learn the reasoning process from research motivations to methodologies. The base LLM is initialized via supervised fine-tuning to generate a research motivation from a given context, and is subsequently trained under a composite reinforcement learning reward that approximates scientific rigor: (1) entropy-aware information gain encourages the model to uncover and elaborate high-complexity technical details grounded in ground-truth methodologies, and (2) contrastive semantic gain constrains the reasoning trajectory to remain conceptually aligned with scientifically valid solutions. Empirical results show that MoRI consistently outperforms strong commercial LLMs and complex agentic baselines across multiple dimensions, including novelty, technical rigor, and feasibility. The code is available on GitHub.
-AN  - 2026.acl-long.1609
-ID  - 2026.acl-long.1609
-UR  - https://aclanthology.org/2026.acl-long.1609/
-L1  - https://aclanthology.org/2026.acl-long.1609.pdf
-KW  - ACL search Q1: Core scientific hypothesis generation and evaluation
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q1
-ER  -
-
-TY  - CONF
 TI  - Never Truly Out of Fashion: A Retrospective Look at Evaluation in NLG
 AU  - Schmidtová, Patrícia
 AU  - Mahamood, Saad
@@ -454,29 +270,6 @@ UR  - https://aclanthology.org/2026.retroeval-main.8/
 L1  - https://aclanthology.org/2026.retroeval-main.8.pdf
 KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
 N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
-ER  -
-
-TY  - CONF
-TI  - OPINE: A Prior-calibrated Scoring Framework for LLM-based Multi-label Scientific Opinion Classification
-AU  - Zhang, Mengting
-AU  - Pan, Gaofeng
-AU  - Zhang, Zhixiong
-AU  - Li, Yang
-AU  - Zhang, Guangyin
-PY  - 2026
-DA  - 2026/July
-T2  - Findings of the Association for Computational Linguistics: ACL 2026
-SP  - 32313
-EP  - 32333
-PB  - Association for Computational Linguistics
-DO  - 10.18653/v1/2026.findings-acl.1617
-AB  - Scientific opinion classification based on discourse functions provides a structured semantic basis for analytical tasks such as gap identification and hypothesis generation. However, this task is uniquely challenged by the multi-label nature of scientific expressions and AIMRaD structural constraints. Existing LLM-based methods typically rely on direct label generation, which obscures decision logic, or treat discourse information as passive context rather than a structural prior. We propose OPINE, a multi-stage framework that reformulates classification as a controllable scoring-calibration-refinement pipeline. By decoupling textual evidence from decision logic, OPINE generates independent label-wise affinity scores calibrated by AIMRaD priors. To resolve the multi-label challenge, we introduce a quantile-based decoding rule to naturally capture co-existing roles, alongside a pairwise refinement mechanism to mitigate confusion between similar categories. We contribute a new benchmark of 18 discourse functions across diverse sections. Experimental results show that OPINE generally outperforms strong baselines, reaching F1 scores of 63.20%, 53.68%, and 63.22% under Micro, Macro, and Example settings, respectively. Our analysis reveals that integrating discourse structures as explicit priors is superior to conventional passive context integration, while pairwise refinement successfully mitigates confusion between functionally similar categories. The code and dataset are available at https://github.com/znoodle63/OPINE.
-AN  - 2026.findings-acl.1617
-ID  - 2026.findings-acl.1617
-UR  - https://aclanthology.org/2026.findings-acl.1617/
-L1  - https://aclanthology.org/2026.findings-acl.1617.pdf
-KW  - ACL search Q1: Core scientific hypothesis generation and evaluation
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q1
 ER  -
 
 TY  - CONF
@@ -529,34 +322,6 @@ N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
 ER  -
 
 TY  - CONF
-TI  - ResearchBench: Benchmarking LLMs in Scientific Discovery via Inspiration-Based Task Decomposition
-AU  - Liu, Yujie
-AU  - Yang, Zonglin
-AU  - Xie, Tong
-AU  - Ni, Jinjie
-AU  - Gao, Ben
-AU  - Li, Yuqiang
-AU  - Tang, Shixiang
-AU  - Ouyang, Wanli
-AU  - Cambria, Erik
-AU  - Zhou, Dongzhan
-PY  - 2026
-DA  - 2026/July
-T2  - Findings of the Association for Computational Linguistics: ACL 2026
-SP  - 13187
-EP  - 13207
-PB  - Association for Computational Linguistics
-DO  - 10.18653/v1/2026.findings-acl.644
-AB  - Large language models (LLMs) have shown potential in assisting scientific research, yet their ability to discover high-quality research hypotheses remains unexamined due to the lack of a dedicated benchmark. To address this gap, we introduce the first large-scale benchmark for evaluating LLMs on a sufficient set of scientific discovery sub-tasks—inspiration retrieval, hypothesis composition, and hypothesis ranking—where sufficient means that perfectly solving these sub-tasks perfectly solves the overall discovery task. We develop an automated LLM-based framework that extracts critical components—research questions, background surveys, inspirations, and hypotheses—from papers across 12 disciplines, with expert validation confirming its accuracy. To prevent data contamination, we focus exclusively on publications from 2024 onward, ensuring minimal overlap with LLM pretraining data; our automated framework further enables automatic extraction of even more recent papers as LLM pretraining cutoffs advance, supporting scalable and contamination-free automatic renewal of this discovery benchmark. Our evaluation shows that, across disciplines, LLMs excel at inspiration retrieval—an out-of-distribution task—suggesting their ability to surface novel knowledge associations.
-AN  - 2026.findings-acl.644
-ID  - 2026.findings-acl.644
-UR  - https://aclanthology.org/2026.findings-acl.644/
-L1  - https://aclanthology.org/2026.findings-acl.644.pdf
-KW  - ACL search Q1: Core scientific hypothesis generation and evaluation
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q1
-ER  -
-
-TY  - CONF
 TI  - Rethinking Creativity Evaluation: A Critical Analysis of Existing Creativity Evaluations
 AU  - Lu, Li-Chun
 AU  - Liu, Miri
@@ -576,9 +341,8 @@ AN  - 2026.eacl-long.297
 ID  - 2026.eacl-long.297
 UR  - https://aclanthology.org/2026.eacl-long.297/
 L1  - https://aclanthology.org/2026.eacl-long.297.pdf
-KW  - ACL search Q1: Core scientific hypothesis generation and evaluation
 KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q1, Q5
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
 ER  -
 
 TY  - CONF
@@ -599,30 +363,6 @@ UR  - https://aclanthology.org/2026.acl-long.229/
 L1  - https://aclanthology.org/2026.acl-long.229.pdf
 KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
 N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
-ER  -
-
-TY  - CONF
-TI  - RExBench: Can coding agents autonomously implement AI research extensions?
-AU  - Edwards, Nicholas
-AU  - Lee, Yukyung
-AU  - Mao, Yujun Audrey
-AU  - Qin, Yulu
-AU  - Schuster, Sebastian
-AU  - Kim, Najoung
-PY  - 2026
-DA  - 2026/July
-T2  - Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
-SP  - 16380
-EP  - 16417
-PB  - Association for Computational Linguistics
-DO  - 10.18653/v1/2026.acl-long.745
-AB  - Agents based on Large Language Models (LLMs) have shown promise for performing sophisticated software engineering tasks autonomously. In addition, there has been progress towards developing agents that can perform parts of the research pipeline in machine learning and the natural sciences. We argue that research extension and its implementation is a critical capability for such systems, and introduce RExBench to support the evaluation of this capability. RExBench is a benchmark consisting of realistic extensions of 12 research papers that aim to investigate novel research hypotheses. Each task is set up as an extension to an existing research paper and codebase, accompanied by domain expert-written instructions. RExBench is robust to data contamination, and supports an automatic evaluation infrastructure that executes agent outputs to determine whether the success criteria are met. We use this benchmark to evaluate 12 LLM agents implemented using two different frameworks: aider and OpenHands. We find that all agents fail to autonomously implement the majority of the extensions, with the best agent at around 33% success rate. Although the success rate improves with additional human-written hints, the best performance under this setting remains below 44%. This indicates that current agents are still short of being able to handle realistic research extension tasks without substantial human guidance.
-AN  - 2026.acl-long.745
-ID  - 2026.acl-long.745
-UR  - https://aclanthology.org/2026.acl-long.745/
-L1  - https://aclanthology.org/2026.acl-long.745.pdf
-KW  - ACL search Q1: Core scientific hypothesis generation and evaluation
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q1
 ER  -
 
 TY  - CONF
@@ -650,32 +390,8 @@ AN  - 2026.acl-long.1277
 ID  - 2026.acl-long.1277
 UR  - https://aclanthology.org/2026.acl-long.1277/
 L1  - https://aclanthology.org/2026.acl-long.1277.pdf
-KW  - ACL search Q2: Explicit LLM-as-a-judge methods in scientific research
 KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q2, Q5
-ER  -
-
-TY  - CONF
-TI  - Scattered Hypothesis Generation for Open-Ended Event Forecasting
-AU  - Chang, He
-AU  - Tao, Zhulin
-AU  - Yang, Lifang
-AU  - Huang, Xianglin
-AU  - Ma, Yunshan
-PY  - 2026
-DA  - 2026/July
-T2  - Findings of the Association for Computational Linguistics: ACL 2026
-SP  - 17288
-EP  - 17304
-PB  - Association for Computational Linguistics
-DO  - 10.18653/v1/2026.findings-acl.855
-AB  - Despite the importance of open-ended event forecasting for risk management, current LLM-based methods predominantly target only the most probable outcomes, neglecting the intrinsic uncertainty of real-world events. To bridge this gap, we advance open-ended event forecasting from pinpoint forecasting to scatter forecasting by introducing the proxy task of hypothesis generation. This paradigm aims to generate an inclusive and diverse set of hypotheses that broadly cover the space of plausible future events. To this end, we propose SCATTER, a reinforcement learning framework that jointly optimizes inclusiveness and diversity of the hypothesis. Specifically, we design a novel hybrid reward that consists of three components: 1) a validity reward that measures semantic alignment with observed events, 2) an intra-group diversity reward to encourage variation within sampled responses, and 3) an inter-group diversity reward to promote exploration across distinct modes. By integrating the validity-gated score into the overall objective, we confine the exploration of wildly diversified outcomes to contextually plausible futures, preventing the mode collapse issue. Experiments on two real-world benchmark datasets, i.e., OpenForecast and OpenEP, demonstrate that SCATTER significantly outperforms strong baselines. Our code is available at https://github.com/Sambac1/SCATTER .
-AN  - 2026.findings-acl.855
-ID  - 2026.findings-acl.855
-UR  - https://aclanthology.org/2026.findings-acl.855/
-L1  - https://aclanthology.org/2026.findings-acl.855.pdf
-KW  - ACL search Q1: Core scientific hypothesis generation and evaluation
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q1
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
 ER  -
 
 TY  - CONF
@@ -704,28 +420,6 @@ UR  - https://aclanthology.org/2026.eacl-demo.23/
 L1  - https://aclanthology.org/2026.eacl-demo.23.pdf
 KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
 N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
-ER  -
-
-TY  - CONF
-TI  - Simulating Crisis Cognition: A Computational Framework for Hypothesis Generation in Crisis Communication
-AU  - Yuan, Changsen
-AU  - Zhou, Yanghao
-AU  - Feng, Chong
-AU  - Shi, Ge
-PY  - 2026
-DA  - 2026/July
-T2  - Findings of the Association for Computational Linguistics: ACL 2026
-SP  - 14140
-EP  - 14148
-PB  - Association for Computational Linguistics
-DO  - 10.18653/v1/2026.findings-acl.692
-AB  - Large Language Models (LLMs) have demonstrated remarkable fidelity in simulating social dynamics, yet using them to inform high-stakes crisis policy requires rigorous causal evaluation. We introduce CRISIS COGNITION, a framework rooted in generative Structural Causal Models (SCM) that functions as an in-silico hypothesis generator. By coupling real-world telemetry with 1,813 agents, we conduct a counterfactual simulation to evaluate communication strategies. Unlike prior descriptive work, we employ a Stratified Analysis to strictly control for personality confounders. Our simulations generate a computational hypothesis: within the LLM’s generative process, emotional scaffolding serves as a functional prerequisite to unlock valid reasoning paths for high-neuroticism agents. Crucially, we identify a “Sedative Effect” in simultaneous interventions, confirming that the sequence of support is as vital as the content. This framework provides a rigorous testbed for evaluating strategies before human-subject trials.
-AN  - 2026.findings-acl.692
-ID  - 2026.findings-acl.692
-UR  - https://aclanthology.org/2026.findings-acl.692/
-L1  - https://aclanthology.org/2026.findings-acl.692.pdf
-KW  - ACL search Q1: Core scientific hypothesis generation and evaluation
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q1
 ER  -
 
 TY  - CONF
@@ -772,31 +466,6 @@ N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
 ER  -
 
 TY  - CONF
-TI  - VIGIL: Defending LLM Agents Against Tool-Stream Injection via Verify-Before-Commit
-AU  - Lin, Junda
-AU  - Zhou, Zhaomeng
-AU  - Zheng, Zhi
-AU  - Liu, Shuochen
-AU  - Xu, Tong
-AU  - Chen, Yong
-AU  - Chen, Enhong
-PY  - 2026
-DA  - 2026/July
-T2  - Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
-SP  - 9764
-EP  - 9785
-PB  - Association for Computational Linguistics
-DO  - 10.18653/v1/2026.acl-long.443
-AB  - LLM agents operating in open environments face escalating risks from indirect prompt injection, particularly within the tool stream where manipulated metadata and runtime feedback hijack execution flow. Existing defenses encounter a critical dilemma as advanced models prioritize injected rules due to strict alignment while static protection mechanisms sever the feedback loop required for adaptive reasoning. To reconcile this conflict, we propose VIGIL, a framework that shifts the paradigm from restrictive isolation to a verify-before-commit protocol. By facilitating speculative hypothesis generation and enforcing safety through intent-grounded verification, VIGIL preserves reasoning flexibility while ensuring robust control. We further introduce SIREN, a benchmark comprising 959 tool stream injection cases designed to simulate pervasive threats characterized by dynamic dependencies. Extensive experiments demonstrate that VIGIL outperforms state-of-the-art dynamic defenses by reducing the attack success rate by over 22% while more than doubling the utility under attack compared to static baselines, thereby achieving an optimal balance between security and utility. Our code is available at: https://github.com/Touring-686/vigil.
-AN  - 2026.acl-long.443
-ID  - 2026.acl-long.443
-UR  - https://aclanthology.org/2026.acl-long.443/
-L1  - https://aclanthology.org/2026.acl-long.443.pdf
-KW  - ACL search Q1: Core scientific hypothesis generation and evaluation
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q1
-ER  -
-
-TY  - CONF
 TI  - Your Reasoning Model is Secretly a Reward Model - Optimization-Free Verification from Experience
 AU  - Liang, Zhenwen
 AU  - Li, Ruosen
@@ -823,122 +492,6 @@ N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
 ER  -
 
 TY  - CONF
-TI  - A benchmark for end-to-end zero-shot biomedical relation extraction with LLMs: experiments with OpenAI models
-AU  - Brokman, Aviv
-AU  - Ai, Xuguang
-AU  - Jiang, Yuhang
-AU  - Gupta, Shashank
-AU  - Kavuluru, Ramakanth
-PY  - 2025
-DA  - 2025/December
-T2  - Proceedings of the Third Workshop for Artificial Intelligence for Scientific Publications
-SP  - 44
-EP  - 55
-PB  - Association for Computational Linguistics
-DO  - 10.18653/v1/2025.wasp-main.6
-AB  - Extracting relations from scientific literature is a fundamental task in biomedical NLP because entities and relations among them drive hypothesis generation and knowledge discovery. As literature grows rapidly, relation extraction (RE) is indispensable to curate knowledge graphs to be used as computable structured and symbolic representations. With the rise of LLMs, it is pertinent to examine if it is better to skip tailoring supervised RE methods, save annotation burden, and just use zero shot RE (ZSRE) via LLM API calls. In this paper, we propose a benchmark with seven biomedical RE datasets with interesting characteristics and evaluate three Open AI models (GPT-4, o1, and GPT-OSS-120B) for end-to-end ZSRE. We show that LLM-based ZSRE is inching closer to supervised methods in performances on some datasets but still struggles on complex inputs expressing multiple relations with different predicates. Our error analysis reveals scope for improvements.
-AN  - 2025.wasp-main.6
-ID  - 2025.wasp-main.6
-UR  - https://aclanthology.org/2025.wasp-main.6/
-L1  - https://aclanthology.org/2025.wasp-main.6.pdf
-KW  - ACL search Q1: Core scientific hypothesis generation and evaluation
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q1
-ER  -
-
-TY  - CONF
-TI  - A Proposal for Evaluating the Linguistic Quality of Synthetic Spanish Corpora
-AU  - Sevilla-Requena, Lucia
-PY  - 2025
-DA  - 2025/September
-T2  - Proceedings of the 9th Student Research Workshop associated with the International Conference Recent Advances in Natural Language Processing
-SP  - 54
-EP  - 61
-PB  - INCOMA Ltd., Shoumen, Bulgaria
-AB  - Large language models (LLMs) rely heavily on high-quality training data, yet human-generated corpora face increasing scarcity due to legal and practical constraints. Synthetic data generated by LLMs is emerging as a scalable alternative; however, concerns remain about its linguistic quality and diversity. While previous research has identified potential degradation in English synthetic corpora, the effects in Spanish, a language with distinct grammatical characteristics, remain underexplored. This research proposal aims to conduct a systematic linguistic evaluation of synthetic Spanish corpora generated by state-of-the-art LLMs, comparing them with human-written texts. The study will analyse three key dimensions: lexical, syntactic, and semantic diversity, using established corpus linguistics metrics. Through this comparative framework, the proposal intends to identify potential linguistic simplifications and degradation patterns in synthetic Spanish data. Ultimately, the proposed outcome is expected to contribute valuable insights to support the creation of robust and reliable Natural Language Processing (NLP) models for Spanish.
-AN  - 2025.ranlp-stud.7
-ID  - 2025.ranlp-stud.7
-UR  - https://aclanthology.org/2025.ranlp-stud.7/
-L1  - https://aclanthology.org/2025.ranlp-stud.7.pdf
-KW  - ACL search Q1: Core scientific hypothesis generation and evaluation
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q1
-ER  -
-
-TY  - CONF
-TI  - AbGen: Evaluating Large Language Models in Ablation Study Design and Evaluation for Scientific Research
-AU  - Zhao, Yilun
-AU  - Chen, Weiyuan
-AU  - Xu, Zhijian
-AU  - Patwardhan, Manasi
-AU  - Wang, Chengye
-AU  - Liu, Yixin
-AU  - Vig, Lovekesh
-AU  - Cohan, Arman
-PY  - 2025
-DA  - 2025/July
-T2  - Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
-SP  - 12479
-EP  - 12491
-PB  - Association for Computational Linguistics
-DO  - 10.18653/v1/2025.acl-long.611
-AB  - We introduce AbGen, the first benchmark designed to evaluate the capabilities of LLMs in designing ablation studies for scientific research. AbGen consists of 2,000 expert-annotated examples derived from 677 NLP papers. In this benchmark, LLMs are tasked with generating detailed ablation study designs for a specified module or process based on the given research context. Our evaluation of leading LLMs, such as GPT-4o and Llama-3.1, highlights a significant performance gap between these models and human experts in terms of the importance, faithfulness, and soundness of the ablation study designs. Moreover, we demonstrate that current automated evaluation methods are not reliable for our task, as they show a significant discrepancy when compared to human assessment. To better investigate this, we develop AbGen-Eval, a meta-evaluation benchmark designed to assess the reliability of commonly used automated evaluation systems in measuring LLM performance on our task. We investigate various LLM-based evaluation methods on AbGen-Eval, providing insights for future research on developing more effective and reliable LLM-based evaluation systems for complex scientific tasks.
-AN  - 2025.acl-long.611
-ID  - 2025.acl-long.611
-UR  - https://aclanthology.org/2025.acl-long.611/
-L1  - https://aclanthology.org/2025.acl-long.611.pdf
-KW  - ACL search Q2: Explicit LLM-as-a-judge methods in scientific research
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q2
-ER  -
-
-TY  - CONF
-TI  - Agent Laboratory: Using LLM Agents as Research Assistants
-AU  - Schmidgall, Samuel
-AU  - Su, Yusheng
-AU  - Wang, Ze
-AU  - Sun, Ximeng
-AU  - Wu, Jialian
-AU  - Yu, Xiaodong
-AU  - Liu, Jiang
-AU  - Moor, Michael
-AU  - Liu, Zicheng
-AU  - Barsoum, Emad
-PY  - 2025
-DA  - 2025/November
-T2  - Findings of the Association for Computational Linguistics: EMNLP 2025
-SP  - 5977
-EP  - 6043
-PB  - Association for Computational Linguistics
-DO  - 10.18653/v1/2025.findings-emnlp.320
-AB  - Historically, scientific discovery has been a lengthy and costly process, demanding substantial time and resources from initial conception to final results. To accelerate scientific discovery, reduce research costs, and improve research quality, we introduce Agent Laboratory, an autonomous LLM-based framework capable of completing the entire research process. This framework accepts a human-provided research idea and progresses through three stages–literature review, experimentation, and report writing–in order to produce research, including a code repository and a research report, while enabling users to provide feedback and guidance at each stage. We deploy Agent Laboratory with various state-of-the-art LLMs and invite multiple researchers to assess its quality by participating in a survey, providing human feedback to guide the research process, and then evaluate the final paper. We found that: (1) Agent Laboratory driven by o1-preview generates the best research outcomes; (2) The generated machine learning code is able to achieve state-of-the-art performance compared to existing methods; (3) Incorporating human involvement improves the overall quality of research; (4) Agent Laboratory reduces research expenses, achieving an 84% decrease compared to previous autonomous research methods. We hope Agent Laboratory enables researchers to allocate more effort toward creative ideation rather than low-level coding and writing, ultimately accelerating scientific discovery.
-AN  - 2025.findings-emnlp.320
-ID  - 2025.findings-emnlp.320
-UR  - https://aclanthology.org/2025.findings-emnlp.320/
-L1  - https://aclanthology.org/2025.findings-emnlp.320.pdf
-KW  - ACL search Q1: Core scientific hypothesis generation and evaluation
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q1
-ER  -
-
-TY  - CONF
-TI  - All That Glitters is Not Novel: Plagiarism in AI Generated Research
-AU  - Gupta, Tarun
-AU  - Pruthi, Danish
-PY  - 2025
-DA  - 2025/July
-T2  - Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
-SP  - 25721
-EP  - 25738
-PB  - Association for Computational Linguistics
-DO  - 10.18653/v1/2025.acl-long.1249
-AB  - Automating scientific research is considered the final frontier of science. Recently, several papers claim autonomous research agents can generate novel research ideas. Amidst the prevailing optimism, we document a critical concern: a considerable fraction of such research documents are smartly plagiarized. Unlike past efforts where experts evaluate the novelty and feasibility of research ideas, we request 13 experts to operate under a different situational logic: to identify similarities between LLM-generated research documents and existing work. Concerningly, the experts identify 24% of the 50 evaluated research documents to be either paraphrased (with one-to-one methodological mapping), or significantly borrowed from existing work. These reported instances are cross-verified by authors of the source papers. Experts find an additional 32% ideas to partially overlap with prior work, and a small fraction to be completely original. Problematically, these LLM-generated research documents do not acknowledge original sources, and bypass inbuilt plagiarism detectors. Lastly, through controlled experiments we show that automated plagiarism detectors are inadequate at catching plagiarized ideas from such systems. We recommend a careful assessment of LLM-generated research, and discuss the implications of our findings on academic publishing.
-AN  - 2025.acl-long.1249
-ID  - 2025.acl-long.1249
-UR  - https://aclanthology.org/2025.acl-long.1249/
-L1  - https://aclanthology.org/2025.acl-long.1249.pdf
-KW  - ACL search Q1: Core scientific hypothesis generation and evaluation
-KW  - ACL search Q3: AI scientists and scientific agents
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q1, Q3
-ER  -
-
-TY  - CONF
 TI  - Arena-lite: Efficient and Reliable Large Language Model Evaluation via Tournament-Based Direct Comparisons
 AU  - Son, Seonil
 AU  - Oh, Ju-Min
@@ -960,118 +513,6 @@ UR  - https://aclanthology.org/2025.emnlp-main.360/
 L1  - https://aclanthology.org/2025.emnlp-main.360.pdf
 KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
 N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
-ER  -
-
-TY  - CONF
-TI  - AutoSDT: Scaling Data-Driven Discovery Tasks Toward Open Co-Scientists
-AU  - Li, Yifei
-AU  - Moussa, Hanane Nour
-AU  - Chen, Ziru
-AU  - Chen, Shijie
-AU  - Yu, Botao
-AU  - Xue, Mingyi
-AU  - Burns, Benjamin
-AU  - Chiu, Tzu-Yao
-AU  - Dey, Vishal
-AU  - Lu, Zitong
-AU  - Wei, Chen
-AU  - Zhang, Qianheng
-AU  - Zhang, Tianyu
-AU  - Gao, Song
-AU  - Huang, Xuhui
-AU  - Ning, Xia
-AU  - Ahmed, Nesreen K.
-AU  - Payani, Ali
-AU  - Sun, Huan
-PY  - 2025
-DA  - 2025/November
-T2  - Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing
-SP  - 30396
-EP  - 30418
-PB  - Association for Computational Linguistics
-DO  - 10.18653/v1/2025.emnlp-main.1546
-AB  - Despite long-standing efforts in accelerating scientific discovery with AI, building AI co-scientists remains challenging due to limited high-quality data for training and evaluation. To tackle this data scarcity issue, we present AutoSDT, an automatic pipeline that collects high-quality coding tasks in real-world data-driven discovery workflows. AutoSDT leverages the coding capabilities and parametric knowledge of LLMs to search for diverse sources, select ecologically valid tasks, and synthesize accurate task instructions and code solutions. Using our pipeline, we construct AutoSDT-5K, a dataset of 5,404 coding tasks for data-driven discovery that covers four scientific disciplines and 756 unique Python packages. To the best of our knowledge, AutoSDT-5K is the only automatically collected and the largest open dataset for data-driven scientific discovery. Expert feedback on a subset of 256 tasks shows the effectiveness of AutoSDT: 93% of the collected tasks are ecologically valid, and 92.2% of the synthesized programs are functionally correct. Trained on AutoSDT-5K, the Qwen2.5-Coder-Instruct LLM series, dubbed AutoSDT-Coder, show substantial improvement on two challenging data-driven discovery benchmarks, ScienceAgentBench and DiscoveryBench. Most notably, AutoSDT-Coder-32B reaches the same level of performance as GPT-4o on ScienceAgentBench with a success rate of 7.8%, doubling the performance of its base model. On DiscoveryBench, it lifts the hypothesis matching score to 8.1, bringing a 17.4% relative improvement and closing the gap between open-weight models and GPT-4o.
-AN  - 2025.emnlp-main.1546
-ID  - 2025.emnlp-main.1546
-UR  - https://aclanthology.org/2025.emnlp-main.1546/
-L1  - https://aclanthology.org/2025.emnlp-main.1546.pdf
-KW  - ACL search Q3: AI scientists and scientific agents
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q3
-ER  -
-
-TY  - CONF
-TI  - Can Large Language Models Unlock Novel Scientific Research Ideas?
-AU  - Kumar, Sandeep
-AU  - Ghosal, Tirthankar
-AU  - Goyal, Vinayak
-AU  - Ekbal, Asif
-PY  - 2025
-DA  - 2025/November
-T2  - Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing
-SP  - 33563
-EP  - 33587
-PB  - Association for Computational Linguistics
-DO  - 10.18653/v1/2025.emnlp-main.1704
-AB  - The widespread adoption of Large Language Models (LLMs) and publicly available ChatGPT have marked a significant turning point in the integration of Artificial Intelligence (AI) into people’s everyday lives. This study explores the capability of LLMs in generating novel research ideas based on information from research papers. We conduct a thorough examination of 4 LLMs in five domains (e.g., Chemistry, Computer, Economics, Medical, and Physics). We found that the future research ideas generated by Claude-2 and GPT-4 are more aligned with the author’s perspective than GPT-3.5 and Gemini. We also found that Claude-2 generates more diverse future research ideas than GPT-4, GPT-3.5, and Gemini 1.0. We further performed a human evaluation of the novelty, relevancy, and feasibility of the generated future research ideas. This investigation offers insights into the evolving role of LLMs in idea generation, highlighting both its capability and limitations. Our work contributes to the ongoing efforts in evaluating and utilizing language models for generating future research ideas. We make our datasets and codes publicly available.
-AN  - 2025.emnlp-main.1704
-ID  - 2025.emnlp-main.1704
-UR  - https://aclanthology.org/2025.emnlp-main.1704/
-L1  - https://aclanthology.org/2025.emnlp-main.1704.pdf
-KW  - ACL search Q1: Core scientific hypothesis generation and evaluation
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q1
-ER  -
-
-TY  - CONF
-TI  - Chain of Ideas: Revolutionizing Research Via Novel Idea Development with LLM Agents
-AU  - Li, Long
-AU  - Xu, Weiwen
-AU  - Guo, Jiayan
-AU  - Zhao, Ruochen
-AU  - Li, Xingxuan
-AU  - Yuan, Yuqian
-AU  - Zhang, Boqiang
-AU  - Jiang, Yuming
-AU  - Xin, Yifei
-AU  - Dang, Ronghao
-AU  - Rong, Yu
-AU  - Zhao, Deli
-AU  - Feng, Tian
-AU  - Bing, Lidong
-PY  - 2025
-DA  - 2025/November
-T2  - Findings of the Association for Computational Linguistics: EMNLP 2025
-SP  - 8971
-EP  - 9004
-PB  - Association for Computational Linguistics
-DO  - 10.18653/v1/2025.findings-emnlp.477
-AB  - Research ideation is crucial for scientific progress, but the exponential increase in scientific literature makes it challenging to stay updated and identify impactful directions. Recent developments in large language models(LLMs) offer a promising avenue to automate this process. However, existing methods for idea generation either trivially prompt LLMs or expose LLMs to extensive literature without indicating useful information. Inspired by human research processes, we propose a Chain-of-Ideas (CoI) agent, an LLM-based agent that organizes relevant literature in a chain structure to effectively mirror the progressive development in a research domain. This organization helps LLMs better grasp current advancements, thereby improving ideation capabilities. Further, we present Idea Arena, a protocol for evaluating idea-generation methods from different perspectives, which aligns closely with the preferences of human researchers. Experiments show that CoI agent consistently outperforms existing methods and matches human quality in idea generation. Moreover, CoI agent is budget-friendly, requiring only $0.50 to generate a candidate idea and its experimental design.
-AN  - 2025.findings-emnlp.477
-ID  - 2025.findings-emnlp.477
-UR  - https://aclanthology.org/2025.findings-emnlp.477/
-L1  - https://aclanthology.org/2025.findings-emnlp.477.pdf
-KW  - ACL search Q1: Core scientific hypothesis generation and evaluation
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q1
-ER  -
-
-TY  - CONF
-TI  - Context-Aware Reasoning On Parametric Knowledge for Inferring Causal Variables
-AU  - Sheth, Ivaxi
-AU  - Abdelnabi, Sahar
-AU  - Fritz, Mario
-PY  - 2025
-DA  - 2025/November
-T2  - Findings of the Association for Computational Linguistics: EMNLP 2025
-SP  - 21881
-EP  - 21918
-PB  - Association for Computational Linguistics
-DO  - 10.18653/v1/2025.findings-emnlp.1194
-AB  - Scientific discovery catalyzes human intellectual advances, driven by the cycle of hypothesis generation, experimental design, evaluation, and assumption refinement. Central to this process is causal inference, uncovering the mechanisms behind observed phenomena. While randomized experiments provide strong inferences, they are often infeasible due to ethical or practical constraints. However, observational studies are prone to confounding or mediating biases. While crucial, identifying such backdoor paths is expensive and heavily depends on scientists’ domain knowledge to generate hypotheses. We introduce a novel benchmark where the objective is to complete a partial causal graph. We design a benchmark with varying difficulty levels with over 4000 queries. We show the strong ability of LLMs to hypothesize the backdoor variables between a cause and its effect. Unlike simple knowledge memorization of fixed associations, our task requires the LLM to reason according to the context of the entire graph.
-AN  - 2025.findings-emnlp.1194
-ID  - 2025.findings-emnlp.1194
-UR  - https://aclanthology.org/2025.findings-emnlp.1194/
-L1  - https://aclanthology.org/2025.findings-emnlp.1194.pdf
-KW  - ACL search Q1: Core scientific hypothesis generation and evaluation
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q1
 ER  -
 
 TY  - CONF
@@ -1114,30 +555,6 @@ UR  - https://aclanthology.org/2025.findings-emnlp.796/
 L1  - https://aclanthology.org/2025.findings-emnlp.796.pdf
 KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
 N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
-ER  -
-
-TY  - CONF
-TI  - Exploring the Design of Multi-Agent LLM Dialogues for Research Ideation
-AU  - Ueda, Keisuke
-AU  - Hirota, Wataru
-AU  - Asakura, Takuto
-AU  - Omi, Takahiro
-AU  - Takahashi, Kosuke
-AU  - Arima, Kosuke
-AU  - Ishigaki, Tatsuya
-PY  - 2025
-DA  - 2025/August
-T2  - Proceedings of the 26th Annual Meeting of the Special Interest Group on Discourse and Dialogue
-SP  - 322
-EP  - 337
-PB  - Association for Computational Linguistics
-AB  - Large language models (LLMs) are increasingly used to support creative tasks such as research idea generation. While recent work has shown that structured dialogues between LLMs can improve the novelty and feasibility of generated ideas, the optimal design of such interactions remains unclear. In this study, we conduct a comprehensive analysis of multi-agent LLM dialogues for scientific ideation. We compare different configurations of agent roles, number of agents, and dialogue depth to understand how these factors influence the novelty and feasibility of generated ideas. Our experimental setup includes settings where one agent generates ideas and another critiques them, enabling iterative improvement. Our results show that enlarging the agent cohort, deepening the interaction depth, and broadening agent persona heterogeneity each enrich the diversity of generated ideas. Moreover, specifically increasing critic-side diversity within the ideation–critique–revision loop further boosts the feasibility of the final proposals. Our findings offer practical guidelines for building effective multi-agent LLM systems for scientific ideation.
-AN  - 2025.sigdial-1.26
-ID  - 2025.sigdial-1.26
-UR  - https://aclanthology.org/2025.sigdial-1.26/
-L1  - https://aclanthology.org/2025.sigdial-1.26.pdf
-KW  - ACL search Q1: Core scientific hypothesis generation and evaluation
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q1
 ER  -
 
 TY  - CONF
@@ -1229,28 +646,6 @@ N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
 ER  -
 
 TY  - CONF
-TI  - GraphMind: Interactive Novelty Assessment System for Accelerating Scientific Discovery
-AU  - da Silva, Italo Luis
-AU  - Yan, Hanqi
-AU  - Gui, Lin
-AU  - He, Yulan
-PY  - 2025
-DA  - 2025/November
-T2  - Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing: System Demonstrations
-SP  - 286
-EP  - 294
-PB  - Association for Computational Linguistics
-DO  - 10.18653/v1/2025.emnlp-demos.21
-AB  - Large Language Models (LLMs) show strong reasoning and text generation capabilities, prompting their use in scientific literature analysis, including novelty assessment. While evaluating novelty of scientific papers is crucial for peer review, it requires extensive knowledge of related work, something not all reviewers have.While recent work on LLM-assisted scientific literature analysis supports literature comparison, existing approaches offer limited transparency and lack mechanisms for result traceability via an information retrieval module. To address this gap, we introduce GraphMind, an easy-to-use interactive web tool designed to assist users in evaluating the novelty of scientific papers or drafted ideas. Specially, GraphMind enables users to capture the main structure of a scientific paper, explore related ideas through various perspectives, and assess novelty via providing verifiable contextual insights. GraphMind enables users to annotate key elements of a paper, explore related papers through various relationships, and assess novelty with contextual insight. This tool integrates external APIs such as arXiv and Semantic Scholar with LLMs to support annotation, extraction, retrieval and classification of papers. This combination provides users with a rich, structured view of a scientific idea’s core contributions and its connections to existing work. GraphMind is available at https://oyarsa.github.io/graphmind and a demonstration video at https://youtu.be/wKbjQpSvwJg.
-AN  - 2025.emnlp-demos.21
-ID  - 2025.emnlp-demos.21
-UR  - https://aclanthology.org/2025.emnlp-demos.21/
-L1  - https://aclanthology.org/2025.emnlp-demos.21.pdf
-KW  - ACL search Q1: Core scientific hypothesis generation and evaluation
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q1
-ER  -
-
-TY  - CONF
 TI  - How Reliable is Multilingual LLM-as-a-Judge?
 AU  - Fu, Xiyan
 AU  - Liu, Wei
@@ -1268,54 +663,6 @@ UR  - https://aclanthology.org/2025.findings-emnlp.587/
 L1  - https://aclanthology.org/2025.findings-emnlp.587.pdf
 KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
 N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
-ER  -
-
-TY  - CONF
-TI  - HypER: Literature-grounded Hypothesis Generation and Distillation with Provenance
-AU  - Vasu, Rosni
-AU  - Basu, Chandrayee
-AU  - Dalvi Mishra, Bhavana
-AU  - Sarasua, Cristina
-AU  - Clark, Peter
-AU  - Bernstein, Abraham
-PY  - 2025
-DA  - 2025/November
-T2  - Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing
-SP  - 25413
-EP  - 25438
-PB  - Association for Computational Linguistics
-DO  - 10.18653/v1/2025.emnlp-main.1292
-AB  - Large Language models have demonstrated promising performance in research ideation across scientific domains. Hypothesis development, the process of generating a highly specific declarative statement connecting a research idea with empirical validation, has received relatively less attention. Existing approaches trivially deploy retrieval augmentation and focus only on the quality of the final output ignoring the underlying reasoning process behind ideation. We present HypER (Hypothesis Generation with Explanation and Reasoning), a small language model (SLM) trained for literature-guided reasoning and evidence-based hypothesis generation. HypER is trained in a multi-task setting to discriminate between valid and invalid scientific reasoning chains in presence of controlled distractions. We find that HypER outperformes the base model, distinguishing valid from invalid reasoning chains (+22% average absolute F1), generates better evidence-grounded hypotheses (0.327 vs. 0.305 base model) with high feasibility and impact as judged by human experts (>3.5 on 5-point Likert scale).
-AN  - 2025.emnlp-main.1292
-ID  - 2025.emnlp-main.1292
-UR  - https://aclanthology.org/2025.emnlp-main.1292/
-L1  - https://aclanthology.org/2025.emnlp-main.1292.pdf
-KW  - ACL search Q1: Core scientific hypothesis generation and evaluation
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q1
-ER  -
-
-TY  - CONF
-TI  - Hypothesis Generation for Materials Discovery and Design Using Goal-Driven and Constraint-Guided LLM Agents
-AU  - Kumbhar, Shrinidhi
-AU  - Mishra, Venkatesh
-AU  - Coutinho, Kevin
-AU  - Handa, Divij
-AU  - Iquebal, Ashif
-AU  - Baral, Chitta
-PY  - 2025
-DA  - 2025/April
-T2  - Findings of the Association for Computational Linguistics: NAACL 2025
-SP  - 7539
-EP  - 7570
-PB  - Association for Computational Linguistics
-DO  - 10.18653/v1/2025.findings-naacl.420
-AB  - Materials discovery and design are essential for advancing technology across various industries by enabling the development of application-specific materials. Recent research has leveraged Large Language Models (LLMs) to accelerate this process. We explore the potential of LLMs to generate viable hypotheses that, once validated, can expedite materials discovery. Collaborating with materials science experts, we curated a novel dataset from recent journal publications, featuring real-world goals, constraints, and methods for designing real-world applications. Using this dataset, we test LLM-based agents that generate hypotheses for achieving given goals under specific constraints. To assess the relevance and quality of these hypotheses, we propose a novel scalable evaluation metric that emulates the process a materials scientist would use to evaluate a hypothesis critically. Our curated dataset, proposed method, and evaluation framework aim to advance future research in accelerating materials discovery and design with LLMs.
-AN  - 2025.findings-naacl.420
-ID  - 2025.findings-naacl.420
-UR  - https://aclanthology.org/2025.findings-naacl.420/
-L1  - https://aclanthology.org/2025.findings-naacl.420.pdf
-KW  - ACL search Q1: Core scientific hypothesis generation and evaluation
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q1
 ER  -
 
 TY  - CONF
@@ -1382,51 +729,6 @@ UR  - https://aclanthology.org/2025.emnlp-main.712/
 L1  - https://aclanthology.org/2025.emnlp-main.712.pdf
 KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
 N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
-ER  -
-
-TY  - CONF
-TI  - InfAL: Inference Time Adversarial Learning for Improving Research Ideation
-AU  - Guo, Sikun
-AU  - Shariatmadari, Amir Hassan
-AU  - Wang, Peng
-AU  - Huang, Albert
-AU  - Zhang, Aidong
-PY  - 2025
-DA  - 2025/November
-T2  - Findings of the Association for Computational Linguistics: EMNLP 2025
-SP  - 12501
-EP  - 12522
-PB  - Association for Computational Linguistics
-DO  - 10.18653/v1/2025.findings-emnlp.667
-AB  - Advancements in Large Language Models (LLMs) have opened new opportunities for scientific discovery by assisting researchers in generating novel hypotheses and ideas. In this process, a major challenge is how to optimally and efficiently utilize LLMs’ parametric knowledge obtained from their pretraining process. Inspired by Generative Adversarial Networks (GANs), we propose inference time adversarial learning (termed InfAL), implemented through multi-LLM-agent interactions, to enhance research ideation. This approach optimizes the utilization of LLMs’ parametric knowledge without requiring additional model training, making adversarial learning efficient and context-driven. To evaluate the quality of generated ideas, we propose a relative quality ranking metric as a scalable alternative to human evaluation. Our results show that InfAL significantly improves idea generation, with GPT-4o achieving a 21% increase in novelty and a 322% increase in feasibility, demonstrating its transformative potential for driving innovation in scientific research.
-AN  - 2025.findings-emnlp.667
-ID  - 2025.findings-emnlp.667
-UR  - https://aclanthology.org/2025.findings-emnlp.667/
-L1  - https://aclanthology.org/2025.findings-emnlp.667.pdf
-KW  - ACL search Q1: Core scientific hypothesis generation and evaluation
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q1
-ER  -
-
-TY  - CONF
-TI  - IRIS: Interactive Research Ideation System for Accelerating Scientific Discovery
-AU  - Garikaparthi, Aniketh
-AU  - Patwardhan, Manasi
-AU  - Vig, Lovekesh
-AU  - Cohan, Arman
-PY  - 2025
-DA  - 2025/July
-T2  - Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 3: System Demonstrations)
-SP  - 592
-EP  - 603
-PB  - Association for Computational Linguistics
-DO  - 10.18653/v1/2025.acl-demo.57
-AB  - The rapid advancement in capabilities of large language models (LLMs) raises a pivotal question: How can LLMs accelerate scientific discovery? This work tackles the crucial first stage of research, generating novel hypotheses. While recent work on automated hypothesis generation focuses on multi-agent frameworks and extending test-time compute, none of the approaches effectively incorporate transparency and steerability through a synergistic Human-in-the-loop (HITL) approach. To address this gap, we introduce IRIS for interactive hypothesis generation, an open-source platform designed for researchers to leverage LLM-assisted scientific ideation. IRIS incorporates innovative features to enhance ideation, including adaptive test-time compute expansion via Monte Carlo Tree Search (MCTS), fine-grained feedback mechanism, and query-based literature synthesis. Designed to empower researchers with greater control and insight throughout the ideation process. We additionally conduct a user study with researchers across diverse disciplines, validating the effectiveness of our system in enhancing ideation. We open-source our code at https://github.com/Anikethh/IRIS-Interactive-Research-Ideation-System.
-AN  - 2025.acl-demo.57
-ID  - 2025.acl-demo.57
-UR  - https://aclanthology.org/2025.acl-demo.57/
-L1  - https://aclanthology.org/2025.acl-demo.57.pdf
-KW  - ACL search Q1: Core scientific hypothesis generation and evaluation
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q1
 ER  -
 
 TY  - CONF
@@ -1501,86 +803,6 @@ N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
 ER  -
 
 TY  - CONF
-TI  - Literature Meets Data: A Synergistic Approach to Hypothesis Generation
-AU  - Liu, Haokun
-AU  - Zhou, Yangqiaoyu
-AU  - Li, Mingxuan
-AU  - Yuan, Chenfei
-AU  - Tan, Chenhao
-PY  - 2025
-DA  - 2025/July
-T2  - Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
-SP  - 245
-EP  - 281
-PB  - Association for Computational Linguistics
-DO  - 10.18653/v1/2025.acl-long.12
-AB  - AI holds promise for transforming scientific processes, including hypothesis generation. Prior work on hypothesis generation can be broadly categorized into theory-driven and data-driven approaches. While both have proven effective in generating novel and plausible hypotheses, it remains an open question whether they can complement each other. To address this, we develop the first method that combines literature-based insights with data to perform LLM-powered hypothesis generation. We apply our method on five different datasets and demonstrate that integrating literature and data outperforms other baselines (8.97% over few-shot, 15.75% over literature-based alone, and 3.37% over data-driven alone). Additionally, we conduct the first human evaluation to assess the utility of LLM-generated hypotheses in assisting human decision-making on two challenging tasks: deception detection and AI generated content detection. Our results show that human accuracy improves significantly by 7.44% and 14.19% on these tasks, respectively. These findings suggest that integrating literature-based and data-driven approaches provides a comprehensive and nuanced framework for hypothesis generation and could open new avenues for scientific inquiry.
-AN  - 2025.acl-long.12
-ID  - 2025.acl-long.12
-UR  - https://aclanthology.org/2025.acl-long.12/
-L1  - https://aclanthology.org/2025.acl-long.12.pdf
-KW  - ACL search Q1: Core scientific hypothesis generation and evaluation
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q1
-ER  -
-
-TY  - CONF
-TI  - Literature-Grounded Novelty Assessment of Scientific Ideas
-AU  - Shahid, Simra
-AU  - Radensky, Marissa
-AU  - Fok, Raymond
-AU  - Siangliulue, Pao
-AU  - Weld, Daniel S
-AU  - Hope, Tom
-PY  - 2025
-DA  - 2025/July
-T2  - Proceedings of the Fifth Workshop on Scholarly Document Processing (SDP 2025)
-SP  - 96
-EP  - 113
-PB  - Association for Computational Linguistics
-DO  - 10.18653/v1/2025.sdp-1.9
-AB  - Automated scientific idea generation systems have made remarkable progress, yet the automatic evaluation of idea novelty remains a critical and underexplored challenge. Manual evaluation of novelty through literature review is labor-intensive, prone to error due to subjectivity, and impractical at scale. To address these issues, we propose the Idea Novelty Checker, an LLM-based retrieval-augmented generation (RAG) framework that leverages a two-stage retrieve-then-rerank approach. The Idea Novelty Checker first collects a broad set of relevant papers using keyword and snippet-based retrieval, then refines this collection through embedding-based filtering followed by facet-based LLM re-ranking. It incorporates expert-labeled examples to guide the system in comparing papers for novelty evaluation and in generating literature-grounded reasoning. Our extensive experiments demonstrate that our novelty checker achieves approximately 13% higher agreement than existing approaches. Ablation studies further showcases the importance of the facet-based re-ranker in identifying the most relevant literature for novelty evaluation.
-AN  - 2025.sdp-1.9
-ID  - 2025.sdp-1.9
-UR  - https://aclanthology.org/2025.sdp-1.9/
-L1  - https://aclanthology.org/2025.sdp-1.9.pdf
-KW  - ACL search Q1: Core scientific hypothesis generation and evaluation
-KW  - ACL search Q4: Temporal and literature-grounded evaluation
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q1, Q4
-ER  -
-
-TY  - CONF
-TI  - Many Heads Are Better Than One: Improved Scientific Idea Generation by A LLM-Based Multi-Agent System
-AU  - Su, Haoyang
-AU  - Chen, Renqi
-AU  - Tang, Shixiang
-AU  - Yin, Zhenfei
-AU  - Zheng, Xinzhe
-AU  - Li, Jinzhe
-AU  - Qi, Biqing
-AU  - Wu, Qi
-AU  - Li, Hui
-AU  - Ouyang, Wanli
-AU  - Torr, Philip
-AU  - Zhou, Bowen
-AU  - Dong, Nanqing
-PY  - 2025
-DA  - 2025/July
-T2  - Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
-SP  - 28201
-EP  - 28240
-PB  - Association for Computational Linguistics
-DO  - 10.18653/v1/2025.acl-long.1368
-AB  - The rapid advancement of scientific progress requires innovative tools that can accelerate knowledge discovery. Although recent AI methods, particularly large language models (LLMs), have shown promise in tasks such as hypothesis generation and experimental design, they fall short of replicating the collaborative nature of real-world scientific practices, where diverse experts work together in teams to tackle complex problems. To address the limitations, we propose an LLM-based multi-agent system, i.e., Virtual Scientists (VIRSCI), designed to mimic the teamwork inherent in scientific research. VIRSCI organizes a team of agents to collaboratively generate, evaluate, and refine research ideas. Through comprehensive experiments, we demonstrate that this multi-agent approach outperforms the state-of-the-art method in producing novel scientific ideas. We further investigate the collaboration mechanisms that contribute to its tendency to produce ideas with higher novelty, offering valuable insights to guide future research and illuminating pathways toward building a robust system for autonomous scientific discovery. The code is available at https://github.com/open-sciencelab/Virtual-Scientists.
-AN  - 2025.acl-long.1368
-ID  - 2025.acl-long.1368
-UR  - https://aclanthology.org/2025.acl-long.1368/
-L1  - https://aclanthology.org/2025.acl-long.1368.pdf
-KW  - ACL search Q1: Core scientific hypothesis generation and evaluation
-KW  - ACL search Q3: AI scientists and scientific agents
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q1, Q3
-ER  -
-
-TY  - CONF
 TI  - MedTutor: A Retrieval-Augmented LLM System for Case-Based Medical Education
 AU  - Jang, Dongsuk
 AU  - Shangguan, Ziyao
@@ -1603,91 +825,6 @@ UR  - https://aclanthology.org/2025.emnlp-demos.24/
 L1  - https://aclanthology.org/2025.emnlp-demos.24.pdf
 KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
 N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
-ER  -
-
-TY  - CONF
-TI  - MetaScientist: A Human-AI Synergistic Framework for Automated Mechanical Metamaterial Design
-AU  - Qi, Jingyuan
-AU  - Jia, Zian
-AU  - Liu, Minqian
-AU  - Zhan, Wangzhi
-AU  - Zhang, Junkai
-AU  - Wen, Xiaofei
-AU  - Gan, Jingru
-AU  - Chen, Jianpeng
-AU  - Liu, Qin
-AU  - Ma, Mingyu Derek
-AU  - Li, Bangzheng
-AU  - Wang, Haohui
-AU  - Kulkarni, Adithya
-AU  - Chen, Muhao
-AU  - Zhou, Dawei
-AU  - Li, Ling
-AU  - Wang, Wei
-AU  - Huang, Lifu
-PY  - 2025
-DA  - 2025/April
-T2  - Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (System Demonstrations)
-SP  - 404
-EP  - 436
-PB  - Association for Computational Linguistics
-DO  - 10.18653/v1/2025.naacl-demo.34
-AB  - The discovery of novel mechanical metamaterials, whose properties are dominated by their engineered structures rather than chemical composition, is a knowledge-intensive and resource-demanding process. To accelerate the design of novel metamaterials, we present MetaScientist, a human-in-the-loop system that integrates advanced AI capabilities with expert oversight with two primary phases: (1) hypothesis generation, where the system performs complex reasoning to generate novel and scientifically sound hypotheses, supported with domain-specific foundation models and inductive biases retrieved from existing literature; (2) 3D structure synthesis, where a 3D structure is synthesized with a novel 3D diffusion model based on the textual hypothesis and refined it with a LLM-based refinement model to achieve better structure properties. At each phase, domain experts iteratively validate the system outputs, and provide feedback and supplementary materials to ensure the alignment of the outputs with scientific principles and human preferences. Through extensive evaluation from human scientists, MetaScientist is able to deliver novel and valid mechanical metamaterial designs that have the potential to be highly impactful in the metamaterial field.
-AN  - 2025.naacl-demo.34
-ID  - 2025.naacl-demo.34
-UR  - https://aclanthology.org/2025.naacl-demo.34/
-L1  - https://aclanthology.org/2025.naacl-demo.34.pdf
-KW  - ACL search Q1: Core scientific hypothesis generation and evaluation
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q1
-ER  -
-
-TY  - CONF
-TI  - NOVA: An Iterative Planning Framework for Enhancing Scientific Innovation with Large Language Models
-AU  - Hu, Xiang
-AU  - Fu, Hongyu
-AU  - Wang, Jinge
-AU  - Wang, Yifeng
-AU  - Li, Zhikun
-AU  - Xu, Renjun
-AU  - Lu, Yu
-AU  - Jin, Yaochu
-AU  - Pan, Lili
-AU  - Lan, Zhenzhong
-PY  - 2025
-DA  - 2025/July
-T2  - Findings of the Association for Computational Linguistics: ACL 2025
-SP  - 21330
-EP  - 21359
-PB  - Association for Computational Linguistics
-DO  - 10.18653/v1/2025.findings-acl.1099
-AB  - Scientific innovation is pivotal for humanity, and harnessing large language models (LLMs) to generate research ideas could transform discovery. However, existing LLMs often produce simplistic and repetitive suggestions due to their limited ability in acquiring external knowledge for innovation. To address this problem, we introduce an enhanced planning and search methodology designed to boost the creative potential of LLM-based systems. Our approach involves an iterative process to purposely plan the retrieval of external knowledge, progressively enriching the idea generation with broader and deeper insights. Validation through automated and human assessments demonstrates that our framework substantially elevates the quality of generated ideas, particularly in novelty and diversity. The number of unique novel ideas produced by our framework is 3.4 times higher than without it. Moreover, our method outperforms the current state-of-the-art, generating at least 2.5 times more top-rated ideas based on 170 seed papers in a Swiss Tournament evaluation. Our code is available at https://github.com/hflyzju/Nova
-AN  - 2025.findings-acl.1099
-ID  - 2025.findings-acl.1099
-UR  - https://aclanthology.org/2025.findings-acl.1099/
-L1  - https://aclanthology.org/2025.findings-acl.1099.pdf
-KW  - ACL search Q1: Core scientific hypothesis generation and evaluation
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q1
-ER  -
-
-TY  - CONF
-TI  - On the Role of Model Prior in Real-World Inductive Reasoning
-AU  - Liu, Zhuo
-AU  - Yu, Ding
-AU  - He, Hangfeng
-PY  - 2025
-DA  - 2025/November
-T2  - Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing
-SP  - 10560
-EP  - 10583
-PB  - Association for Computational Linguistics
-DO  - 10.18653/v1/2025.emnlp-main.534
-AB  - Large Language Models (LLMs) show impressive inductive reasoning capabilities, enabling them to generate hypotheses that could generalize effectively to new instances when guided by in-context demonstrations. However, in real-world applications, LLMs’ hypothesis generation is not solely determined by these demonstrations but is significantly shaped by task-specific model priors. Despite their critical influence, the distinct contributions of model priors versus demonstrations to hypothesis generation have been underexplored. This study bridges this gap by systematically evaluating three inductive reasoning strategies across five real-world tasks with three LLMs. Our empirical findings reveal that, hypothesis generation is primarily driven by the model’s inherent priors; removing demonstrations results in minimal loss of hypothesis quality and downstream usage. Further analysis shows the result is consistent across various label formats with different label configurations, and prior is hard to override, even under flipped labeling. These insights advance our understanding of the dynamics of hypothesis generation in LLMs and highlight the potential for better utilizing model priors in real-world inductive reasoning tasks.
-AN  - 2025.emnlp-main.534
-ID  - 2025.emnlp-main.534
-UR  - https://aclanthology.org/2025.emnlp-main.534/
-L1  - https://aclanthology.org/2025.emnlp-main.534.pdf
-KW  - ACL search Q1: Core scientific hypothesis generation and evaluation
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q1
 ER  -
 
 TY  - CONF
@@ -1734,10 +871,8 @@ AN  - 2025.naacl-long.342
 ID  - 2025.naacl-long.342
 UR  - https://aclanthology.org/2025.naacl-long.342/
 L1  - https://aclanthology.org/2025.naacl-long.342.pdf
-KW  - ACL search Q1: Core scientific hypothesis generation and evaluation
-KW  - ACL search Q2: Explicit LLM-as-a-judge methods in scientific research
 KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q1, Q2, Q5
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
 ER  -
 
 TY  - CONF
@@ -1759,27 +894,6 @@ UR  - https://aclanthology.org/2025.acl-long.782/
 L1  - https://aclanthology.org/2025.acl-long.782.pdf
 KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
 N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
-ER  -
-
-TY  - CONF
-TI  - The Erosion of LLM Signatures: Can We Still Distinguish Human and LLM-Generated Scientific Ideas after Iterative Paraphrasing?
-AU  - Shahriar, Sadat
-AU  - Ayoobi, Navid
-AU  - Mukherjee, Arjun
-PY  - 2025
-DA  - 2025/September
-T2  - Proceedings of the 15th International Conference on Recent Advances in Natural Language Processing - Natural Language Processing in the Generative AI Era
-SP  - 1118
-EP  - 1126
-PB  - INCOMA Ltd., Shoumen, Bulgaria
-AB  - With the increasing reliance on LLMs as research agents, distinguishing between LLM and human-generated ideas has become crucial for understanding the cognitive nuances of LLMs’ research capabilities. While detecting LLM-generated text has been extensively studied, distinguishing human vs LLM-generated scientific ideas remains an unexplored area. In this work, we systematically evaluate the ability of state-of-the-art (SOTA) machine learning models to differentiate between human and LLM-generated ideas, particularly after successive paraphrasing stages. Our findings highlight the challenges SOTA models face in source attribution, with detection performance declining by an average of 25.4% after five consecutive paraphrasing stages. Additionally, we demonstrate that incorporating the research problem as contextual information improves detection performance by up to 2.97%. Notably, our analysis reveals that detection algorithms struggle significantly when ideas are paraphrased into a simplified, non-expert style, contributing the most to the erosion of distinguishable LLM signatures.
-AN  - 2025.ranlp-1.129
-ID  - 2025.ranlp-1.129
-UR  - https://aclanthology.org/2025.ranlp-1.129/
-L1  - https://aclanthology.org/2025.ranlp-1.129.pdf
-KW  - ACL search Q1: Core scientific hypothesis generation and evaluation
-KW  - ACL search Q3: AI scientists and scientific agents
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q1, Q3
 ER  -
 
 TY  - CONF
@@ -1852,69 +966,6 @@ N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
 ER  -
 
 TY  - CONF
-TI  - An Interactive Co-Pilot for Accelerated Research Ideation
-AU  - Nigam, Harshit
-AU  - Patwardhan, Manasi
-AU  - Vig, Lovekesh
-AU  - Shroff, Gautam
-PY  - 2024
-DA  - 2024/June
-T2  - Proceedings of the Third Workshop on Bridging Human--Computer Interaction and Natural Language Processing
-SP  - 60
-EP  - 73
-PB  - Association for Computational Linguistics
-DO  - 10.18653/v1/2024.hcinlp-1.6
-AB  - In the realm of research support tools, there exists a notable void in resources tailored specifically for aiding researchers during the crucial ideation phase of the research life-cycle. We address this gap by introducing ‘Acceleron’, a ‘Co-Pilot’ for researchers, designed specifically to accelerate the ideation phase of the research life-cycle. Leveraging the reasoning and domain-specific skills of Large Language Models (LLMs) within an agent-based architecture with distinct personas, Acceleron aids researchers through the formulation of a comprehensive research proposals. It emulates the ideation process, engaging researchers in an interactive fashion to validate the novelty of the proposal and generate plausible set-of hypotheses. Notably, it addresses challenges inherent in LLMs, such as hallucinations, implements a two-stage aspect-based retrieval to manage precision-recall trade-offs, and tackles issues of unanswerability. Our observations and end-user evaluations illustrate the efficacy of Acceleron as an enhancer of researcher’s productivity.
-AN  - 2024.hcinlp-1.6
-ID  - 2024.hcinlp-1.6
-UR  - https://aclanthology.org/2024.hcinlp-1.6/
-L1  - https://aclanthology.org/2024.hcinlp-1.6.pdf
-KW  - ACL search Q1: Core scientific hypothesis generation and evaluation
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q1
-ER  -
-
-TY  - CONF
-TI  - Beyond Retrieval: Topic-based Alignment of Scientific Papers to Research Proposal
-AU  - Palit, Rudra Nath
-AU  - Patwardhan, Manasi
-AU  - Vig, Lovekesh
-AU  - Shroff, Gautam
-PY  - 2024
-DA  - 2024/August
-T2  - Proceedings of the Fourth Workshop on Scholarly Document Processing (SDP 2024)
-SP  - 70
-EP  - 83
-PB  - Association for Computational Linguistics
-AB  - The inception of a research agenda typically commences with the creation of a comprehensive research proposal. The efficacy of the proposal often hinges on its ability to connect with the existing scientific literature that supports its ideas. To effectively assess the relevance of existing articles to a research proposal, it is imperative to categorize these articles into high-level thematic groups, referred to as topics, that align with the proposal. This paper introduces a novel task of aligning scientific articles, relevant to a proposal, with researcher-provided proposal topics. Additionally, we construct a dataset to serve as a benchmark for this task. We establish human and Large Language Model (LLM) baselines and propose a novel three-stage approach to address this challenge. We synthesize and use pseudo-labels that map proposal topics to text spans from cited articles to train Language Models (LMs) for two purposes: (i) as a retriever, to extract relevant text spans from cited articles for each topic, and (ii) as a classifier, to categorize the articles into the proposal topics. Our retriever-classifier pipeline, which employs very small open-source LMs fine-tuned with our constructed dataset, achieves results comparable to a vanilla paid LLM-based classifier, demonstrating its efficacy. However, a notable gap of 23.57 F1 score between our approach and the human baseline highlights the complexity of this task and emphasizes the need for further research.
-AN  - 2024.sdp-1.7
-ID  - 2024.sdp-1.7
-UR  - https://aclanthology.org/2024.sdp-1.7/
-L1  - https://aclanthology.org/2024.sdp-1.7.pdf
-KW  - ACL search Q1: Core scientific hypothesis generation and evaluation
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q1
-ER  -
-
-TY  - CONF
-TI  - Can Large Language Models Discern Evidence for Scientific Hypotheses? Case Studies in the Social Sciences
-AU  - Koneru, Sai
-AU  - Wu, Jian
-AU  - Rajtmajer, Sarah
-PY  - 2024
-DA  - 2024/May
-T2  - Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)
-SP  - 2787
-EP  - 2797
-PB  - ELRA and ICCL
-AB  - Hypothesis formulation and testing are central to empirical research. A strong hypothesis is a best guess based on existing evidence and informed by a comprehensive view of relevant literature. However, with exponential increase in the number of scientific articles published annually, manual aggregation and synthesis of evidence related to a given hypothesis is a challenge. Our work explores the ability of current large language models (LLMs) to discern evidence in support or refute of specific hypotheses based on the text of scientific abstracts. We share a novel dataset for the task of scientific hypothesis evidencing using community-driven annotations of studies in the social sciences. We compare the performance of LLMs to several state of the art methods and highlight opportunities for future research in this area. Our dataset is shared with the research community: https://github.com/Sai90000/ScientificHypothesisEvidencing.git
-AN  - 2024.lrec-main.248
-ID  - 2024.lrec-main.248
-UR  - https://aclanthology.org/2024.lrec-main.248/
-L1  - https://aclanthology.org/2024.lrec-main.248.pdf
-KW  - ACL search Q1: Core scientific hypothesis generation and evaluation
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q1
-ER  -
-
-TY  - CONF
 TI  - Characterizing the Confidence of Large Language Model-Based Automatic Evaluation Metrics
 AU  - Stureborg, Rickard
 AU  - Alikaniotis, Dimitris
@@ -1933,52 +984,6 @@ UR  - https://aclanthology.org/2024.eacl-short.9/
 L1  - https://aclanthology.org/2024.eacl-short.9.pdf
 KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
 N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
-ER  -
-
-TY  - CONF
-TI  - Exploring Scientific Hypothesis Generation with Mamba
-AU  - Chai, Miaosen
-AU  - Herron, Emily
-AU  - Cervantes, Erick
-AU  - Ghosal, Tirthankar
-PY  - 2024
-DA  - 2024/November
-T2  - Proceedings of the 1st Workshop on NLP for Science (NLP4Science)
-SP  - 197
-EP  - 207
-PB  - Association for Computational Linguistics
-DO  - 10.18653/v1/2024.nlp4science-1.17
-AB  - Generating scientifically grounded hypotheses is a challenging frontier task for generative AI models in science. The difficulty arises from the inherent subjectivity of the task and the extensive knowledge of prior work required to assess the validity of a generated hypothesis. Large Language Models (LLMs), trained on vast datasets from diverse sources, have shown a strong ability to utilize the knowledge embedded in their training data. Recent research has explored using transformer-based models for scientific hypothesis generation, leveraging their advanced capabilities. However, these models often require a significant number of parameters to manage Long sequences, which can be a limitation. State Space Models, such as Mamba, offer an alternative by effectively handling very Long sequences with fewer parameters than transformers. In this work, we investigate the use of Mamba for scientific hypothesis generation. Our preliminary findings indicate that Mamba achieves similar performance w.r.t. transformer-based models of similar sizes for a higher-order complex task like hypothesis generation. We have made our code available here: https://github.com/fglx-c/Exploring-Scientific-Hypothesis-Generation-with-Mamba
-AN  - 2024.nlp4science-1.17
-ID  - 2024.nlp4science-1.17
-UR  - https://aclanthology.org/2024.nlp4science-1.17/
-L1  - https://aclanthology.org/2024.nlp4science-1.17.pdf
-KW  - ACL search Q1: Core scientific hypothesis generation and evaluation
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q1
-ER  -
-
-TY  - CONF
-TI  - Large Language Models for Automated Open-domain Scientific Hypotheses Discovery
-AU  - Yang, Zonglin
-AU  - Du, Xinya
-AU  - Li, Junxian
-AU  - Zheng, Jie
-AU  - Poria, Soujanya
-AU  - Cambria, Erik
-PY  - 2024
-DA  - 2024/August
-T2  - Findings of the Association for Computational Linguistics: ACL 2024
-SP  - 13545
-EP  - 13565
-PB  - Association for Computational Linguistics
-DO  - 10.18653/v1/2024.findings-acl.804
-AB  - Hypothetical induction is recognized as the main reasoning type when scientists make observations about the world and try to propose hypotheses to explain those observations. Past research on hypothetical induction is under a constrained setting: (1) the observation annotations in the dataset are carefully manually handpicked sentences (resulting in a close-domain setting); and (2) the ground truth hypotheses are mostly commonsense knowledge, making the task less challenging. In this work, we tackle these problems by proposing the first dataset for social science academic hypotheses discovery, with the final goal to create systems that automatically generate valid, novel, and helpful scientific hypotheses, given only a pile of raw web corpus. Unlike previous settings, the new dataset requires (1) using open-domain data (raw web corpus) as observations; and (2) proposing hypotheses even new to humanity. A multi-module framework is developed for the task, including three different feedback mechanisms to boost performance, which exhibits superior performance in terms of both GPT-4 based and expert-based evaluation.To the best of our knowledge, this is the first work showing that LLMs are able to generate novel (”not existing in literature”) and valid (”reflecting reality”) scientific hypotheses.
-AN  - 2024.findings-acl.804
-ID  - 2024.findings-acl.804
-UR  - https://aclanthology.org/2024.findings-acl.804/
-L1  - https://aclanthology.org/2024.findings-acl.804.pdf
-KW  - ACL search Q1: Core scientific hypothesis generation and evaluation
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q1
 ER  -
 
 TY  - CONF
@@ -2041,51 +1046,5 @@ UR  - https://aclanthology.org/2024.emnlp-main.647/
 L1  - https://aclanthology.org/2024.emnlp-main.647.pdf
 KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
 N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
-ER  -
-
-TY  - CONF
-TI  - SciMON: Scientific Inspiration Machines Optimized for Novelty
-AU  - Wang, Qingyun
-AU  - Downey, Doug
-AU  - Ji, Heng
-AU  - Hope, Tom
-PY  - 2024
-DA  - 2024/August
-T2  - Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
-SP  - 279
-EP  - 299
-PB  - Association for Computational Linguistics
-DO  - 10.18653/v1/2024.acl-long.18
-AB  - We explore and enhance the ability of neural language models to generate novel scientific directions grounded in literature. Work on literature-based hypothesis generation has traditionally focused on binary link prediction—severely limiting the expressivity of hypotheses. This line of work also does not focus on optimizing novelty. We take a dramatic departure with a novel setting in which models use as input background contexts (e.g., problems, experimental settings, goals), and output natural language ideas grounded in literature. We present SciMON, a modeling framework that uses retrieval of “inspirations” from past scientific papers, and explicitly optimizes for novelty by iteratively comparing to prior papers and updating idea suggestions until sufficient novelty is achieved. Comprehensive evaluations reveal that GPT-4 tends to generate ideas with overall low technical depth and novelty, while our methods partially mitigate this issue. Our work represents a first step toward evaluating and developing language models that generate new ideas derived from the scientific literature. Code, data, and resources are publicly available for research purposes: https://github.com/eaglew/clbd.
-AN  - 2024.acl-long.18
-ID  - 2024.acl-long.18
-UR  - https://aclanthology.org/2024.acl-long.18/
-L1  - https://aclanthology.org/2024.acl-long.18.pdf
-KW  - ACL search Q1: Core scientific hypothesis generation and evaluation
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q1
-ER  -
-
-TY  - CONF
-TI  - Investigating Table-to-Text Generation Capabilities of Large Language Models in Real-World Information Seeking Scenarios
-AU  - Zhao, Yilun
-AU  - Zhang, Haowei
-AU  - Si, Shengyun
-AU  - Nan, Linyong
-AU  - Tang, Xiangru
-AU  - Cohan, Arman
-PY  - 2023
-DA  - 2023/December
-T2  - Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing: Industry Track
-SP  - 160
-EP  - 175
-PB  - Association for Computational Linguistics
-DO  - 10.18653/v1/2023.emnlp-industry.17
-AB  - Tabular data is prevalent across various industries, necessitating significant time and effort for users to understand and manipulate for their information-seeking purposes. The advancements in large language models (LLMs) have shown enormous potential to improve user efficiency. However, the adoption of LLMs in real-world applications for table information seeking remains underexplored. In this paper, we investigate the table-to-text capabilities of different LLMs using four datasets within two real-world information seeking scenarios. These include the LogicNLG and our newly-constructed LoTNLG datasets for data insight generation, along with the FeTaQA and our newly-constructed F2WTQ datasets for query-based generation. We structure our investigation around three research questions, evaluating the performance of LLMs in table-to-text generation, automated evaluation, and feedback generation, respectively. Experimental results indicate that the current high-performing LLM, specifically GPT-4, can effectively serve as a table-to-text generator, evaluator, and feedback generator, facilitating users’ information seeking purposes in real-world scenarios. However, a significant performance gap still exists between other open-sourced LLMs (e.g., Vicuna and LLaMA-2) and GPT-4 models. Our data and code are publicly available at https://github.com/yale-nlp/LLM-T2T.
-AN  - 2023.emnlp-industry.17
-ID  - 2023.emnlp-industry.17
-UR  - https://aclanthology.org/2023.emnlp-industry.17/
-L1  - https://aclanthology.org/2023.emnlp-industry.17.pdf
-KW  - ACL search Q2: Explicit LLM-as-a-judge methods in scientific research
-N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q2
 ER  -
 

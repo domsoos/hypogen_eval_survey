@@ -1,12 +1,13 @@
 {
   "source": "ACL Anthology",
-  "search_timestamp_utc": "2026-07-29T14:49:46.314934+00:00",
+  "search_timestamp_utc": "2026-07-30T13:10:33.910156+00:00",
   "search_fields": "title and available abstract",
   "selected_queries": [
     "Q1",
     "Q2",
     "Q3",
-    "Q4"
+    "Q4",
+    "Q5"
   ],
   "query_definitions": {
     "Q1": {
@@ -28,6 +29,11 @@
       "label": "Temporal and literature-grounded evaluation",
       "corpus": "core-targeted",
       "boolean_structure": "(large language model* OR LLM OR LLMs OR foundation model* OR generative artificial intelligence OR generative AI OR ChatGPT OR GPT-3 OR GPT-3.5 OR GPT-4 OR GPT-4o OR Claude OR Gemini OR Llama) AND (scientific hypothesis OR scientific hypotheses OR research hypothesis OR research hypotheses OR hypothesis generation OR hypothesis discovery OR hypothesis composition OR hypothesis ranking OR scientific idea OR scientific ideas OR scientific idea generation OR scientific ideation OR research idea OR research ideas OR research idea generation OR research ideation OR research question generation OR research proposal OR research proposals) AND (temporal evaluation OR temporal validation OR time-aware evaluation OR time-aware validation OR retrospective evaluation OR retrospective validation OR prospective evaluation OR prospective validation OR chronological evaluation OR chronological split OR temporal split OR time-sliced evaluation OR time cutoff OR temporal cutoff OR knowledge cutoff OR training cutoff OR literature cutoff OR post-cutoff OR future publication OR future publications OR future knowledge OR future discovery OR historical novelty OR novelty at the time OR literature-grounded novelty OR literature-grounded evaluation OR evidence-grounded evaluation)"
+    },
+    "Q5": {
+      "label": "General LLM-judge reliability and bias in scientific contexts",
+      "corpus": "methodological-context",
+      "boolean_structure": "(LLM-as-a-judge OR LLM as a judge OR LLM judge OR LLM judges OR language model judge OR language model judges OR LLM evaluator OR LLM evaluators OR model-based evaluation OR model-based evaluator OR automated evaluator OR AI evaluator) AND (reliab* OR valid* OR agreement OR correlation OR calibration OR consistency OR robustness OR reproducibility OR bias OR biases OR position bias OR order bias OR verbosity bias OR length bias OR self-preference OR self-bias OR reference bias OR presentation bias OR human alignment OR human agreement OR expert agreement OR inter-rater agreement OR meta-evaluation OR meta evaluation) AND (scientific OR science OR research OR hypothesis OR hypotheses OR research idea OR scientific idea OR research proposal OR scientific discovery)"
     }
   },
   "year_limits": {
@@ -40,11 +46,12 @@
     "Q1": 42,
     "Q2": 5,
     "Q3": 4,
-    "Q4": 1
+    "Q4": 1,
+    "Q5": 44
   },
-  "combined_deduplicated_count": 47,
+  "combined_deduplicated_count": 87,
   "acl_anthology_package_version": "1.2.0",
   "python_version": "3.11.4",
   "repository_root": "/Users/domsoos/Desktop/research/hypogen_eval_survey/acl_anthology_search/acl_anthology_repo",
-  "git_commit": "3e66e6cbe2702587e1a751353632ce4116f99122"
+  "git_commit": "50c6ff08685b8f8d0515cbb26f3fccb7a7b3bd71"
 }
