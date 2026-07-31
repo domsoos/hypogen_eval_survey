@@ -1,0 +1,24 @@
+TY  - CONF
+TI  - Literature-Grounded Novelty Assessment of Scientific Ideas
+AU  - Shahid, Simra
+AU  - Radensky, Marissa
+AU  - Fok, Raymond
+AU  - Siangliulue, Pao
+AU  - Weld, Daniel S
+AU  - Hope, Tom
+PY  - 2025
+DA  - 2025/July
+T2  - Proceedings of the Fifth Workshop on Scholarly Document Processing (SDP 2025)
+SP  - 96
+EP  - 113
+PB  - Association for Computational Linguistics
+DO  - 10.18653/v1/2025.sdp-1.9
+AB  - Automated scientific idea generation systems have made remarkable progress, yet the automatic evaluation of idea novelty remains a critical and underexplored challenge. Manual evaluation of novelty through literature review is labor-intensive, prone to error due to subjectivity, and impractical at scale. To address these issues, we propose the Idea Novelty Checker, an LLM-based retrieval-augmented generation (RAG) framework that leverages a two-stage retrieve-then-rerank approach. The Idea Novelty Checker first collects a broad set of relevant papers using keyword and snippet-based retrieval, then refines this collection through embedding-based filtering followed by facet-based LLM re-ranking. It incorporates expert-labeled examples to guide the system in comparing papers for novelty evaluation and in generating literature-grounded reasoning. Our extensive experiments demonstrate that our novelty checker achieves approximately 13% higher agreement than existing approaches. Ablation studies further showcases the importance of the facet-based re-ranker in identifying the most relevant literature for novelty evaluation.
+AN  - 2025.sdp-1.9
+ID  - 2025.sdp-1.9
+UR  - https://aclanthology.org/2025.sdp-1.9/
+L1  - https://aclanthology.org/2025.sdp-1.9.pdf
+KW  - ACL search Q4: Temporal and literature-grounded evaluation
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q4
+ER  -
+

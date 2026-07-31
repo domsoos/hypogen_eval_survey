@@ -1,0 +1,1050 @@
+TY  - CONF
+TI  - BenchMarker: An Education-Inspired Toolkit for Highlighting Flaws in Multiple-Choice Benchmarks
+AU  - Balepur, Nishant
+AU  - Rajasekaran, Bhavya
+AU  - Oh, Hyunjin Jane
+AU  - Xie, Michael
+AU  - Desai, Atrey
+AU  - Gupta, Vipul
+AU  - Moore, Steven James
+AU  - Choi, Eunsol
+AU  - Rudinger, Rachel
+AU  - Boyd-Graber, Jordan Lee
+PY  - 2026
+DA  - 2026/July
+T2  - Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
+SP  - 15793
+EP  - 15824
+PB  - Association for Computational Linguistics
+DO  - 10.18653/v1/2026.acl-long.719
+AB  - Multiple-choice question answering (MCQA) is standard in NLP, but benchmarks lack rigorous quality control. We present BenchMarker, an education-inspired toolkit using LLM judges to flag three common MCQ flaws: 1) contamination—items appearing exactly online; 2) shortcuts—cues in the choices that enable guessing; and 3) writing errors—structural/grammatical issues based on a 19-rule education rubric. We validate BenchMarker with human annotations, then run the tool to audit 12 benchmarks, revealing: 2) contaminated MCQs tend to inflate accuracy, while writing errors tend to lower it and change rankings beyond random; and 3) prior benchmark repairs address their targeted issues (i.e., lowering accuracy with LLM-written distractors), but inadvertently add new flaws (i.e. implausible distractors, many correct answers). Overall, flaws in MCQs degrade NLP evaluation, but education research offers a path forward. We release BenchMarker to bridge the fields and improve MCQA benchmark design.
+AN  - 2026.acl-long.719
+ID  - 2026.acl-long.719
+UR  - https://aclanthology.org/2026.acl-long.719/
+L1  - https://aclanthology.org/2026.acl-long.719.pdf
+KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
+ER  -
+
+TY  - CONF
+TI  - Bloom-Eval: A Hierarchical Evaluation Benchmark for Automatic Survey Generation Based on Bloom’s Taxonomy
+AU  - Zhang, Fei
+AU  - Zhao, Zhe
+AU  - Wen, HaiBin
+AU  - Wei, Tianshuo
+AU  - Zhang, Zaixi
+AU  - Yang, Chao
+AU  - Wei, Ye
+PY  - 2026
+DA  - 2026/July
+T2  - Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
+SP  - 28512
+EP  - 28544
+PB  - Association for Computational Linguistics
+DO  - 10.18653/v1/2026.acl-long.1315
+AB  - The rapid advance of automatic survey generation (ASG) has created a critical evaluation challenge. Existing evaluation methods suffer from both cognitive dimensional simplification and methodological unreliability, primarily due to the over-reliance on the ”LLM-as-a-Judge” approach. To bridge this gap, we establish Bloom-Eval, a six-tiered benchmark based on Bloom’s Taxonomy that reliably evaluates ASG systems by prioritizing deterministic algorithms and introducing our GRADE approach for abstract abilities. Furthermore, we construct a large-scale, cross-disciplinary dataset of over 3,000 high-quality papers. Our empirical study on this benchmark reveals that while leading ASG systems are proficient format organizers, they remain unqualified knowledge integrators. This work aims to redefine ASG evaluation standards, shifting the research focus from the formal mimicry of surface structure to the cognitive deepening of intellectual content. Our method provides the ASG field with a systematic, reproducible, and theoretically grounded benchmark to guide future research.
+AN  - 2026.acl-long.1315
+ID  - 2026.acl-long.1315
+UR  - https://aclanthology.org/2026.acl-long.1315/
+L1  - https://aclanthology.org/2026.acl-long.1315.pdf
+KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
+ER  -
+
+TY  - CONF
+TI  - CiteGuard: Faithful Citation Attribution for LLMs via Retrieval-Augmented Validation
+AU  - Choi, Yee Man
+AU  - Guo, Xuehang
+AU  - Fung, Yi R.
+AU  - Wang, Qingyun
+PY  - 2026
+DA  - 2026/July
+T2  - Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
+SP  - 6241
+EP  - 6257
+PB  - Association for Computational Linguistics
+DO  - 10.18653/v1/2026.acl-long.282
+AB  - Large Language Models (LLMs) have emerged as powerful assistants for scientific writing. However, concerns remain about the quality and reliability of the generated text, including citation accuracy and faithfulness. While most recent work relies on methods such as LLM-as-a-Judge, the reliability of LLM-as-a-Judge alone is also in doubt. In this work, we reframe citation evaluation as a problem of citation attribution alignment, which assesses whether LLM-generated citations match those a human author would include for the same text. We propose CiteGuard, a retrieval-aware agent framework designed to provide more faithful grounding for citation validation. CiteGuard improves over the prior baseline by 10 percentage points and achieves up to 68.1% accuracy on the CiteME benchmark, approaching human performance (69.2%). It also identifies alternative valid citations and demonstrates generalization ability for cross-domain citation attribution.
+AN  - 2026.acl-long.282
+ID  - 2026.acl-long.282
+UR  - https://aclanthology.org/2026.acl-long.282/
+L1  - https://aclanthology.org/2026.acl-long.282.pdf
+KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
+ER  -
+
+TY  - CONF
+TI  - CodeDistiller: Automatically Generating Code Libraries for Scientific Coding Agents
+AU  - Jansen, Peter
+AU  - Hassan, Samiah
+AU  - Narasimha, Pragnya
+PY  - 2026
+DA  - 2026/July
+T2  - Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 3: System Demonstrations)
+SP  - 99
+EP  - 107
+PB  - Association for Computational Linguistics
+DO  - 10.18653/v1/2026.acl-demo.10
+AB  - Automated Scientific Discovery (ASD) systems can help automatically generate and run code-based experiments, but their capabilities are limited by the code they can reliably generate from parametric knowledge alone. As a result, current systems either mutate a small number of manually-crafted experiment examples, or operate solely from parametric knowledge, limiting quality and reach. We introduce CodeDistiller, a system that automatically distills large collections of scientific Github repositories into a vetted library of working domain-specific code examples, allowing ASD agents to expand their capabilities without manual effort. Using a combination of automatic and domain-expert evaluation on 250 materials science repositories, we find the best model is capable of producing functional examples for 74% of repositories, while our downstream evaluation shows an ASD agent augmented with a CodeDistiller generated library produces more accurate, complete, and scientifically sound experiments than an agent with only general materials-science code examples. We also evaluate LLM-as-a-judge ratings against domain-expert ratings in an A/B testing paradigm, finding moderate agreement and suggesting that inexpensive proxy metrics may be feasible for evaluating scientific discovery systems at scale.
+AN  - 2026.acl-demo.10
+ID  - 2026.acl-demo.10
+UR  - https://aclanthology.org/2026.acl-demo.10/
+L1  - https://aclanthology.org/2026.acl-demo.10.pdf
+KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
+ER  -
+
+TY  - CONF
+TI  - Confidence as a Tie-Breaker: Reassessing Multilingual Hedging Bias in LLM-as-a-Judge Evaluation
+AU  - Datta, Rajashik
+AU  - Baitalik, Sanjan
+PY  - 2026
+DA  - 2026/July
+T2  - Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 4: Student Research Workshop)
+SP  - 393
+EP  - 402
+PB  - Association for Computational Linguistics
+DO  - 10.18653/v1/2026.acl-srw.33
+AB  - LLM judges are often used to score generated answers, but their decisions may be affected by surface style rather than semantic correctness. We introduce PolyJudge-Uncertain, a controlled benchmark for studying multilingual hedging effects in LLM-as-a-judge evaluation. The benchmark contains 5,120 short factual QA instances across English, Hindi, Hinglish, and Bengali, balancing assertive versus hedged style and correct versus incorrect answers. A small pilot suggested a large pointwise penalty against hedged answers. After repairing multilingual templates and adding quality-control checks, this pointwise effect largely disappears: final pointwise accuracy is 99.8%, with no meaningful assertive-hedged gap. The robust remaining effect is pairwise: when two answers are equally correct and differ only in style, the judge prefers the assertive answer in 1,276 of 1,280 cases. We interpret this as a protocol- and task-specific assertiveness preference, not as a universal bias against hedging. Our findings highlight benchmark auditing as a central requirement for multilingual judge-bias research.
+AN  - 2026.acl-srw.33
+ID  - 2026.acl-srw.33
+UR  - https://aclanthology.org/2026.acl-srw.33/
+L1  - https://aclanthology.org/2026.acl-srw.33.pdf
+KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
+ER  -
+
+TY  - CONF
+TI  - DPC: Training-Free Text-to-SQL Candidate Selection via Dual-Paradigm Consistency
+AU  - Li, Boyan
+AU  - Hei, Ou Ocean Kun
+AU  - Yu, Yue
+AU  - Luo, Yuyu
+PY  - 2026
+DA  - 2026/July
+T2  - Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
+SP  - 6897
+EP  - 6913
+PB  - Association for Computational Linguistics
+DO  - 10.18653/v1/2026.acl-long.313
+AB  - While Large Language Models (LLMs) demonstrate impressive proficiency in generating SQL queries, they fundamentally lack the capability to self-evaluate correctness without an execution oracle. This limitation creates a stark Generation-Selection Gap, where high potential accuracy (Pass@K) fails to translate into execution accuracy (Pass@1). Although supervised verifiers offer mitigation, they incur prohibitive annotation costs and suffer from domain fragility. Consequently, recent research has pivoted to the training-free setting. However, existing methods—such as Self-Consistency or LLM-as-a-Judge—remain hampered by systematic bias (consensus on hallucinations) and symbolic blindness (inability to simulate execution states). We introduce DPC (Dual-Paradigm Consistency), a multi-agent framework that reformulates SQL selection from a probabilistic guessing task on hidden data into a deterministic verification task on visible data. Specifically, DPC employs a Slicer and a Tester agent to collaboratively construct a Minimal Distinguishing Database (MDD)—an adversarial, fully observable micro-environment engineered to expose logical discrepancies between candidates. To break the self-correction bias, a Solver agent then verifies the SQL candidates by cross-referencing their execution against a parallel Python/Pandas solution. By validating execution consistency between declarative (SQL) and imperative (Python) paradigms, DPC robustly discriminates correct logic from systematic hallucinations. Experiments on BIRD and Spider across multiple LLMs demonstrate that our method consistently outperforms existing selection baselines, achieving absolute accuracy improvements of up to 2.2% over strong competitors like Self-Consistency.
+AN  - 2026.acl-long.313
+ID  - 2026.acl-long.313
+UR  - https://aclanthology.org/2026.acl-long.313/
+L1  - https://aclanthology.org/2026.acl-long.313.pdf
+KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
+ER  -
+
+TY  - CONF
+TI  - Fact Finder - Enhancing Domain Expertise of Large Language Models by Incorporating Knowledge Graphs
+AU  - Steinigen, Daniel
+AU  - Teucher, Roman
+AU  - Ruland, Timm Heine
+AU  - Rudat, Max
+AU  - Flores-Herr, Nicolas
+AU  - Fischer, Peter
+AU  - Milosevic, Nikola
+AU  - Schymura, Christopher
+AU  - Ziletti, Angelo
+PY  - 2026
+DA  - 2026/March
+T2  - Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (Volume 3: System Demonstrations)
+SP  - 101
+EP  - 110
+PB  - Association for Computational Linguistics
+DO  - 10.18653/v1/2026.eacl-demo.8
+AB  - Recent advancements in Large Language Models (LLMs) have showcased their proficiency in answering natural language queries. However, their effectiveness is hindered by limited domain-specific knowledge, raising concerns about the reliability of their responses. We introduce a hybrid system that augments LLMs with domain-specific knowledge graphs (KGs), thereby aiming to enhance factual correctness using a KG-based retrieval approach. We focus on a medical KG to demonstrate our methodology, which includes (1) pre-processing, (2) Cypher query generation, (3) Cypher query processing, (4) KG retrieval, and (5) LLM-enhanced response generation. We evaluate our system on a curated dataset of 69 samples, achieving a precision of 78% in retrieving correct KG nodes. Our findings indicate that the hybrid system surpasses a standalone LLM in accuracy and completeness, as verified by an LLM-as-a-Judge evaluation method. This positions the system as a promising tool for applications that demand factual correctness and completeness, such as target identification — a critical process in pinpointing biological entities for disease treatment or crop enhancement. Moreover, its intuitive search interface and ability to provide accurate responses within seconds make it well-suited for time-sensitive, precision-focused research contexts. We publish the source code together with the dataset and the prompt templates used.
+AN  - 2026.eacl-demo.8
+ID  - 2026.eacl-demo.8
+UR  - https://aclanthology.org/2026.eacl-demo.8/
+L1  - https://aclanthology.org/2026.eacl-demo.8.pdf
+KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
+ER  -
+
+TY  - CONF
+TI  - FeedEval: Pedagogically Aligned Evaluation of LLM-Generated Essay Feedback
+AU  - Chu, SeongYeub
+AU  - Kim, Jongwoo
+AU  - Yi, Mun Yong
+PY  - 2026
+DA  - 2026/July
+T2  - Findings of the Association for Computational Linguistics: ACL 2026
+SP  - 12648
+EP  - 12674
+PB  - Association for Computational Linguistics
+DO  - 10.18653/v1/2026.findings-acl.615
+AB  - Going beyond the prediction of numerical scores, recent research in automated essay scoring has increasingly emphasized the generation of high-quality feedback that provides justification and actionable guidance. To mitigate the high cost of expert annotation, prior work has commonly relied on LLM-generated feedback to train essay assessment models. However, such feedback is often incorporated without explicit quality validation, resulting in the propagation of noise in downstream applications. To address this limitation, we propose FeedEval, an LLM-based framework for evaluating LLM-generated essay feedback along three pedagogically grounded dimensions: specificity, helpfulness, and validity. FeedEval employs dimension-specialized LLM evaluators trained on datasets curated in this study to assess multiple feedback candidates and select high-quality feedback for downstream use. Experiments on the ASAP++ benchmark show that FeedEval closely aligns with human expert judgments and that essay scoring models trained with FeedEval-filtered high-quality feedback achieve superior scoring performance. Furthermore, revision experiments using small LLMs show that the high-quality feedback identified by FeedEval leads to more effective essay revisions. We release our code and curated datasets at: https://github.com/BBeeChu/FeedEval.git.
+AN  - 2026.findings-acl.615
+ID  - 2026.findings-acl.615
+UR  - https://aclanthology.org/2026.findings-acl.615/
+L1  - https://aclanthology.org/2026.findings-acl.615.pdf
+KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
+ER  -
+
+TY  - CONF
+TI  - FiNERweb: Datasets and Artifacts for Scalable Multilingual Named Entity Recognition
+AU  - Golde, Jonas
+AU  - Haller, Patrick
+AU  - Akbik, Alan
+PY  - 2026
+DA  - 2026/March
+T2  - Findings of the Association for Computational Linguistics: EACL 2026
+SP  - 2281
+EP  - 2300
+PB  - Association for Computational Linguistics
+DO  - 10.18653/v1/2026.findings-eacl.121
+AB  - Recent multilingual named entity recognition (NER) work has shown that large language models (LLMs) can provide effective synthetic supervision, yet such datasets have mostly appeared as by-products of broader experiments rather than as systematic, reusable resources. We introduce , a dataset-creation pipeline that scales the teacher-student paradigm to 91 languages and 25 scripts. Building on FineWeb-Edu, our approach trains regression models to identify NER-relevant passages and annotates them with multilingual LLMs, resulting in about 225k passages with 235k distinct entity labels. Our experiments show that the regression model achieves more than 84 F1, and that models trained on FiNERweb obtain comparable or improved performance in zero shot transfer settings on English, Thai, and Swahili, despite being trained on 19x less data than strong baselines. In addition, we assess annotation quality using LLM-as-a-judge and observe consistently high scores for both faithfulness (3.99/5) and completeness (4.05/5), indicating reliable and informative annotations. Further, we release the dataset with both English labels and translated label sets in the respective target languages because we observe that the performance of current state-of-the-art models drops by 0.02-0.09 F1 when evaluated using target language labels instead of English ones. We release FiNERweb together with all accompanying artifacts to the research community in order to facilitate more effective student-teacher training for multilingual named entity recognition.
+AN  - 2026.findings-eacl.121
+ID  - 2026.findings-eacl.121
+UR  - https://aclanthology.org/2026.findings-eacl.121/
+L1  - https://aclanthology.org/2026.findings-eacl.121.pdf
+KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
+ER  -
+
+TY  - CONF
+TI  - HypoEval: Hypothesis-Guided Evaluation for Natural Language Generation
+AU  - Li, Mingxuan
+AU  - Li, Hanchen
+AU  - Tan, Chenhao
+PY  - 2026
+DA  - 2026/July
+T2  - Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
+SP  - 42424
+EP  - 42443
+PB  - Association for Computational Linguistics
+DO  - 10.18653/v1/2026.acl-long.1963
+AB  - Large language models (LLMs) have demonstrated great potential for automating the evaluation of natural language generation. Previous frameworks of LLM-as-a-judge fall short in two ways: they either use zero-shot setting without consulting any human input, which leads to low alignment, or fine-tune LLMs on labeled data, which requires a non-trivial number of samples. Moreover, previous methods often provide little reasoning behind automated evaluations. In this paper, we propose HypoEval, Hypothesis-guided Evaluation framework, which first uses a small corpus of human evaluations to generate more detailed rubrics for human judgments and then incorporates a checklist-like approach to combine LLM’s assigned scores on each decomposed dimension to acquire overall scores. With only 30 human evaluations, HypoEval achieves state-of-the-art performance in alignment with both human rankings (Spearman correlation) and human scores (Pearson correlation), on average outperforming G-Eval by 11.86% and fine-tuned Llama-3.1-8B-Instruct with at least 3 times more human evaluations by 11.95%. Furthermore, we conduct systematic studies to assess the robustness of HypoEval, highlighting its effectiveness as a reliable and interpretable automated evaluation framework.
+AN  - 2026.acl-long.1963
+ID  - 2026.acl-long.1963
+UR  - https://aclanthology.org/2026.acl-long.1963/
+L1  - https://aclanthology.org/2026.acl-long.1963.pdf
+KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
+ER  -
+
+TY  - CONF
+TI  - Inference-Time Scaling of Verification: Self-Evolving Deep Research Agents via Test-Time Rubric-Guided Verification
+AU  - Wan, Yuxuan
+AU  - Fang, Tianqing
+AU  - LI, Zaitang
+AU  - Huo, Yintong
+AU  - Wang, Wenxuan
+AU  - Mi, Haitao
+AU  - Yu, Dong
+AU  - Lyu, Michael R.
+PY  - 2026
+DA  - 2026/July
+T2  - Findings of the Association for Computational Linguistics: ACL 2026
+SP  - 24822
+EP  - 24835
+PB  - Association for Computational Linguistics
+DO  - 10.18653/v1/2026.findings-acl.1243
+AB  - Recent advances in Deep Research Agents (DRAs) are transforming automated knowledge discovery and problem-solving.While the majority of existing efforts focus on enhancing policy capabilities via post-training, we propose an alternative paradigm: test-time self-evolving the agent’s ability by iteratively verifying the policy model’s outputs, guided by meticulously crafted rubrics. This approach gives rise to an inference-time scaling of verification, wherein an agent self-improves at test time by evaluating its generated answers to produce iterative feedback and refinements without any additional training. We derive the rubrics based on an automatically constructed DRA Failure Taxonomy, which systematically classifies agent failures into five major categories and thirteen sub-categories. We present DeepVerifier, a rubrics-based outcome reward verifier that leverages the asymmetry of verification and outperforms vanilla agent-as-judge and LLM judge baselines by 12%–48% in meta-evaluation F1 score. To enable practical test-time self-evolution, DeepVerifier integrates as a plug-and-play module during test-time inference. The verifier produces detailed rubric-based feedback, which is fed back to the agent for iterative bootstrapping—refining responses without additional training. This test-time scaling delivers 8%–11% accuracy gains on challenging subsets of GAIA and XBench-DeepResearch when powered by capable closed-source LLMs. Finally, to support open-source advancement, we release DeepVerifier-4K, a curated supervised fine-tuning dataset of 4,646 high-quality agent steps focused on DRA verification. These examples emphasize reflection and self-critique, enabling open models to develop robust verification capabilities.
+AN  - 2026.findings-acl.1243
+ID  - 2026.findings-acl.1243
+UR  - https://aclanthology.org/2026.findings-acl.1243/
+L1  - https://aclanthology.org/2026.findings-acl.1243.pdf
+KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
+ER  -
+
+TY  - CONF
+TI  - Never Truly Out of Fashion: A Retrospective Look at Evaluation in NLG
+AU  - Schmidtová, Patrícia
+AU  - Mahamood, Saad
+AU  - Dušek, Ondřej
+PY  - 2026
+DA  - 2026/June
+T2  - Proceedings of the 1st Symposium on Natural Language Generation Evaluations
+SP  - 63
+EP  - 72
+PB  - Association for Computational Linguistics
+AB  - Human evaluation (HE) remains the gold standard for assessing natural language generation (NLG) systems, yet automatic metrics are cheaper and faster, creating mounting pressure to skip it. We ask how evaluation practices have changed as NLG research scales. We analyse 24,291 papers from the ACL Anthology (1952–2025) through regular-expression-powered keyword analysis. Before 1990, the majority of NLG papers reported no evaluation at all; today, evaluation is near-universal and HE has held broadly stable over the past decade – it has not collapsed. However, large language model (LLM) judges (referred to as LLM-as-a-judge) have emerged rapidly since 2023, and while they currently serve predominantly as a complement rather than a full substitute for human evaluation, a substantial share of papers already use LLM judges without any human validation. Faithfulness has become the fastest-rising evaluation criterion since 2020, coming back into fashion after almost 15 years of decline, tracking the prominence of hallucination research, while criteria such as grammaticality and fluency are receding, suggesting these qualities may increasingly be taken for granted as model outputs improve. Our findings provide a longitudinal baseline for tracking where the field stands.
+AN  - 2026.retroeval-main.8
+ID  - 2026.retroeval-main.8
+UR  - https://aclanthology.org/2026.retroeval-main.8/
+L1  - https://aclanthology.org/2026.retroeval-main.8.pdf
+KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
+ER  -
+
+TY  - CONF
+TI  - Qomhrá: A Bilingual Irish and English Large Language Model
+AU  - McInerney, Joseph
+AU  - Tran, Khanh-Tung
+AU  - Lonergan, Liam
+AU  - Ní Chiaráin, Neasa
+AU  - Ni Chasaide, Ailbhe
+AU  - Devereux, Barry
+PY  - 2026
+DA  - 2026/March
+T2  - Proceedings of the Second Workshop on Language Models for Low-Resource Languages (LoResLM 2026)
+SP  - 189
+EP  - 199
+PB  - Association for Computational Linguistics
+DO  - 10.18653/v1/2026.loreslm-1.18
+AB  - Large language model (LLM) research and development has overwhelmingly focused on the world’s major languages, leading to under-representation of low-resource languages such as Irish. This paper introduces Qomhrá, a bilingual Irish and English LLM, developed under extremely low-resource constraints. A complete pipeline is outlined spanning bilingual continued pre-training, instruction tuning, and the synthesis of human preference data for future alignment training. We focus on the lack of scalable methods to create human preference data by proposing a novel method to synthesise such data by prompting an LLM to generate “accepted” and “rejected” responses, which we validate as aligning with L1 Irish speakers.To select an LLM for synthesis, we evaluate the top closed-weight LLMs for Irish language generation performance. Gemini-2.5-Pro is ranked highest by L1 and L2 Irish-speakers, diverging from LLM-as-a-judge ratings, indicating a misalignment between current LLMs and the Irish-language community. Subsequently, we leverage Gemini-2.5-Pro to translate a large scale English-language instruction tuning dataset to Irish and to synthesise a first-of-its-kind Irish-language human preference dataset. We comprehensively evaluate Qomhrá across several benchmarks, testing translation, gender understanding, topic identification, and world knowledge; these evaluations show gains of up to 29% in Irish and 44% in English compared to the existing open-source Irish LLM baseline, UCCIX. The results of our framework provide insight and guidance to developing LLMs for both Irish and other low-resource languages.
+AN  - 2026.loreslm-1.18
+ID  - 2026.loreslm-1.18
+UR  - https://aclanthology.org/2026.loreslm-1.18/
+L1  - https://aclanthology.org/2026.loreslm-1.18.pdf
+KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
+ER  -
+
+TY  - CONF
+TI  - ReportLogic: Evaluating Logical Quality in Deep Research Reports
+AU  - Zhao, Jujia
+AU  - Huan, Zhaoxin
+AU  - Wang, Zihan
+AU  - Zhang, Xiaolu
+AU  - Zhou, Jun
+AU  - Verberne, Suzan
+AU  - Ren, Zhaochun
+PY  - 2026
+DA  - 2026/July
+T2  - Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
+SP  - 8470
+EP  - 8502
+PB  - Association for Computational Linguistics
+DO  - 10.18653/v1/2026.acl-long.384
+AB  - Users increasingly rely on Large Language Models (LLMs) for Deep Research, using them to synthesize diverse sources into structured reports that support understanding and action. In this context, the practical reliability of such reports hinges on logical quality: whether the report’s claims and arguments are explicitly supported and can be trusted as a basis for downstream use, rather than merely appearing fluent or informative. However, current evaluation frameworks largely overlook this requirement. To bridge this gap, we introduce ReportLogic, a benchmark that quantifies report-level logical quality through a reader-centric lens of auditability. Specifically, ReportLogic adopts a hierarchical taxonomy that evaluates whether readers can (1) trace an on-topic report structure with a unified analytical arc (Macro-Logic), (2) understand the progression with necessary context (Expositional-Logic), and (3) verify conclusions via explicit claim–support (Structural-Logic). Based on this taxonomy, we construct a human-annotated rubric-guided dataset and train an open-source LogicJudge for scalable evaluation. We further evaluate judge robustness via adversarial attacks, showing that off-the-shelf LLM judges are frequently influenced by superficial cues (e.g., verbosity), and reasoning modes can mask broken support relations. Overall, our results provide actionable guidance for building more robust logic evaluators and improving the logical reliability of LLM-generated reports.
+AN  - 2026.acl-long.384
+ID  - 2026.acl-long.384
+UR  - https://aclanthology.org/2026.acl-long.384/
+L1  - https://aclanthology.org/2026.acl-long.384.pdf
+KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
+ER  -
+
+TY  - CONF
+TI  - Rethinking Creativity Evaluation: A Critical Analysis of Existing Creativity Evaluations
+AU  - Lu, Li-Chun
+AU  - Liu, Miri
+AU  - Lu, Pin Chun
+AU  - Tian, Yufei
+AU  - Sun, Shao-Hua
+AU  - Peng, Nanyun
+PY  - 2026
+DA  - 2026/March
+T2  - Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (Volume 1: Long Papers)
+SP  - 6329
+EP  - 6352
+PB  - Association for Computational Linguistics
+DO  - 10.18653/v1/2026.eacl-long.297
+AB  - We examine, analyze, and compare four representative creativity measures—perplexity, LLM-as-a-Judge, the Creativity Index (CI; measuring n-gram overlap with web corpora), and syntactic templates (detecting repetition of common part-of-speech patterns)—across the diverse creative domains, such as creative writing, unconventional problem-solving, and research ideation. For each domain, we compile datasets with human-aligned creative and uncreative examples and evaluate each metric’s ability to discriminate between the two sets. Our analyses reveal limited consistency both across domains and metrics, as metrics that distinguish creativity in one domain fail in others (e.g., CI correctly distinguishes in creative writing but fails in problem-solving), and different metrics often disagree on the same data points (e.g., CI suggests one set to be more creative, while perplexity indicates the other set to be more creative.) We highlight key limitations, such as perplexity reflecting fluency rather than novelty; LLM-as-a-Judge producing inconsistent judgments under minor prompt variations and exhibiting bias towards particular labels; CI primarily measuring lexical diversity, with high sensitivity to implementation choices; and syntactic templates being ineffective in settings dominated by formulaic language. Our findings underscore the need for more robust, generalizable evaluation frameworks that better align with human judgments of creativity. We release the datasets and evaluation code: https://github.com/lichun-19/creative_eval.
+AN  - 2026.eacl-long.297
+ID  - 2026.eacl-long.297
+UR  - https://aclanthology.org/2026.eacl-long.297/
+L1  - https://aclanthology.org/2026.eacl-long.297.pdf
+KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
+ER  -
+
+TY  - CONF
+TI  - Rethinking Meeting Effectiveness: A Benchmark and Framework for Temporal Fine-grained Automatic Meeting Effectiveness Evaluation
+AU  - Li, Yihang
+AU  - Chu, Chenhui
+PY  - 2026
+DA  - 2026/July
+T2  - Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
+SP  - 5049
+EP  - 5066
+PB  - Association for Computational Linguistics
+DO  - 10.18653/v1/2026.acl-long.229
+AB  - Evaluating meeting effectiveness is crucial for improving organizational productivity. Current approaches rely on post-hoc surveys that yield a single coarse-grained score for an entire meeting. The reliance on manual assessment is inherently limited in scalability, cost, and reproducibility. Moreover, a single score fails to capture the dynamic nature of collaborative discussions. We propose a new paradigm for evaluating meeting effectiveness centered on novel criteria and temporal fine-grained approach. We define effectiveness as the rate of objective achievement over time and assess it for individual topical segments within a meeting. To support this task, we introduce the AMI Meeting Effectiveness (AMI-ME) dataset, a new meta-evaluation dataset containing 2,459 human-annotated segments from 130 AMI Corpus meetings. We also develop an automatic effectiveness evaluation framework that uses a Large Language Model (LLM) as a judge to score each segment’s effectiveness relative to the overall meeting objectives. Through substantial experiments, we establish a comprehensive benchmark for this new task and evaluate the framework’s generalizability across distinct meeting types, ranging from business scenarios to unstructured discussions. Furthermore, we benchmark end-to-end performance starting from raw speech to measure the capabilities of a complete system. Our results validate the framework’s effectiveness and provide strong baselines to facilitate future research in meeting analysis and multi-party dialogue. Our dataset and code will be publicly available.
+AN  - 2026.acl-long.229
+ID  - 2026.acl-long.229
+UR  - https://aclanthology.org/2026.acl-long.229/
+L1  - https://aclanthology.org/2026.acl-long.229.pdf
+KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
+ER  -
+
+TY  - CONF
+TI  - RPC-Bench: A Fine-grained Benchmark for Research Paper Comprehension
+AU  - Chen, Yelin
+AU  - Zhang, Fanjin
+AU  - Sun, Suping
+AU  - Pang, Yunhe
+AU  - Wang, Yuanchun
+AU  - Song, Jian
+AU  - Li, XiaoYan
+AU  - Hou, Lei
+AU  - Zhao, Shu
+AU  - Tang, Jie
+AU  - Li, Juanzi
+PY  - 2026
+DA  - 2026/July
+T2  - Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
+SP  - 27683
+EP  - 27717
+PB  - Association for Computational Linguistics
+DO  - 10.18653/v1/2026.acl-long.1277
+AB  - Understanding research papers remains challenging for foundation models due to specialized scientific discourse and complex figures and tables, yet existing benchmarks offer limited fine-grained evaluation at scale. To address this gap, we introduce RPC-Bench, a large-scale question-answering benchmark built from review–rebuttal exchanges of high-quality computer science papers, containing 15K human-verified QA pairs. We design a fine-grained taxonomy aligned with the scientific research flow to assess models’ ability to understand and answer why, what, and how questions in scholarly contexts. We also define an elaborate LLM–human interaction annotation framework to support large-scale labeling and quality control. Following the LLM-as-a-Judge paradigm, we develop a scalable framework that evaluates models on correctness-completeness and conciseness, with high agreement to human judgment. Experiments reveal that even the strongest models (GPT-5) achieve only 68.2% correctness-completeness, dropping to 37.46% after conciseness adjustment, highlighting substantial gaps in precise academic paper understanding.
+AN  - 2026.acl-long.1277
+ID  - 2026.acl-long.1277
+UR  - https://aclanthology.org/2026.acl-long.1277/
+L1  - https://aclanthology.org/2026.acl-long.1277.pdf
+KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
+ER  -
+
+TY  - CONF
+TI  - SDialog: A Python Toolkit for End-to-End Agent Building, User Simulation, Dialog Generation, and Evaluation
+AU  - Burdisso, Sergio
+AU  - Baroudi, Séverin
+AU  - Labrak, Yanis
+AU  - Grünert, David
+AU  - Cyrta, Pawel
+AU  - Chen, Yiyang
+AU  - Madikeri, Srikanth
+AU  - Villatoro-tello, Esaú
+AU  - Marxer, Ricard
+AU  - Motlicek, Petr
+PY  - 2026
+DA  - 2026/March
+T2  - Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (Volume 3: System Demonstrations)
+SP  - 320
+EP  - 340
+PB  - Association for Computational Linguistics
+DO  - 10.18653/v1/2026.eacl-demo.23
+AB  - We present SDialog, an MIT-licensed open-source Python toolkit for end-to-end development, simulation, evaluation, and analysis of LLM-based conversational agents. Built around a standardized Dialog representation, SDialog unifies persona-driven multi-agent simulation with composable orchestration for controlled synthetic dialog generation; multi-layer evaluation combining linguistic metrics, LLM-as-a-judge assessments, and functional correctness validators; mechanistic interpretability tools for activation inspection and causal behavior steering via feature ablation and induction; and audio rendering with full acoustic simulation, including 3D room modeling and microphone effects. The toolkit integrates with major LLM backends under a consistent API, enabling mixed-backend and reproducible experiments. By bridging agent construction, user simulation, dialog generation, evaluation, and interpretability within a single coherent workflow, SDialog enables more controlled, transparent, and systematic research on conversational systems.
+AN  - 2026.eacl-demo.23
+ID  - 2026.eacl-demo.23
+UR  - https://aclanthology.org/2026.eacl-demo.23/
+L1  - https://aclanthology.org/2026.eacl-demo.23.pdf
+KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
+ER  -
+
+TY  - CONF
+TI  - The Data Frontier for Large Language Models: Selection, Synthesis, and Tools
+AU  - Wu, Lijun
+AU  - Zhang, Wentao
+AU  - He, Conghui
+PY  - 2026
+DA  - 2026/July
+T2  - Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 5: Tutorial Abstracts)
+SP  - 3
+EP  - 4
+PB  - Association for Computational Linguistics
+DO  - 10.18653/v1/2026.acl-tutorials.2
+AB  - As the development of Large Language Models (LLMs) matures, the focus of the research community is undergoing a critical shift from a purely model-centric to a data-centric paradigm. It is now evident that the quality, diversity, and composition of training data—not merely its scale—are the primary drivers of a model’s advanced capabilities, from complex reasoning to reliable instruction following. However, acquiring and curating such high-quality data remains a significant bottleneck. This tutorial provides a comprehensive and practical guide to the state-of-the-art in data research directions for LLMs. We structure the tutorial around the two core pillars of modern data strategy: intelligent data selection and advanced data synthesis. In the first part, we delve into methods for curating the most valuable information from vast, noisy datasets, covering techniques like LLM-as-a-judge for automated quality filtering and active learning for maximizing annotation efficiency. The second part explores the synthetic data revolution, detailing paradigms that range from generating complex reasoning traces (e.g., Chain-of-Thought) to deploying sophisticated multi-agent workflows that can autonomously create high-quality, diverse instruction data from raw seeds. Finally, we will conclude with a practical overview of open-source tools and platforms that facilitate these data-centric workflows, empowering researchers and practitioners to build better models through better data. Attendees will leave with a principled framework and actionable insights for designing and implementing the advanced data strategies required to build the next generation of powerful, specialized, and aligned LLMs.
+AN  - 2026.acl-tutorials.2
+ID  - 2026.acl-tutorials.2
+UR  - https://aclanthology.org/2026.acl-tutorials.2/
+L1  - https://aclanthology.org/2026.acl-tutorials.2.pdf
+KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
+ER  -
+
+TY  - CONF
+TI  - Towards Self-Improving Error Diagnosis in Multi-Agent Systems
+AU  - Li, Jiazheng
+AU  - Yilmaz, Emine
+AU  - Chen, Bei
+AU  - Le, Thu
+PY  - 2026
+DA  - 2026/July
+T2  - Findings of the Association for Computational Linguistics: ACL 2026
+SP  - 2063
+EP  - 2077
+PB  - Association for Computational Linguistics
+DO  - 10.18653/v1/2026.findings-acl.98
+AB  - Large Language Model (LLM)-based Multi-Agent Systems (MAS) enable complex problem-solving but introduce significant debugging challenges, characterized by long interaction traces, inter-agent dependencies, and delayed error manifestation. Existing diagnostic approaches often rely on expensive expert annotation or ”LLM-as-a-judge” paradigms, which struggle to pinpoint decisive error steps within extended contexts. In this paper, we introduce ErrorProbe, a self-improving framework for semantic failure attribution that identifies responsible agents and the originating error step. The framework operates via a three-stage pipeline: (1) operationalizing the MAS failure taxonomy to detect local anomalies, (2) performing symptom-driven backward tracing to prune irrelevant context, and (3) employing a specialized multi-agent team (Strategist, Investigator, Arbiter) to validate error hypotheses through tool-grounded execution. Crucially, ErrorProbe maintains a verified episodic memory that updates only when error patterns are confirmed by executable evidence, without the need for annotation. Experiments across the TracerTraj and Who When benchmarks demonstrate that ErrorProbe significantly outperforms baselines, particularly in step-level localization, while the verified memory enables robust cross-domain transfer without retraining.
+AN  - 2026.findings-acl.98
+ID  - 2026.findings-acl.98
+UR  - https://aclanthology.org/2026.findings-acl.98/
+L1  - https://aclanthology.org/2026.findings-acl.98.pdf
+KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
+ER  -
+
+TY  - CONF
+TI  - Your Reasoning Model is Secretly a Reward Model - Optimization-Free Verification from Experience
+AU  - Liang, Zhenwen
+AU  - Li, Ruosen
+AU  - Zhou, Yujun
+AU  - Song, Linfeng
+AU  - Yu, Dian
+AU  - Du, Xinya
+AU  - Mi, Haitao
+AU  - Yu, Dong
+PY  - 2026
+DA  - 2026/July
+T2  - Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
+SP  - 17358
+EP  - 17372
+PB  - Association for Computational Linguistics
+DO  - 10.18653/v1/2026.acl-long.788
+AB  - Assessing the quality of Large Language Model (LLM) outputs becomes especially challenging in high-branching settings, where a single prompt yields many plausible candidates. Existing verifiers typically operate on the surface text (e.g., reward models, LLM judges, majority voting) or on confidence proxies derived from token probabilities, both of which can be brittle: the former can be influenced by stylistic artifacts, while the latter is often miscalibrated. In this paper, we study a third source of information—the model’s hidden states—for binary correctness verification in tasks with a reliable success/failure signal (e.g., deterministic checkers or reference-grounded answers). We find that correct and incorrect solutions exhibit measurable geometric differences in their hidden-state trajectories. To isolate this signal with minimal modeling assumptions, we introduce Clue (Clustering and Experience-based Verification), a training-free, non-parametric verifier. Clue summarizes each reasoning trace by an activation delta—the difference between hidden states at the start and end of the explicit reasoning span—and predicts correctness by comparing this delta to two class centroids computed from labeled experience. Across math (AIME 24/25), scientific QA (GPQA), and a multi-domain benchmark (WebInstruct-verified), Clue improves selection and reranking, with particularly strong gains on smaller or less-calibrated models. For example, on AIME 24 with a 1.5B model, Clue raises accuracy from 56.7% (majority@64) to 70.0% (top-maj@16).
+AN  - 2026.acl-long.788
+ID  - 2026.acl-long.788
+UR  - https://aclanthology.org/2026.acl-long.788/
+L1  - https://aclanthology.org/2026.acl-long.788.pdf
+KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
+ER  -
+
+TY  - CONF
+TI  - Arena-lite: Efficient and Reliable Large Language Model Evaluation via Tournament-Based Direct Comparisons
+AU  - Son, Seonil
+AU  - Oh, Ju-Min
+AU  - Jin, Heegon
+AU  - Jang, Cheolhun
+AU  - Jeong, Jeongbeom
+AU  - Kim, KunTae
+PY  - 2025
+DA  - 2025/November
+T2  - Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing
+SP  - 7057
+EP  - 7075
+PB  - Association for Computational Linguistics
+DO  - 10.18653/v1/2025.emnlp-main.360
+AB  - As Large Language Models (LLMs) expand across domains, LLM judges have become essential for systems evaluation. Current benchmarks typically compare system outputs against baselines.This baseline-mediated approach, though convenient, yields lower reliability than direct comparison between systems.We propose Arena-Lite which integrates tournament structure on top of head-to-head comparison.The application of a tournament structure and direct comparison eliminates the need for baseline outputs, reduces the number of required comparisons, and allows higher reliability in system rankings.We conducted two experiments: (1) controlled stochastic modeling and (2) empirical validation with a real LLM judge. Those experiments collectively demonstrate that Arena-Lite consistently achieves higher reliability with fewer comparisons, even with smaller datasets or weaker judges.We release an easy-to-use web demonstration and code to foster adoption of Arena-Lite, streamlining model selection across research and industry communities. Arena-Lite demo and code are available on https://huggingface.co/spaces/NCSOFT/ArenaLite
+AN  - 2025.emnlp-main.360
+ID  - 2025.emnlp-main.360
+UR  - https://aclanthology.org/2025.emnlp-main.360/
+L1  - https://aclanthology.org/2025.emnlp-main.360.pdf
+KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
+ER  -
+
+TY  - CONF
+TI  - Dialectal Toxicity Detection: Evaluating LLM-as-a-Judge Consistency Across Language Varieties
+AU  - Faisal, Fahim
+AU  - Rahman, Md Mushfiqur
+AU  - Anastasopoulos, Antonios
+PY  - 2025
+DA  - 2025/November
+T2  - Findings of the Association for Computational Linguistics: EMNLP 2025
+SP  - 12429
+EP  - 12452
+PB  - Association for Computational Linguistics
+DO  - 10.18653/v1/2025.findings-emnlp.664
+AB  - There has been little systematic study on how dialectal differences affect toxicity detection by modern LLMs. Furthermore, although using LLMs as evaluators (“LLM-as-a-judge”) is a growing research area, their sensitivity to dialectal nuances is still underexplored and requires more focused attention. In this paper, we address these gaps through a comprehensive toxicity evaluation of LLMs across diverse dialects. We create a multi-dialect dataset through synthetic transformations and human-assisted translations, covering 10 language clusters and 60 varieties. We then evaluate five LLMs on their ability to assess toxicity, measuring multilingual, dialectal, and LLM-human consistency. Our findings show that LLMs are sensitive to both dialectal shifts and low-resource multilingual variation, though the most persistent challenge remains aligning their predictions with human judgments.
+AN  - 2025.findings-emnlp.664
+ID  - 2025.findings-emnlp.664
+UR  - https://aclanthology.org/2025.findings-emnlp.664/
+L1  - https://aclanthology.org/2025.findings-emnlp.664.pdf
+KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
+ER  -
+
+TY  - CONF
+TI  - Evaluating the Creativity of LLMs in Persian Literary Text Generation
+AU  - Tourajmehr, Armin
+AU  - Modarres, Mohammad Reza
+AU  - Yaghoobzadeh, Yadollah
+PY  - 2025
+DA  - 2025/November
+T2  - Findings of the Association for Computational Linguistics: EMNLP 2025
+SP  - 14762
+EP  - 14774
+PB  - Association for Computational Linguistics
+DO  - 10.18653/v1/2025.findings-emnlp.796
+AB  - Large language models (LLMs) have demonstrated notable creative abilities in generating literary texts, including poetry and short stories. However, prior research has primarily centered on English, with limited exploration of non-English literary traditions and without standardized methods for assessing creativity. In this paper, we evaluate the capacity of LLMs to generate Persian literary text enriched with culturally relevant expressions. We build a dataset of user-generated Persian literary spanning 20 diverse topics and assess model outputs along four creativity dimensions—originality, fluency, flexibility, and elaboration—by adapting the Torrance Tests of Creative Thinking. To reduce evaluation costs, we adopt an LLM as a judge for automated scoring and validate its reliability against human judgments using intraclass correlation coefficients, observing strong agreement. In addition, we analyze the models’ ability to understand and employ four core literary devices: simile, metaphor, hyperbole, and antithesis. Our results highlight both the strengths and limitations of LLMs in Persian literary text generation, underscoring the need for further refinement.
+AN  - 2025.findings-emnlp.796
+ID  - 2025.findings-emnlp.796
+UR  - https://aclanthology.org/2025.findings-emnlp.796/
+L1  - https://aclanthology.org/2025.findings-emnlp.796.pdf
+KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
+ER  -
+
+TY  - CONF
+TI  - Findings of the WMT25 Multilingual Instruction Shared Task: Persistent Hurdles in Reasoning, Generation, and Evaluation
+AU  - Kocmi, Tom
+AU  - Agrawal, Sweta
+AU  - Artemova, Ekaterina
+AU  - Avramidis, Eleftherios
+AU  - Briakou, Eleftheria
+AU  - Chen, Pinzhen
+AU  - Fadaee, Marzieh
+AU  - Freitag, Markus
+AU  - Grundkiewicz, Roman
+AU  - Hou, Yupeng
+AU  - Koehn, Philipp
+AU  - Kreutzer, Julia
+AU  - Mansour, Saab
+AU  - Perrella, Stefano
+AU  - Proietti, Lorenzo
+AU  - Riley, Parker
+AU  - Sánchez, Eduardo
+AU  - Schmidtova, Patricia
+AU  - Shmatova, Mariya
+AU  - Zouhar, Vilém
+PY  - 2025
+DA  - 2025/November
+T2  - Proceedings of the Tenth Conference on Machine Translation
+SP  - 414
+EP  - 435
+PB  - Association for Computational Linguistics
+DO  - 10.18653/v1/2025.wmt-1.23
+AB  - The WMT25 Multilingual Instruction Shared Task (MIST) introduces a benchmark to evaluate large language models (LLMs) across 30 languages. The benchmark covers five types of problems: machine translation, linguistic reasoning, open-ended generation, cross-lingual summarization, and LLM-as-a-judge.We provide automatic evaluation and collect human annotations, which highlight the limitations of automatic evaluation and allow further research into metric meta-evaluation. We run on our benchmark a diverse set of open- and closed-weight LLMs, providing a broad assessment of the multilingual capabilities of current LLMs. Results highlight substantial variation across sub-tasks and languages, revealing persistent challenges in reasoning, cross-lingual generation, and evaluation reliability. This work establishes a standardized framework for measuring future progress in multilingual LLM development.
+AN  - 2025.wmt-1.23
+ID  - 2025.wmt-1.23
+UR  - https://aclanthology.org/2025.wmt-1.23/
+L1  - https://aclanthology.org/2025.wmt-1.23.pdf
+KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
+ER  -
+
+TY  - CONF
+TI  - From Keyterms to Context: Exploring Topic Description Generation in Scientific Corpora
+AU  - Achkar, Pierre
+AU  - Murugaboopathy, Satiyabooshan
+AU  - Kreuter, Anne
+AU  - Gollub, Tim
+AU  - Potthast, Martin
+AU  - Campbell, Yuri
+PY  - 2025
+DA  - 2025/November
+T2  - Proceedings of The 5th New Frontiers in Summarization Workshop
+SP  - 102
+EP  - 122
+PB  - Association for Computational Linguistics
+DO  - 10.18653/v1/2025.newsum-main.8
+AB  - Topic models represent topics as ranked term lists, which are often hard to interpret in scientific domains. We explore Topic Description for Scientific Corpora, an approach to generating structured summaries for topic-specific document sets. We propose and investigate two LLM-based pipelines: Selective Context Summarisation (SCS), which uses maximum marginal relevance to select representative documents; and Compressed Context Summarisation (CCS), a hierarchical approach that compresses document sets through iterative summarisation. We evaluate both methods using SUPERT and multi-model LLM-as-a-Judge across three topic modeling backbones and three scientific corpora. Our preliminary results suggest that SCS tends to outperform CCS in quality and robustness, while CCS shows potential advantages on larger topics. Our findings highlight interesting trade-offs between selective and compressed strategies for topic-level summarisation in scientific domains. We release code and data for two of the three datasets.
+AN  - 2025.newsum-main.8
+ID  - 2025.newsum-main.8
+UR  - https://aclanthology.org/2025.newsum-main.8/
+L1  - https://aclanthology.org/2025.newsum-main.8.pdf
+KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
+ER  -
+
+TY  - CONF
+TI  - FrontierScience Bench: Evaluating AI Research Capabilities in LLMs
+AU  - Li, Matthew
+AU  - Torres-Garcia, Santiago
+AU  - Halder, Shayan
+AU  - Kuppa, Phani
+AU  - O’Brien, Sean
+AU  - Sharma, Vasu
+AU  - Zhu, Kevin
+AU  - Dev, Sunishchal
+PY  - 2025
+DA  - 2025/July
+T2  - Proceedings of the 1st Workshop for Research on Agent Language Models (REALM 2025)
+SP  - 428
+EP  - 453
+PB  - Association for Computational Linguistics
+DO  - 10.18653/v1/2025.realm-1.31
+AB  - Large language models (LLMs) have shown remarkable capabilities across various tasks, yet their potential to reason about and construct scientific methodologies remains under explored. This work introduces a novel benchmark evaluating LLMs’ capacity to predict methodological details in AI research papers. We construct a dataset of 88 papers with redacted methodology sections and zero-shot prompt several state-of-the-art LLMs to generate methodology predictions. Our evaluation framework then employs a LLM-as-judge system with multiple LLM judges, majority voting, and self-omission techniques to minimize biases. We validate our LLM judge scores against human judgments. We then briefly analyze the judging results of our zero-shot prediction pipeline, suggesting that even state-of-the-art LLMs struggle with the task of methodology generation without more advanced techniques. This benchmark lays the groundwork for future research into evaluating LLMs’ potential for aiding in AI research.
+AN  - 2025.realm-1.31
+ID  - 2025.realm-1.31
+UR  - https://aclanthology.org/2025.realm-1.31/
+L1  - https://aclanthology.org/2025.realm-1.31.pdf
+KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
+ER  -
+
+TY  - CONF
+TI  - How Reliable is Multilingual LLM-as-a-Judge?
+AU  - Fu, Xiyan
+AU  - Liu, Wei
+PY  - 2025
+DA  - 2025/November
+T2  - Findings of the Association for Computational Linguistics: EMNLP 2025
+SP  - 11040
+EP  - 11053
+PB  - Association for Computational Linguistics
+DO  - 10.18653/v1/2025.findings-emnlp.587
+AB  - LLM-as-a-Judge has emerged as a popular evaluation strategy, where advanced large language models assess generation results in alignment with human instructions. While these models serve as a promising alternative to human annotators, their reliability in multilingual evaluation remains uncertain. To bridge this gap, we conduct a comprehensive analysis of multilingual LLM-as-a-Judge. Specifically, we evaluate five models from different model families across five diverse tasks involving 25 languages. Our findings reveal that LLMs struggle to achieve consistent judgment results across languages, with an average Fleiss’ Kappa of approximately 0.3, and some models performing even worse. To investigate the cause of inconsistency, we analyze various influencing factors. We observe that consistency varies significantly across languages, with particularly poor performance in low-resource languages. Additionally, we find that neither training on multilingual data nor increasing model scale directly improves judgment consistency. These findings suggest that LLMs are not yet reliable for evaluating multilingual predictions. Our work provides valuable insights into the limitations of multilingual LLM-as-a-Judge, and sheds light on future research.
+AN  - 2025.findings-emnlp.587
+ID  - 2025.findings-emnlp.587
+UR  - https://aclanthology.org/2025.findings-emnlp.587/
+L1  - https://aclanthology.org/2025.findings-emnlp.587.pdf
+KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
+ER  -
+
+TY  - CONF
+TI  - Identifying Reliable Evaluation Metrics for Scientific Text Revision
+AU  - Jourdan, Leane
+AU  - Hernandez, Nicolas
+AU  - Boudin, Florian
+AU  - Dufour, Richard
+PY  - 2025
+DA  - 2025/July
+T2  - Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
+SP  - 6731
+EP  - 6756
+PB  - Association for Computational Linguistics
+DO  - 10.18653/v1/2025.acl-long.335
+AB  - Evaluating text revision in scientific writing remains a challenge, as traditional metrics such as ROUGE and BERTScore primarily focus on similarity rather than capturing meaningful improvements. In this work, we analyse and identify the limitations of these metrics and explore alternative evaluation methods that better align with human judgments. We first conduct a manual annotation study to assess the quality of different revisions. Then, we investigate reference-free evaluation metrics from related NLP domains. Additionally, we examine LLM-as-a-judge approaches, analysing their ability to assess revisions with and without a gold reference. Our results show that LLMs effectively assess instruction-following but struggle with correctness, while domain-specific metrics provide complementary insights. We find that a hybrid approach combining LLM-as-a-judge evaluation and task-specific metrics offers the most reliable assessment of revision.
+AN  - 2025.acl-long.335
+ID  - 2025.acl-long.335
+UR  - https://aclanthology.org/2025.acl-long.335/
+L1  - https://aclanthology.org/2025.acl-long.335.pdf
+KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
+ER  -
+
+TY  - CONF
+TI  - Illusions of Relevance: Arbitrary Content Injection Attacks Deceive Retrievers, Rerankers, and LLM Judges
+AU  - Tamber, Manveer Singh
+AU  - Lin, Jimmy
+PY  - 2025
+DA  - 2025/December
+T2  - Proceedings of the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics
+SP  - 1112
+EP  - 1127
+PB  - The Asian Federation of Natural Language Processing and The Association for Computational Linguistics
+DO  - 10.18653/v1/2025.findings-ijcnlp.66
+AB  - This work considers a black-box threat model in which adversaries attempt to propagate arbitrary non-relevant content in search. We show that retrievers, rerankers, and LLM relevance judges are all highly vulnerable to attacks that enable arbitrary content to be promoted to the top of search results and to be assigned perfect relevance scores. We investigate how attackers may achieve this via content injection, injecting arbitrary sentences into relevant passages or query terms into arbitrary passages. Our study analyzes how factors such as model class and size, the balance between relevant and non-relevant content, injection location, toxicity and severity of injected content, and the role of LLM-generated content influence attack success, yielding novel, concerning, and often counterintuitive results. Our results reveal a weakness in embedding models, LLM-based scoring models, and generative LLMs, raising concerns about the general robustness, safety, and trustworthiness of language models regardless of the type of model or the role in which they are employed. We also emphasize the challenges of robust defenses against these attacks. Classifiers and more carefully prompted LLM judges often fail to recognize passages with content injection, especially when considering diverse text topics and styles. Our findings highlight the need for further research into arbitrary content injection attacks. We release our code for further study: https://github.com/manveertamber/content_injection_attacks.
+AN  - 2025.findings-ijcnlp.66
+ID  - 2025.findings-ijcnlp.66
+UR  - https://aclanthology.org/2025.findings-ijcnlp.66/
+L1  - https://aclanthology.org/2025.findings-ijcnlp.66.pdf
+KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
+ER  -
+
+TY  - CONF
+TI  - Improve LLM-as-a-Judge Ability as a General Ability
+AU  - Yu, Jiachen
+AU  - Sun, Shaoning
+AU  - Hu, Xiaohui
+AU  - Yan, Jiaxu
+AU  - Yu, Kaidong
+AU  - Li, Xuelong
+PY  - 2025
+DA  - 2025/November
+T2  - Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing
+SP  - 14099
+EP  - 14115
+PB  - Association for Computational Linguistics
+DO  - 10.18653/v1/2025.emnlp-main.712
+AB  - LLM-as-a-Judge leverages the generative and reasoning capabilities of large language models (LLMs) to evaluate LLM responses across diverse scenarios, providing accurate preference signals. This approach plays a vital role in aligning LLMs with human values. Recent studies have raised many methods to train LLM as generative judges, but most of them are data consuming or lack accuracy, and only focus on LLM’s judge ability. In this work, we conceptualize judging ability as a general capability of LLMs and adapt the two-stage SFT-DPO training framework—commonly used in traditional general model training—to the development of judge models. We introduce an efficient data synthesis method, which includes the automatic generation of various judge templates, dual verification for data accuracy and consistency. A difficulty-based data stratification strategy allows us to distribute more effective data to the SFT and DPO stages respectively. Experimental results demonstrate that our approach, utilizing only about 2% to 40% of the data required by other methods, achieves SOTA performance on RewardBench. Furthermore, our training method enhances the general capabilities of the model by constructing complicated judge task with CoT outputs. We further validate the effectiveness of our model by deploying it to provide reward signals in a real-world RLHF scenarios. We will open-source our model weights and training data to facilitate further research.
+AN  - 2025.emnlp-main.712
+ID  - 2025.emnlp-main.712
+UR  - https://aclanthology.org/2025.emnlp-main.712/
+L1  - https://aclanthology.org/2025.emnlp-main.712.pdf
+KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
+ER  -
+
+TY  - CONF
+TI  - Judging the Judges: Evaluating Alignment and Vulnerabilities in LLMs-as-Judges
+AU  - Thakur, Aman Singh
+AU  - Choudhary, Kartik
+AU  - Ramayapally, Venkat Srinik
+AU  - Vaidyanathan, Sankaran
+AU  - Hupkes, Dieuwke
+PY  - 2025
+DA  - 2025/July
+T2  - Proceedings of the Fourth Workshop on Generation, Evaluation and Metrics (GEM²)
+SP  - 404
+EP  - 430
+PB  - Association for Computational Linguistics
+AB  - The LLM-as-a-judge paradigm offers a potential solution to scalability issues in human evaluation of large language models (LLMs), but there are still many open questions about its strengths, weaknesses, and potential biases. This study investigates thirteen models, ranging in size and family, as ‘judge models’ evaluating answers from nine base and instruction-tuned ‘exam-taker models’. We find that only the best (and largest) models show reasonable alignment with humans, though they still differ with up to 5 points from human-assigned scores. Our research highlights the need for alignment metrics beyond percent agreement, as judges with high agreement can still assign vastly different scores. We also find that smaller models and the lexical metric contains can provide a reasonable signal in ranking the exam-taker models. Further error analysis reveals vulnerabilities in judge models, such as sensitivity to prompt complexity and a bias toward leniency. Our findings show that even the best judge models differ from humans in this fairly sterile setup, indicating that caution is warranted when applying judge models in more complex scenarios.
+AN  - 2025.gem-1.33
+ID  - 2025.gem-1.33
+UR  - https://aclanthology.org/2025.gem-1.33/
+L1  - https://aclanthology.org/2025.gem-1.33.pdf
+KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
+ER  -
+
+TY  - CONF
+TI  - Knockout LLM Assessment: Using Large Language Models for Evaluations through Iterative Pairwise Comparisons
+AU  - Sandan, Isik Baran
+AU  - Dinh, Tu Anh
+AU  - Niehues, Jan
+PY  - 2025
+DA  - 2025/July
+T2  - Proceedings of the Fourth Workshop on Generation, Evaluation and Metrics (GEM²)
+SP  - 121
+EP  - 128
+PB  - Association for Computational Linguistics
+AB  - Large Language Models (LLMs) have shown to be effective evaluators across various domains such as machine translations or the scientific domain. Current LLM-as-a-Judge approaches rely mostly on individual assessments or a single round of pairwise assessments, preventing the judge LLM from developing a global ranking perspective.To address this, we present Knockout Assessment, an LLM-as-a-Judge method using a knockout tournament system with iterative pairwise comparisons. Experiments across three LLMs on two datasets show that knockout assessment improves scoring accuracy, increasing Pearson correlation with expert evaluations by 0.07 on average for university-level exam scoring and machine translation evaluations, aligning LLM assessments more closely with human scoring.
+AN  - 2025.gem-1.10
+ID  - 2025.gem-1.10
+UR  - https://aclanthology.org/2025.gem-1.10/
+L1  - https://aclanthology.org/2025.gem-1.10.pdf
+KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
+ER  -
+
+TY  - CONF
+TI  - LeMAJ (Legal LLM-as-a-Judge): Bridging Legal Reasoning and LLM Evaluation
+AU  - Enguehard, Joseph
+AU  - Van Ermengem, Morgane
+AU  - Atkinson, Kate
+AU  - Cha, Sujeong
+AU  - Chowdhury, Arijit Ghosh
+AU  - Ramaswamy, Prashanth Kallur
+AU  - Roghair, Jeremy
+AU  - Marlowe, Hannah R
+AU  - Negreanu, Carina Suzana
+AU  - Boxall, Kitty
+AU  - Mincu, Diana
+PY  - 2025
+DA  - 2025/November
+T2  - Proceedings of the Natural Legal Language Processing Workshop 2025
+SP  - 318
+EP  - 337
+PB  - Association for Computational Linguistics
+DO  - 10.18653/v1/2025.nllp-1.23
+AB  - Evaluating large language model (LLM) outputs in the legal domain presents unique challenges due to the complex and nuanced nature of legal analysis. Current evaluation approaches either depend on reference data, which is costly to produce, or use standardized assessment methods, both of which have significant limitations for legal applications.Although LLM-as-a-Judge has emerged as a promising evaluation technique, its reliability and effectiveness in legal contexts depend heavily on evaluation processes unique to the legal industry and how trustworthy the evaluation appears to the human legal expert. This is where existing evaluation methods currently fail and exhibit considerable variability.This paper aims to close the gap: a) we break down lengthy responses into “Legal Data Points” (LDPs) — self-contained units of information — and introduce a novel, reference-free evaluation methodology that reflects how lawyers evaluate legal answers; b) we demonstrate that our method outperforms a variety of baselines on both our proprietary dataset and an open-source dataset (LegalBench); c) we show how our method correlates more closely with human expert evaluations and helps improve inter-annotator agreement; and finally d) we open source our Legal Data Points for a subset of LegalBench used in our experiments, allowing the research community to replicate our results and advance research in this vital area of LLM evaluation on legal question-answering.
+AN  - 2025.nllp-1.23
+ID  - 2025.nllp-1.23
+UR  - https://aclanthology.org/2025.nllp-1.23/
+L1  - https://aclanthology.org/2025.nllp-1.23.pdf
+KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
+ER  -
+
+TY  - CONF
+TI  - MedTutor: A Retrieval-Augmented LLM System for Case-Based Medical Education
+AU  - Jang, Dongsuk
+AU  - Shangguan, Ziyao
+AU  - Tegtmeyer, Kyle
+AU  - Gupta, Anurag
+AU  - Czerminski, Jan T
+AU  - Chheang, Sophie
+AU  - Cohan, Arman
+PY  - 2025
+DA  - 2025/November
+T2  - Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing: System Demonstrations
+SP  - 319
+EP  - 353
+PB  - Association for Computational Linguistics
+DO  - 10.18653/v1/2025.emnlp-demos.24
+AB  - The learning process for medical residents presents significant challenges, demanding both the ability to interpret complex case reports and the rapid acquisition of accurate medical knowledge from reliable sources. Residents typically study case reports and engage in discussions with peers and mentors, but finding relevant educational materials and evidence to support their learning from these cases is often time-consuming and challenging. To address this, we introduce MedTutor, a novel system designed to augment resident training by automatically generating evidence-based educational content and multiple-choice questions from clinical case reports. MedTutor leverages a Retrieval-Augmented Generation (RAG) pipeline that takes clinical case reports as input and produces targeted educational materials. The system’s architecture features a hybrid retrieval mechanism that synergistically queries a local knowledge base of medical textbooks and academic literature (using PubMed, Semantic Scholar APIs) for latest related research, ensuring the generated content is both foundationally sound and current. The retrieved evidence is filtered and ordered using a state-of-the-art reranking model and then an LLM generates the final long-form output describing the main educational content regarding the case-report.We conduct a rigorous evaluation of the system. First, two radiologists assessed the quality of outputs, finding them to be of high clinical and educational value. Second, we perform a large-scale evaluation using an LLM-as-a Judge to understand if LLMs can be used to evaluate the output of the system. Our analysis using correlation of LLMs with human expert judgments reveals a moderate alignment and highlights the continued necessity of expert oversight.
+AN  - 2025.emnlp-demos.24
+ID  - 2025.emnlp-demos.24
+UR  - https://aclanthology.org/2025.emnlp-demos.24/
+L1  - https://aclanthology.org/2025.emnlp-demos.24.pdf
+KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
+ER  -
+
+TY  - CONF
+TI  - ReIFE: Re-evaluating Instruction-Following Evaluation
+AU  - Liu, Yixin
+AU  - Shi, Kejian
+AU  - Fabbri, Alexander
+AU  - Zhao, Yilun
+AU  - Wang, PeiFeng
+AU  - Wu, Chien-Sheng
+AU  - Joty, Shafiq
+AU  - Cohan, Arman
+PY  - 2025
+DA  - 2025/April
+T2  - Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)
+SP  - 12247
+EP  - 12287
+PB  - Association for Computational Linguistics
+DO  - 10.18653/v1/2025.naacl-long.610
+AB  - The automatic evaluation of instruction following typically involves using large language models (LLMs) to assess response quality. However, there is a lack of comprehensive evaluation of these LLM-based evaluators across two dimensions: the base LLMs and the evaluation protocols. Therefore, we present a thorough meta-evaluation of instruction following, including 25 base LLMs and 15 recently proposed evaluation protocols, on 4 human-annotated datasets, assessing the evaluation accuracy of the LLM-evaluators. Our evaluation allows us to identify the best-performing base LLMs and evaluation protocols with a high degree of robustness. Moreover, our evaluation reveals key findings: (1) Base LLM performance ranking remains largely consistent across evaluation protocols, with less capable LLMs showing greater improvement from protocol enhancements; (2) Robust evaluation of evaluation protocols requires many base LLMs with varying capability levels, as protocol effectiveness depends on the base LLM used; (3) Evaluation results on different datasets are not always consistent, so a rigorous evaluation requires multiple datasets with distinctive features. We release our meta-evaluation suite ReIFE, which provides the codebase and evaluation result collection for over 500 LLM-evaluators, laying groundwork for future research in instruction-following evaluation.
+AN  - 2025.naacl-long.610
+ID  - 2025.naacl-long.610
+UR  - https://aclanthology.org/2025.naacl-long.610/
+L1  - https://aclanthology.org/2025.naacl-long.610.pdf
+KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
+ER  -
+
+TY  - CONF
+TI  - ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models
+AU  - Baek, Jinheon
+AU  - Jauhar, Sujay Kumar
+AU  - Cucerzan, Silviu
+AU  - Hwang, Sung Ju
+PY  - 2025
+DA  - 2025/April
+T2  - Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)
+SP  - 6709
+EP  - 6738
+PB  - Association for Computational Linguistics
+DO  - 10.18653/v1/2025.naacl-long.342
+AB  - The pace of scientific research, vital for improving human life, is complex, slow, and needs specialized expertise. Meanwhile, novel, impactful research often stems from both a deep understanding of prior work, and a cross-pollination of ideas across domains and fields. To enhance the productivity of researchers, we propose ResearchAgent, which leverages the encyclopedic knowledge and linguistic reasoning capabilities of Large Language Models (LLMs) to assist them in their work. This system automatically defines novel problems, proposes methods and designs experiments, while iteratively refining them based on the feedback from collaborative LLM-powered reviewing agents. Specifically, starting with a core scientific paper, ResearchAgent is augmented not only with relevant publications by connecting information over an academic graph but also entities retrieved from a knowledge store derived from shared underlying concepts mined across numerous papers. Then, mimicking a scientific approach to improving ideas with peer discussions, we leverage multiple LLM-based ReviewingAgents that provide reviews and feedback via iterative revision processes. These reviewing agents are instantiated with human preference-aligned LLMs whose criteria for evaluation are elicited from actual human judgments via LLM prompting. We experimentally validate our ResearchAgent on scientific publications across multiple disciplines, showing its effectiveness in generating novel, clear, and valid ideas based on both human and model-based evaluation results. Our initial foray into AI-mediated scientific research has important implications for the development of future systems aimed at supporting researchers in their ideation and operationalization of novel work.
+AN  - 2025.naacl-long.342
+ID  - 2025.naacl-long.342
+UR  - https://aclanthology.org/2025.naacl-long.342/
+L1  - https://aclanthology.org/2025.naacl-long.342.pdf
+KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
+ER  -
+
+TY  - CONF
+TI  - The Alternative Annotator Test for LLM-as-a-Judge: How to Statistically Justify Replacing Human Annotators with LLMs
+AU  - Calderon, Nitay
+AU  - Reichart, Roi
+AU  - Dror, Rotem
+PY  - 2025
+DA  - 2025/July
+T2  - Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
+SP  - 16051
+EP  - 16081
+PB  - Association for Computational Linguistics
+DO  - 10.18653/v1/2025.acl-long.782
+AB  - The “LLM-as-an-annotator” and “LLM-as-a-judge” paradigms employ Large Language Models (LLMs) as annotators, judges, and evaluators in tasks traditionally performed by humans. LLM annotations are widely used, not only in NLP research but also in fields like medicine, psychology, and social science. Despite their role in shaping study results and insights, there is no standard or rigorous procedure to determine whether LLMs can replace human annotators. In this paper, we propose a novel statistical procedure, the Alternative Annotator Test (alt-test), that requires only a modest subset of annotated examples to justify using LLM annotations. Additionally, we introduce a versatile and interpretable measure for comparing LLM annotators and judges. To demonstrate our procedure, we curated a diverse collection of ten datasets, consisting of language and vision-language tasks, and conducted experiments with six LLMs and four prompting techniques. Our results show that LLMs can sometimes replace humans with closed-source LLMs (such as GPT-4o), outperforming the open-source LLMs we examine, and that prompting techniques yield judges of varying quality. We hope this study encourages more rigorous and reliable practices.
+AN  - 2025.acl-long.782
+ID  - 2025.acl-long.782
+UR  - https://aclanthology.org/2025.acl-long.782/
+L1  - https://aclanthology.org/2025.acl-long.782.pdf
+KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
+ER  -
+
+TY  - CONF
+TI  - The Illusion of a Perfect Metric: Why Evaluating AI ́S Words Is Harder than It Looks
+AU  - Oliva, Maria Paz
+AU  - Correia, Adriana D.
+AU  - Vankov, Ivan
+AU  - Botev, Viktor
+PY  - 2025
+DA  - 2025/September
+T2  - Proceedings of the 15th International Conference on Recent Advances in Natural Language Processing - Natural Language Processing in the Generative AI Era
+SP  - 832
+EP  - 842
+PB  - INCOMA Ltd., Shoumen, Bulgaria
+AB  - Evaluating Natural Language Generation (NLG) is crucial for the practical adoption of AI, but has been a longstanding research challenge. While human evaluation is considered the de-facto standard, it is expensive and lacks scalability. Practical applications have driven the development of various automatic evaluation metrics (AEM), designed to compare the model output with human-written references, generating a score which approximates human judgment. Over time, AEMs have evolved from simple lexical comparisons, to semantic similarity models and, more recently, to LLM-based evaluators. However, it seems that no single metric has emerged as a definitive solution, resulting in studies using different ones without fully considering the implications. This paper aims to show this by conducting a thorough examination of the methodologies of existing metrics, their documented strengths and limitations, validation methods, and correlations with human judgment. We identify several key challenges: metrics often capture only specific aspects of text quality, their effectiveness varies by task and dataset, validation practices remain unstructured, and correlations with human judgment are inconsistent. Importantly, we find that these challenges persist in the most recent type of metric, LLM-as-a-Judge, as well as in the evaluation of Retrieval Augmented Generation (RAG), an increasingly relevant task in academia and industry. Our findings challenge the quest for the ‘perfect metric’. We propose selecting metrics based on task-specific needs and leveraging complementary evaluations and advocate that new metrics should focus on enhanced validation methodologies.
+AN  - 2025.ranlp-1.95
+ID  - 2025.ranlp-1.95
+UR  - https://aclanthology.org/2025.ranlp-1.95/
+L1  - https://aclanthology.org/2025.ranlp-1.95.pdf
+KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
+ER  -
+
+TY  - CONF
+TI  - The Lessons of Developing Process Reward Models in Mathematical Reasoning
+AU  - Zhang, Zhenru
+AU  - Zheng, Chujie
+AU  - Wu, Yangzhen
+AU  - Zhang, Beichen
+AU  - Lin, Runji
+AU  - Yu, Bowen
+AU  - Liu, Dayiheng
+AU  - Zhou, Jingren
+AU  - Lin, Junyang
+PY  - 2025
+DA  - 2025/July
+T2  - Findings of the Association for Computational Linguistics: ACL 2025
+SP  - 10495
+EP  - 10516
+PB  - Association for Computational Linguistics
+DO  - 10.18653/v1/2025.findings-acl.547
+AB  - Process Reward Models (PRMs) aim to identify and mitigate intermediate errors in the reasoning processes in mathematical reasoning of Large Language Models (LLMs).However, the development of effective PRMs faces significant challenges, particularly in data annotation and evaluation methodologies.In this paper, through extensive experiments, we demonstrate that commonly used Monte Carlo (MC) estimation-based data synthesis for PRMs typically yields inferior performance and generalization compared to LLM-as-a-judge and human annotation methods.Furthermore, we identify potential biases in conventional Best-of-N (BoN) evaluation strategies for PRMs.To address these challenges, we develop a consensus filtering mechanism that effectively integrates MC estimation with LLM-as-a-judge and advocates a more comprehensive evaluation framework that combines response-level and step-level metrics. Based on the mechanisms, we significantly improve both model performance and data efficiency in the BoN evaluation and the step-wise error identification task.Finally, we release a new state-of-the-art PRM that outperforms existing open-source alternatives and provides practical guidelines for future research.
+AN  - 2025.findings-acl.547
+ID  - 2025.findings-acl.547
+UR  - https://aclanthology.org/2025.findings-acl.547/
+L1  - https://aclanthology.org/2025.findings-acl.547.pdf
+KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
+ER  -
+
+TY  - CONF
+TI  - YESciEval: Robust LLM-as-a-Judge for Scientific Question Answering
+AU  - D’Souza, Jennifer
+AU  - Babaei Giglou, Hamed
+AU  - Münch, Quentin
+PY  - 2025
+DA  - 2025/July
+T2  - Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
+SP  - 13749
+EP  - 13783
+PB  - Association for Computational Linguistics
+DO  - 10.18653/v1/2025.acl-long.675
+AB  - Large Language Models (LLMs) drive scientific question-answering on modern search engines, yet their evaluation robustness remains underexplored. We introduce YESciEval, an open-source framework that combines fine-grained rubric-based assessment with reinforcement learning to mitigate optimism bias in LLM evaluators. We release multidisciplinary scienceQ&A datasets, including adversarial variants, with evaluation scores from multiple LLMs. Independent of proprietary models and human feedback, our approach enables scalable, cost-free evaluation. By advancing reliable LLM-as-a-judge models, this work supports AI alignment and fosters robust, transparent evaluation essential for scientific inquiry.
+AN  - 2025.acl-long.675
+ID  - 2025.acl-long.675
+UR  - https://aclanthology.org/2025.acl-long.675/
+L1  - https://aclanthology.org/2025.acl-long.675.pdf
+KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
+ER  -
+
+TY  - CONF
+TI  - Characterizing the Confidence of Large Language Model-Based Automatic Evaluation Metrics
+AU  - Stureborg, Rickard
+AU  - Alikaniotis, Dimitris
+AU  - Suhara, Yoshi
+PY  - 2024
+DA  - 2024/March
+T2  - Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics (Volume 2: Short Papers)
+SP  - 76
+EP  - 89
+PB  - Association for Computational Linguistics
+DO  - 10.18653/v1/2024.eacl-short.9
+AB  - There has recently been a growing interest in using Large Language Models (LLMs) to evaluate NLP tasks automatically. Considerable research effort has been put into improving such systems towards achieving high correlations with human judgement. However, it is still unclear what level of correlation is good enough for practical applications of LLM-based automatic evaluation systems. This paper characterizes these LLM evaluators’ confidence in ranking candidate NLP models and develops a configurable Monte Carlo simulation method. We show that even automatic metrics with low correlation with human judgement can reach high-confidence rankings of candidate models with reasonable evaluation set sizes (100s of examples). Further, we describe tradeoff curves between the LLM evaluator performance (i.e., correlation with humans) and evaluation set size; loss in correlation can be compensated with modest increases in the evaluation set size. We validate our results on RoSE, a text summarization dataset, and find our estimates of confidence align with empirical observations.Code available at https://github.com/rickardstureborg/llm-eval-confidence
+AN  - 2024.eacl-short.9
+ID  - 2024.eacl-short.9
+UR  - https://aclanthology.org/2024.eacl-short.9/
+L1  - https://aclanthology.org/2024.eacl-short.9.pdf
+KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
+ER  -
+
+TY  - CONF
+TI  - Mitigating the Bias of Large Language Model Evaluation
+AU  - Zhou, Hongli
+AU  - Huang, Hui
+AU  - Long, Yunfei
+AU  - Xu, Bing
+AU  - Zhu, Conghui
+AU  - Cao, Hailong
+AU  - Yang, Muyun
+AU  - Zhao, Tiejun
+PY  - 2024
+DA  - 2024/July
+T2  - Proceedings of the 23rd Chinese National Conference on Computational Linguistics (Volume 1: Main Conference)
+SP  - 1310
+EP  - 1319
+PB  - Chinese Information Processing Society of China
+AB  - Recently, there has been a trend of evaluating the Large Language Model (LLM) quality in the flavor of LLM-as-a-Judge, namely leveraging another LLM to evaluate the current output quality. However, existing judges are proven to be biased, namely they would favor answers which present better superficial quality (such as verbosity, fluency) while ignoring the instruction following ability. In this work, we propose systematic research about the bias of LLM-as-a-Judge. Specifically, for closed-source judge models, we apply calibration to mitigate the significance of superficial quality, both on probability level and prompt level. For open-source judge models, we propose to mitigate the bias by contrastive training, with curated negative samples that deviate from instruction but present better superficial quality. We apply our methods on the bias evaluation benchmark, and experiment results show our methods mitigate the bias by a large margin while maintaining a satisfactory evaluation accuracy.
+LA  - English
+AN  - 2024.ccl-1.101
+ID  - 2024.ccl-1.101
+UR  - https://aclanthology.org/2024.ccl-1.101/
+L1  - https://aclanthology.org/2024.ccl-1.101.pdf
+KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
+ER  -
+
+TY  - CONF
+TI  - SciEx: Benchmarking Large Language Models on Scientific Exams with Human Expert Grading and Automatic Grading
+AU  - Dinh, Tu Anh
+AU  - Mullov, Carlos
+AU  - Bärmann, Leonard
+AU  - Li, Zhaolin
+AU  - Liu, Danni
+AU  - Reiß, Simon
+AU  - Lee, Jueun
+AU  - Lerzer, Nathan
+AU  - Gao, Jianfeng
+AU  - Peller-Konrad, Fabian
+AU  - Röddiger, Tobias
+AU  - Waibel, Alexander
+AU  - Asfour, Tamim
+AU  - Beigl, Michael
+AU  - Stiefelhagen, Rainer
+AU  - Dachsbacher, Carsten
+AU  - Böhm, Klemens
+AU  - Niehues, Jan
+PY  - 2024
+DA  - 2024/November
+T2  - Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing
+SP  - 11592
+EP  - 11610
+PB  - Association for Computational Linguistics
+DO  - 10.18653/v1/2024.emnlp-main.647
+AB  - With the rapid development of Large Language Models (LLMs), it is crucial to have benchmarks which can evaluate the ability of LLMs on different domains. One common use of LLMs is performing tasks on scientific topics, such as writing algorithms, querying databases or giving mathematical proofs. Inspired by the way university students are evaluated on such tasks, in this paper, we propose SciEx - a benchmark consisting of university computer science exam questions, to evaluate LLMs’ ability on solving scientific tasks. SciEx is (1) multilingual, containing both English and German exams, and (2) multi-modal, containing questions that involve images, and (3) contains various types of freeform questions with different difficulty levels, due to the nature of university exams. We evaluate the performance of various state-of-the-art LLMs on our new benchmark. Since SciEx questions are freeform, it is not straightforward to evaluate LLM performance. Therefore, we provide human expert grading of the LLM outputs on SciEx. We show that the free-form exams in SciEx remain challenging for the current LLMs, where the best LLM only achieves 59.4% exam grade on average. We also provide detailed comparisons between LLM performance and student performance on SciEx. To enable future evaluation of new LLMs, we propose using LLM-as-a-judge to grade the LLM answers on SciEx. Our experiments show that, although they do not perform perfectly on solving the exams, LLMs are decent as graders, achieving 0.948 Pearson correlation with expert grading.
+AN  - 2024.emnlp-main.647
+ID  - 2024.emnlp-main.647
+UR  - https://aclanthology.org/2024.emnlp-main.647/
+L1  - https://aclanthology.org/2024.emnlp-main.647.pdf
+KW  - ACL search Q5: General LLM-judge reliability and bias in scientific contexts
+N1  - Retrieved from ACL Anthology metadata; matched query IDs: Q5
+ER  -
+
